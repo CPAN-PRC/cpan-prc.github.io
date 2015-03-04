@@ -1,0 +1,50 @@
+html {
+    font-family: Helvetica, Arial, sans-serif;
+    color: #555;
+    font-size: 12pt;
+}
+
+body {
+    padding: 40px;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    font-size: 24pt;
+    color: #c00;
+    margin: 0 0 1em 0;
+    text-align: center;
+}
+
+h2 {
+    font-size: 14pt;
+    color: #800;
+    margin-top: 0;
+}
+
+div.topic {
+    margin: 25px;
+    background-color: #fff;
+    display: inline-block;
+    padding: 25px;
+    width: 250px;
+    max-height: 150px;
+    height: 150px;
+    overflow: hidden;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    line-height: 125%;
+}
+
+ul {
+    padding-left: 25px;
+}
+
+li {
+    line-height: 125%;
+}
