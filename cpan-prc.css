@@ -28,8 +28,8 @@ div.topic {
     display: inline-block;
     padding: 25px;
     width: 250px;
-    max-height: 150px;
-    height: 150px;
+    max-height: 175px;
+    height: 175px;
     overflow: hidden;
 }
 
