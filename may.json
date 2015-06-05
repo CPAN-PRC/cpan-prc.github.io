@@ -1,6 +1,6 @@
 {
  "month": "May",
- "generated": { "date": "2015-06-04", "time": "21:44:54" },
+ "generated": { "date": "2015-06-05", "time": "17:43:33" },
  "stats": { "done": "45", "total": "82", "percent": "54.9" },
  "assignments": [
 
@@ -383,6 +383,7 @@
         "released_by":      { "pause_id": "DROLSKY" },
         "repo":             { "url": "https://github.com/autarch/HTML-Mason", "relpath": "autarch/HTML-Mason" },
         "pull_requests":    [
+                                { "url": "https://github.com/autarch/HTML-Mason/pull/2", "state": "open", "relpath": "/pull/2" }
                             ]
     },
     {
