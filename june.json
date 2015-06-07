@@ -1,7 +1,7 @@
 {
  "month": "June",
- "generated": { "date": "2015-06-05", "time": "17:49:25" },
- "stats": { "done": "3", "total": "77", "percent": "3.9" },
+ "generated": { "date": "2015-06-07", "time": "15:24:29" },
+ "stats": { "done": "4", "total": "80", "percent": "5.0" },
  "assignments": [
 
     {
@@ -128,6 +128,7 @@
         "released_by":      { "pause_id": "TEMPIRE" },
         "repo":             { "url": "https://github.com/tempire/mojolicious-plugin-consolelogger", "relpath": "tempire/mojolicious-plugin-consolelogger" },
         "pull_requests":    [
+                                { "url": "https://github.com/tempire/mojolicious-plugin-consolelogger/pull/7", "state": "open", "relpath": "/pull/7" }
                             ]
     },
     {
@@ -155,15 +156,8 @@
         "released_by":      { "pause_id": "MSCHILLI" },
         "repo":             { "url": "https://github.com/mschilli/data-throttler-perl", "relpath": "mschilli/data-throttler-perl" },
         "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "JenishGnanasicamani" },
-        "distname":         "Mojo-Redis",
-        "released_by":      { "pause_id": "JHTHORSEN" },
-        "repo":             { "url": "https://github.com/marcusramberg/mojo-redis", "relpath": "marcusramberg/mojo-redis" },
-        "pull_requests":    [
+                                { "url": "https://github.com/mschilli/data-throttler-perl/pull/3", "state": "open", "relpath": "/pull/3" },
+                                { "url": "https://github.com/mschilli/data-throttler-perl/pull/2", "state": "open", "relpath": "/pull/2" }
                             ]
     },
     {
@@ -255,6 +249,7 @@
         "released_by":      { "pause_id": "TOBYINK" },
         "repo":             { "url": "https://github.com/tobyink/p5-type-tiny", "relpath": "tobyink/p5-type-tiny" },
         "pull_requests":    [
+                                { "url": "https://github.com/tobyink/p5-type-tiny/pull/28", "state": "open", "relpath": "/pull/28" }
                             ]
     },
     {
@@ -264,7 +259,7 @@
         "released_by":      { "pause_id": "CYMON" },
         "repo":             { "url": "https://github.com/cym0n/strehler", "relpath": "cym0n/strehler" },
         "pull_requests":    [
-                                { "url": "https://github.com/cym0n/strehler/pull/45", "state": "open", "relpath": "/pull/45" }
+                                { "url": "https://github.com/cym0n/strehler/pull/45", "state": "merged", "relpath": "/pull/45" }
                             ]
     },
     {
@@ -654,6 +649,7 @@
         "released_by":      { "pause_id": "JKEENAN" },
         "repo":             { "url": "https://github.com/jkeenan/list-compare", "relpath": "jkeenan/list-compare" },
         "pull_requests":    [
+                                { "url": "https://github.com/jkeenan/list-compare/pull/6", "state": "open", "relpath": "/pull/6" },
                                 { "url": "https://github.com/jkeenan/list-compare/pull/5", "state": "closed", "relpath": "/pull/5" },
                                 { "url": "https://github.com/jkeenan/list-compare/pull/4", "state": "closed", "relpath": "/pull/4" },
                                 { "url": "https://github.com/jkeenan/list-compare/pull/3", "state": "closed", "relpath": "/pull/3" }
@@ -712,6 +708,42 @@
         "repo":             { "url": "https://github.com/AndyA/Devel--LeakGuard--Object", "relpath": "AndyA/Devel--LeakGuard--Object" },
         "pull_requests":    [
                                 { "url": "https://github.com/AndyA/Devel--LeakGuard--Object/pull/2", "state": "open", "relpath": "/pull/2" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "thrig" },
+        "distname":         "Barcode-DataMatrix",
+        "released_by":      { "pause_id": "MSTRAT" },
+        "repo":             { "url": "https://github.com/mstratman/Barcode-DataMatrix", "relpath": "mstratman/Barcode-DataMatrix" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "JenishGnanasicamani" },
+        "distname":         "App-p",
+        "released_by":      { "pause_id": "IRONCAMEL" },
+        "repo":             { "url": "https://github.com/ironcamel/App-p", "relpath": "ironcamel/App-p" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "mjgardner" },
+        "distname":         "Perl-PrereqScanner",
+        "released_by":      { "pause_id": "RJBS" },
+        "repo":             { "url": "https://github.com/rjbs/Perl-PrereqScanner", "relpath": "rjbs/Perl-PrereqScanner" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "cjhamil" },
+        "distname":         "Test-HTTP-Response",
+        "released_by":      { "pause_id": "TEEJAY" },
+        "repo":             { "url": "https://github.com/hashbangperl/Test--HTTP--Response", "relpath": "hashbangperl/Test--HTTP--Response" },
+        "pull_requests":    [
                             ]
     }
  ]
