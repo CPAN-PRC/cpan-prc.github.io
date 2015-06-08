@@ -1,7 +1,7 @@
 {
  "month": "June",
- "generated": { "date": "2015-06-07", "time": "15:24:29" },
- "stats": { "done": "4", "total": "80", "percent": "5.0" },
+ "generated": { "date": "2015-06-08", "time": "16:53:15" },
+ "stats": { "done": "4", "total": "81", "percent": "4.9" },
  "assignments": [
 
     {
@@ -11,6 +11,7 @@
         "released_by":      { "pause_id": "CAPTTOFU" },
         "repo":             { "url": "https://github.com/perl5-dbi/DBD-mysql", "relpath": "perl5-dbi/DBD-mysql" },
         "pull_requests":    [
+                                { "url": "https://github.com/perl5-dbi/DBD-mysql/pull/39", "state": "open", "relpath": "/pull/39" }
                             ]
     },
     {
@@ -128,7 +129,7 @@
         "released_by":      { "pause_id": "TEMPIRE" },
         "repo":             { "url": "https://github.com/tempire/mojolicious-plugin-consolelogger", "relpath": "tempire/mojolicious-plugin-consolelogger" },
         "pull_requests":    [
-                                { "url": "https://github.com/tempire/mojolicious-plugin-consolelogger/pull/7", "state": "open", "relpath": "/pull/7" }
+                                { "url": "https://github.com/tempire/mojolicious-plugin-consolelogger/pull/7", "state": "merged", "relpath": "/pull/7" }
                             ]
     },
     {
@@ -156,8 +157,8 @@
         "released_by":      { "pause_id": "MSCHILLI" },
         "repo":             { "url": "https://github.com/mschilli/data-throttler-perl", "relpath": "mschilli/data-throttler-perl" },
         "pull_requests":    [
-                                { "url": "https://github.com/mschilli/data-throttler-perl/pull/3", "state": "open", "relpath": "/pull/3" },
-                                { "url": "https://github.com/mschilli/data-throttler-perl/pull/2", "state": "open", "relpath": "/pull/2" }
+                                { "url": "https://github.com/mschilli/data-throttler-perl/pull/3", "state": "merged", "relpath": "/pull/3" },
+                                { "url": "https://github.com/mschilli/data-throttler-perl/pull/2", "state": "merged", "relpath": "/pull/2" }
                             ]
     },
     {
@@ -649,7 +650,8 @@
         "released_by":      { "pause_id": "JKEENAN" },
         "repo":             { "url": "https://github.com/jkeenan/list-compare", "relpath": "jkeenan/list-compare" },
         "pull_requests":    [
-                                { "url": "https://github.com/jkeenan/list-compare/pull/6", "state": "open", "relpath": "/pull/6" },
+                                { "url": "https://github.com/jkeenan/list-compare/pull/7", "state": "open", "relpath": "/pull/7" },
+                                { "url": "https://github.com/jkeenan/list-compare/pull/6", "state": "closed", "relpath": "/pull/6" },
                                 { "url": "https://github.com/jkeenan/list-compare/pull/5", "state": "closed", "relpath": "/pull/5" },
                                 { "url": "https://github.com/jkeenan/list-compare/pull/4", "state": "closed", "relpath": "/pull/4" },
                                 { "url": "https://github.com/jkeenan/list-compare/pull/3", "state": "closed", "relpath": "/pull/3" }
@@ -743,6 +745,16 @@
         "distname":         "Test-HTTP-Response",
         "released_by":      { "pause_id": "TEEJAY" },
         "repo":             { "url": "https://github.com/hashbangperl/Test--HTTP--Response", "relpath": "hashbangperl/Test--HTTP--Response" },
+        "pull_requests":    [
+                                { "url": "https://github.com/hashbangperl/Test--HTTP--Response/pull/2", "state": "open", "relpath": "/pull/2" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "brainbuz" },
+        "distname":         "Path-Tiny",
+        "released_by":      { "pause_id": "DAGOLDEN" },
+        "repo":             { "url": "https://github.com/dagolden/Path-Tiny", "relpath": "dagolden/Path-Tiny" },
         "pull_requests":    [
                             ]
     }
