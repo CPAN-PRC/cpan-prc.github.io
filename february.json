@@ -1,6 +1,6 @@
 {
  "month": "February",
- "generated": { "date": "2015-06-05", "time": "17:39:45" },
+ "generated": { "date": "2015-06-24", "time": "18:45:10" },
  "stats": { "done": "114", "total": "122", "percent": "93.4" },
  "assignments": [
 
@@ -230,7 +230,7 @@
         "released_by":      { "pause_id": "NORBU" },
         "repo":             { "url": "https://github.com/norbu09/Store-CouchDB", "relpath": "norbu09/Store-CouchDB" },
         "pull_requests":    [
-                                { "url": "https://github.com/norbu09/Store-CouchDB/pull/9", "state": "open", "relpath": "/pull/9" }
+                                { "url": "https://github.com/norbu09/Store-CouchDB/pull/9", "state": "merged", "relpath": "/pull/9" }
                             ]
     },
     {
@@ -274,7 +274,7 @@
         "released_by":      { "pause_id": "MADCAT" },
         "repo":             { "url": "https://github.com/benvanstaveren/Mojolicious-Plugin-Database", "relpath": "benvanstaveren/Mojolicious-Plugin-Database" },
         "pull_requests":    [
-                                { "url": "https://github.com/benvanstaveren/Mojolicious-Plugin-Database/pull/7", "state": "open", "relpath": "/pull/7" }
+                                { "url": "https://github.com/benvanstaveren/Mojolicious-Plugin-Database/pull/7", "state": "merged", "relpath": "/pull/7" }
                             ]
     },
     {
@@ -587,7 +587,7 @@
         "released_by":      { "pause_id": "PEVANS" },
         "repo":             { "url": "https://github.com/Scalar-List-Utils/Scalar-List-Utils", "relpath": "Scalar-List-Utils/Scalar-List-Utils" },
         "pull_requests":    [
-                                { "url": "https://github.com/Scalar-List-Utils/Scalar-List-Utils/pull/21", "state": "open", "relpath": "/pull/21" }
+                                { "url": "https://github.com/Scalar-List-Utils/Scalar-List-Utils/pull/21", "state": "closed", "relpath": "/pull/21" }
                             ]
     },
     {

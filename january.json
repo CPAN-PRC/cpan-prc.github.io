@@ -1,6 +1,6 @@
 {
  "month": "January",
- "generated": { "date": "2015-06-05", "time": "17:05:21" },
+ "generated": { "date": "2015-06-24", "time": "18:45:47" },
  "stats": { "done": "165", "total": "171", "percent": "96.5" },
  "assignments": [
 
@@ -53,6 +53,7 @@
         "released_by":      { "pause_id": "BDFOY" },
         "repo":             { "url": "https://github.com/briandfoy/test-file", "relpath": "briandfoy/test-file" },
         "pull_requests":    [
+                                { "url": "https://github.com/briandfoy/test-file/pull/13", "state": "merged", "relpath": "/pull/13" },
                                 { "url": "https://github.com/briandfoy/test-file/pull/11", "state": "merged", "relpath": "/pull/11" }
                             ]
     },
@@ -121,7 +122,7 @@
         "done":             false,
         "assignee":         { "github_username": "tvroom" },
         "distname":         "Test-Class",
-        "released_by":      { "pause_id": "FLORA" },
+        "released_by":      { "pause_id": "ETHER" },
         "repo":             { "url": "https://github.com/adrianh/test-class", "relpath": "adrianh/test-class" },
         "pull_requests":    [
                                 { "url": "https://github.com/adrianh/test-class/pull/21", "state": "merged", "relpath": "/pull/21" },
@@ -216,7 +217,7 @@
         "released_by":      { "pause_id": "DMAKI" },
         "repo":             { "url": "https://github.com/lestrrat/DateTime-Format-Pg", "relpath": "lestrrat/DateTime-Format-Pg" },
         "pull_requests":    [
-                                { "url": "https://github.com/lestrrat/DateTime-Format-Pg/pull/7", "state": "open", "relpath": "/pull/7" }
+                                { "url": "https://github.com/lestrrat/DateTime-Format-Pg/pull/7", "state": "merged", "relpath": "/pull/7" }
                             ]
     },
     {
@@ -686,7 +687,7 @@
         "released_by":      { "pause_id": "MJGARDNER" },
         "repo":             { "url": "https://github.com/mjgardner/Dist-Zilla-Plugin-RequiresExternal", "relpath": "mjgardner/Dist-Zilla-Plugin-RequiresExternal" },
         "pull_requests":    [
-                                { "url": "https://github.com/mjgardner/Dist-Zilla-Plugin-RequiresExternal/pull/4", "state": "open", "relpath": "/pull/4" }
+                                { "url": "https://github.com/mjgardner/Dist-Zilla-Plugin-RequiresExternal/pull/4", "state": "closed", "relpath": "/pull/4" }
                             ]
     },
     {
@@ -1137,7 +1138,7 @@
         "done":             false,
         "assignee":         { "github_username": "mnlagrasta" },
         "distname":         "Flickr-API",
-        "released_by":      { "pause_id": "IAMCAL" },
+        "released_by":      { "pause_id": "LBMOORE" },
         "repo":             { "url": "https://github.com/iamcal/perl-Flickr-API", "relpath": "iamcal/perl-Flickr-API" },
         "pull_requests":    [
                                 { "url": "https://github.com/iamcal/perl-Flickr-API/pull/10", "state": "open", "relpath": "/pull/10" }

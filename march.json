@@ -1,6 +1,6 @@
 {
  "month": "March",
- "generated": { "date": "2015-06-05", "time": "17:40:34" },
+ "generated": { "date": "2015-06-24", "time": "18:41:58" },
  "stats": { "done": "89", "total": "92", "percent": "96.7" },
  "assignments": [
 
@@ -20,12 +20,13 @@
         "released_by":      { "pause_id": "XSAWYERX" },
         "repo":             { "url": "https://github.com/PerlDancer/Dancer2", "relpath": "PerlDancer/Dancer2" },
         "pull_requests":    [
-                                { "url": "https://github.com/PerlDancer/Dancer2/pull/922", "state": "open", "relpath": "/pull/922" },
+                                { "url": "https://github.com/PerlDancer/Dancer2/pull/940", "state": "closed", "relpath": "/pull/940" },
+                                { "url": "https://github.com/PerlDancer/Dancer2/pull/939", "state": "closed", "relpath": "/pull/939" },
+                                { "url": "https://github.com/PerlDancer/Dancer2/pull/934", "state": "open", "relpath": "/pull/934" },
+                                { "url": "https://github.com/PerlDancer/Dancer2/pull/922", "state": "merged", "relpath": "/pull/922" },
                                 { "url": "https://github.com/PerlDancer/Dancer2/pull/920", "state": "merged", "relpath": "/pull/920" },
                                 { "url": "https://github.com/PerlDancer/Dancer2/pull/895", "state": "closed", "relpath": "/pull/895" },
-                                { "url": "https://github.com/PerlDancer/Dancer2/pull/892", "state": "closed", "relpath": "/pull/892" },
-                                { "url": "https://github.com/PerlDancer/Dancer2/pull/883", "state": "closed", "relpath": "/pull/883" },
-                                { "url": "https://github.com/PerlDancer/Dancer2/pull/880", "state": "closed", "relpath": "/pull/880" }
+                                { "url": "https://github.com/PerlDancer/Dancer2/pull/892", "state": "closed", "relpath": "/pull/892" }
                             ]
     },
     {
@@ -272,9 +273,10 @@
         "done":             false,
         "assignee":         { "github_username": "rjbs" },
         "distname":         "Template-Mustache",
-        "released_by":      { "pause_id": "PVANDE" },
+        "released_by":      { "pause_id": "RJBS" },
         "repo":             { "url": "https://github.com/pvande/Template-Mustache", "relpath": "pvande/Template-Mustache" },
         "pull_requests":    [
+                                { "url": "https://github.com/pvande/Template-Mustache/pull/19", "state": "open", "relpath": "/pull/19" },
                                 { "url": "https://github.com/pvande/Template-Mustache/pull/18", "state": "merged", "relpath": "/pull/18" },
                                 { "url": "https://github.com/pvande/Template-Mustache/pull/17", "state": "merged", "relpath": "/pull/17" }
                             ]

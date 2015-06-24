@@ -1,6 +1,6 @@
 {
  "month": "April",
- "generated": { "date": "2015-06-05", "time": "17:42:33" },
+ "generated": { "date": "2015-06-24", "time": "18:41:02" },
  "stats": { "done": "57", "total": "89", "percent": "64.0" },
  "assignments": [
 
@@ -106,7 +106,7 @@
         "done":             false,
         "assignee":         { "github_username": "eellpp" },
         "distname":         "B-Utils",
-        "released_by":      { "pause_id": "ETHER" },
+        "released_by":      { "pause_id": "RURBAN" },
         "repo":             { "url": "https://github.com/jbenjore/b-utils", "relpath": "jbenjore/b-utils" },
         "pull_requests":    [
                             ]

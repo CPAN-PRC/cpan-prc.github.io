@@ -1,7 +1,7 @@
 {
  "month": "May",
- "generated": { "date": "2015-06-05", "time": "17:43:33" },
- "stats": { "done": "45", "total": "82", "percent": "54.9" },
+ "generated": { "date": "2015-06-24", "time": "18:34:00" },
+ "stats": { "done": "47", "total": "79", "percent": "59.5" },
  "assignments": [
 
     {
@@ -88,7 +88,7 @@
         "done":             false,
         "assignee":         { "github_username": "bugdebugger" },
         "distname":         "autodie",
-        "released_by":      { "pause_id": "NTHYKIER" },
+        "released_by":      { "pause_id": "PJF" },
         "repo":             { "url": "https://github.com/pjf/autodie", "relpath": "pjf/autodie" },
         "pull_requests":    [
                                 { "url": "https://github.com/pjf/autodie/pull/66", "state": "merged", "relpath": "/pull/66" },
@@ -200,8 +200,8 @@
         "done":             false,
         "assignee":         { "github_username": "SkySymbol" },
         "distname":         "Dist-Zilla-Plugin-RPM",
-        "released_by":      { "pause_id": "SCLOUSE" },
-        "repo":             { "url": "https://github.com/StephenClouse/perl-dist-zilla-plugin-rpm", "relpath": "StephenClouse/perl-dist-zilla-plugin-rpm" },
+        "released_by":      { "pause_id": "SKYSYMBOL" },
+        "repo":             { "url": "https://github.com/SkySymbol/perl-dist-zilla-plugin-rpm", "relpath": "SkySymbol/perl-dist-zilla-plugin-rpm" },
         "pull_requests":    [
                             ]
     },
@@ -218,10 +218,10 @@
         "done":             false,
         "assignee":         { "github_username": "ncstang" },
         "distname":         "Test-RedisServer",
-        "released_by":      { "pause_id": "TYPESTER" },
+        "released_by":      { "pause_id": "SONGMU" },
         "repo":             { "url": "https://github.com/typester/Test-RedisServer", "relpath": "typester/Test-RedisServer" },
         "pull_requests":    [
-                                { "url": "https://github.com/typester/Test-RedisServer/pull/4", "state": "open", "relpath": "/pull/4" }
+                                { "url": "https://github.com/typester/Test-RedisServer/pull/4", "state": "merged", "relpath": "/pull/4" }
                             ]
     },
     {
@@ -297,7 +297,7 @@
         "released_by":      { "pause_id": "MIKIHOSHI" },
         "repo":             { "url": "https://github.com/kan/p5-opts", "relpath": "kan/p5-opts" },
         "pull_requests":    [
-                                { "url": "https://github.com/kan/p5-opts/pull/3", "state": "open", "relpath": "/pull/3" }
+                                { "url": "https://github.com/kan/p5-opts/pull/3", "state": "merged", "relpath": "/pull/3" }
                             ]
     },
     {
@@ -316,7 +316,7 @@
         "released_by":      { "pause_id": "LEONT" },
         "repo":             { "url": "https://github.com/Perl-Toolchain-Gang/Test-Harness/tree/master", "relpath": "Perl-Toolchain-Gang/Test-Harness/tree/master" },
         "pull_requests":    [
-                                { "url": "https://github.com/Perl-Toolchain-Gang/Test-Harness/pull/47", "state": "open", "relpath": "/pull/47" }
+                                { "url": "https://github.com/Perl-Toolchain-Gang/Test-Harness/pull/47", "state": "closed", "relpath": "/pull/47" }
                             ]
     },
     {
@@ -369,15 +369,6 @@
     },
     {
         "done":             false,
-        "assignee":         { "github_username": "kamanufred" },
-        "distname":         "SQL-Statement",
-        "released_by":      { "pause_id": "REHSACK" },
-        "repo":             { "url": "https://github.com:perl5-utils/SQL-Statement", "relpath": "https://github.com:perl5-utils/SQL-Statement" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
         "assignee":         { "github_username": "timgimyee" },
         "distname":         "HTML-Mason",
         "released_by":      { "pause_id": "DROLSKY" },
@@ -406,15 +397,6 @@
     },
     {
         "done":             false,
-        "assignee":         { "github_username": "Sweet-kid" },
-        "distname":         "DBIx-Class-Migration",
-        "released_by":      { "pause_id": "JJNAPIORK" },
-        "repo":             { "url": "https://github.com/jjn1056/DBIx-Class-Migration", "relpath": "jjn1056/DBIx-Class-Migration" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
         "assignee":         { "github_username": "oalders" },
         "distname":         "Switch",
         "released_by":      { "pause_id": "CHORNY" },
@@ -438,7 +420,7 @@
         "released_by":      { "pause_id": "OLIVER" },
         "repo":             { "url": "https://github.com/ollyg/Catalyst-Plugin-AutoCRUD", "relpath": "ollyg/Catalyst-Plugin-AutoCRUD" },
         "pull_requests":    [
-                                { "url": "https://github.com/ollyg/Catalyst-Plugin-AutoCRUD/pull/31", "state": "open", "relpath": "/pull/31" }
+                                { "url": "https://github.com/ollyg/Catalyst-Plugin-AutoCRUD/pull/31", "state": "closed", "relpath": "/pull/31" }
                             ]
     },
     {
@@ -486,15 +468,6 @@
         "distname":         "Graph-ReadWrite",
         "released_by":      { "pause_id": "NEILB" },
         "repo":             { "url": "https://github.com/neilbowers/Graph-ReadWrite", "relpath": "neilbowers/Graph-ReadWrite" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "thrig" },
-        "distname":         "Perl-PrereqScanner",
-        "released_by":      { "pause_id": "RJBS" },
-        "repo":             { "url": "https://github.com/rjbs/Perl-PrereqScanner", "relpath": "rjbs/Perl-PrereqScanner" },
         "pull_requests":    [
                             ]
     },
@@ -648,7 +621,7 @@
         "done":             false,
         "assignee":         { "github_username": "agwind" },
         "distname":         "Carp-REPL",
-        "released_by":      { "pause_id": "TSIBLEY" },
+        "released_by":      { "pause_id": "ETHER" },
         "repo":             { "url": "https://github.com/bestpractical/carp-repl", "relpath": "bestpractical/carp-repl" },
         "pull_requests":    [
                             ]
