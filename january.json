@@ -1,6 +1,6 @@
 {
  "month": "January",
- "generated": { "date": "2015-06-24", "time": "18:45:47" },
+ "generated": { "date": "2015-07-09", "time": "07:24:56" },
  "stats": { "done": "165", "total": "171", "percent": "96.5" },
  "assignments": [
 
@@ -307,7 +307,7 @@
         "done":             false,
         "assignee":         { "github_username": "fluca1978" },
         "distname":         "Test-Pod",
-        "released_by":      { "pause_id": "DWHEELER" },
+        "released_by":      { "pause_id": "ETHER" },
         "repo":             { "url": "https://github.com/perl-pod/test-pod", "relpath": "perl-pod/test-pod" },
         "pull_requests":    [
                                 { "url": "https://github.com/perl-pod/test-pod/pull/8", "state": "merged", "relpath": "/pull/8" },

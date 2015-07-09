@@ -1,6 +1,6 @@
 {
  "month": "February",
- "generated": { "date": "2015-06-24", "time": "18:45:10" },
+ "generated": { "date": "2015-07-09", "time": "07:25:55" },
  "stats": { "done": "114", "total": "122", "percent": "93.4" },
  "assignments": [
 
@@ -110,7 +110,6 @@
         "released_by":      { "pause_id": "RJBS" },
         "repo":             { "url": "https://github.com/rjbs/Dist-Zilla", "relpath": "rjbs/Dist-Zilla" },
         "pull_requests":    [
-                                { "url": "https://github.com/rjbs/Dist-Zilla/pull/429", "state": "closed", "relpath": "/pull/429" }
                             ]
     },
     {
@@ -150,7 +149,7 @@
         "released_by":      { "pause_id": "ETHER" },
         "repo":             { "url": "https://github.com/libwww-perl/uri", "relpath": "libwww-perl/uri" },
         "pull_requests":    [
-                                { "url": "https://github.com/libwww-perl/uri/pull/22", "state": "open", "relpath": "/pull/22" },
+                                { "url": "https://github.com/libwww-perl/uri/pull/22", "state": "closed", "relpath": "/pull/22" },
                                 { "url": "https://github.com/libwww-perl/uri/pull/20", "state": "merged", "relpath": "/pull/20" }
                             ]
     },

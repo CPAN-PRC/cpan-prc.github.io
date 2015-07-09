@@ -1,18 +1,9 @@
 {
  "month": "May",
- "generated": { "date": "2015-06-24", "time": "18:34:00" },
- "stats": { "done": "47", "total": "79", "percent": "59.5" },
+ "generated": { "date": "2015-07-09", "time": "08:34:14" },
+ "stats": { "done": "48", "total": "76", "percent": "63.2" },
  "assignments": [
 
-    {
-        "done":             false,
-        "assignee":         { "github_username": "veryrusty" },
-        "distname":         "CPAN",
-        "released_by":      { "pause_id": "ANDK" },
-        "repo":             { "url": "https://github.com/andk/cpanpm", "relpath": "andk/cpanpm" },
-        "pull_requests":    [
-                            ]
-    },
     {
         "done":             false,
         "assignee":         { "github_username": "fluks" },
@@ -402,6 +393,7 @@
         "released_by":      { "pause_id": "CHORNY" },
         "repo":             { "url": "https://github.com/chorny/Switch", "relpath": "chorny/Switch" },
         "pull_requests":    [
+                                { "url": "https://github.com/chorny/Switch/pull/1", "state": "open", "relpath": "/pull/1" }
                             ]
     },
     {
@@ -441,15 +433,6 @@
         "distname":         "JavaScript-Packer",
         "released_by":      { "pause_id": "LEEJO" },
         "repo":             { "url": "https://github.com/leejo/javascript-packer-perl", "relpath": "leejo/javascript-packer-perl" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "marderh" },
-        "distname":         "XML-Struct",
-        "released_by":      { "pause_id": "VOJ" },
-        "repo":             { "url": "https://github.com/nichtich/XML-Struct", "relpath": "nichtich/XML-Struct" },
         "pull_requests":    [
                             ]
     },
@@ -595,15 +578,6 @@
         "repo":             { "url": "https://github.com/edsu/www-wikipedia", "relpath": "edsu/www-wikipedia" },
         "pull_requests":    [
                                 { "url": "https://github.com/edsu/www-wikipedia/pull/1", "state": "merged", "relpath": "/pull/1" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "elmerq" },
-        "distname":         "JSON-SL",
-        "released_by":      { "pause_id": "MNUNBERG" },
-        "repo":             { "url": "https://github.com/mnunberg/perl-JSON-SL", "relpath": "mnunberg/perl-JSON-SL" },
-        "pull_requests":    [
                             ]
     },
     {

@@ -49,3 +49,8 @@ ul {
 li {
     line-height: 125%;
 }
+
+table.assignments td {
+    padding: 2px 4px;
+}
+

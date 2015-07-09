@@ -1,6 +1,6 @@
 {
  "month": "March",
- "generated": { "date": "2015-06-24", "time": "18:41:58" },
+ "generated": { "date": "2015-07-09", "time": "08:21:06" },
  "stats": { "done": "89", "total": "92", "percent": "96.7" },
  "assignments": [
 
@@ -22,7 +22,7 @@
         "pull_requests":    [
                                 { "url": "https://github.com/PerlDancer/Dancer2/pull/940", "state": "closed", "relpath": "/pull/940" },
                                 { "url": "https://github.com/PerlDancer/Dancer2/pull/939", "state": "closed", "relpath": "/pull/939" },
-                                { "url": "https://github.com/PerlDancer/Dancer2/pull/934", "state": "open", "relpath": "/pull/934" },
+                                { "url": "https://github.com/PerlDancer/Dancer2/pull/934", "state": "closed", "relpath": "/pull/934" },
                                 { "url": "https://github.com/PerlDancer/Dancer2/pull/922", "state": "merged", "relpath": "/pull/922" },
                                 { "url": "https://github.com/PerlDancer/Dancer2/pull/920", "state": "merged", "relpath": "/pull/920" },
                                 { "url": "https://github.com/PerlDancer/Dancer2/pull/895", "state": "closed", "relpath": "/pull/895" },
@@ -331,7 +331,7 @@
         "released_by":      { "pause_id": "MUTANT" },
         "repo":             { "url": "https://github.com/catalyst/PRANG", "relpath": "catalyst/PRANG" },
         "pull_requests":    [
-                                { "url": "https://github.com/catalyst/PRANG/pull/3", "state": "open", "relpath": "/pull/3" }
+                                { "url": "https://github.com/catalyst/PRANG/pull/3", "state": "merged", "relpath": "/pull/3" }
                             ]
     },
     {
@@ -621,8 +621,6 @@
         "released_by":      { "pause_id": "DROLSKY" },
         "repo":             { "url": "https://github.com/autarch-code/perl-code-tidyall", "relpath": "autarch-code/perl-code-tidyall" },
         "pull_requests":    [
-                                { "url": "https://github.com/autarch-code/perl-code-tidyall/pull/33", "state": "merged", "relpath": "/pull/33" },
-                                { "url": "https://github.com/autarch-code/perl-code-tidyall/pull/32", "state": "closed", "relpath": "/pull/32" }
                             ]
     },
     {
