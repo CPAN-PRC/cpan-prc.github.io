@@ -1,7 +1,7 @@
 {
  "month": "May",
- "generated": { "date": "2015-07-09", "time": "08:34:14" },
- "stats": { "done": "48", "total": "76", "percent": "63.2" },
+ "generated": { "date": "2015-07-28", "time": "07:51:14" },
+ "stats": { "done": "48", "total": "74", "percent": "64.9" },
  "assignments": [
 
     {
@@ -30,7 +30,8 @@
         "released_by":      { "pause_id": "TIMB" },
         "repo":             { "url": "https://github.com/perl5-dbi/dbi", "relpath": "perl5-dbi/dbi" },
         "pull_requests":    [
-                                { "url": "https://github.com/perl5-dbi/dbi/pull/23", "state": "open", "relpath": "/pull/23" },
+                                { "url": "https://github.com/perl5-dbi/dbi/pull/26", "state": "closed", "relpath": "/pull/26" },
+                                { "url": "https://github.com/perl5-dbi/dbi/pull/23", "state": "closed", "relpath": "/pull/23" },
                                 { "url": "https://github.com/perl5-dbi/dbi/pull/22", "state": "merged", "relpath": "/pull/22" },
                                 { "url": "https://github.com/perl5-dbi/dbi/pull/21", "state": "merged", "relpath": "/pull/21" }
                             ]
@@ -143,7 +144,7 @@
         "done":             false,
         "assignee":         { "github_username": "harris901" },
         "distname":         "Net-AMQP-RabbitMQ",
-        "released_by":      { "pause_id": "MSTEMLE" },
+        "released_by":      { "pause_id": "MARKELLIS" },
         "repo":             { "url": "https://github.com/markwellis/net-amqp-rabbitmq", "relpath": "markwellis/net-amqp-rabbitmq" },
         "pull_requests":    [
                             ]
@@ -293,15 +294,6 @@
     },
     {
         "done":             false,
-        "assignee":         { "github_username": "mcmillhj" },
-        "distname":         "Test-Simple",
-        "released_by":      { "pause_id": "EXODIST" },
-        "repo":             { "url": "https://github.com/Test-More/test-more", "relpath": "Test-More/test-more" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
         "assignee":         { "github_username": "rjbs" },
         "distname":         "Test-Harness",
         "released_by":      { "pause_id": "LEONT" },
@@ -443,15 +435,7 @@
         "released_by":      { "pause_id": "BAREFOOT" },
         "repo":             { "url": "https://github.com/schwern/method-signatures", "relpath": "schwern/method-signatures" },
         "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "tvroom" },
-        "distname":         "Graph-ReadWrite",
-        "released_by":      { "pause_id": "NEILB" },
-        "repo":             { "url": "https://github.com/neilbowers/Graph-ReadWrite", "relpath": "neilbowers/Graph-ReadWrite" },
-        "pull_requests":    [
+                                { "url": "https://github.com/evalEmpire/method-signatures/pull/118", "state": "open", "relpath": "/pull/118" }
                             ]
     },
     {

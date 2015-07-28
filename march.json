@@ -1,6 +1,6 @@
 {
  "month": "March",
- "generated": { "date": "2015-07-09", "time": "08:21:06" },
+ "generated": { "date": "2015-07-28", "time": "07:50:06" },
  "stats": { "done": "89", "total": "92", "percent": "96.7" },
  "assignments": [
 
@@ -20,13 +20,15 @@
         "released_by":      { "pause_id": "XSAWYERX" },
         "repo":             { "url": "https://github.com/PerlDancer/Dancer2", "relpath": "PerlDancer/Dancer2" },
         "pull_requests":    [
+                                { "url": "https://github.com/PerlDancer/Dancer2/pull/964", "state": "open", "relpath": "/pull/964" },
+                                { "url": "https://github.com/PerlDancer/Dancer2/pull/962", "state": "open", "relpath": "/pull/962" },
+                                { "url": "https://github.com/PerlDancer/Dancer2/pull/955", "state": "open", "relpath": "/pull/955" },
+                                { "url": "https://github.com/PerlDancer/Dancer2/pull/946", "state": "closed", "relpath": "/pull/946" },
                                 { "url": "https://github.com/PerlDancer/Dancer2/pull/940", "state": "closed", "relpath": "/pull/940" },
                                 { "url": "https://github.com/PerlDancer/Dancer2/pull/939", "state": "closed", "relpath": "/pull/939" },
                                 { "url": "https://github.com/PerlDancer/Dancer2/pull/934", "state": "closed", "relpath": "/pull/934" },
                                 { "url": "https://github.com/PerlDancer/Dancer2/pull/922", "state": "merged", "relpath": "/pull/922" },
-                                { "url": "https://github.com/PerlDancer/Dancer2/pull/920", "state": "merged", "relpath": "/pull/920" },
-                                { "url": "https://github.com/PerlDancer/Dancer2/pull/895", "state": "closed", "relpath": "/pull/895" },
-                                { "url": "https://github.com/PerlDancer/Dancer2/pull/892", "state": "closed", "relpath": "/pull/892" }
+                                { "url": "https://github.com/PerlDancer/Dancer2/pull/920", "state": "merged", "relpath": "/pull/920" }
                             ]
     },
     {
@@ -58,7 +60,7 @@
         "released_by":      { "pause_id": "SHAY" },
         "repo":             { "url": "https://github.com/steve-m-hay/perl-libnet", "relpath": "steve-m-hay/perl-libnet" },
         "pull_requests":    [
-                                { "url": "https://github.com/steve-m-hay/perl-libnet/pull/16", "state": "open", "relpath": "/pull/16" }
+                                { "url": "https://github.com/steve-m-hay/perl-libnet/pull/16", "state": "closed", "relpath": "/pull/16" }
                             ]
     },
     {
@@ -565,7 +567,7 @@
         "released_by":      { "pause_id": "SKAUFMAN" },
         "repo":             { "url": "https://github.com/dbsrgits/DBIx-Class-Fixtures", "relpath": "dbsrgits/DBIx-Class-Fixtures" },
         "pull_requests":    [
-                                { "url": "https://github.com/dbsrgits/DBIx-Class-Fixtures/pull/2", "state": "open", "relpath": "/pull/2" }
+                                { "url": "https://github.com/dbsrgits/DBIx-Class-Fixtures/pull/2", "state": "closed", "relpath": "/pull/2" }
                             ]
     },
     {
@@ -621,6 +623,9 @@
         "released_by":      { "pause_id": "DROLSKY" },
         "repo":             { "url": "https://github.com/autarch-code/perl-code-tidyall", "relpath": "autarch-code/perl-code-tidyall" },
         "pull_requests":    [
+                                { "url": "https://github.com/houseabsolute/perl-code-tidyall/pull/35", "state": "closed", "relpath": "/pull/35" },
+                                { "url": "https://github.com/houseabsolute/perl-code-tidyall/pull/33", "state": "merged", "relpath": "/pull/33" },
+                                { "url": "https://github.com/houseabsolute/perl-code-tidyall/pull/32", "state": "closed", "relpath": "/pull/32" }
                             ]
     },
     {
@@ -848,6 +853,7 @@
         "released_by":      { "pause_id": "TOMITA" },
         "repo":             { "url": "https://github.com/tomi-ru/Email-Address-Loose", "relpath": "tomi-ru/Email-Address-Loose" },
         "pull_requests":    [
+                                { "url": "https://github.com/tomill/Email-Address-Loose/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]
     },
     {

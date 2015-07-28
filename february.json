@@ -1,6 +1,6 @@
 {
  "month": "February",
- "generated": { "date": "2015-07-09", "time": "07:25:55" },
+ "generated": { "date": "2015-07-28", "time": "07:49:23" },
  "stats": { "done": "114", "total": "122", "percent": "93.4" },
  "assignments": [
 
@@ -21,6 +21,7 @@
         "released_by":      { "pause_id": "PHRED" },
         "repo":             { "url": "https://github.com/redhotpenguin/perl-Archive-Zip-svn", "relpath": "redhotpenguin/perl-Archive-Zip-svn" },
         "pull_requests":    [
+                                { "url": "https://github.com/redhotpenguin/perl-Archive-Zip/pull/14", "state": "merged", "relpath": "/pull/14" }
                             ]
     },
     {
@@ -975,7 +976,7 @@
         "released_by":      { "pause_id": "RJBS" },
         "repo":             { "url": "https://github.com/rjbs/Pod-Elemental-Transformer-List", "relpath": "rjbs/Pod-Elemental-Transformer-List" },
         "pull_requests":    [
-                                { "url": "https://github.com/rjbs/Pod-Elemental-Transformer-List/pull/4", "state": "open", "relpath": "/pull/4" }
+                                { "url": "https://github.com/rjbs/Pod-Elemental-Transformer-List/pull/4", "state": "closed", "relpath": "/pull/4" }
                             ]
     },
     {

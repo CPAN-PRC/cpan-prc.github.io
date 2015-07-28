@@ -1,6 +1,6 @@
 {
  "month": "April",
- "generated": { "date": "2015-07-09", "time": "08:21:49" },
+ "generated": { "date": "2015-07-28", "time": "07:50:42" },
  "stats": { "done": "57", "total": "62", "percent": "91.9" },
  "assignments": [
 
@@ -256,8 +256,8 @@
         "done":             false,
         "assignee":         { "github_username": "herveus" },
         "distname":         "HTTP-Message",
-        "released_by":      { "pause_id": "GAAS" },
-        "repo":             { "url": "https://github.com/libwww-perl/http-message", "relpath": "libwww-perl/http-message" },
+        "released_by":      { "pause_id": "ETHER" },
+        "repo":             { "url": "https://github.com/libwww-perl/HTTP-Message", "relpath": "libwww-perl/HTTP-Message" },
         "pull_requests":    [
                                 { "url": "https://github.com/libwww-perl/http-message/pull/23", "state": "open", "relpath": "/pull/23" }
                             ]
@@ -444,7 +444,7 @@
         "done":             false,
         "assignee":         { "github_username": "mishin" },
         "distname":         "Pod-Simple",
-        "released_by":      { "pause_id": "DWHEELER" },
+        "released_by":      { "pause_id": "MARCGREEN" },
         "repo":             { "url": "https://github.com/theory/pod-simple", "relpath": "theory/pod-simple" },
         "pull_requests":    [
                                 { "url": "https://github.com/theory/pod-simple/pull/1", "state": "merged", "relpath": "/pull/1" }

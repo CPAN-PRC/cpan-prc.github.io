@@ -1,7 +1,7 @@
 {
  "month": "June",
- "generated": { "date": "2015-07-09", "time": "20:52:01" },
- "stats": { "done": "43", "total": "66", "percent": "65.2" },
+ "generated": { "date": "2015-07-28", "time": "07:51:48" },
+ "stats": { "done": "43", "total": "65", "percent": "66.2" },
  "assignments": [
 
     {
@@ -312,7 +312,7 @@
         "released_by":      { "pause_id": "DROLSKY" },
         "repo":             { "url": "https://github.com/autarch/File-LibMagic", "relpath": "autarch/File-LibMagic" },
         "pull_requests":    [
-                                { "url": "https://github.com/autarch/File-LibMagic/pull/5", "state": "open", "relpath": "/pull/5" }
+                                { "url": "https://github.com/autarch/File-LibMagic/pull/5", "state": "closed", "relpath": "/pull/5" }
                             ]
     },
     {
@@ -422,15 +422,6 @@
         "distname":         "autobox",
         "released_by":      { "pause_id": "CHOCOLATE" },
         "repo":             { "url": "https://github.com/chocolateboy/autobox", "relpath": "chocolateboy/autobox" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "moritz" },
-        "distname":         "Catalyst-View-Email",
-        "released_by":      { "pause_id": "DHOSS" },
-        "repo":             { "url": "https://github.com/dhoss/catalyst-view-email", "relpath": "dhoss/catalyst-view-email" },
         "pull_requests":    [
                             ]
     },
@@ -569,6 +560,7 @@
         "released_by":      { "pause_id": "DFARRELL" },
         "repo":             { "url": "https://github.com/sillymoose/Perl-Builtins", "relpath": "sillymoose/Perl-Builtins" },
         "pull_requests":    [
+                                { "url": "https://github.com/dnmfarrell/Perl-Builtins/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]
     },
     {

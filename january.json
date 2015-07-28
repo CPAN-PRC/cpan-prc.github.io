@@ -1,6 +1,6 @@
 {
  "month": "January",
- "generated": { "date": "2015-07-09", "time": "07:24:56" },
+ "generated": { "date": "2015-07-28", "time": "07:48:22" },
  "stats": { "done": "165", "total": "171", "percent": "96.5" },
  "assignments": [
 
@@ -43,7 +43,7 @@
         "released_by":      { "pause_id": "DAGOLDEN" },
         "repo":             { "url": "https://github.com/dagolden/Sub-Uplevel", "relpath": "dagolden/Sub-Uplevel" },
         "pull_requests":    [
-                                { "url": "https://github.com/dagolden/Sub-Uplevel/pull/3", "state": "merged", "relpath": "/pull/3" }
+                                { "url": "https://github.com/Perl-Toolchain-Gang/Sub-Uplevel/pull/3", "state": "merged", "relpath": "/pull/3" }
                             ]
     },
     {
@@ -833,7 +833,7 @@
         "done":             false,
         "assignee":         { "github_username": "Vadskye" },
         "distname":         "Test-Easy",
-        "released_by":      { "pause_id": "LOGIE" },
+        "released_by":      { "pause_id": "BELDEN" },
         "repo":             { "url": "https://github.com/belden/perl-test-easy", "relpath": "belden/perl-test-easy" },
         "pull_requests":    [
                             ]
@@ -1141,7 +1141,7 @@
         "released_by":      { "pause_id": "LBMOORE" },
         "repo":             { "url": "https://github.com/iamcal/perl-Flickr-API", "relpath": "iamcal/perl-Flickr-API" },
         "pull_requests":    [
-                                { "url": "https://github.com/iamcal/perl-Flickr-API/pull/10", "state": "open", "relpath": "/pull/10" }
+                                { "url": "https://github.com/iamcal/perl-Flickr-API/pull/10", "state": "closed", "relpath": "/pull/10" }
                             ]
     },
     {
@@ -1151,6 +1151,7 @@
         "released_by":      { "pause_id": "TEX" },
         "repo":             { "url": "https://github.com/gittex/File-Blarf", "relpath": "gittex/File-Blarf" },
         "pull_requests":    [
+                                { "url": "https://github.com/dominikschulz/File-Blarf/pull/4", "state": "merged", "relpath": "/pull/4" }
                             ]
     },
     {
