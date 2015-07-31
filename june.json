@@ -1,6 +1,6 @@
 {
  "month": "June",
- "generated": { "date": "2015-07-28", "time": "07:51:48" },
+ "generated": { "date": "2015-07-31", "time": "23:05:04" },
  "stats": { "done": "43", "total": "65", "percent": "66.2" },
  "assignments": [
 
@@ -15,7 +15,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "paultcochrane" },
         "distname":         "SQL-Translator",
         "released_by":      { "pause_id": "ILMARI" },
@@ -28,18 +28,18 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jluis" },
         "distname":         "Rex",
         "released_by":      { "pause_id": "FERKI" },
         "repo":             { "url": "https://github.com/RexOps/Rex", "relpath": "RexOps/Rex" },
         "pull_requests":    [
                                 { "url": "https://github.com/RexOps/Rex/pull/738", "state": "open", "relpath": "/pull/738" },
-                                { "url": "https://github.com/RexOps/Rex/pull/735", "state": "open", "relpath": "/pull/735" }
+                                { "url": "https://github.com/RexOps/Rex/pull/735", "state": "closed", "relpath": "/pull/735" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "bk" },
         "distname":         "HTML-Lint",
         "released_by":      { "pause_id": "PETDANCE" },
@@ -58,7 +58,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "devogon" },
         "distname":         "CHI",
         "released_by":      { "pause_id": "JSWARTZ" },
@@ -76,7 +76,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "zhouzhen1" },
         "distname":         "Mojolicious-Plugin-ConsoleLogger",
         "released_by":      { "pause_id": "TEMPIRE" },
@@ -86,7 +86,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "openstrike" },
         "distname":         "Box-Calc",
         "released_by":      { "pause_id": "RIZEN" },
@@ -105,7 +105,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "cakirke" },
         "distname":         "Data-Throttler",
         "released_by":      { "pause_id": "MSCHILLI" },
@@ -117,7 +117,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "kappa" },
         "distname":         "XML-Loy",
         "released_by":      { "pause_id": "AKRON" },
@@ -127,7 +127,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "trwww" },
         "distname":         "Class-Std",
         "released_by":      { "pause_id": "CHORNY" },
@@ -146,7 +146,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "ponzellus" },
         "distname":         "Pod-Perldoc",
         "released_by":      { "pause_id": "MALLEN" },
@@ -156,7 +156,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "ambs" },
         "distname":         "WWW-Curl",
         "released_by":      { "pause_id": "SZBALINT" },
@@ -175,7 +175,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "SkySymbol" },
         "distname":         "Type-Tiny",
         "released_by":      { "pause_id": "TOBYINK" },
@@ -185,7 +185,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "VadimPushtaev" },
         "distname":         "Strehler",
         "released_by":      { "pause_id": "CYMON" },
@@ -195,7 +195,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "lharey" },
         "distname":         "WWW-Mechanize",
         "released_by":      { "pause_id": "ETHER" },
@@ -214,7 +214,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "meAmidos" },
         "distname":         "Test-Vars",
         "released_by":      { "pause_id": "GFUJI" },
@@ -224,7 +224,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "mishin" },
         "distname":         "Memcached-libmemcached",
         "released_by":      { "pause_id": "SEANBURKE" },
@@ -244,7 +244,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "kaoru" },
         "distname":         "Bread-Board",
         "released_by":      { "pause_id": "YANICK" },
@@ -254,7 +254,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "manwar" },
         "distname":         "IO-Tty",
         "released_by":      { "pause_id": "TODDR" },
@@ -264,7 +264,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "yanick" },
         "distname":         "SVG",
         "released_by":      { "pause_id": "SZABGAB" },
@@ -275,7 +275,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "lejeunerenard" },
         "distname":         "Bot-BasicBot",
         "released_by":      { "pause_id": "HINRIK" },
@@ -296,7 +296,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "andyjack" },
         "distname":         "Net-Curl",
         "released_by":      { "pause_id": "SYP" },
@@ -306,7 +306,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "choroba" },
         "distname":         "File-LibMagic",
         "released_by":      { "pause_id": "DROLSKY" },
@@ -325,7 +325,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "bessarabov" },
         "distname":         "GitDDL",
         "released_by":      { "pause_id": "TYPESTER" },
@@ -339,7 +339,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "mjg17" },
         "distname":         "Text-Tabs+Wrap",
         "released_by":      { "pause_id": "MUIR" },
@@ -349,7 +349,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "neilbowers" },
         "distname":         "LWP-Simple-REST",
         "released_by":      { "pause_id": "GONCALES" },
@@ -377,7 +377,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "garu" },
         "distname":         "Net-CLI-Interact",
         "released_by":      { "pause_id": "OLIVER" },
@@ -397,7 +397,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jamessan" },
         "distname":         "parent",
         "released_by":      { "pause_id": "CORION" },
@@ -407,7 +407,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "zoffixznet" },
         "distname":         "MojoX-Renderer-Alloy",
         "released_by":      { "pause_id": "AJGB" },
@@ -444,7 +444,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "monsieurp" },
         "distname":         "Mo",
         "released_by":      { "pause_id": "INGY" },
@@ -453,7 +453,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "leejo" },
         "distname":         "Sub-Call-Tail",
         "released_by":      { "pause_id": "ETHER" },
@@ -480,7 +480,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "Viviparous" },
         "distname":         "HTTP-Throwable",
         "released_by":      { "pause_id": "RJBS" },
@@ -499,7 +499,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "bentglasstube" },
         "distname":         "Orochi",
         "released_by":      { "pause_id": "DMAKI" },
@@ -509,7 +509,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "pauloscustodio" },
         "distname":         "List-Compare",
         "released_by":      { "pause_id": "JKEENAN" },
@@ -524,7 +524,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "labrown" },
         "distname":         "App-DPath",
         "released_by":      { "pause_id": "SCHWIGON" },
@@ -535,7 +535,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "doyleyoung" },
         "distname":         "Path-Resource",
         "released_by":      { "pause_id": "RKRIMEN" },
@@ -554,7 +554,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "krismatthews" },
         "distname":         "Perl-Builtins",
         "released_by":      { "pause_id": "DFARRELL" },
@@ -564,7 +564,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "shlomif" },
         "distname":         "Devel-LeakGuard-Object",
         "released_by":      { "pause_id": "ANDYA" },
@@ -574,7 +574,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "thrig" },
         "distname":         "Barcode-DataMatrix",
         "released_by":      { "pause_id": "MSTRAT" },
@@ -585,7 +585,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "JenishGnanasicamani" },
         "distname":         "App-p",
         "released_by":      { "pause_id": "IRONCAMEL" },
@@ -604,7 +604,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "cjhamil" },
         "distname":         "Test-HTTP-Response",
         "released_by":      { "pause_id": "TEEJAY" },
@@ -614,7 +614,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "brainbuz" },
         "distname":         "Path-Tiny",
         "released_by":      { "pause_id": "DAGOLDEN" },
@@ -624,7 +624,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "joenio" },
         "distname":         "PDF-Table",
         "released_by":      { "pause_id": "OMEGA" },
@@ -635,7 +635,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "Sweet-kid" },
         "distname":         "String-Interpolate",
         "released_by":      { "pause_id": "NEILB" },
