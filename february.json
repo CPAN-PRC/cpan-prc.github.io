@@ -1,6 +1,6 @@
 {
  "month": "February",
- "generated": { "date": "2015-07-31", "time": "23:02:56" },
+ "generated": { "date": "2015-08-08", "time": "20:47:36" },
  "stats": { "done": "114", "total": "122", "percent": "93.4" },
  "assignments": [
 
@@ -348,7 +348,7 @@
         "released_by":      { "pause_id": "FROGGS" },
         "repo":             { "url": "https://github.com/PerlGameDev/Alien-CMake", "relpath": "PerlGameDev/Alien-CMake" },
         "pull_requests":    [
-                                { "url": "https://github.com/PerlGameDev/Alien-CMake/pull/4", "state": "open", "relpath": "/pull/4" },
+                                { "url": "https://github.com/PerlGameDev/Alien-CMake/pull/4", "state": "closed", "relpath": "/pull/4" },
                                 { "url": "https://github.com/PerlGameDev/Alien-CMake/pull/3", "state": "closed", "relpath": "/pull/3" }
                             ]
     },

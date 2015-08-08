@@ -1,6 +1,6 @@
 {
  "month": "March",
- "generated": { "date": "2015-07-31", "time": "23:03:38" },
+ "generated": { "date": "2015-08-08", "time": "20:48:18" },
  "stats": { "done": "89", "total": "92", "percent": "96.7" },
  "assignments": [
 
@@ -20,15 +20,14 @@
         "released_by":      { "pause_id": "XSAWYERX" },
         "repo":             { "url": "https://github.com/PerlDancer/Dancer2", "relpath": "PerlDancer/Dancer2" },
         "pull_requests":    [
+                                { "url": "https://github.com/PerlDancer/Dancer2/pull/972", "state": "open", "relpath": "/pull/972" },
                                 { "url": "https://github.com/PerlDancer/Dancer2/pull/964", "state": "open", "relpath": "/pull/964" },
                                 { "url": "https://github.com/PerlDancer/Dancer2/pull/962", "state": "open", "relpath": "/pull/962" },
                                 { "url": "https://github.com/PerlDancer/Dancer2/pull/955", "state": "open", "relpath": "/pull/955" },
                                 { "url": "https://github.com/PerlDancer/Dancer2/pull/946", "state": "closed", "relpath": "/pull/946" },
                                 { "url": "https://github.com/PerlDancer/Dancer2/pull/940", "state": "closed", "relpath": "/pull/940" },
                                 { "url": "https://github.com/PerlDancer/Dancer2/pull/939", "state": "closed", "relpath": "/pull/939" },
-                                { "url": "https://github.com/PerlDancer/Dancer2/pull/934", "state": "closed", "relpath": "/pull/934" },
-                                { "url": "https://github.com/PerlDancer/Dancer2/pull/922", "state": "merged", "relpath": "/pull/922" },
-                                { "url": "https://github.com/PerlDancer/Dancer2/pull/920", "state": "merged", "relpath": "/pull/920" }
+                                { "url": "https://github.com/PerlDancer/Dancer2/pull/934", "state": "closed", "relpath": "/pull/934" }
                             ]
     },
     {

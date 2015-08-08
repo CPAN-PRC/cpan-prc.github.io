@@ -1,6 +1,6 @@
 {
  "month": "April",
- "generated": { "date": "2015-07-31", "time": "23:04:11" },
+ "generated": { "date": "2015-08-08", "time": "20:48:54" },
  "stats": { "done": "57", "total": "62", "percent": "91.9" },
  "assignments": [
 
@@ -42,7 +42,7 @@
         "released_by":      { "pause_id": "GARU" },
         "repo":             { "url": "https://github.com/garu/App-cpanminus-reporter", "relpath": "garu/App-cpanminus-reporter" },
         "pull_requests":    [
-                                { "url": "https://github.com/garu/App-cpanminus-reporter/pull/23", "state": "open", "relpath": "/pull/23" }
+                                { "url": "https://github.com/garu/App-cpanminus-reporter/pull/23", "state": "merged", "relpath": "/pull/23" }
                             ]
     },
     {
