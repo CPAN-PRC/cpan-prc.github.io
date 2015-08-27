@@ -1,6 +1,6 @@
 {
  "month": "June",
- "generated": { "date": "2015-08-08", "time": "21:30:25" },
+ "generated": { "date": "2015-08-27", "time": "19:04:34" },
  "stats": { "done": "43", "total": "65", "percent": "66.2" },
  "assignments": [
 
@@ -141,7 +141,7 @@
         "assignee":         { "github_username": "bjakubski" },
         "distname":         "CLDR-Number",
         "released_by":      { "pause_id": "PATCH" },
-        "repo":             { "url": "https://github.com/perl-cldr/cldr-number-pm5", "relpath": "perl-cldr/cldr-number-pm5" },
+        "repo":             { "url": "https://github.com/patch/cldr-number-pm5", "relpath": "patch/cldr-number-pm5" },
         "pull_requests":    [
                             ]
     },
@@ -217,10 +217,10 @@
         "done":             true,
         "assignee":         { "github_username": "meAmidos" },
         "distname":         "Test-Vars",
-        "released_by":      { "pause_id": "GFUJI" },
+        "released_by":      { "pause_id": "DROLSKY" },
         "repo":             { "url": "https://github.com/gfx/p5-Test-Vars", "relpath": "gfx/p5-Test-Vars" },
         "pull_requests":    [
-                                { "url": "https://github.com/gfx/p5-Test-Vars/pull/13", "state": "open", "relpath": "/pull/13" }
+                                { "url": "https://github.com/gfx/p5-Test-Vars/pull/13", "state": "merged", "relpath": "/pull/13" }
                             ]
     },
     {

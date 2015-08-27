@@ -1,6 +1,6 @@
 {
  "month": "February",
- "generated": { "date": "2015-08-08", "time": "21:28:03" },
+ "generated": { "date": "2015-08-27", "time": "19:02:01" },
  "stats": { "done": "114", "total": "122", "percent": "93.4" },
  "assignments": [
 
@@ -345,7 +345,7 @@
         "done":             true,
         "assignee":         { "github_username": "spacebat" },
         "distname":         "Alien-CMake",
-        "released_by":      { "pause_id": "FROGGS" },
+        "released_by":      { "pause_id": "PLICEASE" },
         "repo":             { "url": "https://github.com/PerlGameDev/Alien-CMake", "relpath": "PerlGameDev/Alien-CMake" },
         "pull_requests":    [
                                 { "url": "https://github.com/PerlGameDev/Alien-CMake/pull/4", "state": "closed", "relpath": "/pull/4" },
@@ -796,8 +796,6 @@
         "released_by":      { "pause_id": "BRUMMETT" },
         "repo":             { "url": "https://github.com/genome/UR", "relpath": "genome/UR" },
         "pull_requests":    [
-                                { "url": "https://github.com/genome/UR/pull/65", "state": "closed", "relpath": "/pull/65" },
-                                { "url": "https://github.com/genome/UR/pull/64", "state": "merged", "relpath": "/pull/64" }
                             ]
     },
     {

@@ -1,7 +1,7 @@
 {
  "month": "July",
- "generated": { "date": "2015-08-08", "time": "21:34:24" },
- "stats": { "done": "41", "total": "53", "percent": "77.4" },
+ "generated": { "date": "2015-08-27", "time": "19:05:08" },
+ "stats": { "done": "44", "total": "52", "percent": "84.6" },
  "assignments": [
 
     {
@@ -11,7 +11,7 @@
         "released_by":      { "pause_id": "BINGOS" },
         "repo":             { "url": "https://github.com/Perl-Toolchain-Gang/ExtUtils-MakeMaker", "relpath": "Perl-Toolchain-Gang/ExtUtils-MakeMaker" },
         "pull_requests":    [
-                                { "url": "https://github.com/Perl-Toolchain-Gang/ExtUtils-MakeMaker/pull/227", "state": "open", "relpath": "/pull/227" }
+                                { "url": "https://github.com/Perl-Toolchain-Gang/ExtUtils-MakeMaker/pull/227", "state": "merged", "relpath": "/pull/227" }
                             ]
     },
     {
@@ -20,15 +20,6 @@
         "distname":         "Capture-Tiny",
         "released_by":      { "pause_id": "DAGOLDEN" },
         "repo":             { "url": "https://github.com/dagolden/Capture-Tiny", "relpath": "dagolden/Capture-Tiny" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "herveus" },
-        "distname":         "Starman",
-        "released_by":      { "pause_id": "MIYAGAWA" },
-        "repo":             { "url": "https://github.com/miyagawa/Starman", "relpath": "miyagawa/Starman" },
         "pull_requests":    [
                             ]
     },
@@ -121,7 +112,7 @@
         "released_by":      { "pause_id": "RKITOVER" },
         "repo":             { "url": "https://github.com/rkitover/net-ssh2", "relpath": "rkitover/net-ssh2" },
         "pull_requests":    [
-                                { "url": "https://github.com/rkitover/net-ssh2/pull/24", "state": "open", "relpath": "/pull/24" }
+                                { "url": "https://github.com/rkitover/net-ssh2/pull/24", "state": "merged", "relpath": "/pull/24" }
                             ]
     },
     {
@@ -207,12 +198,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "bentglasstube" },
-        "distname":         "Inline-CPP",
-        "released_by":      { "pause_id": "DAVIDO" },
-        "repo":             { "url": "https://github.com/daoswald/Inline-CPP", "relpath": "daoswald/Inline-CPP" },
+        "distname":         "Spreadsheet-Read",
+        "released_by":      { "pause_id": "HMBRAND" },
+        "repo":             { "url": "https://github.com/Tux/Spreadsheet-Read", "relpath": "Tux/Spreadsheet-Read" },
         "pull_requests":    [
+                                { "url": "https://github.com/Tux/Spreadsheet-Read/pull/6", "state": "merged", "relpath": "/pull/6" }
                             ]
     },
     {
@@ -324,8 +316,8 @@
         "released_by":      { "pause_id": "SAPER" },
         "repo":             { "url": "https://github.com/maddingue/constant-tiny", "relpath": "maddingue/constant-tiny" },
         "pull_requests":    [
-                                { "url": "https://github.com/maddingue/constant-tiny/pull/3", "state": "open", "relpath": "/pull/3" },
-                                { "url": "https://github.com/maddingue/constant-tiny/pull/2", "state": "open", "relpath": "/pull/2" }
+                                { "url": "https://github.com/maddingue/constant-tiny/pull/3", "state": "merged", "relpath": "/pull/3" },
+                                { "url": "https://github.com/maddingue/constant-tiny/pull/2", "state": "merged", "relpath": "/pull/2" }
                             ]
     },
     {
@@ -369,7 +361,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "brainbuz" },
         "distname":         "URI",
         "released_by":      { "pause_id": "ETHER" },
@@ -434,7 +426,7 @@
         "released_by":      { "pause_id": "THALJEF" },
         "repo":             { "url": "https://github.com/Perl-Critic/Perl-Critic", "relpath": "Perl-Critic/Perl-Critic" },
         "pull_requests":    [
-                                { "url": "https://github.com/Perl-Critic/Perl-Critic/pull/644", "state": "open", "relpath": "/pull/644" },
+                                { "url": "https://github.com/Perl-Critic/Perl-Critic/pull/644", "state": "merged", "relpath": "/pull/644" },
                                 { "url": "https://github.com/Perl-Critic/Perl-Critic/pull/619", "state": "merged", "relpath": "/pull/619" }
                             ]
     },
@@ -468,12 +460,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "neilbowers" },
         "distname":         "Test-Mini",
-        "released_by":      { "pause_id": "PVANDE" },
+        "released_by":      { "pause_id": "NEILB" },
         "repo":             { "url": "https://github.com/pvande/Test-Mini", "relpath": "pvande/Test-Mini" },
         "pull_requests":    [
+                                { "url": "https://github.com/pvande/Test-Mini/pull/16", "state": "open", "relpath": "/pull/16" }
                             ]
     },
     {

@@ -1,6 +1,6 @@
 {
  "month": "May",
- "generated": { "date": "2015-08-08", "time": "21:29:55" },
+ "generated": { "date": "2015-08-27", "time": "19:04:01" },
  "stats": { "done": "48", "total": "52", "percent": "92.3" },
  "assignments": [
 
@@ -31,7 +31,7 @@
         "done":             true,
         "assignee":         { "github_username": "fluca1978" },
         "distname":         "Mouse",
-        "released_by":      { "pause_id": "GFUJI" },
+        "released_by":      { "pause_id": "SYOHEX" },
         "repo":             { "url": "https://github.com/gfx/p5-Mouse", "relpath": "gfx/p5-Mouse" },
         "pull_requests":    [
                                 { "url": "https://github.com/gfx/p5-Mouse/pull/48", "state": "closed", "relpath": "/pull/48" },

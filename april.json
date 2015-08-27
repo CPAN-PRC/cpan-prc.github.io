@@ -1,6 +1,6 @@
 {
  "month": "April",
- "generated": { "date": "2015-08-08", "time": "21:29:24" },
+ "generated": { "date": "2015-08-27", "time": "19:03:29" },
  "stats": { "done": "57", "total": "62", "percent": "91.9" },
  "assignments": [
 
@@ -32,7 +32,7 @@
         "released_by":      { "pause_id": "ECOCODE" },
         "repo":             { "url": "https://github.com/finance-quote/finance-quote", "relpath": "finance-quote/finance-quote" },
         "pull_requests":    [
-                                { "url": "https://github.com/finance-quote/finance-quote/pull/33", "state": "open", "relpath": "/pull/33" }
+                                { "url": "https://github.com/finance-quote/finance-quote/pull/33", "state": "merged", "relpath": "/pull/33" }
                             ]
     },
     {
@@ -246,7 +246,7 @@
         "released_by":      { "pause_id": "THALJEF" },
         "repo":             { "url": "https://github.com/thaljef/Pinto", "relpath": "thaljef/Pinto" },
         "pull_requests":    [
-                                { "url": "https://github.com/thaljef/Pinto/pull/209", "state": "open", "relpath": "/pull/209" },
+                                { "url": "https://github.com/thaljef/Pinto/pull/209", "state": "merged", "relpath": "/pull/209" },
                                 { "url": "https://github.com/thaljef/Pinto/pull/207", "state": "merged", "relpath": "/pull/207" },
                                 { "url": "https://github.com/thaljef/Pinto/pull/206", "state": "merged", "relpath": "/pull/206" },
                                 { "url": "https://github.com/thaljef/Pinto/pull/205", "state": "merged", "relpath": "/pull/205" }
@@ -445,9 +445,8 @@
         "assignee":         { "github_username": "mishin" },
         "distname":         "Pod-Simple",
         "released_by":      { "pause_id": "MARCGREEN" },
-        "repo":             { "url": "https://github.com/theory/pod-simple", "relpath": "theory/pod-simple" },
+        "repo":             { "url": "https://github.com/perl-pod/pod-simple", "relpath": "perl-pod/pod-simple" },
         "pull_requests":    [
-                                { "url": "https://github.com/theory/pod-simple/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]
     },
     {
@@ -617,7 +616,7 @@
         "done":             true,
         "assignee":         { "github_username": "dolmen" },
         "distname":         "Time-Piece",
-        "released_by":      { "pause_id": "RJBS" },
+        "released_by":      { "pause_id": "ESAYM" },
         "repo":             { "url": "https://github.com/rjbs/Time-Piece", "relpath": "rjbs/Time-Piece" },
         "pull_requests":    [
                                 { "url": "https://github.com/rjbs/Time-Piece/pull/13", "state": "closed", "relpath": "/pull/13" },

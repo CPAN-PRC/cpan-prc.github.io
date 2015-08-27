@@ -1,6 +1,6 @@
 {
  "month": "January",
- "generated": { "date": "2015-08-08", "time": "21:27:04" },
+ "generated": { "date": "2015-08-27", "time": "19:00:47" },
  "stats": { "done": "165", "total": "170", "percent": "97.1" },
  "assignments": [
 
@@ -112,10 +112,8 @@
         "assignee":         { "github_username": "neilbowers" },
         "distname":         "Text-Diff",
         "released_by":      { "pause_id": "NEILB" },
-        "repo":             { "url": "https://github.com/Ovid/Text-Diff", "relpath": "Ovid/Text-Diff" },
+        "repo":             { "url": "https://github.com/neilbowers/Text-Diff", "relpath": "neilbowers/Text-Diff" },
         "pull_requests":    [
-                                { "url": "https://github.com/Ovid/Text-Diff/pull/6", "state": "open", "relpath": "/pull/6" },
-                                { "url": "https://github.com/Ovid/Text-Diff/pull/4", "state": "merged", "relpath": "/pull/4" }
                             ]
     },
     {
@@ -802,7 +800,7 @@
         "done":             true,
         "assignee":         { "github_username": "merrilymeredith" },
         "distname":         "Test-Mini",
-        "released_by":      { "pause_id": "PVANDE" },
+        "released_by":      { "pause_id": "NEILB" },
         "repo":             { "url": "https://github.com/pvande/Test-Mini", "relpath": "pvande/Test-Mini" },
         "pull_requests":    [
                                 { "url": "https://github.com/pvande/Test-Mini/pull/14", "state": "open", "relpath": "/pull/14" },
@@ -1018,9 +1016,10 @@
         "done":             true,
         "assignee":         { "github_username": "swuecho" },
         "distname":         "Text-Xslate",
-        "released_by":      { "pause_id": "GFUJI" },
+        "released_by":      { "pause_id": "SYOHEX" },
         "repo":             { "url": "https://github.com/xslate/p5-Text-Xslate", "relpath": "xslate/p5-Text-Xslate" },
         "pull_requests":    [
+                                { "url": "https://github.com/xslate/p5-Text-Xslate/pull/142", "state": "open", "relpath": "/pull/142" },
                                 { "url": "https://github.com/xslate/p5-Text-Xslate/pull/136", "state": "merged", "relpath": "/pull/136" }
                             ]
     },
@@ -1112,7 +1111,7 @@
         "released_by":      { "pause_id": "THALJEF" },
         "repo":             { "url": "https://github.com/Perl-Critic/Perl-Critic", "relpath": "Perl-Critic/Perl-Critic" },
         "pull_requests":    [
-                                { "url": "https://github.com/Perl-Critic/Perl-Critic/pull/617", "state": "open", "relpath": "/pull/617" }
+                                { "url": "https://github.com/Perl-Critic/Perl-Critic/pull/617", "state": "closed", "relpath": "/pull/617" }
                             ]
     },
     {
