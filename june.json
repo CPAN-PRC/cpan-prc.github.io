@@ -1,6 +1,6 @@
 {
  "month": "June",
- "generated": { "date": "2015-08-27", "time": "19:04:34" },
+ "generated": { "date": "2015-08-31", "time": "15:52:34" },
  "stats": { "done": "43", "total": "65", "percent": "66.2" },
  "assignments": [
 
@@ -123,7 +123,7 @@
         "released_by":      { "pause_id": "AKRON" },
         "repo":             { "url": "https://github.com/Akron/XML-Loy", "relpath": "Akron/XML-Loy" },
         "pull_requests":    [
-                                { "url": "https://github.com/Akron/XML-Loy/pull/3", "state": "open", "relpath": "/pull/3" }
+                                { "url": "https://github.com/Akron/XML-Loy/pull/3", "state": "merged", "relpath": "/pull/3" }
                             ]
     },
     {

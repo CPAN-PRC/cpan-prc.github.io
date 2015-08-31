@@ -1,6 +1,6 @@
 {
  "month": "July",
- "generated": { "date": "2015-08-27", "time": "19:05:08" },
+ "generated": { "date": "2015-08-31", "time": "15:53:05" },
  "stats": { "done": "44", "total": "52", "percent": "84.6" },
  "assignments": [
 
@@ -109,7 +109,7 @@
         "done":             true,
         "assignee":         { "github_username": "bk" },
         "distname":         "Net-SSH2",
-        "released_by":      { "pause_id": "RKITOVER" },
+        "released_by":      { "pause_id": "SALVA" },
         "repo":             { "url": "https://github.com/rkitover/net-ssh2", "relpath": "rkitover/net-ssh2" },
         "pull_requests":    [
                                 { "url": "https://github.com/rkitover/net-ssh2/pull/24", "state": "merged", "relpath": "/pull/24" }
