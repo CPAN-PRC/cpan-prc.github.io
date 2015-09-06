@@ -1,56 +1,59 @@
+
 html {
-    font-family: Helvetica, Arial, sans-serif;
     color: #555;
+    font-family: Helvetica,Arial,sans-serif;
     font-size: 12pt;
 }
-
 body {
-    padding: 40px;
     background-color: #f0f0f0;
+    padding: 40px;
 }
-
 h1 {
-    font-size: 24pt;
     color: #c00;
-    margin: 0 0 1em 0;
+    font-size: 24pt;
+    margin: 0 0 1em;
     text-align: center;
 }
-
 h2 {
+    color: #fff;
     font-size: 14pt;
-    color: #800;
     margin-top: 0;
+    background-color: #800;
+    padding: 10px;
 }
-
 div.topic {
-    margin: 25px;
     background-color: #fff;
     display: inline-block;
-    padding: 25px;
-    width: 250px;
-    max-height: 175px;
     height: 175px;
+    margin: 25px;
+    max-height: 175px;
     overflow: hidden;
+    padding: 0;
     vertical-align: top;
+    width: 300px;
+    border: solid 1px #800;
+    border-radius: 10px;
+    padding-bottom: 25px;
 }
-
 a {
     text-decoration: none;
 }
-
 p {
     line-height: 125%;
+    margin-left: 25px;
+    margin-right: 25px;
 }
-
 ul {
     padding-left: 25px;
 }
-
 li {
     line-height: 125%;
 }
-
 table.assignments td {
     padding: 2px 4px;
+    width: 30%;
 }
-
+table.assignments {
+    margin-left: 25px;
+    margin-right: 25px;
+}
