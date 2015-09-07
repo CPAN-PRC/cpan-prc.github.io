@@ -1,19 +1,9 @@
 {
  "month": "June",
- "generated": { "date": "2015-08-31", "time": "15:52:34" },
- "stats": { "done": "43", "total": "65", "percent": "66.2" },
+ "generated": { "date": "2015-09-07", "time": "12:54:46" },
+ "stats": { "done": "43", "total": "45", "percent": "95.6" },
  "assignments": [
 
-    {
-        "done":             false,
-        "assignee":         { "github_username": "rvandam" },
-        "distname":         "DBD-mysql",
-        "released_by":      { "pause_id": "CAPTTOFU" },
-        "repo":             { "url": "https://github.com/perl5-dbi/DBD-mysql", "relpath": "perl5-dbi/DBD-mysql" },
-        "pull_requests":    [
-                                { "url": "https://github.com/perl5-dbi/DBD-mysql/pull/39", "state": "merged", "relpath": "/pull/39" }
-                            ]
-    },
     {
         "done":             true,
         "assignee":         { "github_username": "paultcochrane" },
@@ -49,29 +39,11 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "bugdebugger" },
-        "distname":         "Sereal-Decoder",
-        "released_by":      { "pause_id": "YVES" },
-        "repo":             { "url": "https://github.com/Sereal/Sereal", "relpath": "Sereal/Sereal" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "devogon" },
         "distname":         "CHI",
         "released_by":      { "pause_id": "JSWARTZ" },
         "repo":             { "url": "https://github.com/jonswar/perl-chi", "relpath": "jonswar/perl-chi" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "nbezzala" },
-        "distname":         "Text-CSV-Encoded",
-        "released_by":      { "pause_id": "MAKAMAKA" },
-        "repo":             { "url": "https://github.com/makamaka/Text-CSV-Encoded", "relpath": "makamaka/Text-CSV-Encoded" },
         "pull_requests":    [
                             ]
     },
@@ -93,15 +65,6 @@
         "repo":             { "url": "https://github.com/rizen/Box-Calc", "relpath": "rizen/Box-Calc" },
         "pull_requests":    [
                                 { "url": "https://github.com/rizen/Box-Calc/pull/8", "state": "open", "relpath": "/pull/8" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "cavemanpi" },
-        "distname":         "Encode-Locale",
-        "released_by":      { "pause_id": "GAAS" },
-        "repo":             { "url": "https://github.com/gisle/encode-locale", "relpath": "gisle/encode-locale" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -137,15 +100,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "bjakubski" },
-        "distname":         "CLDR-Number",
-        "released_by":      { "pause_id": "PATCH" },
-        "repo":             { "url": "https://github.com/patch/cldr-number-pm5", "relpath": "patch/cldr-number-pm5" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "ponzellus" },
         "distname":         "Pod-Perldoc",
@@ -163,15 +117,6 @@
         "repo":             { "url": "https://github.com/szbalint/WWW--Curl", "relpath": "szbalint/WWW--Curl" },
         "pull_requests":    [
                                 { "url": "https://github.com/szbalint/WWW--Curl/pull/10", "state": "merged", "relpath": "/pull/10" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "daleevans" },
-        "distname":         "Net-Pcap",
-        "released_by":      { "pause_id": "SAPER" },
-        "repo":             { "url": "https://github.com/maddingue/Net-Pcap", "relpath": "maddingue/Net-Pcap" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -202,15 +147,6 @@
         "repo":             { "url": "https://github.com/libwww-perl/WWW-Mechanize", "relpath": "libwww-perl/WWW-Mechanize" },
         "pull_requests":    [
                                 { "url": "https://github.com/libwww-perl/WWW-Mechanize/pull/24", "state": "open", "relpath": "/pull/24" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "diocles" },
-        "distname":         "App-gh",
-        "released_by":      { "pause_id": "CORNELIUS" },
-        "repo":             { "url": "https://github.com/c9s/App-gh", "relpath": "c9s/App-gh" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -287,15 +223,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "nawglan" },
-        "distname":         "RT-Client-REST",
-        "released_by":      { "pause_id": "DMITRI" },
-        "repo":             { "url": "https://github.com/RT-Client-REST/RT-Client-REST", "relpath": "RT-Client-REST/RT-Client-REST" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "andyjack" },
         "distname":         "Net-Curl",
@@ -313,15 +240,6 @@
         "repo":             { "url": "https://github.com/autarch/File-LibMagic", "relpath": "autarch/File-LibMagic" },
         "pull_requests":    [
                                 { "url": "https://github.com/autarch/File-LibMagic/pull/5", "state": "closed", "relpath": "/pull/5" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "geofffranks" },
-        "distname":         "HTTP-Async",
-        "released_by":      { "pause_id": "KAORU" },
-        "repo":             { "url": "https://github.com/evdb/HTTP-Async", "relpath": "evdb/HTTP-Async" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -368,15 +286,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "bieron" },
-        "distname":         "Alien-TinyCC",
-        "released_by":      { "pause_id": "DCMERTENS" },
-        "repo":             { "url": "https://github.com/run4flat/Alien-TinyCC", "relpath": "run4flat/Alien-TinyCC" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "garu" },
         "distname":         "Net-CLI-Interact",
@@ -385,15 +294,6 @@
         "pull_requests":    [
                                 { "url": "https://github.com/ollyg/Net-CLI-Interact/pull/20", "state": "open", "relpath": "/pull/20" },
                                 { "url": "https://github.com/ollyg/Net-CLI-Interact/pull/19", "state": "open", "relpath": "/pull/19" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "stefany93" },
-        "distname":         "Metabase",
-        "released_by":      { "pause_id": "RJBS" },
-        "repo":             { "url": "https://github.com/rjbs/metabase", "relpath": "rjbs/metabase" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -417,33 +317,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "gryphonshafer" },
-        "distname":         "autobox",
-        "released_by":      { "pause_id": "CHOCOLATE" },
-        "repo":             { "url": "https://github.com/chocolateboy/autobox", "relpath": "chocolateboy/autobox" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "Sniperovitch" },
-        "distname":         "Dist-Zilla-LocaleTextDomain",
-        "released_by":      { "pause_id": "DWHEELER" },
-        "repo":             { "url": "https://github.com/theory/dist-zilla-localetextdomain", "relpath": "theory/dist-zilla-localetextdomain" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "vti" },
-        "distname":         "Spiffy",
-        "released_by":      { "pause_id": "INGY" },
-        "repo":             { "url": "https://github.com/ingydotnet/spiffy-pm", "relpath": "ingydotnet/spiffy-pm" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "monsieurp" },
         "distname":         "Mo",
@@ -462,24 +335,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "Jayceh" },
-        "distname":         "Number-Phone",
-        "released_by":      { "pause_id": "DCANTRELL" },
-        "repo":             { "url": "https://github.com/DrHyde/perl-modules-Number-Phone", "relpath": "DrHyde/perl-modules-Number-Phone" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "mrcaron" },
-        "distname":         "Geo-Coordinates-Converter",
-        "released_by":      { "pause_id": "YAPPO" },
-        "repo":             { "url": "https://github.com/yappo/p5-Geo-Coordinates-Converter", "relpath": "yappo/p5-Geo-Coordinates-Converter" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "Viviparous" },
         "distname":         "HTTP-Throwable",
@@ -487,15 +342,6 @@
         "repo":             { "url": "https://github.com/rjbs/HTTP-Throwable", "relpath": "rjbs/HTTP-Throwable" },
         "pull_requests":    [
                                 { "url": "https://github.com/rjbs/HTTP-Throwable/pull/9", "state": "closed", "relpath": "/pull/9" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "garfieldnate" },
-        "distname":         "Feed-Find",
-        "released_by":      { "pause_id": "BTROTT" },
-        "repo":             { "url": "https://github.com/btrott/Feed-Find", "relpath": "btrott/Feed-Find" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -545,15 +391,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "ivanwills" },
-        "distname":         "Const-Fast",
-        "released_by":      { "pause_id": "LEONT" },
-        "repo":             { "url": "https://github.com/Leont/const-fast", "relpath": "Leont/const-fast" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "krismatthews" },
         "distname":         "Perl-Builtins",
@@ -567,10 +404,10 @@
         "done":             true,
         "assignee":         { "github_username": "shlomif" },
         "distname":         "Devel-LeakGuard-Object",
-        "released_by":      { "pause_id": "ANDYA" },
+        "released_by":      { "pause_id": "PTC" },
         "repo":             { "url": "https://github.com/AndyA/Devel--LeakGuard--Object", "relpath": "AndyA/Devel--LeakGuard--Object" },
         "pull_requests":    [
-                                { "url": "https://github.com/AndyA/Devel--LeakGuard--Object/pull/2", "state": "open", "relpath": "/pull/2" }
+                                { "url": "https://github.com/AndyA/Devel--LeakGuard--Object/pull/2", "state": "merged", "relpath": "/pull/2" }
                             ]
     },
     {
@@ -592,15 +429,6 @@
         "repo":             { "url": "https://github.com/ironcamel/App-p", "relpath": "ironcamel/App-p" },
         "pull_requests":    [
                                 { "url": "https://github.com/ironcamel/App-p/pull/13", "state": "merged", "relpath": "/pull/13" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "mjgardner" },
-        "distname":         "Perl-PrereqScanner",
-        "released_by":      { "pause_id": "RJBS" },
-        "repo":             { "url": "https://github.com/rjbs/Perl-PrereqScanner", "relpath": "rjbs/Perl-PrereqScanner" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -642,15 +470,6 @@
         "repo":             { "url": "https://github.com/neilbowers/String-Interpolate", "relpath": "neilbowers/String-Interpolate" },
         "pull_requests":    [
                                 { "url": "https://github.com/neilbowers/String-Interpolate/pull/1", "state": "merged", "relpath": "/pull/1" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "dolmen" },
-        "distname":         "TryCatch",
-        "released_by":      { "pause_id": "ASH" },
-        "repo":             { "url": "https://github.com/ashb/trycatch/tree/master", "relpath": "ashb/trycatch/tree/master" },
-        "pull_requests":    [
                             ]
     }
  ]

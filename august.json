@@ -1,7 +1,7 @@
 {
  "month": "August",
- "generated": { "date": "2015-08-31", "time": "21:16:03" },
- "stats": { "done": "31", "total": "61", "percent": "50.8" },
+ "generated": { "date": "2015-09-07", "time": "12:55:55" },
+ "stats": { "done": "36", "total": "56", "percent": "64.3" },
  "assignments": [
 
     {
@@ -65,15 +65,6 @@
     },
     {
         "done":             false,
-        "assignee":         { "github_username": "dionys" },
-        "distname":         "Dancer",
-        "released_by":      { "pause_id": "YANICK" },
-        "repo":             { "url": "https://github.com/PerlDancer/Dancer", "relpath": "PerlDancer/Dancer" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
         "assignee":         { "github_username": "samfrown" },
         "distname":         "Proc-ProcessTable",
         "released_by":      { "pause_id": "JWB" },
@@ -87,15 +78,6 @@
         "distname":         "Tatsumaki",
         "released_by":      { "pause_id": "CHIPS" },
         "repo":             { "url": "https://github.com/miyagawa/Tatsumaki", "relpath": "miyagawa/Tatsumaki" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "krismatthews" },
-        "distname":         "AnyEvent-JSONRPC",
-        "released_by":      { "pause_id": "PMAKHOLM" },
-        "repo":             { "url": "https://github.com/pmakholm/anyevent-jsonrpc-perl", "relpath": "pmakholm/anyevent-jsonrpc-perl" },
         "pull_requests":    [
                             ]
     },
@@ -120,12 +102,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "Sweet-kid" },
         "distname":         "SQL-Translator",
         "released_by":      { "pause_id": "ILMARI" },
         "repo":             { "url": "https://github.com/dbsrgits/sql-translator", "relpath": "dbsrgits/sql-translator" },
         "pull_requests":    [
+                                { "url": "https://github.com/dbsrgits/sql-translator/pull/69", "state": "open", "relpath": "/pull/69" }
                             ]
     },
     {
@@ -146,15 +129,6 @@
         "repo":             { "url": "https://github.com/rjbs/Dist-Zilla", "relpath": "rjbs/Dist-Zilla" },
         "pull_requests":    [
                                 { "url": "https://github.com/rjbs/Dist-Zilla/pull/488", "state": "open", "relpath": "/pull/488" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "thrig" },
-        "distname":         "Sereal-Encoder",
-        "released_by":      { "pause_id": "YVES" },
-        "repo":             { "url": "https://github.com/Sereal/Sereal", "relpath": "Sereal/Sereal" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -185,7 +159,7 @@
         "released_by":      { "pause_id": "HORNBURG" },
         "repo":             { "url": "https://github.com/racke/Template-Flute", "relpath": "racke/Template-Flute" },
         "pull_requests":    [
-                                { "url": "https://github.com/racke/Template-Flute/pull/134", "state": "open", "relpath": "/pull/134" },
+                                { "url": "https://github.com/racke/Template-Flute/pull/134", "state": "merged", "relpath": "/pull/134" },
                                 { "url": "https://github.com/racke/Template-Flute/pull/133", "state": "merged", "relpath": "/pull/133" },
                                 { "url": "https://github.com/racke/Template-Flute/pull/132", "state": "merged", "relpath": "/pull/132" },
                                 { "url": "https://github.com/racke/Template-Flute/pull/129", "state": "merged", "relpath": "/pull/129" },
@@ -376,7 +350,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "ratcristian" },
         "distname":         "Mongoose",
         "released_by":      { "pause_id": "DIEGOK" },
@@ -386,12 +360,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "lejeunerenard" },
         "distname":         "Pod-Simple",
         "released_by":      { "pause_id": "MARCGREEN" },
         "repo":             { "url": "https://github.com/perl-pod/pod-simple", "relpath": "perl-pod/pod-simple" },
         "pull_requests":    [
+                                { "url": "https://github.com/perl-pod/pod-simple/pull/72", "state": "open", "relpath": "/pull/72" }
                             ]
     },
     {
@@ -500,24 +475,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "ncstang" },
-        "distname":         "Pegex",
-        "released_by":      { "pause_id": "INGY" },
-        "repo":             { "url": "https://github.com/ingydotnet/pegex-pm", "relpath": "ingydotnet/pegex-pm" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "netangel" },
-        "distname":         "Dancer-Plugin-Database",
-        "released_by":      { "pause_id": "AMBS" },
-        "repo":             { "url": "https://github.com/bigpresh/Dancer-Plugin-Database", "relpath": "bigpresh/Dancer-Plugin-Database" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "kaoru" },
         "distname":         "Reindeer",
@@ -555,7 +512,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "openstrike" },
         "distname":         "LWP-Protocol-https",
         "released_by":      { "pause_id": "MSCHILLI" },
@@ -612,12 +569,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "bentglasstube" },
         "distname":         "Pod-Browser",
         "released_by":      { "pause_id": "PERLER" },
         "repo":             { "url": "https://github.com/monken/p5-pod-browser", "relpath": "monken/p5-pod-browser" },
         "pull_requests":    [
+                                { "url": "https://github.com/monken/p5-pod-browser/pull/1", "state": "open", "relpath": "/pull/1" }
                             ]
     }
  ]

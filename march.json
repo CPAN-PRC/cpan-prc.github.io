@@ -1,6 +1,6 @@
 {
  "month": "March",
- "generated": { "date": "2015-08-31", "time": "15:50:42" },
+ "generated": { "date": "2015-09-07", "time": "12:53:16" },
  "stats": { "done": "89", "total": "92", "percent": "96.7" },
  "assignments": [
 
@@ -25,9 +25,7 @@
                                 { "url": "https://github.com/PerlDancer/Dancer2/pull/962", "state": "closed", "relpath": "/pull/962" },
                                 { "url": "https://github.com/PerlDancer/Dancer2/pull/955", "state": "open", "relpath": "/pull/955" },
                                 { "url": "https://github.com/PerlDancer/Dancer2/pull/946", "state": "closed", "relpath": "/pull/946" },
-                                { "url": "https://github.com/PerlDancer/Dancer2/pull/940", "state": "closed", "relpath": "/pull/940" },
-                                { "url": "https://github.com/PerlDancer/Dancer2/pull/939", "state": "closed", "relpath": "/pull/939" },
-                                { "url": "https://github.com/PerlDancer/Dancer2/pull/934", "state": "closed", "relpath": "/pull/934" }
+                                { "url": "https://github.com/PerlDancer/Dancer2/pull/940", "state": "closed", "relpath": "/pull/940" }
                             ]
     },
     {
