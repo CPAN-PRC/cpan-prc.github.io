@@ -5,7 +5,7 @@ html {
     font-size: 12pt;
 }
 body {
-    background-color: #f0f0f0;
+    background-color: #ccc;
     padding: 40px;
 }
 h1 {
@@ -31,7 +31,6 @@ div.topic {
     padding: 0;
     vertical-align: top;
     width: 300px;
-    border: solid 1px #800;
     border-radius: 5px;
     padding-bottom: 25px;
 }
