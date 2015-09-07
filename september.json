@@ -1,7 +1,7 @@
 {
  "month": "September",
- "generated": { "date": "2015-09-07", "time": "12:56:34" },
- "stats": { "done": "2", "total": "56", "percent": "3.6" },
+ "generated": { "date": "2015-09-07", "time": "19:47:13" },
+ "stats": { "done": "2", "total": "57", "percent": "3.5" },
  "assignments": [
 
     {
@@ -509,6 +509,15 @@
         "distname":         "MooseX-Log-Log4perl",
         "released_by":      { "pause_id": "LAMMEL" },
         "repo":             { "url": "https://github.com/lammel/moosex-log-log4perl", "relpath": "lammel/moosex-log-log4perl" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "adamherzog" },
+        "distname":         "HTTP-Exception",
+        "released_by":      { "pause_id": "TMUELLER" },
+        "repo":             { "url": "https://github.com/tmueller/http_exception", "relpath": "tmueller/http_exception" },
         "pull_requests":    [
                             ]
     }
