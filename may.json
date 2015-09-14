@@ -1,6 +1,6 @@
 {
  "month": "May",
- "generated": { "date": "2015-09-07", "time": "12:54:20" },
+ "generated": { "date": "2015-09-14", "time": "13:51:32" },
  "stats": { "done": "48", "total": "52", "percent": "92.3" },
  "assignments": [
 
@@ -214,7 +214,7 @@
         "assignee":         { "github_username": "andyjack" },
         "distname":         "Perinci-CmdLine-Lite",
         "released_by":      { "pause_id": "PERLANCAR" },
-        "repo":             { "url": "https://github.com/sharyanto/perl-Perinci-CmdLine-Lite", "relpath": "sharyanto/perl-Perinci-CmdLine-Lite" },
+        "repo":             { "url": "https://github.com/perlancar/perl-Perinci-CmdLine-Lite", "relpath": "perlancar/perl-Perinci-CmdLine-Lite" },
         "pull_requests":    [
                                 { "url": "https://github.com/perlancar/perl-Perinci-CmdLine-Lite/pull/3", "state": "open", "relpath": "/pull/3" }
                             ]

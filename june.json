@@ -1,6 +1,6 @@
 {
  "month": "June",
- "generated": { "date": "2015-09-07", "time": "12:54:46" },
+ "generated": { "date": "2015-09-14", "time": "13:51:58" },
  "stats": { "done": "43", "total": "45", "percent": "95.6" },
  "assignments": [
 
@@ -24,8 +24,7 @@
         "released_by":      { "pause_id": "FERKI" },
         "repo":             { "url": "https://github.com/RexOps/Rex", "relpath": "RexOps/Rex" },
         "pull_requests":    [
-                                { "url": "https://github.com/RexOps/Rex/pull/738", "state": "open", "relpath": "/pull/738" },
-                                { "url": "https://github.com/RexOps/Rex/pull/735", "state": "closed", "relpath": "/pull/735" }
+                                { "url": "https://github.com/RexOps/Rex/pull/738", "state": "open", "relpath": "/pull/738" }
                             ]
     },
     {
@@ -64,7 +63,7 @@
         "released_by":      { "pause_id": "RIZEN" },
         "repo":             { "url": "https://github.com/rizen/Box-Calc", "relpath": "rizen/Box-Calc" },
         "pull_requests":    [
-                                { "url": "https://github.com/rizen/Box-Calc/pull/8", "state": "open", "relpath": "/pull/8" }
+                                { "url": "https://github.com/rizen/Box-Calc/pull/8", "state": "merged", "relpath": "/pull/8" }
                             ]
     },
     {

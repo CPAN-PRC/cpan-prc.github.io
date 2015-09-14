@@ -1,7 +1,7 @@
 {
  "month": "September",
- "generated": { "date": "2015-09-07", "time": "19:47:13" },
- "stats": { "done": "2", "total": "57", "percent": "3.5" },
+ "generated": { "date": "2015-09-14", "time": "13:53:52" },
+ "stats": { "done": "4", "total": "61", "percent": "6.6" },
  "assignments": [
 
     {
@@ -80,8 +80,8 @@
         "done":             false,
         "assignee":         { "github_username": "cakirke" },
         "distname":         "B-OPCheck",
-        "released_by":      { "pause_id": "FLORA" },
-        "repo":             { "url": "https://github.com/rafl/b-opcheck", "relpath": "rafl/b-opcheck" },
+        "released_by":      { "pause_id": "ETHER" },
+        "repo":             { "url": "https://github.com/karenetheridge/B-OPCheck", "relpath": "karenetheridge/B-OPCheck" },
         "pull_requests":    [
                             ]
     },
@@ -113,12 +113,14 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "andyjack" },
         "distname":         "Sys-Mmap",
         "released_by":      { "pause_id": "TODDR" },
         "repo":             { "url": "https://github.com/toddr/Sys-Mmap/tree/master", "relpath": "toddr/Sys-Mmap/tree/master" },
         "pull_requests":    [
+                                { "url": "https://github.com/toddr/Sys-Mmap/pull/5", "state": "open", "relpath": "/pull/5" },
+                                { "url": "https://github.com/toddr/Sys-Mmap/pull/4", "state": "open", "relpath": "/pull/4" }
                             ]
     },
     {
@@ -182,6 +184,7 @@
         "released_by":      { "pause_id": "THALJEF" },
         "repo":             { "url": "https://github.com/Perl-Critic/Perl-Critic-StricterSubs", "relpath": "Perl-Critic/Perl-Critic-StricterSubs" },
         "pull_requests":    [
+                                { "url": "https://github.com/Perl-Critic/Perl-Critic-StricterSubs/pull/4", "state": "open", "relpath": "/pull/4" }
                             ]
     },
     {
@@ -204,12 +207,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jmaslak" },
         "distname":         "Spiffy",
         "released_by":      { "pause_id": "INGY" },
         "repo":             { "url": "https://github.com/ingydotnet/spiffy-pm", "relpath": "ingydotnet/spiffy-pm" },
         "pull_requests":    [
+                                { "url": "https://github.com/ingydotnet/spiffy-pm/pull/5", "state": "open", "relpath": "/pull/5" }
                             ]
     },
     {
@@ -300,6 +304,14 @@
         "released_by":      { "pause_id": "JSWARTZ" },
         "repo":             { "url": "https://github.com/jonswar/perl-mason", "relpath": "jonswar/perl-mason" },
         "pull_requests":    [
+                                { "url": "https://github.com/jonswar/perl-mason/pull/31", "state": "open", "relpath": "/pull/31" },
+                                { "url": "https://github.com/jonswar/perl-mason/pull/30", "state": "open", "relpath": "/pull/30" },
+                                { "url": "https://github.com/jonswar/perl-mason/pull/29", "state": "open", "relpath": "/pull/29" },
+                                { "url": "https://github.com/jonswar/perl-mason/pull/28", "state": "open", "relpath": "/pull/28" },
+                                { "url": "https://github.com/jonswar/perl-mason/pull/27", "state": "open", "relpath": "/pull/27" },
+                                { "url": "https://github.com/jonswar/perl-mason/pull/26", "state": "open", "relpath": "/pull/26" },
+                                { "url": "https://github.com/jonswar/perl-mason/pull/25", "state": "open", "relpath": "/pull/25" },
+                                { "url": "https://github.com/jonswar/perl-mason/pull/24", "state": "open", "relpath": "/pull/24" }
                             ]
     },
     {
@@ -518,6 +530,42 @@
         "distname":         "HTTP-Exception",
         "released_by":      { "pause_id": "TMUELLER" },
         "repo":             { "url": "https://github.com/tmueller/http_exception", "relpath": "tmueller/http_exception" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "itcharlie" },
+        "distname":         "Pod-POM",
+        "released_by":      { "pause_id": "NEILB" },
+        "repo":             { "url": "https://github.com/neilbowers/Pod-POM", "relpath": "neilbowers/Pod-POM" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "joenio" },
+        "distname":         "Unicode-LineBreak",
+        "released_by":      { "pause_id": "NEZUMI" },
+        "repo":             { "url": "https://github.com/hatukanezumi/Unicode-LineBreak", "relpath": "hatukanezumi/Unicode-LineBreak" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "oalders" },
+        "distname":         "YAML",
+        "released_by":      { "pause_id": "INGY" },
+        "repo":             { "url": "https://github.com/ingydotnet/yaml-pm", "relpath": "ingydotnet/yaml-pm" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "jeffblack360" },
+        "distname":         "AnyEvent-CacheDNS",
+        "released_by":      { "pause_id": "POTYL" },
+        "repo":             { "url": "https://github.com/potyl/perl-AnyEvent-CacheDNS", "relpath": "potyl/perl-AnyEvent-CacheDNS" },
         "pull_requests":    [
                             ]
     }

@@ -1,11 +1,11 @@
 {
  "month": "August",
- "generated": { "date": "2015-09-07", "time": "12:55:55" },
- "stats": { "done": "36", "total": "56", "percent": "64.3" },
+ "generated": { "date": "2015-09-14", "time": "13:53:11" },
+ "stats": { "done": "38", "total": "55", "percent": "69.1" },
  "assignments": [
 
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "oalders" },
         "distname":         "libwww-perl",
         "released_by":      { "pause_id": "ETHER" },
@@ -42,15 +42,6 @@
         "pull_requests":    [
                                 { "url": "https://github.com/renormalist/Net-SSH-Perl/pull/7", "state": "merged", "relpath": "/pull/7" },
                                 { "url": "https://github.com/renormalist/Net-SSH-Perl/pull/6", "state": "merged", "relpath": "/pull/6" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "itcharlie" },
-        "distname":         "YAML",
-        "released_by":      { "pause_id": "INGY" },
-        "repo":             { "url": "https://github.com/ingydotnet/yaml-pm", "relpath": "ingydotnet/yaml-pm" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -108,7 +99,7 @@
         "released_by":      { "pause_id": "ILMARI" },
         "repo":             { "url": "https://github.com/dbsrgits/sql-translator", "relpath": "dbsrgits/sql-translator" },
         "pull_requests":    [
-                                { "url": "https://github.com/dbsrgits/sql-translator/pull/69", "state": "open", "relpath": "/pull/69" }
+                                { "url": "https://github.com/dbsrgits/sql-translator/pull/69", "state": "closed", "relpath": "/pull/69" }
                             ]
     },
     {
@@ -244,12 +235,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "joenio" },
         "distname":         "Module-CPANTS-Analyse",
         "released_by":      { "pause_id": "ISHIGAKI" },
         "repo":             { "url": "https://github.com/cpants/Module-CPANTS-Analyse", "relpath": "cpants/Module-CPANTS-Analyse" },
         "pull_requests":    [
+                                { "url": "https://github.com/cpants/Module-CPANTS-Analyse/pull/25", "state": "merged", "relpath": "/pull/25" }
                             ]
     },
     {
@@ -405,8 +397,8 @@
         "released_by":      { "pause_id": "RIZEN" },
         "repo":             { "url": "https://github.com/rizen/Box-Calc", "relpath": "rizen/Box-Calc" },
         "pull_requests":    [
-                                { "url": "https://github.com/rizen/Box-Calc/pull/11", "state": "open", "relpath": "/pull/11" },
-                                { "url": "https://github.com/rizen/Box-Calc/pull/10", "state": "open", "relpath": "/pull/10" }
+                                { "url": "https://github.com/rizen/Box-Calc/pull/11", "state": "merged", "relpath": "/pull/11" },
+                                { "url": "https://github.com/rizen/Box-Calc/pull/10", "state": "merged", "relpath": "/pull/10" }
                             ]
     },
     {

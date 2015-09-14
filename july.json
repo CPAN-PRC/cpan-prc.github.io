@@ -1,7 +1,7 @@
 {
  "month": "July",
- "generated": { "date": "2015-09-07", "time": "12:55:20" },
- "stats": { "done": "44", "total": "52", "percent": "84.6" },
+ "generated": { "date": "2015-09-14", "time": "13:52:29" },
+ "stats": { "done": "44", "total": "51", "percent": "86.3" },
  "assignments": [
 
     {
@@ -12,15 +12,6 @@
         "repo":             { "url": "https://github.com/Perl-Toolchain-Gang/ExtUtils-MakeMaker", "relpath": "Perl-Toolchain-Gang/ExtUtils-MakeMaker" },
         "pull_requests":    [
                                 { "url": "https://github.com/Perl-Toolchain-Gang/ExtUtils-MakeMaker/pull/227", "state": "merged", "relpath": "/pull/227" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "jeffblack360" },
-        "distname":         "Capture-Tiny",
-        "released_by":      { "pause_id": "DAGOLDEN" },
-        "repo":             { "url": "https://github.com/dagolden/Capture-Tiny", "relpath": "dagolden/Capture-Tiny" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -131,8 +122,8 @@
         "released_by":      { "pause_id": "GSHANK" },
         "repo":             { "url": "https://github.com/gshank/html-formhandler", "relpath": "gshank/html-formhandler" },
         "pull_requests":    [
-                                { "url": "https://github.com/gshank/html-formhandler/pull/103", "state": "open", "relpath": "/pull/103" },
-                                { "url": "https://github.com/gshank/html-formhandler/pull/102", "state": "open", "relpath": "/pull/102" },
+                                { "url": "https://github.com/gshank/html-formhandler/pull/103", "state": "merged", "relpath": "/pull/103" },
+                                { "url": "https://github.com/gshank/html-formhandler/pull/102", "state": "closed", "relpath": "/pull/102" },
                                 { "url": "https://github.com/gshank/html-formhandler/pull/101", "state": "open", "relpath": "/pull/101" }
                             ]
     },
