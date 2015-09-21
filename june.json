@@ -1,6 +1,6 @@
 {
  "month": "June",
- "generated": { "date": "2015-09-14", "time": "13:51:58" },
+ "generated": { "date": "2015-09-21", "time": "14:28:20" },
  "stats": { "done": "43", "total": "45", "percent": "95.6" },
  "assignments": [
 
@@ -24,7 +24,6 @@
         "released_by":      { "pause_id": "FERKI" },
         "repo":             { "url": "https://github.com/RexOps/Rex", "relpath": "RexOps/Rex" },
         "pull_requests":    [
-                                { "url": "https://github.com/RexOps/Rex/pull/738", "state": "open", "relpath": "/pull/738" }
                             ]
     },
     {

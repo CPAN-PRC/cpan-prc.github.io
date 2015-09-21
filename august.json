@@ -1,6 +1,6 @@
 {
  "month": "August",
- "generated": { "date": "2015-09-14", "time": "13:53:11" },
+ "generated": { "date": "2015-09-21", "time": "14:29:30" },
  "stats": { "done": "38", "total": "55", "percent": "69.1" },
  "assignments": [
 
@@ -37,7 +37,7 @@
         "done":             true,
         "assignee":         { "github_username": "mjg17" },
         "distname":         "Net-SSH-Perl",
-        "released_by":      { "pause_id": "TURNSTEP" },
+        "released_by":      { "pause_id": "SCHWIGON" },
         "repo":             { "url": "https://github.com/renormalist/Net-SSH-Perl", "relpath": "renormalist/Net-SSH-Perl" },
         "pull_requests":    [
                                 { "url": "https://github.com/renormalist/Net-SSH-Perl/pull/7", "state": "merged", "relpath": "/pull/7" },
