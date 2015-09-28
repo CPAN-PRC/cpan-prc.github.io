@@ -1,7 +1,7 @@
 {
  "month": "February",
- "generated": { "date": "2015-09-21", "time": "14:25:39" },
- "stats": { "done": "114", "total": "122", "percent": "93.4" },
+ "generated": { "date": "2015-09-28", "time": "21:10:23" },
+ "stats": { "done": "114", "total": "117", "percent": "97.4" },
  "assignments": [
 
     {
@@ -373,15 +373,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "j1n3l0" },
-        "distname":         "Message-Stack",
-        "released_by":      { "pause_id": "GPHAT" },
-        "repo":             { "url": "https://github.com/gphat/message-stack", "relpath": "gphat/message-stack" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "bieron" },
         "distname":         "Barcode-Code93",
@@ -389,15 +380,6 @@
         "repo":             { "url": "https://github.com/mstratman/Barcode-Code93", "relpath": "mstratman/Barcode-Code93" },
         "pull_requests":    [
                                 { "url": "https://github.com/mstratman/Barcode-Code93/pull/1", "state": "merged", "relpath": "/pull/1" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "polloparatodos" },
-        "distname":         "Expect",
-        "released_by":      { "pause_id": "SZABGAB" },
-        "repo":             { "url": "https://github.com/szabgab/expect.pm", "relpath": "szabgab/expect.pm" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -731,15 +713,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "vytas-dauksa" },
-        "distname":         "Devel-Pragma",
-        "released_by":      { "pause_id": "CHOCOLATE" },
-        "repo":             { "url": "https://github.com/chocolateboy/Devel-Pragma", "relpath": "chocolateboy/Devel-Pragma" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "oaxlin" },
         "distname":         "Any-Template-ProcessDir",
@@ -949,15 +922,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "deven" },
-        "distname":         "Git-CPAN-Hook",
-        "released_by":      { "pause_id": "BOOK" },
-        "repo":             { "url": "https://github.com/book/Git-CPAN-Hook", "relpath": "book/Git-CPAN-Hook" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "estrabd" },
         "distname":         "Sub-Identify",
@@ -995,15 +959,6 @@
         "repo":             { "url": "https://github.com/gfx/p5-Plack-Handler-CLI", "relpath": "gfx/p5-Plack-Handler-CLI" },
         "pull_requests":    [
                                 { "url": "https://github.com/gfx/p5-Plack-Handler-CLI/pull/2", "state": "merged", "relpath": "/pull/2" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "fredericorecsky" },
-        "distname":         "Net-Whois-Raw",
-        "released_by":      { "pause_id": "NALOBIN" },
-        "repo":             { "url": "https://github.com/regru/Net-Whois-Raw", "relpath": "regru/Net-Whois-Raw" },
-        "pull_requests":    [
                             ]
     },
     {

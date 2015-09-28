@@ -1,7 +1,7 @@
 {
  "month": "April",
- "generated": { "date": "2015-09-21", "time": "14:27:16" },
- "stats": { "done": "57", "total": "62", "percent": "91.9" },
+ "generated": { "date": "2015-09-28", "time": "21:12:03" },
+ "stats": { "done": "57", "total": "60", "percent": "95.0" },
  "assignments": [
 
     {
@@ -156,7 +156,7 @@
         "released_by":      { "pause_id": "FUKAI" },
         "repo":             { "url": "https://github.com/iakuf/mojolicious-plugin-serverstatus", "relpath": "iakuf/mojolicious-plugin-serverstatus" },
         "pull_requests":    [
-                                { "url": "https://github.com/iakuf/mojolicious-plugin-serverstatus/pull/2", "state": "open", "relpath": "/pull/2" }
+                                { "url": "https://github.com/iakuf/mojolicious-plugin-serverstatus/pull/2", "state": "merged", "relpath": "/pull/2" }
                             ]
     },
     {
@@ -564,15 +564,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "paulsalcido" },
-        "distname":         "Dancer-Session-Cookie",
-        "released_by":      { "pause_id": "YANICK" },
-        "repo":             { "url": "https://github.com/perldancer/Dancer-Session-Cookie", "relpath": "perldancer/Dancer-Session-Cookie" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "athos-ribeiro" },
         "distname":         "Promises",
@@ -623,15 +614,6 @@
                                 { "url": "https://github.com/rjbs/Time-Piece/pull/12", "state": "merged", "relpath": "/pull/12" },
                                 { "url": "https://github.com/rjbs/Time-Piece/pull/11", "state": "merged", "relpath": "/pull/11" },
                                 { "url": "https://github.com/rjbs/Time-Piece/pull/10", "state": "merged", "relpath": "/pull/10" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "bennythejudge" },
-        "distname":         "XML-Generator-PerlData",
-        "released_by":      { "pause_id": "KHAMPTON" },
-        "repo":             { "url": "https://github.com/ubu/xml-generator-perldata", "relpath": "ubu/xml-generator-perldata" },
-        "pull_requests":    [
                             ]
     },
     {

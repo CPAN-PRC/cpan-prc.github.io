@@ -1,7 +1,7 @@
 {
  "month": "May",
- "generated": { "date": "2015-09-21", "time": "14:27:49" },
- "stats": { "done": "48", "total": "52", "percent": "92.3" },
+ "generated": { "date": "2015-09-28", "time": "21:12:37" },
+ "stats": { "done": "48", "total": "50", "percent": "96.0" },
  "assignments": [
 
     {
@@ -36,15 +36,6 @@
         "pull_requests":    [
                                 { "url": "https://github.com/gfx/p5-Mouse/pull/48", "state": "closed", "relpath": "/pull/48" },
                                 { "url": "https://github.com/gfx/p5-Mouse/pull/46", "state": "closed", "relpath": "/pull/46" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "Hiranyaloka" },
-        "distname":         "Module-Install",
-        "released_by":      { "pause_id": "ETHER" },
-        "repo":             { "url": "https://github.com/Perl-Toolchain-Gang/Module-Install", "relpath": "Perl-Toolchain-Gang/Module-Install" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -396,15 +387,6 @@
         "distname":         "Test-DBIx-Class-Schema",
         "released_by":      { "pause_id": "CHISEL" },
         "repo":             { "url": "https://github.com/chiselwright/test-dbix-class-schema", "relpath": "chiselwright/test-dbix-class-schema" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "SparkeyG" },
-        "distname":         "Catmandu-MARC",
-        "released_by":      { "pause_id": "HOCHSTEN" },
-        "repo":             { "url": "https://github.com/LibreCat/Catmandu-MARC", "relpath": "LibreCat/Catmandu-MARC" },
         "pull_requests":    [
                             ]
     },

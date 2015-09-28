@@ -1,7 +1,7 @@
 {
  "month": "July",
- "generated": { "date": "2015-09-21", "time": "14:28:54" },
- "stats": { "done": "44", "total": "51", "percent": "86.3" },
+ "generated": { "date": "2015-09-28", "time": "21:13:36" },
+ "stats": { "done": "44", "total": "50", "percent": "88.0" },
  "assignments": [
 
     {
@@ -215,7 +215,7 @@
         "released_by":      { "pause_id": "GFUJI" },
         "repo":             { "url": "https://github.com/msgpack/msgpack-perl", "relpath": "msgpack/msgpack-perl" },
         "pull_requests":    [
-                                { "url": "https://github.com/msgpack/msgpack-perl/pull/19", "state": "open", "relpath": "/pull/19" }
+                                { "url": "https://github.com/msgpack/msgpack-perl/pull/19", "state": "merged", "relpath": "/pull/19" }
                             ]
     },
     {
@@ -269,15 +269,6 @@
         "repo":             { "url": "https://github.com/frioux/DBIx-Class-Helpers", "relpath": "frioux/DBIx-Class-Helpers" },
         "pull_requests":    [
                                 { "url": "https://github.com/frioux/DBIx-Class-Helpers/pull/50", "state": "closed", "relpath": "/pull/50" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "jscook" },
-        "distname":         "Hijk",
-        "released_by":      { "pause_id": "AVAR" },
-        "repo":             { "url": "https://github.com/gugod/Hijk", "relpath": "gugod/Hijk" },
-        "pull_requests":    [
                             ]
     },
     {

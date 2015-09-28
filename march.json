@@ -1,18 +1,9 @@
 {
  "month": "March",
- "generated": { "date": "2015-09-21", "time": "14:26:33" },
- "stats": { "done": "89", "total": "92", "percent": "96.7" },
+ "generated": { "date": "2015-09-28", "time": "21:11:22" },
+ "stats": { "done": "89", "total": "90", "percent": "98.9" },
  "assignments": [
 
-    {
-        "done":             false,
-        "assignee":         { "github_username": "sebokopter" },
-        "distname":         "IPC-Run",
-        "released_by":      { "pause_id": "TODDR" },
-        "repo":             { "url": "https://github.com/toddr/IPC-Run", "relpath": "toddr/IPC-Run" },
-        "pull_requests":    [
-                            ]
-    },
     {
         "done":             true,
         "assignee":         { "github_username": "veryrusty" },
@@ -23,8 +14,7 @@
                                 { "url": "https://github.com/PerlDancer/Dancer2/pull/1007", "state": "merged", "relpath": "/pull/1007" },
                                 { "url": "https://github.com/PerlDancer/Dancer2/pull/972", "state": "closed", "relpath": "/pull/972" },
                                 { "url": "https://github.com/PerlDancer/Dancer2/pull/964", "state": "closed", "relpath": "/pull/964" },
-                                { "url": "https://github.com/PerlDancer/Dancer2/pull/962", "state": "closed", "relpath": "/pull/962" },
-                                { "url": "https://github.com/PerlDancer/Dancer2/pull/955", "state": "open", "relpath": "/pull/955" }
+                                { "url": "https://github.com/PerlDancer/Dancer2/pull/962", "state": "closed", "relpath": "/pull/962" }
                             ]
     },
     {
@@ -431,7 +421,7 @@
         "released_by":      { "pause_id": "SHAW" },
         "repo":             { "url": "https://github.com/sshaw/Mojolicious-Command-secret", "relpath": "sshaw/Mojolicious-Command-secret" },
         "pull_requests":    [
-                                { "url": "https://github.com/sshaw/Mojolicious-Command-secret/pull/4", "state": "open", "relpath": "/pull/4" },
+                                { "url": "https://github.com/sshaw/Mojolicious-Command-secret/pull/4", "state": "closed", "relpath": "/pull/4" },
                                 { "url": "https://github.com/sshaw/Mojolicious-Command-secret/pull/3", "state": "closed", "relpath": "/pull/3" }
                             ]
     },
@@ -505,15 +495,6 @@
         "repo":             { "url": "https://github.com/fayland/perl-net-github", "relpath": "fayland/perl-net-github" },
         "pull_requests":    [
                                 { "url": "https://github.com/fayland/perl-net-github/pull/60", "state": "merged", "relpath": "/pull/60" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "starbelly" },
-        "distname":         "Tie-Redis",
-        "released_by":      { "pause_id": "DGL" },
-        "repo":             { "url": "https://github.com/dgl/Tie-Redis", "relpath": "dgl/Tie-Redis" },
-        "pull_requests":    [
                             ]
     },
     {

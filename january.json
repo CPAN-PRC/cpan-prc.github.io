@@ -1,7 +1,7 @@
 {
  "month": "January",
- "generated": { "date": "2015-09-21", "time": "14:24:28" },
- "stats": { "done": "165", "total": "170", "percent": "97.1" },
+ "generated": { "date": "2015-09-28", "time": "21:09:13" },
+ "stats": { "done": "165", "total": "169", "percent": "97.6" },
  "assignments": [
 
     {
@@ -1724,15 +1724,6 @@
         "repo":             { "url": "https://github.com/reneeb/Perl-Critic-OTRS", "relpath": "reneeb/Perl-Critic-OTRS" },
         "pull_requests":    [
                                 { "url": "https://github.com/reneeb/Perl-Critic-OTRS/pull/4", "state": "merged", "relpath": "/pull/4" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "molecules" },
-        "distname":         "Test-PostgreSQL",
-        "released_by":      { "pause_id": "TJC" },
-        "repo":             { "url": "https://github.com/TJC/Test-postgresql", "relpath": "TJC/Test-postgresql" },
-        "pull_requests":    [
                             ]
     },
     {

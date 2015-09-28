@@ -1,7 +1,7 @@
 {
  "month": "August",
- "generated": { "date": "2015-09-21", "time": "14:29:30" },
- "stats": { "done": "38", "total": "55", "percent": "69.1" },
+ "generated": { "date": "2015-09-28", "time": "21:14:13" },
+ "stats": { "done": "42", "total": "54", "percent": "77.8" },
  "assignments": [
 
     {
@@ -245,12 +245,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jluis" },
         "distname":         "Type-Tiny",
         "released_by":      { "pause_id": "TOBYINK" },
         "repo":             { "url": "https://github.com/tobyink/p5-type-tiny", "relpath": "tobyink/p5-type-tiny" },
         "pull_requests":    [
+                                { "url": "https://github.com/tobyink/p5-type-tiny/pull/31", "state": "open", "relpath": "/pull/31" }
                             ]
     },
     {
@@ -450,15 +451,6 @@
     },
     {
         "done":             false,
-        "assignee":         { "github_username": "rafael-araujo" },
-        "distname":         "XML-Struct",
-        "released_by":      { "pause_id": "VOJ" },
-        "repo":             { "url": "https://github.com/nichtich/XML-Struct", "relpath": "nichtich/XML-Struct" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
         "assignee":         { "github_username": "jacoby" },
         "distname":         "System-Command",
         "released_by":      { "pause_id": "BOOK" },
@@ -495,12 +487,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "choroba" },
         "distname":         "Test-Aggregate",
         "released_by":      { "pause_id": "RWSTAUNER" },
         "repo":             { "url": "https://github.com/rwstauner/test-aggregate", "relpath": "rwstauner/test-aggregate" },
         "pull_requests":    [
+                                { "url": "https://github.com/rwstauner/test-aggregate/pull/4", "state": "merged", "relpath": "/pull/4" }
                             ]
     },
     {
@@ -523,12 +516,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "shuwnyuantee" },
         "distname":         "Net-Google-Spreadsheets",
         "released_by":      { "pause_id": "DANJOU" },
         "repo":             { "url": "https://github.com/lopnor/Net-Google-Spreadsheets", "relpath": "lopnor/Net-Google-Spreadsheets" },
         "pull_requests":    [
+                                { "url": "https://github.com/lopnor/Net-Google-Spreadsheets/pull/4", "state": "open", "relpath": "/pull/4" }
                             ]
     },
     {
@@ -552,12 +546,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "brainbuz" },
         "distname":         "Time-ParseDate",
         "released_by":      { "pause_id": "MUIR" },
         "repo":             { "url": "https://github.com/muir/Time-modules", "relpath": "muir/Time-modules" },
         "pull_requests":    [
+                                { "url": "https://github.com/muir/Time-modules/pull/7", "state": "open", "relpath": "/pull/7" }
                             ]
     },
     {
