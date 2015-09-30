@@ -1,7 +1,7 @@
 {
  "month": "August",
- "generated": { "date": "2015-09-28", "time": "21:14:13" },
- "stats": { "done": "42", "total": "54", "percent": "77.8" },
+ "generated": { "date": "2015-09-30", "time": "14:37:56" },
+ "stats": { "done": "42", "total": "53", "percent": "79.2" },
  "assignments": [
 
     {
@@ -447,15 +447,6 @@
         "pull_requests":    [
                                 { "url": "https://github.com/billward/number-format-perl/pull/7", "state": "open", "relpath": "/pull/7" },
                                 { "url": "https://github.com/billward/number-format-perl/pull/6", "state": "merged", "relpath": "/pull/6" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "jacoby" },
-        "distname":         "System-Command",
-        "released_by":      { "pause_id": "BOOK" },
-        "repo":             { "url": "https://github.com/book/System-Command", "relpath": "book/System-Command" },
-        "pull_requests":    [
                             ]
     },
     {

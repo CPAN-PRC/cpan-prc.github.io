@@ -1,18 +1,9 @@
 {
  "month": "September",
- "generated": { "date": "2015-09-28", "time": "21:14:49" },
- "stats": { "done": "25", "total": "58", "percent": "43.1" },
+ "generated": { "date": "2015-09-30", "time": "14:38:41" },
+ "stats": { "done": "29", "total": "53", "percent": "54.7" },
  "assignments": [
 
-    {
-        "done":             false,
-        "assignee":         { "github_username": "ItaloGoncales" },
-        "distname":         "CPAN",
-        "released_by":      { "pause_id": "ANDK" },
-        "repo":             { "url": "https://github.com/andk/cpanpm", "relpath": "andk/cpanpm" },
-        "pull_requests":    [
-                            ]
-    },
     {
         "done":             true,
         "assignee":         { "github_username": "kappa" },
@@ -34,12 +25,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jamessan" },
         "distname":         "Alien-SVN",
         "released_by":      { "pause_id": "MSCHWERN" },
         "repo":             { "url": "https://github.com/evalEmpire/Alien-SVN", "relpath": "evalEmpire/Alien-SVN" },
         "pull_requests":    [
+                                { "url": "https://github.com/evalEmpire/Alien-SVN/pull/15", "state": "open", "relpath": "/pull/15" }
                             ]
     },
     {
@@ -59,15 +51,6 @@
         "distname":         "Text-CSV-Encoded",
         "released_by":      { "pause_id": "MAKAMAKA" },
         "repo":             { "url": "https://github.com/makamaka/Text-CSV-Encoded", "relpath": "makamaka/Text-CSV-Encoded" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "lejeunerenard" },
-        "distname":         "Win32",
-        "released_by":      { "pause_id": "JDB" },
-        "repo":             { "url": "https://github.com/jandubois/win32", "relpath": "jandubois/win32" },
         "pull_requests":    [
                             ]
     },
@@ -130,15 +113,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "labrown" },
-        "distname":         "Task-Biodiverse-NoGUI",
-        "released_by":      { "pause_id": "SLAFFAN" },
-        "repo":             { "url": "https://github.com/shawnlaffan/biodiverse", "relpath": "shawnlaffan/biodiverse" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "mnlagrasta" },
         "distname":         "CLDR-Number",
@@ -189,16 +163,17 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "yanick" },
         "distname":         "App-gh",
         "released_by":      { "pause_id": "CORNELIUS" },
         "repo":             { "url": "https://github.com/c9s/App-gh", "relpath": "c9s/App-gh" },
         "pull_requests":    [
+                                { "url": "https://github.com/c9s/App-gh/pull/55", "state": "merged", "relpath": "/pull/55" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "devogon" },
         "distname":         "ZMQ-LibZMQ3",
         "released_by":      { "pause_id": "DMAKI" },
@@ -236,20 +211,12 @@
     },
     {
         "done":             false,
-        "assignee":         { "github_username": "JenishGnanasicamani" },
-        "distname":         "Vim-Debug",
-        "released_by":      { "pause_id": "KABLAMO" },
-        "repo":             { "url": "https://github.com/kablamo/VimDebug", "relpath": "kablamo/VimDebug" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
         "assignee":         { "github_username": "mjg17" },
         "distname":         "Number-Phone",
         "released_by":      { "pause_id": "DCANTRELL" },
         "repo":             { "url": "https://github.com/DrHyde/perl-modules-Number-Phone", "relpath": "DrHyde/perl-modules-Number-Phone" },
         "pull_requests":    [
+                                { "url": "https://github.com/DrHyde/perl-modules-Number-Phone/pull/45", "state": "open", "relpath": "/pull/45" }
                             ]
     },
     {
@@ -277,15 +244,6 @@
         "repo":             { "url": "https://github.com/ronsavage/Regexp-Assemble", "relpath": "ronsavage/Regexp-Assemble" },
         "pull_requests":    [
                                 { "url": "https://github.com/ronsavage/Regexp-Assemble/pull/1", "state": "merged", "relpath": "/pull/1" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "ppant" },
-        "distname":         "KiokuDB",
-        "released_by":      { "pause_id": "DOY" },
-        "repo":             { "url": "https://github.com/kiokudb/kiokudb", "relpath": "kiokudb/kiokudb" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -557,12 +515,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "choroba" },
         "distname":         "HTML-Element-Replacer",
         "released_by":      { "pause_id": "ACCARDO" },
         "repo":             { "url": "https://github.com/mixedconnections/html-element-replacer", "relpath": "mixedconnections/html-element-replacer" },
         "pull_requests":    [
+                                { "url": "https://github.com/mixedconnections/html-element-replacer/pull/2", "state": "open", "relpath": "/pull/2" }
                             ]
     }
  ]

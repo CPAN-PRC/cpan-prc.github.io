@@ -1,7 +1,7 @@
 {
  "month": "June",
- "generated": { "date": "2015-09-28", "time": "21:13:04" },
- "stats": { "done": "43", "total": "45", "percent": "95.6" },
+ "generated": { "date": "2015-09-30", "time": "14:36:40" },
+ "stats": { "done": "43", "total": "44", "percent": "97.7" },
  "assignments": [
 
     {
@@ -165,16 +165,6 @@
         "repo":             { "url": "https://github.com/timbunce/Memcached-libmemcached", "relpath": "timbunce/Memcached-libmemcached" },
         "pull_requests":    [
                                 { "url": "https://github.com/timbunce/Memcached-libmemcached/pull/19", "state": "open", "relpath": "/pull/19" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "quicoju" },
-        "distname":         "Furl",
-        "released_by":      { "pause_id": "TOKUHIROM" },
-        "repo":             { "url": "https://github.com/tokuhirom/Furl", "relpath": "tokuhirom/Furl" },
-        "pull_requests":    [
-                                { "url": "https://github.com/tokuhirom/Furl/pull/88", "state": "open", "relpath": "/pull/88" }
                             ]
     },
     {
