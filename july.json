@@ -1,7 +1,7 @@
 {
  "month": "July",
- "generated": { "date": "2015-09-30", "time": "14:37:12" },
- "stats": { "done": "44", "total": "50", "percent": "88.0" },
+ "generated": { "date": "2015-10-05", "time": "21:00:04" },
+ "stats": { "done": "44", "total": "46", "percent": "95.7" },
  "assignments": [
 
     {
@@ -107,15 +107,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "BrianMowrey" },
-        "distname":         "Chart-Clicker",
-        "released_by":      { "pause_id": "GPHAT" },
-        "repo":             { "url": "https://github.com/gphat/chart-clicker", "relpath": "gphat/chart-clicker" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "jluis" },
         "distname":         "HTML-FormHandler",
@@ -144,15 +135,6 @@
         "repo":             { "url": "https://github.com/zmughal/p5-Data-Frame", "relpath": "zmughal/p5-Data-Frame" },
         "pull_requests":    [
                                 { "url": "https://github.com/EntropyOrg/p5-Data-Frame/pull/21", "state": "open", "relpath": "/pull/21" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "cjhamil" },
-        "distname":         "POE-Component-SSLify",
-        "released_by":      { "pause_id": "APOCAL" },
-        "repo":             { "url": "https://github.com/apocalypse/perl-poe-sslify", "relpath": "apocalypse/perl-poe-sslify" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -353,15 +335,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "pablrod" },
-        "distname":         "Module-Starter",
-        "released_by":      { "pause_id": "XSAWYERX" },
-        "repo":             { "url": "https://github.com/xsawyerx/module-starter", "relpath": "xsawyerx/module-starter" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "veryrusty" },
         "distname":         "Proc-ProcessTable",
@@ -501,15 +474,6 @@
         "repo":             { "url": "https://github.com/pmakholm/anyevent-jsonrpc-perl", "relpath": "pmakholm/anyevent-jsonrpc-perl" },
         "pull_requests":    [
                                 { "url": "https://github.com/pmakholm/anyevent-jsonrpc-perl/pull/5", "state": "open", "relpath": "/pull/5" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "jamarkham" },
-        "distname":         "Reflex",
-        "released_by":      { "pause_id": "RCAPUTO" },
-        "repo":             { "url": "https://github.com/rcaputo/reflex", "relpath": "rcaputo/reflex" },
-        "pull_requests":    [
                             ]
     },
     {

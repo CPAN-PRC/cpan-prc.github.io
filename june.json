@@ -1,6 +1,6 @@
 {
  "month": "June",
- "generated": { "date": "2015-09-30", "time": "14:36:40" },
+ "generated": { "date": "2015-10-05", "time": "20:59:30" },
  "stats": { "done": "43", "total": "44", "percent": "97.7" },
  "assignments": [
 
@@ -194,7 +194,7 @@
         "released_by":      { "pause_id": "SZABGAB" },
         "repo":             { "url": "https://github.com/szabgab/SVG", "relpath": "szabgab/SVG" },
         "pull_requests":    [
-                                { "url": "https://github.com/szabgab/SVG/pull/5", "state": "open", "relpath": "/pull/5" },
+                                { "url": "https://github.com/szabgab/SVG/pull/5", "state": "merged", "relpath": "/pull/5" },
                                 { "url": "https://github.com/szabgab/SVG/pull/4", "state": "merged", "relpath": "/pull/4" }
                             ]
     },

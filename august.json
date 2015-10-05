@@ -1,6 +1,6 @@
 {
  "month": "August",
- "generated": { "date": "2015-09-30", "time": "14:37:56" },
+ "generated": { "date": "2015-10-05", "time": "21:00:58" },
  "stats": { "done": "42", "total": "53", "percent": "79.2" },
  "assignments": [
 
@@ -296,7 +296,7 @@
         "assignee":         { "github_username": "mattijevi" },
         "distname":         "Net-AMQP-RabbitMQ",
         "released_by":      { "pause_id": "MARKELLIS" },
-        "repo":             { "url": "https://github.com/markwellis/net-amqp-rabbitmq", "relpath": "markwellis/net-amqp-rabbitmq" },
+        "repo":             { "url": "https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq", "relpath": "net-amqp-rabbitmq/net-amqp-rabbitmq" },
         "pull_requests":    [
                             ]
     },
@@ -523,6 +523,7 @@
         "released_by":      { "pause_id": "CADE" },
         "repo":             { "url": "https://github.com/cade-vs/perl-time-progress", "relpath": "cade-vs/perl-time-progress" },
         "pull_requests":    [
+                                { "url": "https://github.com/cade-vs/perl-time-progress/pull/3", "state": "open", "relpath": "/pull/3" },
                                 { "url": "https://github.com/cade-vs/perl-time-progress/pull/2", "state": "merged", "relpath": "/pull/2" },
                                 { "url": "https://github.com/cade-vs/perl-time-progress/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]

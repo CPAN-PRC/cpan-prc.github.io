@@ -1,7 +1,7 @@
 {
  "month": "September",
- "generated": { "date": "2015-09-30", "time": "14:38:41" },
- "stats": { "done": "29", "total": "53", "percent": "54.7" },
+ "generated": { "date": "2015-10-05", "time": "21:01:42" },
+ "stats": { "done": "31", "total": "49", "percent": "63.3" },
  "assignments": [
 
     {
@@ -46,12 +46,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "zoffixznet" },
         "distname":         "Text-CSV-Encoded",
-        "released_by":      { "pause_id": "MAKAMAKA" },
+        "released_by":      { "pause_id": "ZARQUON" },
         "repo":             { "url": "https://github.com/makamaka/Text-CSV-Encoded", "relpath": "makamaka/Text-CSV-Encoded" },
         "pull_requests":    [
+                                { "url": "https://github.com/makamaka/Text-CSV-Encoded/pull/6", "state": "open", "relpath": "/pull/6" }
                             ]
     },
     {
@@ -60,15 +61,6 @@
         "distname":         "B-OPCheck",
         "released_by":      { "pause_id": "ETHER" },
         "repo":             { "url": "https://github.com/karenetheridge/B-OPCheck", "relpath": "karenetheridge/B-OPCheck" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "pwr22" },
-        "distname":         "Net-Google-FederatedLogin",
-        "released_by":      { "pause_id": "CEBJYRE" },
-        "repo":             { "url": "https://github.com/cebjyre/Net-Google-FederatedLogin", "relpath": "cebjyre/Net-Google-FederatedLogin" },
         "pull_requests":    [
                             ]
     },
@@ -210,13 +202,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "mjg17" },
         "distname":         "Number-Phone",
         "released_by":      { "pause_id": "DCANTRELL" },
         "repo":             { "url": "https://github.com/DrHyde/perl-modules-Number-Phone", "relpath": "DrHyde/perl-modules-Number-Phone" },
         "pull_requests":    [
-                                { "url": "https://github.com/DrHyde/perl-modules-Number-Phone/pull/45", "state": "open", "relpath": "/pull/45" }
+                                { "url": "https://github.com/DrHyde/perl-modules-Number-Phone/pull/45", "state": "merged", "relpath": "/pull/45" }
                             ]
     },
     {
@@ -321,6 +313,8 @@
         "released_by":      { "pause_id": "SZABGAB" },
         "repo":             { "url": "https://github.com/szabgab/pdf-create", "relpath": "szabgab/pdf-create" },
         "pull_requests":    [
+                                { "url": "https://github.com/szabgab/pdf-create/pull/4", "state": "merged", "relpath": "/pull/4" },
+                                { "url": "https://github.com/szabgab/pdf-create/pull/3", "state": "merged", "relpath": "/pull/3" },
                                 { "url": "https://github.com/szabgab/pdf-create/pull/2", "state": "merged", "relpath": "/pull/2" },
                                 { "url": "https://github.com/szabgab/pdf-create/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]
@@ -367,15 +361,6 @@
     },
     {
         "done":             false,
-        "assignee":         { "github_username": "dionys" },
-        "distname":         "Inline-C",
-        "released_by":      { "pause_id": "INGY" },
-        "repo":             { "url": "https://github.com/ingydotnet/inline-c-pm", "relpath": "ingydotnet/inline-c-pm" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
         "assignee":         { "github_username": "mrcaron" },
         "distname":         "Riji",
         "released_by":      { "pause_id": "SONGMU" },
@@ -404,15 +389,6 @@
     },
     {
         "done":             false,
-        "assignee":         { "github_username": "ncstang" },
-        "distname":         "Feed-Find",
-        "released_by":      { "pause_id": "BTROTT" },
-        "repo":             { "url": "https://github.com/btrott/Feed-Find", "relpath": "btrott/Feed-Find" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
         "assignee":         { "github_username": "Sweet-kid" },
         "distname":         "MooseX-Log-Log4perl",
         "released_by":      { "pause_id": "LAMMEL" },
@@ -426,15 +402,6 @@
         "distname":         "HTTP-Exception",
         "released_by":      { "pause_id": "TMUELLER" },
         "repo":             { "url": "https://github.com/tmueller/http_exception", "relpath": "tmueller/http_exception" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "itcharlie" },
-        "distname":         "Pod-POM",
-        "released_by":      { "pause_id": "NEILB" },
-        "repo":             { "url": "https://github.com/neilbowers/Pod-POM", "relpath": "neilbowers/Pod-POM" },
         "pull_requests":    [
                             ]
     },
