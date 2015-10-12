@@ -1,7 +1,7 @@
 {
  "month": "October",
- "generated": { "date": "2015-10-05", "time": "21:02:22" },
- "stats": { "done": "4", "total": "58", "percent": "6.9" },
+ "generated": { "date": "2015-10-12", "time": "16:05:58" },
+ "stats": { "done": "5", "total": "58", "percent": "8.6" },
  "assignments": [
 
     {
@@ -110,6 +110,7 @@
         "released_by":      { "pause_id": "SLAFFAN" },
         "repo":             { "url": "https://github.com/shawnlaffan/biodiverse", "relpath": "shawnlaffan/biodiverse" },
         "pull_requests":    [
+                                { "url": "https://github.com/shawnlaffan/biodiverse/pull/570", "state": "merged", "relpath": "/pull/570" }
                             ]
     },
     {
@@ -219,6 +220,7 @@
         "released_by":      { "pause_id": "JDB" },
         "repo":             { "url": "https://github.com/jandubois/win32-console", "relpath": "jandubois/win32-console" },
         "pull_requests":    [
+                                { "url": "https://github.com/jandubois/win32-console/pull/4", "state": "open", "relpath": "/pull/4" }
                             ]
     },
     {
@@ -237,6 +239,8 @@
         "released_by":      { "pause_id": "DOY" },
         "repo":             { "url": "https://github.com/kiokudb/kiokudb", "relpath": "kiokudb/kiokudb" },
         "pull_requests":    [
+                                { "url": "https://github.com/kiokudb/kiokudb/pull/15", "state": "open", "relpath": "/pull/15" },
+                                { "url": "https://github.com/kiokudb/kiokudb/pull/14", "state": "open", "relpath": "/pull/14" },
                                 { "url": "https://github.com/kiokudb/kiokudb/pull/13", "state": "open", "relpath": "/pull/13" },
                                 { "url": "https://github.com/kiokudb/kiokudb/pull/12", "state": "open", "relpath": "/pull/12" }
                             ]
@@ -257,6 +261,8 @@
         "released_by":      { "pause_id": "AVAR" },
         "repo":             { "url": "https://github.com/gugod/Hijk", "relpath": "gugod/Hijk" },
         "pull_requests":    [
+                                { "url": "https://github.com/gugod/Hijk/pull/24", "state": "open", "relpath": "/pull/24" },
+                                { "url": "https://github.com/gugod/Hijk/pull/23", "state": "open", "relpath": "/pull/23" }
                             ]
     },
     {
@@ -293,6 +299,7 @@
         "released_by":      { "pause_id": "GUIMARD" },
         "repo":             { "url": "https://github.com/rs/net-server-mail", "relpath": "rs/net-server-mail" },
         "pull_requests":    [
+                                { "url": "https://github.com/rs/net-server-mail/pull/6", "state": "merged", "relpath": "/pull/6" }
                             ]
     },
     {
@@ -370,6 +377,7 @@
         "released_by":      { "pause_id": "SALVA" },
         "repo":             { "url": "https://github.com/salva/p5-Net-SFTP-Foreign", "relpath": "salva/p5-Net-SFTP-Foreign" },
         "pull_requests":    [
+                                { "url": "https://github.com/salva/p5-Net-SFTP-Foreign/pull/6", "state": "merged", "relpath": "/pull/6" }
                             ]
     },
     {
@@ -399,6 +407,8 @@
         "released_by":      { "pause_id": "BEPPU" },
         "repo":             { "url": "https://github.com/beppu/squatting", "relpath": "beppu/squatting" },
         "pull_requests":    [
+                                { "url": "https://github.com/beppu/squatting/pull/6", "state": "merged", "relpath": "/pull/6" },
+                                { "url": "https://github.com/beppu/squatting/pull/5", "state": "merged", "relpath": "/pull/5" }
                             ]
     },
     {
@@ -427,6 +437,7 @@
         "released_by":      { "pause_id": "SHOGO" },
         "repo":             { "url": "https://github.com/shogo82148/Redis-Fast", "relpath": "shogo82148/Redis-Fast" },
         "pull_requests":    [
+                                { "url": "https://github.com/shogo82148/Redis-Fast/pull/42", "state": "open", "relpath": "/pull/42" }
                             ]
     },
     {
@@ -458,7 +469,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "quicoju" },
         "distname":         "MojoX-Routes-AsGraph",
         "released_by":      { "pause_id": "MELO" },
@@ -510,6 +521,7 @@
         "released_by":      { "pause_id": "EXODIST" },
         "repo":             { "url": "https://github.com/exodist/Declare-CLI", "relpath": "exodist/Declare-CLI" },
         "pull_requests":    [
+                                { "url": "https://github.com/exodist/Declare-CLI/pull/3", "state": "merged", "relpath": "/pull/3" }
                             ]
     },
     {

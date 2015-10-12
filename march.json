@@ -1,6 +1,6 @@
 {
  "month": "March",
- "generated": { "date": "2015-10-05", "time": "20:57:38" },
+ "generated": { "date": "2015-10-12", "time": "16:02:16" },
  "stats": { "done": "89", "total": "90", "percent": "98.9" },
  "assignments": [
 
@@ -818,7 +818,7 @@
         "released_by":      { "pause_id": "NIGELM" },
         "repo":             { "url": "https://github.com/nigelm/html-format", "relpath": "nigelm/html-format" },
         "pull_requests":    [
-                                { "url": "https://github.com/nigelm/html-format/pull/5", "state": "open", "relpath": "/pull/5" }
+                                { "url": "https://github.com/nigelm/html-formatter/pull/5", "state": "open", "relpath": "/pull/5" }
                             ]
     },
     {

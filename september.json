@@ -1,6 +1,6 @@
 {
  "month": "September",
- "generated": { "date": "2015-10-05", "time": "21:01:42" },
+ "generated": { "date": "2015-10-12", "time": "16:05:31" },
  "stats": { "done": "31", "total": "49", "percent": "63.3" },
  "assignments": [
 
@@ -313,6 +313,7 @@
         "released_by":      { "pause_id": "SZABGAB" },
         "repo":             { "url": "https://github.com/szabgab/pdf-create", "relpath": "szabgab/pdf-create" },
         "pull_requests":    [
+                                { "url": "https://github.com/szabgab/pdf-create/pull/5", "state": "open", "relpath": "/pull/5" },
                                 { "url": "https://github.com/szabgab/pdf-create/pull/4", "state": "merged", "relpath": "/pull/4" },
                                 { "url": "https://github.com/szabgab/pdf-create/pull/3", "state": "merged", "relpath": "/pull/3" },
                                 { "url": "https://github.com/szabgab/pdf-create/pull/2", "state": "merged", "relpath": "/pull/2" },

@@ -1,6 +1,6 @@
 {
  "month": "June",
- "generated": { "date": "2015-10-05", "time": "20:59:30" },
+ "generated": { "date": "2015-10-12", "time": "16:03:58" },
  "stats": { "done": "43", "total": "44", "percent": "97.7" },
  "assignments": [
 
@@ -446,8 +446,8 @@
         "released_by":      { "pause_id": "OMEGA" },
         "repo":             { "url": "https://github.com/kamenov/PDF-Table", "relpath": "kamenov/PDF-Table" },
         "pull_requests":    [
-                                { "url": "https://github.com/kamenov/PDF-Table/pull/19", "state": "open", "relpath": "/pull/19" },
-                                { "url": "https://github.com/kamenov/PDF-Table/pull/18", "state": "open", "relpath": "/pull/18" }
+                                { "url": "https://github.com/kamenov/PDF-Table/pull/19", "state": "merged", "relpath": "/pull/19" },
+                                { "url": "https://github.com/kamenov/PDF-Table/pull/18", "state": "merged", "relpath": "/pull/18" }
                             ]
     },
     {
