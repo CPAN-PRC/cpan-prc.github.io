@@ -1,6 +1,6 @@
 {
  "month": "August",
- "generated": { "date": "2015-10-12", "time": "16:05:00" },
+ "generated": { "date": "2015-10-19", "time": "14:28:31" },
  "stats": { "done": "42", "total": "53", "percent": "79.2" },
  "assignments": [
 
@@ -119,8 +119,8 @@
         "released_by":      { "pause_id": "RJBS" },
         "repo":             { "url": "https://github.com/rjbs/Dist-Zilla", "relpath": "rjbs/Dist-Zilla" },
         "pull_requests":    [
-                                { "url": "https://github.com/rjbs/Dist-Zilla/pull/498", "state": "open", "relpath": "/pull/498" },
-                                { "url": "https://github.com/rjbs/Dist-Zilla/pull/488", "state": "open", "relpath": "/pull/488" }
+                                { "url": "https://github.com/rjbs/Dist-Zilla/pull/498", "state": "closed", "relpath": "/pull/498" },
+                                { "url": "https://github.com/rjbs/Dist-Zilla/pull/488", "state": "closed", "relpath": "/pull/488" }
                             ]
     },
     {

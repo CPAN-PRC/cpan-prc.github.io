@@ -1,7 +1,7 @@
 {
  "month": "September",
- "generated": { "date": "2015-10-12", "time": "16:05:31" },
- "stats": { "done": "31", "total": "49", "percent": "63.3" },
+ "generated": { "date": "2015-10-19", "time": "14:29:06" },
+ "stats": { "done": "33", "total": "49", "percent": "67.3" },
  "assignments": [
 
     {
@@ -208,6 +208,8 @@
         "released_by":      { "pause_id": "DCANTRELL" },
         "repo":             { "url": "https://github.com/DrHyde/perl-modules-Number-Phone", "relpath": "DrHyde/perl-modules-Number-Phone" },
         "pull_requests":    [
+                                { "url": "https://github.com/DrHyde/perl-modules-Number-Phone/pull/48", "state": "merged", "relpath": "/pull/48" },
+                                { "url": "https://github.com/DrHyde/perl-modules-Number-Phone/pull/47", "state": "merged", "relpath": "/pull/47" },
                                 { "url": "https://github.com/DrHyde/perl-modules-Number-Phone/pull/45", "state": "merged", "relpath": "/pull/45" }
                             ]
     },
@@ -229,7 +231,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "mishin" },
         "distname":         "Regexp-Assemble",
         "released_by":      { "pause_id": "RSAVAGE" },
@@ -313,11 +315,11 @@
         "released_by":      { "pause_id": "SZABGAB" },
         "repo":             { "url": "https://github.com/szabgab/pdf-create", "relpath": "szabgab/pdf-create" },
         "pull_requests":    [
-                                { "url": "https://github.com/szabgab/pdf-create/pull/5", "state": "open", "relpath": "/pull/5" },
-                                { "url": "https://github.com/szabgab/pdf-create/pull/4", "state": "merged", "relpath": "/pull/4" },
-                                { "url": "https://github.com/szabgab/pdf-create/pull/3", "state": "merged", "relpath": "/pull/3" },
-                                { "url": "https://github.com/szabgab/pdf-create/pull/2", "state": "merged", "relpath": "/pull/2" },
-                                { "url": "https://github.com/szabgab/pdf-create/pull/1", "state": "merged", "relpath": "/pull/1" }
+                                { "url": "https://github.com/Manwar/pdf-create/pull/5", "state": "merged", "relpath": "/pull/5" },
+                                { "url": "https://github.com/Manwar/pdf-create/pull/4", "state": "merged", "relpath": "/pull/4" },
+                                { "url": "https://github.com/Manwar/pdf-create/pull/3", "state": "merged", "relpath": "/pull/3" },
+                                { "url": "https://github.com/Manwar/pdf-create/pull/2", "state": "merged", "relpath": "/pull/2" },
+                                { "url": "https://github.com/Manwar/pdf-create/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]
     },
     {
@@ -333,12 +335,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "monsieurp" },
         "distname":         "Data-Util",
         "released_by":      { "pause_id": "GFUJI" },
         "repo":             { "url": "https://github.com/gfx/Perl-Data-Util", "relpath": "gfx/Perl-Data-Util" },
         "pull_requests":    [
+                                { "url": "https://github.com/gfx/Perl-Data-Util/pull/3", "state": "open", "relpath": "/pull/3" }
                             ]
     },
     {

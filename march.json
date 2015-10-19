@@ -1,6 +1,6 @@
 {
  "month": "March",
- "generated": { "date": "2015-10-12", "time": "16:02:16" },
+ "generated": { "date": "2015-10-19", "time": "14:25:44" },
  "stats": { "done": "89", "total": "90", "percent": "98.9" },
  "assignments": [
 
@@ -11,8 +11,8 @@
         "released_by":      { "pause_id": "XSAWYERX" },
         "repo":             { "url": "https://github.com/PerlDancer/Dancer2", "relpath": "PerlDancer/Dancer2" },
         "pull_requests":    [
-                                { "url": "https://github.com/PerlDancer/Dancer2/pull/1007", "state": "merged", "relpath": "/pull/1007" },
-                                { "url": "https://github.com/PerlDancer/Dancer2/pull/972", "state": "closed", "relpath": "/pull/972" }
+                                { "url": "https://github.com/PerlDancer/Dancer2/pull/1037", "state": "open", "relpath": "/pull/1037" },
+                                { "url": "https://github.com/PerlDancer/Dancer2/pull/1007", "state": "merged", "relpath": "/pull/1007" }
                             ]
     },
     {
@@ -327,7 +327,7 @@
         "released_by":      { "pause_id": "SZABGAB" },
         "repo":             { "url": "https://github.com/szabgab/Test-Strict", "relpath": "szabgab/Test-Strict" },
         "pull_requests":    [
-                                { "url": "https://github.com/szabgab/Test-Strict/pull/10", "state": "merged", "relpath": "/pull/10" }
+                                { "url": "https://github.com/Manwar/Test-Strict/pull/10", "state": "merged", "relpath": "/pull/10" }
                             ]
     },
     {

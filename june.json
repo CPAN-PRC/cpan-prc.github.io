@@ -1,6 +1,6 @@
 {
  "month": "June",
- "generated": { "date": "2015-10-12", "time": "16:03:58" },
+ "generated": { "date": "2015-10-19", "time": "14:27:34" },
  "stats": { "done": "43", "total": "44", "percent": "97.7" },
  "assignments": [
 
@@ -104,7 +104,6 @@
         "released_by":      { "pause_id": "MALLEN" },
         "repo":             { "url": "https://github.com/mrallen1/Pod-Perldoc", "relpath": "mrallen1/Pod-Perldoc" },
         "pull_requests":    [
-                                { "url": "https://github.com/mrallen1/Pod-Perldoc/pull/17", "state": "merged", "relpath": "/pull/17" }
                             ]
     },
     {

@@ -1,7 +1,7 @@
 {
  "month": "October",
- "generated": { "date": "2015-10-12", "time": "16:05:58" },
- "stats": { "done": "5", "total": "58", "percent": "8.6" },
+ "generated": { "date": "2015-10-19", "time": "14:29:35" },
+ "stats": { "done": "7", "total": "60", "percent": "11.7" },
  "assignments": [
 
     {
@@ -183,6 +183,9 @@
         "released_by":      { "pause_id": "TOBYINK" },
         "repo":             { "url": "https://github.com/tobyink/p5-kavorka", "relpath": "tobyink/p5-kavorka" },
         "pull_requests":    [
+                                { "url": "https://github.com/tobyink/p5-kavorka/pull/17", "state": "open", "relpath": "/pull/17" },
+                                { "url": "https://github.com/tobyink/p5-kavorka/pull/16", "state": "open", "relpath": "/pull/16" },
+                                { "url": "https://github.com/tobyink/p5-kavorka/pull/15", "state": "open", "relpath": "/pull/15" }
                             ]
     },
     {
@@ -221,15 +224,6 @@
         "repo":             { "url": "https://github.com/jandubois/win32-console", "relpath": "jandubois/win32-console" },
         "pull_requests":    [
                                 { "url": "https://github.com/jandubois/win32-console/pull/4", "state": "open", "relpath": "/pull/4" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "SkySymbol" },
-        "distname":         "CHI-Driver-Memcached",
-        "released_by":      { "pause_id": "JSWARTZ" },
-        "repo":             { "url": "https://github.com/jonswar/perl-chi-driver-memcached", "relpath": "jonswar/perl-chi-driver-memcached" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -309,10 +303,10 @@
         "released_by":      { "pause_id": "SORTIZ" },
         "repo":             { "url": "https://github.com/salortiz/LMDB_File", "relpath": "salortiz/LMDB_File" },
         "pull_requests":    [
-                                { "url": "https://github.com/salortiz/LMDB_File/pull/9", "state": "open", "relpath": "/pull/9" },
-                                { "url": "https://github.com/salortiz/LMDB_File/pull/8", "state": "open", "relpath": "/pull/8" },
+                                { "url": "https://github.com/salortiz/LMDB_File/pull/9", "state": "merged", "relpath": "/pull/9" },
+                                { "url": "https://github.com/salortiz/LMDB_File/pull/8", "state": "merged", "relpath": "/pull/8" },
                                 { "url": "https://github.com/salortiz/LMDB_File/pull/7", "state": "open", "relpath": "/pull/7" },
-                                { "url": "https://github.com/salortiz/LMDB_File/pull/6", "state": "open", "relpath": "/pull/6" }
+                                { "url": "https://github.com/salortiz/LMDB_File/pull/6", "state": "merged", "relpath": "/pull/6" }
                             ]
     },
     {
@@ -412,12 +406,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "Viviparous" },
         "distname":         "Dist-Zilla-LocaleTextDomain",
         "released_by":      { "pause_id": "DWHEELER" },
         "repo":             { "url": "https://github.com/theory/dist-zilla-localetextdomain", "relpath": "theory/dist-zilla-localetextdomain" },
         "pull_requests":    [
+                                { "url": "https://github.com/theory/dist-zilla-localetextdomain/pull/13", "state": "merged", "relpath": "/pull/13" }
                             ]
     },
     {
@@ -437,7 +432,7 @@
         "released_by":      { "pause_id": "SHOGO" },
         "repo":             { "url": "https://github.com/shogo82148/Redis-Fast", "relpath": "shogo82148/Redis-Fast" },
         "pull_requests":    [
-                                { "url": "https://github.com/shogo82148/Redis-Fast/pull/42", "state": "open", "relpath": "/pull/42" }
+                                { "url": "https://github.com/shogo82148/Redis-Fast/pull/42", "state": "merged", "relpath": "/pull/42" }
                             ]
     },
     {
@@ -512,10 +507,11 @@
         "released_by":      { "pause_id": "OALDERS" },
         "repo":             { "url": "https://github.com/oalders/http-browserdetect", "relpath": "oalders/http-browserdetect" },
         "pull_requests":    [
+                                { "url": "https://github.com/oalders/http-browserdetect/pull/114", "state": "merged", "relpath": "/pull/114" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "zhouzhen1" },
         "distname":         "Declare-CLI",
         "released_by":      { "pause_id": "EXODIST" },
@@ -548,6 +544,33 @@
         "distname":         "Vroom",
         "released_by":      { "pause_id": "INGY" },
         "repo":             { "url": "https://github.com/ingydotnet/vroom-pm", "relpath": "ingydotnet/vroom-pm" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "monsieurp" },
+        "distname":         "GraphViz",
+        "released_by":      { "pause_id": "RSAVAGE" },
+        "repo":             { "url": "https://github.com/ronsavage/GraphViz", "relpath": "ronsavage/GraphViz" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "mishin" },
+        "distname":         "Feed-Find",
+        "released_by":      { "pause_id": "BTROTT" },
+        "repo":             { "url": "https://github.com/btrott/Feed-Find", "relpath": "btrott/Feed-Find" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "SkySymbol" },
+        "distname":         "Mail-DeliveryStatus-BounceParser",
+        "released_by":      { "pause_id": "RJBS" },
+        "repo":             { "url": "https://github.com/rjbs/Mail-DeliveryStatus-BounceParser", "relpath": "rjbs/Mail-DeliveryStatus-BounceParser" },
         "pull_requests":    [
                             ]
     }
