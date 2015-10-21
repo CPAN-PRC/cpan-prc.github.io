@@ -1,6 +1,6 @@
 {
  "month": "August",
- "generated": { "date": "2015-10-19", "time": "14:28:31" },
+ "generated": { "date": "2015-10-21", "time": "15:47:35" },
  "stats": { "done": "42", "total": "53", "percent": "79.2" },
  "assignments": [
 
@@ -519,7 +519,7 @@
     },
     {
         "done":             true,
-        "assignee":         { "github_username": "neilbowers" },
+        "assignee":         { "github_username": "neilb" },
         "distname":         "Time-Progress",
         "released_by":      { "pause_id": "CADE" },
         "repo":             { "url": "https://github.com/cade-vs/perl-time-progress", "relpath": "cade-vs/perl-time-progress" },

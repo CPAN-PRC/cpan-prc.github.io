@@ -1,7 +1,7 @@
 {
  "month": "September",
- "generated": { "date": "2015-10-19", "time": "14:29:06" },
- "stats": { "done": "33", "total": "49", "percent": "67.3" },
+ "generated": { "date": "2015-10-21", "time": "15:48:09" },
+ "stats": { "done": "34", "total": "49", "percent": "69.4" },
  "assignments": [
 
     {
@@ -346,7 +346,7 @@
     },
     {
         "done":             true,
-        "assignee":         { "github_username": "neilbowers" },
+        "assignee":         { "github_username": "neilb" },
         "distname":         "Devel-TraceUse",
         "released_by":      { "pause_id": "BOOK" },
         "repo":             { "url": "https://github.com/book/Devel-TraceUse", "relpath": "book/Devel-TraceUse" },
@@ -410,12 +410,14 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "joenio" },
         "distname":         "Unicode-LineBreak",
         "released_by":      { "pause_id": "NEZUMI" },
         "repo":             { "url": "https://github.com/hatukanezumi/Unicode-LineBreak", "relpath": "hatukanezumi/Unicode-LineBreak" },
         "pull_requests":    [
+                                { "url": "https://github.com/hatukanezumi/Unicode-LineBreak/pull/2", "state": "open", "relpath": "/pull/2" },
+                                { "url": "https://github.com/hatukanezumi/Unicode-LineBreak/pull/1", "state": "open", "relpath": "/pull/1" }
                             ]
     },
     {

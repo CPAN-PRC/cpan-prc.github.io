@@ -1,6 +1,6 @@
 {
  "month": "June",
- "generated": { "date": "2015-10-19", "time": "14:27:34" },
+ "generated": { "date": "2015-10-21", "time": "15:46:28" },
  "stats": { "done": "43", "total": "44", "percent": "97.7" },
  "assignments": [
 
@@ -255,7 +255,7 @@
     },
     {
         "done":             true,
-        "assignee":         { "github_username": "neilbowers" },
+        "assignee":         { "github_username": "neilb" },
         "distname":         "LWP-Simple-REST",
         "released_by":      { "pause_id": "GONCALES" },
         "repo":             { "url": "https://github.com/ItaloGoncales/LWP-Simple-REST", "relpath": "ItaloGoncales/LWP-Simple-REST" },
@@ -454,9 +454,9 @@
         "assignee":         { "github_username": "Sweet-kid" },
         "distname":         "String-Interpolate",
         "released_by":      { "pause_id": "NEILB" },
-        "repo":             { "url": "https://github.com/neilbowers/String-Interpolate", "relpath": "neilbowers/String-Interpolate" },
+        "repo":             { "url": "https://github.com/neilb/String-Interpolate", "relpath": "neilb/String-Interpolate" },
         "pull_requests":    [
-                                { "url": "https://github.com/neilbowers/String-Interpolate/pull/1", "state": "merged", "relpath": "/pull/1" }
+                                { "url": "https://github.com/neilb/String-Interpolate/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]
     }
  ]

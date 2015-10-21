@@ -1,6 +1,6 @@
 {
  "month": "July",
- "generated": { "date": "2015-10-19", "time": "14:28:00" },
+ "generated": { "date": "2015-10-21", "time": "15:47:00" },
  "stats": { "done": "44", "total": "46", "percent": "95.7" },
  "assignments": [
 
@@ -416,7 +416,7 @@
     },
     {
         "done":             true,
-        "assignee":         { "github_username": "neilbowers" },
+        "assignee":         { "github_username": "neilb" },
         "distname":         "Test-Mini",
         "released_by":      { "pause_id": "NEILB" },
         "repo":             { "url": "https://github.com/pvande/Test-Mini", "relpath": "pvande/Test-Mini" },

@@ -1,6 +1,6 @@
 {
  "month": "May",
- "generated": { "date": "2015-10-19", "time": "14:27:06" },
+ "generated": { "date": "2015-10-21", "time": "15:45:58" },
  "stats": { "done": "48", "total": "50", "percent": "96.0" },
  "assignments": [
 
@@ -392,7 +392,7 @@
     },
     {
         "done":             true,
-        "assignee":         { "github_username": "neilbowers" },
+        "assignee":         { "github_username": "neilb" },
         "distname":         "XML-Parser-Lite",
         "released_by":      { "pause_id": "PHRED" },
         "repo":             { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite", "relpath": "redhotpenguin/perl-XML-Parser-Lite" },

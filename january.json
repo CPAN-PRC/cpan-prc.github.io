@@ -1,6 +1,6 @@
 {
  "month": "January",
- "generated": { "date": "2015-10-19", "time": "14:23:46" },
+ "generated": { "date": "2015-10-21", "time": "15:42:32" },
  "stats": { "done": "165", "total": "169", "percent": "97.6" },
  "assignments": [
 
@@ -109,10 +109,10 @@
     },
     {
         "done":             true,
-        "assignee":         { "github_username": "neilbowers" },
+        "assignee":         { "github_username": "neilb" },
         "distname":         "Text-Diff",
         "released_by":      { "pause_id": "NEILB" },
-        "repo":             { "url": "https://github.com/neilbowers/Text-Diff", "relpath": "neilbowers/Text-Diff" },
+        "repo":             { "url": "https://github.com/neilb/Text-Diff", "relpath": "neilb/Text-Diff" },
         "pull_requests":    [
                             ]
     },
@@ -1649,9 +1649,9 @@
         "assignee":         { "github_username": "garfieldnate" },
         "distname":         "HTML-ParseBrowser",
         "released_by":      { "pause_id": "NEILB" },
-        "repo":             { "url": "https://github.com/neilbowers/HTML-ParseBrowser", "relpath": "neilbowers/HTML-ParseBrowser" },
+        "repo":             { "url": "https://github.com/neilb/HTML-ParseBrowser", "relpath": "neilb/HTML-ParseBrowser" },
         "pull_requests":    [
-                                { "url": "https://github.com/neilbowers/HTML-ParseBrowser/pull/1", "state": "merged", "relpath": "/pull/1" }
+                                { "url": "https://github.com/neilb/HTML-ParseBrowser/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]
     },
     {

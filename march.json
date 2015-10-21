@@ -1,6 +1,6 @@
 {
  "month": "March",
- "generated": { "date": "2015-10-19", "time": "14:25:44" },
+ "generated": { "date": "2015-10-21", "time": "15:44:36" },
  "stats": { "done": "89", "total": "90", "percent": "98.9" },
  "assignments": [
 
@@ -560,10 +560,10 @@
         "assignee":         { "github_username": "shlomif" },
         "distname":         "AppConfig",
         "released_by":      { "pause_id": "NEILB" },
-        "repo":             { "url": "https://github.com/neilbowers/AppConfig", "relpath": "neilbowers/AppConfig" },
+        "repo":             { "url": "https://github.com/neilb/AppConfig", "relpath": "neilb/AppConfig" },
         "pull_requests":    [
-                                { "url": "https://github.com/neilbowers/AppConfig/pull/5", "state": "merged", "relpath": "/pull/5" },
-                                { "url": "https://github.com/neilbowers/AppConfig/pull/4", "state": "merged", "relpath": "/pull/4" }
+                                { "url": "https://github.com/neilb/AppConfig/pull/5", "state": "merged", "relpath": "/pull/5" },
+                                { "url": "https://github.com/neilb/AppConfig/pull/4", "state": "merged", "relpath": "/pull/4" }
                             ]
     },
     {
@@ -635,7 +635,7 @@
     },
     {
         "done":             true,
-        "assignee":         { "github_username": "neilbowers" },
+        "assignee":         { "github_username": "neilb" },
         "distname":         "PerlX-QuoteOperator",
         "released_by":      { "pause_id": "DRAEGTUN" },
         "repo":             { "url": "https://github.com/draegtun/PerlX-QuoteOperator", "relpath": "draegtun/PerlX-QuoteOperator" },
@@ -774,9 +774,9 @@
         "assignee":         { "github_username": "nawglan" },
         "distname":         "Proc-Pidfile",
         "released_by":      { "pause_id": "NEILB" },
-        "repo":             { "url": "https://github.com/neilbowers/Proc-Pidfile", "relpath": "neilbowers/Proc-Pidfile" },
+        "repo":             { "url": "https://github.com/neilb/Proc-Pidfile", "relpath": "neilb/Proc-Pidfile" },
         "pull_requests":    [
-                                { "url": "https://github.com/neilbowers/Proc-Pidfile/pull/1", "state": "merged", "relpath": "/pull/1" }
+                                { "url": "https://github.com/neilb/Proc-Pidfile/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]
     },
     {
@@ -951,9 +951,9 @@
         "assignee":         { "github_username": "lucaskanashiro" },
         "distname":         "Module-Path",
         "released_by":      { "pause_id": "NEILB" },
-        "repo":             { "url": "https://github.com/neilbowers/Module-Path", "relpath": "neilbowers/Module-Path" },
+        "repo":             { "url": "https://github.com/neilb/Module-Path", "relpath": "neilb/Module-Path" },
         "pull_requests":    [
-                                { "url": "https://github.com/neilbowers/Module-Path/pull/15", "state": "merged", "relpath": "/pull/15" }
+                                { "url": "https://github.com/neilb/Module-Path/pull/15", "state": "merged", "relpath": "/pull/15" }
                             ]
     }
  ]

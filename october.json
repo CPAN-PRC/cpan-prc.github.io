@@ -1,7 +1,7 @@
 {
  "month": "October",
- "generated": { "date": "2015-10-19", "time": "14:29:35" },
- "stats": { "done": "7", "total": "60", "percent": "11.7" },
+ "generated": { "date": "2015-10-21", "time": "15:48:44" },
+ "stats": { "done": "10", "total": "61", "percent": "16.4" },
  "assignments": [
 
     {
@@ -136,7 +136,7 @@
         "assignee":         { "github_username": "garu" },
         "distname":         "Pod-POM",
         "released_by":      { "pause_id": "NEILB" },
-        "repo":             { "url": "https://github.com/neilbowers/Pod-POM", "relpath": "neilbowers/Pod-POM" },
+        "repo":             { "url": "https://github.com/neilb/Pod-POM", "relpath": "neilb/Pod-POM" },
         "pull_requests":    [
                             ]
     },
@@ -177,7 +177,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "paultcochrane" },
         "distname":         "Kavorka",
         "released_by":      { "pause_id": "TOBYINK" },
@@ -249,7 +249,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "leejo" },
         "distname":         "Hijk",
         "released_by":      { "pause_id": "AVAR" },
@@ -446,21 +446,12 @@
     },
     {
         "done":             true,
-        "assignee":         { "github_username": "neilbowers" },
+        "assignee":         { "github_username": "neilb" },
         "distname":         "DateTime-Event-ICal",
         "released_by":      { "pause_id": "FGLOCK" },
         "repo":             { "url": "https://github.com/fglock/DateTime-Event-ICal", "relpath": "fglock/DateTime-Event-ICal" },
         "pull_requests":    [
                                 { "url": "https://github.com/fglock/DateTime-Event-ICal/pull/3", "state": "merged", "relpath": "/pull/3" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "brainbuz" },
-        "distname":         "WWW-Postmark",
-        "released_by":      { "pause_id": "IDOPEREL" },
-        "repo":             { "url": "https://github.com/ido50/WWW-Postmark", "relpath": "ido50/WWW-Postmark" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -501,7 +492,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "ramananbalakrishnan" },
         "distname":         "HTTP-BrowserDetect",
         "released_by":      { "pause_id": "OALDERS" },
@@ -571,6 +562,24 @@
         "distname":         "Mail-DeliveryStatus-BounceParser",
         "released_by":      { "pause_id": "RJBS" },
         "repo":             { "url": "https://github.com/rjbs/Mail-DeliveryStatus-BounceParser", "relpath": "rjbs/Mail-DeliveryStatus-BounceParser" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "joenio" },
+        "distname":         "Mojolicious-Plugin-ValidateTiny",
+        "released_by":      { "pause_id": "KOORCHIK" },
+        "repo":             { "url": "https://github.com/koorchik/Mojolicious-Plugin-ValidateTiny", "relpath": "koorchik/Mojolicious-Plugin-ValidateTiny" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "brainbuz" },
+        "distname":         "Mojolicious-Plugin-Module",
+        "released_by":      { "pause_id": "BUGOV" },
+        "repo":             { "url": "https://github.com/bugov/mojolicious-plugin-module", "relpath": "bugov/mojolicious-plugin-module" },
         "pull_requests":    [
                             ]
     }
