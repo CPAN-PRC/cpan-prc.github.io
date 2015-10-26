@@ -1,6 +1,6 @@
 {
  "month": "September",
- "generated": { "date": "2015-10-21", "time": "15:48:09" },
+ "generated": { "date": "2015-10-26", "time": "19:17:03" },
  "stats": { "done": "34", "total": "49", "percent": "69.4" },
  "assignments": [
 
@@ -312,8 +312,8 @@
         "done":             true,
         "assignee":         { "github_username": "manwar" },
         "distname":         "PDF-Create",
-        "released_by":      { "pause_id": "SZABGAB" },
-        "repo":             { "url": "https://github.com/szabgab/pdf-create", "relpath": "szabgab/pdf-create" },
+        "released_by":      { "pause_id": "MANWAR" },
+        "repo":             { "url": "https://github.com/manwar/pdf-create", "relpath": "manwar/pdf-create" },
         "pull_requests":    [
                                 { "url": "https://github.com/Manwar/pdf-create/pull/5", "state": "merged", "relpath": "/pull/5" },
                                 { "url": "https://github.com/Manwar/pdf-create/pull/4", "state": "merged", "relpath": "/pull/4" },

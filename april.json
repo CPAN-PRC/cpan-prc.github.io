@@ -1,6 +1,6 @@
 {
  "month": "April",
- "generated": { "date": "2015-10-21", "time": "15:45:23" },
+ "generated": { "date": "2015-10-26", "time": "19:14:23" },
  "stats": { "done": "57", "total": "60", "percent": "95.0" },
  "assignments": [
 
@@ -277,7 +277,7 @@
         "assignee":         { "github_username": "rjbs" },
         "distname":         "Text-Autoformat",
         "released_by":      { "pause_id": "NEILB" },
-        "repo":             { "url": "https://github.com/neilb/Text-Autoformat", "relpath": "neilb/Text-Autoformat" },
+        "repo":             { "url": "https://github.com/neilbowers/Text-Autoformat", "relpath": "neilbowers/Text-Autoformat" },
         "pull_requests":    [
                                 { "url": "https://github.com/neilb/Text-Autoformat/pull/2", "state": "merged", "relpath": "/pull/2" }
                             ]

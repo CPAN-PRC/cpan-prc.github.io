@@ -1,6 +1,6 @@
 {
  "month": "June",
- "generated": { "date": "2015-10-21", "time": "15:46:28" },
+ "generated": { "date": "2015-10-26", "time": "19:15:27" },
  "stats": { "done": "43", "total": "44", "percent": "97.7" },
  "assignments": [
 
@@ -99,11 +99,12 @@
     },
     {
         "done":             true,
-        "assignee":         { "github_username": "ponzellus" },
+        "assignee":         { "github_username": "phamer" },
         "distname":         "Pod-Perldoc",
         "released_by":      { "pause_id": "MALLEN" },
         "repo":             { "url": "https://github.com/mrallen1/Pod-Perldoc", "relpath": "mrallen1/Pod-Perldoc" },
         "pull_requests":    [
+                                { "url": "https://github.com/mrallen1/Pod-Perldoc/pull/17", "state": "merged", "relpath": "/pull/17" }
                             ]
     },
     {
@@ -454,7 +455,7 @@
         "assignee":         { "github_username": "Sweet-kid" },
         "distname":         "String-Interpolate",
         "released_by":      { "pause_id": "NEILB" },
-        "repo":             { "url": "https://github.com/neilb/String-Interpolate", "relpath": "neilb/String-Interpolate" },
+        "repo":             { "url": "https://github.com/neilbowers/String-Interpolate", "relpath": "neilbowers/String-Interpolate" },
         "pull_requests":    [
                                 { "url": "https://github.com/neilb/String-Interpolate/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]

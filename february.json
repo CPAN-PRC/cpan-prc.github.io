@@ -1,6 +1,6 @@
 {
  "month": "February",
- "generated": { "date": "2015-10-21", "time": "15:43:41" },
+ "generated": { "date": "2015-10-26", "time": "19:12:42" },
  "stats": { "done": "114", "total": "117", "percent": "97.4" },
  "assignments": [
 
@@ -1042,7 +1042,7 @@
         "released_by":      { "pause_id": "ZIGOROU" },
         "repo":             { "url": "https://github.com/zigorou/p5-test-requires-env", "relpath": "zigorou/p5-test-requires-env" },
         "pull_requests":    [
-                                { "url": "https://github.com/zigorou/p5-test-requires-env/pull/3", "state": "open", "relpath": "/pull/3" }
+                                { "url": "https://github.com/zigorou/p5-test-requires-env/pull/3", "state": "merged", "relpath": "/pull/3" }
                             ]
     },
     {
