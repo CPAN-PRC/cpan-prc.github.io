@@ -1,6 +1,6 @@
 {
  "month": "August",
- "generated": { "date": "2015-10-26", "time": "19:16:30" },
+ "generated": { "date": "2015-11-01", "time": "09:08:23" },
  "stats": { "done": "42", "total": "53", "percent": "79.2" },
  "assignments": [
 
@@ -212,7 +212,6 @@
         "released_by":      { "pause_id": "FERKI" },
         "repo":             { "url": "https://github.com/RexOps/Rex", "relpath": "RexOps/Rex" },
         "pull_requests":    [
-                                { "url": "https://github.com/RexOps/Rex/pull/766", "state": "closed", "relpath": "/pull/766" }
                             ]
     },
     {
@@ -545,7 +544,7 @@
         "released_by":      { "pause_id": "MUIR" },
         "repo":             { "url": "https://github.com/muir/Time-modules", "relpath": "muir/Time-modules" },
         "pull_requests":    [
-                                { "url": "https://github.com/muir/Time-modules/pull/7", "state": "open", "relpath": "/pull/7" }
+                                { "url": "https://github.com/muir/Time-modules/pull/7", "state": "merged", "relpath": "/pull/7" }
                             ]
     },
     {

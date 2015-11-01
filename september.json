@@ -1,6 +1,6 @@
 {
  "month": "September",
- "generated": { "date": "2015-10-26", "time": "19:17:03" },
+ "generated": { "date": "2015-11-01", "time": "09:08:53" },
  "stats": { "done": "34", "total": "49", "percent": "69.4" },
  "assignments": [
 
@@ -361,6 +361,7 @@
         "released_by":      { "pause_id": "AMBS" },
         "repo":             { "url": "https://github.com/bigpresh/Dancer-Plugin-Database", "relpath": "bigpresh/Dancer-Plugin-Database" },
         "pull_requests":    [
+                                { "url": "https://github.com/bigpresh/Dancer-Plugin-Database/pull/74", "state": "open", "relpath": "/pull/74" }
                             ]
     },
     {
@@ -416,8 +417,8 @@
         "released_by":      { "pause_id": "NEZUMI" },
         "repo":             { "url": "https://github.com/hatukanezumi/Unicode-LineBreak", "relpath": "hatukanezumi/Unicode-LineBreak" },
         "pull_requests":    [
-                                { "url": "https://github.com/hatukanezumi/Unicode-LineBreak/pull/2", "state": "open", "relpath": "/pull/2" },
-                                { "url": "https://github.com/hatukanezumi/Unicode-LineBreak/pull/1", "state": "open", "relpath": "/pull/1" }
+                                { "url": "https://github.com/hatukanezumi/Unicode-LineBreak/pull/2", "state": "merged", "relpath": "/pull/2" },
+                                { "url": "https://github.com/hatukanezumi/Unicode-LineBreak/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]
     },
     {

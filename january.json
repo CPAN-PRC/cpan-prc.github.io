@@ -1,6 +1,6 @@
 {
  "month": "January",
- "generated": { "date": "2015-10-26", "time": "19:11:31" },
+ "generated": { "date": "2015-11-01", "time": "09:03:33" },
  "stats": { "done": "165", "total": "169", "percent": "97.6" },
  "assignments": [
 
@@ -336,7 +336,7 @@
         "done":             true,
         "assignee":         { "github_username": "brad-mac" },
         "distname":         "Dancer",
-        "released_by":      { "pause_id": "YANICK" },
+        "released_by":      { "pause_id": "BIGPRESH" },
         "repo":             { "url": "https://github.com/PerlDancer/Dancer", "relpath": "PerlDancer/Dancer" },
         "pull_requests":    [
                                 { "url": "https://github.com/PerlDancer/Dancer/pull/1100", "state": "closed", "relpath": "/pull/1100" },

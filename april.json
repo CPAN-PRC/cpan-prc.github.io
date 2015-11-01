@@ -1,6 +1,6 @@
 {
  "month": "April",
- "generated": { "date": "2015-10-26", "time": "19:14:23" },
+ "generated": { "date": "2015-11-01", "time": "09:06:24" },
  "stats": { "done": "57", "total": "60", "percent": "95.0" },
  "assignments": [
 
@@ -296,7 +296,7 @@
         "done":             false,
         "assignee":         { "github_username": "rkmithun" },
         "distname":         "WebService-HabitRPG",
-        "released_by":      { "pause_id": "PJF" },
+        "released_by":      { "pause_id": "RHOELZ" },
         "repo":             { "url": "https://github.com/pjf/WebService-HabitRPG", "relpath": "pjf/WebService-HabitRPG" },
         "pull_requests":    [
                             ]
