@@ -1,7 +1,7 @@
 {
  "month": "August",
- "generated": { "date": "2015-11-01", "time": "09:08:23" },
- "stats": { "done": "42", "total": "53", "percent": "79.2" },
+ "generated": { "date": "2015-11-02", "time": "16:12:13" },
+ "stats": { "done": "42", "total": "52", "percent": "80.8" },
  "assignments": [
 
     {
@@ -262,15 +262,6 @@
         "repo":             { "url": "https://github.com/cromedome/cgi-session", "relpath": "cromedome/cgi-session" },
         "pull_requests":    [
                                 { "url": "https://github.com/cromedome/cgi-session/pull/3", "state": "closed", "relpath": "/pull/3" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "doyleyoung" },
-        "distname":         "JavaScript-V8",
-        "released_by":      { "pause_id": "DGL" },
-        "repo":             { "url": "https://github.com/dgl/javascript-v8", "relpath": "dgl/javascript-v8" },
-        "pull_requests":    [
                             ]
     },
     {

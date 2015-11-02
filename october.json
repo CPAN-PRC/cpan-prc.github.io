@@ -1,7 +1,7 @@
 {
  "month": "October",
- "generated": { "date": "2015-11-01", "time": "09:09:29" },
- "stats": { "done": "35", "total": "56", "percent": "62.5" },
+ "generated": { "date": "2015-11-02", "time": "16:13:16" },
+ "stats": { "done": "37", "total": "55", "percent": "67.3" },
  "assignments": [
 
     {
@@ -24,12 +24,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "labrown" },
         "distname":         "IPC-Run",
         "released_by":      { "pause_id": "TODDR" },
         "repo":             { "url": "https://github.com/toddr/IPC-Run", "relpath": "toddr/IPC-Run" },
         "pull_requests":    [
+                                { "url": "https://github.com/toddr/IPC-Run/pull/14", "state": "open", "relpath": "/pull/14" }
                             ]
     },
     {
@@ -145,17 +146,8 @@
         "done":             true,
         "assignee":         { "github_username": "jacoby" },
         "distname":         "Expect",
-        "released_by":      { "pause_id": "SZABGAB" },
+        "released_by":      { "pause_id": "JACOBY" },
         "repo":             { "url": "https://github.com/szabgab/expect.pm", "relpath": "szabgab/expect.pm" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "vytas-dauksa" },
-        "distname":         "BackPAN-Index",
-        "released_by":      { "pause_id": "MSCHWERN" },
-        "repo":             { "url": "https://github.com/acme/parse-backpan-packages", "relpath": "acme/parse-backpan-packages" },
         "pull_requests":    [
                             ]
     },
@@ -448,7 +440,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "dionys" },
         "distname":         "Chart-Clicker",
         "released_by":      { "pause_id": "GPHAT" },

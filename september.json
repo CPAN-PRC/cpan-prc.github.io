@@ -1,7 +1,7 @@
 {
  "month": "September",
- "generated": { "date": "2015-11-01", "time": "09:08:53" },
- "stats": { "done": "34", "total": "49", "percent": "69.4" },
+ "generated": { "date": "2015-11-02", "time": "16:12:45" },
+ "stats": { "done": "35", "total": "49", "percent": "71.4" },
  "assignments": [
 
     {
@@ -355,7 +355,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "netangel" },
         "distname":         "Dancer-Plugin-Database",
         "released_by":      { "pause_id": "AMBS" },
