@@ -1,6 +1,6 @@
 {
  "month": "August",
- "generated": { "date": "2015-11-02", "time": "16:12:13" },
+ "generated": { "date": "2015-11-06", "time": "23:31:31" },
  "stats": { "done": "42", "total": "52", "percent": "80.8" },
  "assignments": [
 
@@ -350,7 +350,7 @@
         "released_by":      { "pause_id": "MARCGREEN" },
         "repo":             { "url": "https://github.com/perl-pod/pod-simple", "relpath": "perl-pod/pod-simple" },
         "pull_requests":    [
-                                { "url": "https://github.com/perl-pod/pod-simple/pull/72", "state": "open", "relpath": "/pull/72" }
+                                { "url": "https://github.com/perl-pod/pod-simple/pull/72", "state": "merged", "relpath": "/pull/72" }
                             ]
     },
     {
@@ -514,7 +514,7 @@
         "released_by":      { "pause_id": "CADE" },
         "repo":             { "url": "https://github.com/cade-vs/perl-time-progress", "relpath": "cade-vs/perl-time-progress" },
         "pull_requests":    [
-                                { "url": "https://github.com/cade-vs/perl-time-progress/pull/3", "state": "open", "relpath": "/pull/3" },
+                                { "url": "https://github.com/cade-vs/perl-time-progress/pull/3", "state": "merged", "relpath": "/pull/3" },
                                 { "url": "https://github.com/cade-vs/perl-time-progress/pull/2", "state": "merged", "relpath": "/pull/2" },
                                 { "url": "https://github.com/cade-vs/perl-time-progress/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]

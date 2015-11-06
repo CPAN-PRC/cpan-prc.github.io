@@ -1,6 +1,6 @@
 {
  "month": "January",
- "generated": { "date": "2015-11-02", "time": "16:06:25" },
+ "generated": { "date": "2015-11-06", "time": "23:16:09" },
  "stats": { "done": "165", "total": "169", "percent": "97.6" },
  "assignments": [
 
@@ -392,7 +392,7 @@
         "pull_requests":    [
                                 { "url": "https://github.com/suretec/Message-Passing/pull/11", "state": "open", "relpath": "/pull/11" },
                                 { "url": "https://github.com/suretec/Message-Passing/pull/10", "state": "open", "relpath": "/pull/10" },
-                                { "url": "https://github.com/suretec/Message-Passing/pull/9", "state": "open", "relpath": "/pull/9" },
+                                { "url": "https://github.com/suretec/Message-Passing/pull/9", "state": "closed", "relpath": "/pull/9" },
                                 { "url": "https://github.com/suretec/Message-Passing/pull/8", "state": "merged", "relpath": "/pull/8" }
                             ]
     },

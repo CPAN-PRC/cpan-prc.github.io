@@ -1,6 +1,6 @@
 {
  "month": "September",
- "generated": { "date": "2015-11-02", "time": "16:12:45" },
+ "generated": { "date": "2015-11-06", "time": "23:35:26" },
  "stats": { "done": "35", "total": "49", "percent": "71.4" },
  "assignments": [
 
@@ -495,7 +495,7 @@
         "released_by":      { "pause_id": "ACCARDO" },
         "repo":             { "url": "https://github.com/mixedconnections/html-element-replacer", "relpath": "mixedconnections/html-element-replacer" },
         "pull_requests":    [
-                                { "url": "https://github.com/mixedconnections/html-element-replacer/pull/2", "state": "open", "relpath": "/pull/2" }
+                                { "url": "https://github.com/mixedconnections/html-element-replacer/pull/2", "state": "merged", "relpath": "/pull/2" }
                             ]
     }
  ]
