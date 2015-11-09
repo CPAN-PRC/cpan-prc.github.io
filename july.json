@@ -1,6 +1,6 @@
 {
  "month": "July",
- "generated": { "date": "2015-11-06", "time": "23:27:45" },
+ "generated": { "date": "2015-11-09", "time": "15:58:26" },
  "stats": { "done": "44", "total": "46", "percent": "95.7" },
  "assignments": [
 
@@ -21,7 +21,6 @@
         "released_by":      { "pause_id": "HORNBURG" },
         "repo":             { "url": "https://github.com/racke/Template-Flute", "relpath": "racke/Template-Flute" },
         "pull_requests":    [
-                                { "url": "https://github.com/racke/Template-Flute/pull/107", "state": "merged", "relpath": "/pull/107" }
                             ]
     },
     {

@@ -1,7 +1,7 @@
 {
  "month": "September",
- "generated": { "date": "2015-11-06", "time": "23:35:26" },
- "stats": { "done": "35", "total": "49", "percent": "71.4" },
+ "generated": { "date": "2015-11-09", "time": "15:59:39" },
+ "stats": { "done": "36", "total": "49", "percent": "73.5" },
  "assignments": [
 
     {
@@ -393,12 +393,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "Sweet-kid" },
         "distname":         "MooseX-Log-Log4perl",
         "released_by":      { "pause_id": "LAMMEL" },
         "repo":             { "url": "https://github.com/lammel/moosex-log-log4perl", "relpath": "lammel/moosex-log-log4perl" },
         "pull_requests":    [
+                                { "url": "https://github.com/lammel/moosex-log-log4perl/pull/4", "state": "open", "relpath": "/pull/4" }
                             ]
     },
     {

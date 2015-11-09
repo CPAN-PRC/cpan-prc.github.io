@@ -1,6 +1,6 @@
 {
  "month": "October",
- "generated": { "date": "2015-11-06", "time": "23:39:19" },
+ "generated": { "date": "2015-11-09", "time": "16:00:15" },
  "stats": { "done": "38", "total": "53", "percent": "71.7" },
  "assignments": [
 
@@ -116,9 +116,9 @@
         "assignee":         { "github_username": "garu" },
         "distname":         "Pod-POM",
         "released_by":      { "pause_id": "NEILB" },
-        "repo":             { "url": "https://github.com/neilbowers/Pod-POM", "relpath": "neilbowers/Pod-POM" },
+        "repo":             { "url": "https://github.com/neilb/Pod-POM", "relpath": "neilb/Pod-POM" },
         "pull_requests":    [
-                                { "url": "https://github.com/neilb/Pod-POM/pull/7", "state": "open", "relpath": "/pull/7" },
+                                { "url": "https://github.com/neilb/Pod-POM/pull/7", "state": "merged", "relpath": "/pull/7" },
                                 { "url": "https://github.com/neilb/Pod-POM/pull/6", "state": "merged", "relpath": "/pull/6" },
                                 { "url": "https://github.com/neilb/Pod-POM/pull/2", "state": "merged", "relpath": "/pull/2" }
                             ]
@@ -386,7 +386,7 @@
         "released_by":      { "pause_id": "SHOGO" },
         "repo":             { "url": "https://github.com/shogo82148/Redis-Fast", "relpath": "shogo82148/Redis-Fast" },
         "pull_requests":    [
-                                { "url": "https://github.com/shogo82148/Redis-Fast/pull/43", "state": "open", "relpath": "/pull/43" },
+                                { "url": "https://github.com/shogo82148/Redis-Fast/pull/43", "state": "merged", "relpath": "/pull/43" },
                                 { "url": "https://github.com/shogo82148/Redis-Fast/pull/42", "state": "merged", "relpath": "/pull/42" }
                             ]
     },

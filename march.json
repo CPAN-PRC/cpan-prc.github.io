@@ -1,6 +1,6 @@
 {
  "month": "March",
- "generated": { "date": "2015-11-06", "time": "23:18:04" },
+ "generated": { "date": "2015-11-09", "time": "15:55:54" },
  "stats": { "done": "89", "total": "90", "percent": "98.9" },
  "assignments": [
 
@@ -11,7 +11,7 @@
         "released_by":      { "pause_id": "XSAWYERX" },
         "repo":             { "url": "https://github.com/PerlDancer/Dancer2", "relpath": "PerlDancer/Dancer2" },
         "pull_requests":    [
-                                { "url": "https://github.com/PerlDancer/Dancer2/pull/1045", "state": "open", "relpath": "/pull/1045" },
+                                { "url": "https://github.com/PerlDancer/Dancer2/pull/1045", "state": "closed", "relpath": "/pull/1045" },
                                 { "url": "https://github.com/PerlDancer/Dancer2/pull/1042", "state": "merged", "relpath": "/pull/1042" },
                                 { "url": "https://github.com/PerlDancer/Dancer2/pull/1037", "state": "closed", "relpath": "/pull/1037" },
                                 { "url": "https://github.com/PerlDancer/Dancer2/pull/1007", "state": "merged", "relpath": "/pull/1007" }

@@ -1,6 +1,6 @@
 {
  "month": "August",
- "generated": { "date": "2015-11-06", "time": "23:31:31" },
+ "generated": { "date": "2015-11-09", "time": "15:59:05" },
  "stats": { "done": "42", "total": "52", "percent": "80.8" },
  "assignments": [
 
@@ -99,6 +99,7 @@
         "released_by":      { "pause_id": "ILMARI" },
         "repo":             { "url": "https://github.com/dbsrgits/sql-translator", "relpath": "dbsrgits/sql-translator" },
         "pull_requests":    [
+                                { "url": "https://github.com/dbsrgits/sql-translator/pull/76", "state": "open", "relpath": "/pull/76" },
                                 { "url": "https://github.com/dbsrgits/sql-translator/pull/69", "state": "closed", "relpath": "/pull/69" }
                             ]
     },
