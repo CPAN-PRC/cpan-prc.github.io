@@ -1,7 +1,7 @@
 {
  "month": "January",
- "generated": { "date": "2015-11-09", "time": "15:53:28" },
- "stats": { "done": "165", "total": "169", "percent": "97.6" },
+ "generated": { "date": "2015-11-16", "time": "17:02:28" },
+ "stats": { "done": "165", "total": "166", "percent": "99.4" },
  "assignments": [
 
     {
@@ -397,15 +397,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "StylusEater" },
-        "distname":         "Inline-Java",
-        "released_by":      { "pause_id": "ETJ" },
-        "repo":             { "url": "https://github.com/ingydotnet/Inline-Java", "relpath": "ingydotnet/Inline-Java" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "thrig" },
         "distname":         "Net-Amazon-S3",
@@ -562,7 +553,7 @@
         "repo":             { "url": "https://github.com/crenz/Module-Find", "relpath": "crenz/Module-Find" },
         "pull_requests":    [
                                 { "url": "https://github.com/crenz/Module-Find/pull/5", "state": "merged", "relpath": "/pull/5" },
-                                { "url": "https://github.com/crenz/Module-Find/pull/4", "state": "open", "relpath": "/pull/4" },
+                                { "url": "https://github.com/crenz/Module-Find/pull/4", "state": "merged", "relpath": "/pull/4" },
                                 { "url": "https://github.com/crenz/Module-Find/pull/3", "state": "merged", "relpath": "/pull/3" }
                             ]
     },
@@ -784,7 +775,7 @@
         "released_by":      { "pause_id": "ZOWIE" },
         "repo":             { "url": "https://github.com/drzowie/PDL-Graphics-Gnuplot", "relpath": "drzowie/PDL-Graphics-Gnuplot" },
         "pull_requests":    [
-                                { "url": "https://github.com/drzowie/PDL-Graphics-Gnuplot/pull/39", "state": "open", "relpath": "/pull/39" }
+                                { "url": "https://github.com/drzowie/PDL-Graphics-Gnuplot/pull/39", "state": "merged", "relpath": "/pull/39" }
                             ]
     },
     {
@@ -951,15 +942,6 @@
         "distname":         "Set-Scalar",
         "released_by":      { "pause_id": "DAVIDO" },
         "repo":             { "url": "https://github.com/daoswald/Set-Scalar", "relpath": "daoswald/Set-Scalar" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "rdmrl" },
-        "distname":         "Tree-Simple",
-        "released_by":      { "pause_id": "RSAVAGE" },
-        "repo":             { "url": "https://github.com/stevan/tree-simple", "relpath": "stevan/tree-simple" },
         "pull_requests":    [
                             ]
     },
@@ -1560,15 +1542,6 @@
                                 { "url": "https://github.com/s-aska/p5-Plack-Session-State-URI/pull/7", "state": "merged", "relpath": "/pull/7" },
                                 { "url": "https://github.com/s-aska/p5-Plack-Session-State-URI/pull/6", "state": "open", "relpath": "/pull/6" },
                                 { "url": "https://github.com/s-aska/p5-Plack-Session-State-URI/pull/5", "state": "merged", "relpath": "/pull/5" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "jmadler" },
-        "distname":         "Module-ExtractUse",
-        "released_by":      { "pause_id": "DOMM" },
-        "repo":             { "url": "https://github.com/domm/Module-ExtractUse", "relpath": "domm/Module-ExtractUse" },
-        "pull_requests":    [
                             ]
     },
     {

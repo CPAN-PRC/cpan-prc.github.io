@@ -1,7 +1,7 @@
 {
  "month": "October",
- "generated": { "date": "2015-11-09", "time": "16:00:15" },
- "stats": { "done": "38", "total": "53", "percent": "71.7" },
+ "generated": { "date": "2015-11-16", "time": "21:37:45" },
+ "stats": { "done": "39", "total": "53", "percent": "73.6" },
  "assignments": [
 
     {
@@ -478,13 +478,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "monsieurp" },
         "distname":         "GraphViz",
         "released_by":      { "pause_id": "RSAVAGE" },
         "repo":             { "url": "https://github.com/ronsavage/GraphViz", "relpath": "ronsavage/GraphViz" },
         "pull_requests":    [
-                                { "url": "https://github.com/ronsavage/GraphViz/pull/2", "state": "open", "relpath": "/pull/2" }
+                                { "url": "https://github.com/ronsavage/GraphViz/pull/2", "state": "merged", "relpath": "/pull/2" }
                             ]
     },
     {

@@ -1,7 +1,7 @@
 {
  "month": "February",
- "generated": { "date": "2015-11-09", "time": "15:54:54" },
- "stats": { "done": "114", "total": "117", "percent": "97.4" },
+ "generated": { "date": "2015-11-16", "time": "17:03:48" },
+ "stats": { "done": "114", "total": "114", "percent": "100.0" },
  "assignments": [
 
     {
@@ -542,15 +542,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "Srynobio" },
-        "distname":         "List-AllUtils",
-        "released_by":      { "pause_id": "DROLSKY" },
-        "repo":             { "url": "https://github.com/autarch/List-AllUtils", "relpath": "autarch/List-AllUtils" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "kaoru" },
         "distname":         "Sys-Syslog",
@@ -1086,15 +1077,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "brad-mac" },
-        "distname":         "LWPx-Record-DataSection",
-        "released_by":      { "pause_id": "MOTEMEN" },
-        "repo":             { "url": "https://github.com/motemen/LWPx-Record-DataSection", "relpath": "motemen/LWPx-Record-DataSection" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "manwar" },
         "distname":         "Shell-Perl",
@@ -1147,15 +1129,6 @@
         "repo":             { "url": "https://github.com/dagolden/Log-Any-Adapter-Log4perl", "relpath": "dagolden/Log-Any-Adapter-Log4perl" },
         "pull_requests":    [
                                 { "url": "https://github.com/dagolden/Log-Any-Adapter-Log4perl/pull/1", "state": "closed", "relpath": "/pull/1" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "carthanc" },
-        "distname":         "Test-Perl-Critic",
-        "released_by":      { "pause_id": "THALJEF" },
-        "repo":             { "url": "https://github.com/Perl-Critic/Test-Perl-Critic", "relpath": "Perl-Critic/Test-Perl-Critic" },
-        "pull_requests":    [
                             ]
     },
     {

@@ -1,7 +1,7 @@
 {
  "month": "May",
- "generated": { "date": "2015-11-09", "time": "15:57:18" },
- "stats": { "done": "48", "total": "50", "percent": "96.0" },
+ "generated": { "date": "2015-11-16", "time": "21:35:28" },
+ "stats": { "done": "48", "total": "49", "percent": "98.0" },
  "assignments": [
 
     {
@@ -256,7 +256,7 @@
         "released_by":      { "pause_id": "BOBTFISH" },
         "repo":             { "url": "https://github.com/bobtfish/text-markdown", "relpath": "bobtfish/text-markdown" },
         "pull_requests":    [
-                                { "url": "https://github.com/bobtfish/text-markdown/pull/32", "state": "open", "relpath": "/pull/32" }
+                                { "url": "https://github.com/bobtfish/text-markdown/pull/32", "state": "merged", "relpath": "/pull/32" }
                             ]
     },
     {
@@ -379,15 +379,6 @@
         "repo":             { "url": "https://github.com/cpan-testers/Metabase-Client-Simple", "relpath": "cpan-testers/Metabase-Client-Simple" },
         "pull_requests":    [
                                 { "url": "https://github.com/cpan-testers/Metabase-Client-Simple/pull/8", "state": "open", "relpath": "/pull/8" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "tynovsky" },
-        "distname":         "Test-DBIx-Class-Schema",
-        "released_by":      { "pause_id": "CHISEL" },
-        "repo":             { "url": "https://github.com/chiselwright/test-dbix-class-schema", "relpath": "chiselwright/test-dbix-class-schema" },
-        "pull_requests":    [
                             ]
     },
     {

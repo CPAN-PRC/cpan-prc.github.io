@@ -1,7 +1,7 @@
 {
  "month": "April",
- "generated": { "date": "2015-11-09", "time": "15:56:39" },
- "stats": { "done": "57", "total": "60", "percent": "95.0" },
+ "generated": { "date": "2015-11-16", "time": "21:34:53" },
+ "stats": { "done": "57", "total": "57", "percent": "100.0" },
  "assignments": [
 
     {
@@ -293,15 +293,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "rkmithun" },
-        "distname":         "WebService-HabitRPG",
-        "released_by":      { "pause_id": "RHOELZ" },
-        "repo":             { "url": "https://github.com/pjf/WebService-HabitRPG", "relpath": "pjf/WebService-HabitRPG" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "spechenin" },
         "distname":         "Teng",
@@ -359,15 +350,6 @@
                                 { "url": "https://github.com/lukec/stripe-perl/pull/53", "state": "merged", "relpath": "/pull/53" },
                                 { "url": "https://github.com/lukec/stripe-perl/pull/52", "state": "merged", "relpath": "/pull/52" },
                                 { "url": "https://github.com/lukec/stripe-perl/pull/51", "state": "merged", "relpath": "/pull/51" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "LesleyB" },
-        "distname":         "HTML-FormFu-Model-DBIC",
-        "released_by":      { "pause_id": "CFRANKS" },
-        "repo":             { "url": "https://github.com/fireartist/HTML-FormFu-Model-DBIC", "relpath": "fireartist/HTML-FormFu-Model-DBIC" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -614,15 +596,6 @@
                                 { "url": "https://github.com/rjbs/Time-Piece/pull/12", "state": "merged", "relpath": "/pull/12" },
                                 { "url": "https://github.com/rjbs/Time-Piece/pull/11", "state": "merged", "relpath": "/pull/11" },
                                 { "url": "https://github.com/rjbs/Time-Piece/pull/10", "state": "merged", "relpath": "/pull/10" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "fenderchamp" },
-        "distname":         "Net-Redmine",
-        "released_by":      { "pause_id": "GUGOD" },
-        "repo":             { "url": "https://github.com/gugod/net-redmine", "relpath": "gugod/net-redmine" },
-        "pull_requests":    [
                             ]
     }
  ]

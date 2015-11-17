@@ -1,7 +1,7 @@
 {
  "month": "November",
- "generated": { "date": "2015-11-09", "time": "16:00:45" },
- "stats": { "done": "6", "total": "52", "percent": "11.5" },
+ "generated": { "date": "2015-11-16", "time": "21:38:14" },
+ "stats": { "done": "6", "total": "56", "percent": "10.7" },
  "assignments": [
 
     {
@@ -68,6 +68,8 @@
         "released_by":      { "pause_id": "JDB" },
         "repo":             { "url": "https://github.com/jandubois/win32-clipboard", "relpath": "jandubois/win32-clipboard" },
         "pull_requests":    [
+                                { "url": "https://github.com/jandubois/win32-clipboard/pull/4", "state": "open", "relpath": "/pull/4" },
+                                { "url": "https://github.com/jandubois/win32-clipboard/pull/3", "state": "open", "relpath": "/pull/3" }
                             ]
     },
     {
@@ -77,6 +79,7 @@
         "released_by":      { "pause_id": "JOROL" },
         "repo":             { "url": "https://github.com/gbv/Catmandu-PICA", "relpath": "gbv/Catmandu-PICA" },
         "pull_requests":    [
+                                { "url": "https://github.com/gbv/Catmandu-PICA/pull/36", "state": "merged", "relpath": "/pull/36" }
                             ]
     },
     {
@@ -199,6 +202,7 @@
         "released_by":      { "pause_id": "JHTHORSEN" },
         "repo":             { "url": "https://github.com/jhthorsen/plack-middleware-ssi", "relpath": "jhthorsen/plack-middleware-ssi" },
         "pull_requests":    [
+                                { "url": "https://github.com/jhthorsen/plack-middleware-ssi/pull/5", "state": "open", "relpath": "/pull/5" }
                             ]
     },
     {
@@ -244,6 +248,7 @@
         "released_by":      { "pause_id": "TEMPIRE" },
         "repo":             { "url": "https://github.com/tempire/mojolicious-plugin-sslauth", "relpath": "tempire/mojolicious-plugin-sslauth" },
         "pull_requests":    [
+                                { "url": "https://github.com/tempire/mojolicious-plugin-sslauth/pull/3", "state": "open", "relpath": "/pull/3" }
                             ]
     },
     {
@@ -291,7 +296,7 @@
         "released_by":      { "pause_id": "MSCHILLI" },
         "repo":             { "url": "https://github.com/mschilli/file-comments-perl", "relpath": "mschilli/file-comments-perl" },
         "pull_requests":    [
-                                { "url": "https://github.com/mschilli/file-comments-perl/pull/1", "state": "open", "relpath": "/pull/1" }
+                                { "url": "https://github.com/mschilli/file-comments-perl/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]
     },
     {
@@ -442,15 +447,6 @@
     },
     {
         "done":             false,
-        "assignee":         { "github_username": "arnuga" },
-        "distname":         "Webinject",
-        "released_by":      { "pause_id": "NIERLEIN" },
-        "repo":             { "url": "https://github.com/sni/Webinject", "relpath": "sni/Webinject" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
         "assignee":         { "github_username": "rootkea" },
         "distname":         "Role-Basic",
         "released_by":      { "pause_id": "OVID" },
@@ -492,6 +488,51 @@
         "distname":         "Parse-CSV",
         "released_by":      { "pause_id": "KWILLIAMS" },
         "repo":             { "url": "https://github.com/kenahoo/Perl-Parse-CSV", "relpath": "kenahoo/Perl-Parse-CSV" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "rocamador" },
+        "distname":         "String-MkPasswd",
+        "released_by":      { "pause_id": "CGRAU" },
+        "repo":             { "url": "https://github.com/sirhc/string-mkpasswd", "relpath": "sirhc/string-mkpasswd" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "monsieurp" },
+        "distname":         "Test-Synopsis",
+        "released_by":      { "pause_id": "ZOFFIX" },
+        "repo":             { "url": "https://github.com/miyagawa/test-synopsis", "relpath": "miyagawa/test-synopsis" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "sdeseille" },
+        "distname":         "Swim",
+        "released_by":      { "pause_id": "INGY" },
+        "repo":             { "url": "https://github.com/ingydotnet/swim-pm", "relpath": "ingydotnet/swim-pm" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "carthanc" },
+        "distname":         "Text-MicroTemplate",
+        "released_by":      { "pause_id": "KAZUHO" },
+        "repo":             { "url": "https://github.com/kazuho/p5-text-microtemplate", "relpath": "kazuho/p5-text-microtemplate" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "arnuga" },
+        "distname":         "App-Nopaste",
+        "released_by":      { "pause_id": "ETHER" },
+        "repo":             { "url": "https://github.com/karenetheridge/App-Nopaste", "relpath": "karenetheridge/App-Nopaste" },
         "pull_requests":    [
                             ]
     }

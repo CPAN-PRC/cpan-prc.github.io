@@ -1,7 +1,7 @@
 {
  "month": "June",
- "generated": { "date": "2015-11-09", "time": "15:57:51" },
- "stats": { "done": "43", "total": "44", "percent": "97.7" },
+ "generated": { "date": "2015-11-16", "time": "21:35:54" },
+ "stats": { "done": "43", "total": "43", "percent": "100.0" },
  "assignments": [
 
     {
@@ -262,15 +262,6 @@
         "repo":             { "url": "https://github.com/ItaloGoncales/LWP-Simple-REST", "relpath": "ItaloGoncales/LWP-Simple-REST" },
         "pull_requests":    [
                                 { "url": "https://github.com/ItaloGoncales/LWP-Simple-REST/pull/6", "state": "merged", "relpath": "/pull/6" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "sdeseille" },
-        "distname":         "Test-Kwalitee-Extra",
-        "released_by":      { "pause_id": "YAKEX" },
-        "repo":             { "url": "https://github.com/yak1ex/Test-Kwalitee-Extra", "relpath": "yak1ex/Test-Kwalitee-Extra" },
-        "pull_requests":    [
                             ]
     },
     {

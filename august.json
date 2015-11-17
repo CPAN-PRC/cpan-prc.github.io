@@ -1,7 +1,7 @@
 {
  "month": "August",
- "generated": { "date": "2015-11-09", "time": "15:59:05" },
- "stats": { "done": "42", "total": "52", "percent": "80.8" },
+ "generated": { "date": "2015-11-16", "time": "21:36:49" },
+ "stats": { "done": "42", "total": "47", "percent": "89.4" },
  "assignments": [
 
     {
@@ -168,22 +168,7 @@
                                 { "url": "https://github.com/racke/Template-Flute/pull/119", "state": "merged", "relpath": "/pull/119" },
                                 { "url": "https://github.com/racke/Template-Flute/pull/118", "state": "merged", "relpath": "/pull/118" },
                                 { "url": "https://github.com/racke/Template-Flute/pull/116", "state": "merged", "relpath": "/pull/116" },
-                                { "url": "https://github.com/racke/Template-Flute/pull/115", "state": "open", "relpath": "/pull/115" },
-                                { "url": "https://github.com/racke/Template-Flute/pull/114", "state": "merged", "relpath": "/pull/114" },
-                                { "url": "https://github.com/racke/Template-Flute/pull/113", "state": "merged", "relpath": "/pull/113" },
-                                { "url": "https://github.com/racke/Template-Flute/pull/112", "state": "merged", "relpath": "/pull/112" },
-                                { "url": "https://github.com/racke/Template-Flute/pull/111", "state": "closed", "relpath": "/pull/111" },
-                                { "url": "https://github.com/racke/Template-Flute/pull/110", "state": "merged", "relpath": "/pull/110" },
-                                { "url": "https://github.com/racke/Template-Flute/pull/109", "state": "merged", "relpath": "/pull/109" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "VadimPushtaev" },
-        "distname":         "IPC-Cmd",
-        "released_by":      { "pause_id": "BINGOS" },
-        "repo":             { "url": "https://github.com/jib/ipc-cmd", "relpath": "jib/ipc-cmd" },
-        "pull_requests":    [
+                                { "url": "https://github.com/racke/Template-Flute/pull/115", "state": "open", "relpath": "/pull/115" }
                             ]
     },
     {
@@ -280,15 +265,6 @@
         "distname":         "DBIx-Class-Fixtures",
         "released_by":      { "pause_id": "SKAUFMAN" },
         "repo":             { "url": "https://github.com/dbsrgits/DBIx-Class-Fixtures", "relpath": "dbsrgits/DBIx-Class-Fixtures" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "mattijevi" },
-        "distname":         "Net-AMQP-RabbitMQ",
-        "released_by":      { "pause_id": "MARKELLIS" },
-        "repo":             { "url": "https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq", "relpath": "net-amqp-rabbitmq/net-amqp-rabbitmq" },
         "pull_requests":    [
                             ]
     },
@@ -452,24 +428,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "jmvbxx" },
-        "distname":         "Swim",
-        "released_by":      { "pause_id": "INGY" },
-        "repo":             { "url": "https://github.com/ingydotnet/swim-pm", "relpath": "ingydotnet/swim-pm" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "stevieb9" },
-        "distname":         "Net-Amazon",
-        "released_by":      { "pause_id": "BOUMENOT" },
-        "repo":             { "url": "https://github.com/boumenot/p5-Net-Amazon", "relpath": "boumenot/p5-Net-Amazon" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "choroba" },
         "distname":         "Test-Aggregate",
@@ -487,15 +445,6 @@
         "repo":             { "url": "https://github.com/libwww-perl/lwp-protocol-https", "relpath": "libwww-perl/lwp-protocol-https" },
         "pull_requests":    [
                                 { "url": "https://github.com/libwww-perl/lwp-protocol-https/pull/25", "state": "open", "relpath": "/pull/25" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "davehodg" },
-        "distname":         "DBIx-Class-Migration",
-        "released_by":      { "pause_id": "JJNAPIORK" },
-        "repo":             { "url": "https://github.com/jjn1056/DBIx-Class-Migration", "relpath": "jjn1056/DBIx-Class-Migration" },
-        "pull_requests":    [
                             ]
     },
     {

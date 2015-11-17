@@ -1,7 +1,7 @@
 {
  "month": "March",
- "generated": { "date": "2015-11-09", "time": "15:55:54" },
- "stats": { "done": "89", "total": "90", "percent": "98.9" },
+ "generated": { "date": "2015-11-16", "time": "21:34:15" },
+ "stats": { "done": "89", "total": "89", "percent": "100.0" },
  "assignments": [
 
     {
@@ -277,15 +277,6 @@
         "repo":             { "url": "https://github.com/nekokak/qudo", "relpath": "nekokak/qudo" },
         "pull_requests":    [
                                 { "url": "https://github.com/nekokak/qudo/pull/11", "state": "open", "relpath": "/pull/11" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "brownl" },
-        "distname":         "Mojo-Server-FastCGI",
-        "released_by":      { "pause_id": "ARPI" },
-        "repo":             { "url": "https://github.com/arpadszasz/mojo-server-fastcgi", "relpath": "arpadszasz/mojo-server-fastcgi" },
-        "pull_requests":    [
                             ]
     },
     {
