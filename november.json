@@ -1,7 +1,7 @@
 {
  "month": "November",
- "generated": { "date": "2015-11-16", "time": "21:38:14" },
- "stats": { "done": "6", "total": "56", "percent": "10.7" },
+ "generated": { "date": "2015-11-20", "time": "15:10:52" },
+ "stats": { "done": "11", "total": "55", "percent": "20.0" },
  "assignments": [
 
     {
@@ -62,7 +62,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "Varadinsky" },
         "distname":         "Win32-Clipboard",
         "released_by":      { "pause_id": "JDB" },
@@ -196,13 +196,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "mjg17" },
         "distname":         "Plack-Middleware-SSI",
         "released_by":      { "pause_id": "JHTHORSEN" },
         "repo":             { "url": "https://github.com/jhthorsen/plack-middleware-ssi", "relpath": "jhthorsen/plack-middleware-ssi" },
         "pull_requests":    [
-                                { "url": "https://github.com/jhthorsen/plack-middleware-ssi/pull/5", "state": "open", "relpath": "/pull/5" }
+                                { "url": "https://github.com/jhthorsen/plack-middleware-ssi/pull/5", "state": "merged", "relpath": "/pull/5" }
                             ]
     },
     {
@@ -272,12 +272,15 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jluis" },
         "distname":         "File-Scan-ClamAV",
         "released_by":      { "pause_id": "ESAYM" },
         "repo":             { "url": "https://github.com/smith153/File-Scan-ClamAV", "relpath": "smith153/File-Scan-ClamAV" },
         "pull_requests":    [
+                                { "url": "https://github.com/smith153/File-Scan-ClamAV/pull/3", "state": "open", "relpath": "/pull/3" },
+                                { "url": "https://github.com/smith153/File-Scan-ClamAV/pull/2", "state": "open", "relpath": "/pull/2" },
+                                { "url": "https://github.com/smith153/File-Scan-ClamAV/pull/1", "state": "open", "relpath": "/pull/1" }
                             ]
     },
     {
@@ -319,15 +322,6 @@
     },
     {
         "done":             false,
-        "assignee":         { "github_username": "mnlagrasta" },
-        "distname":         "MooseX-Scaffold",
-        "released_by":      { "pause_id": "RKRIMEN" },
-        "repo":             { "url": "https://github.com/robertkrimen/moosex-scaffold/tree/master", "relpath": "robertkrimen/moosex-scaffold/tree/master" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
         "assignee":         { "github_username": "cakirke" },
         "distname":         "Message-Passing-AMQP",
         "released_by":      { "pause_id": "ABRAXXA" },
@@ -364,12 +358,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "doyleyoung" },
         "distname":         "App-autotest",
         "released_by":      { "pause_id": "GGOLDBACH" },
         "repo":             { "url": "https://github.com/glauschwuffel/perl5-App-autotest", "relpath": "glauschwuffel/perl5-App-autotest" },
         "pull_requests":    [
+                                { "url": "https://github.com/glauschwuffel/perl5-App-autotest/pull/18", "state": "open", "relpath": "/pull/18" }
                             ]
     },
     {
@@ -382,12 +377,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "netangel" },
         "distname":         "MouseX-AttributeHelpers",
         "released_by":      { "pause_id": "MASAKI" },
         "repo":             { "url": "https://github.com/masaki/mousex-attributehelpers", "relpath": "masaki/mousex-attributehelpers" },
         "pull_requests":    [
+                                { "url": "https://github.com/masaki/mousex-attributehelpers/pull/2", "state": "open", "relpath": "/pull/2" }
                             ]
     },
     {
@@ -534,6 +530,7 @@
         "released_by":      { "pause_id": "ETHER" },
         "repo":             { "url": "https://github.com/karenetheridge/App-Nopaste", "relpath": "karenetheridge/App-Nopaste" },
         "pull_requests":    [
+                                { "url": "https://github.com/karenetheridge/App-Nopaste/pull/12", "state": "open", "relpath": "/pull/12" }
                             ]
     }
  ]

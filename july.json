@@ -1,7 +1,7 @@
 {
  "month": "July",
- "generated": { "date": "2015-11-16", "time": "21:36:20" },
- "stats": { "done": "44", "total": "46", "percent": "95.7" },
+ "generated": { "date": "2015-11-20", "time": "15:08:53" },
+ "stats": { "done": "44", "total": "45", "percent": "97.8" },
  "assignments": [
 
     {
@@ -261,15 +261,6 @@
         "pull_requests":    [
                                 { "url": "https://github.com/toddr/Tie-DBI/pull/3", "state": "open", "relpath": "/pull/3" },
                                 { "url": "https://github.com/toddr/Tie-DBI/pull/2", "state": "open", "relpath": "/pull/2" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "meAmidos" },
-        "distname":         "MojoX-Plugin-AnyCache",
-        "released_by":      { "pause_id": "CHGOVUK" },
-        "repo":             { "url": "https://github.com/companieshouse/MojoX-Plugin-AnyCache", "relpath": "companieshouse/MojoX-Plugin-AnyCache" },
-        "pull_requests":    [
                             ]
     },
     {

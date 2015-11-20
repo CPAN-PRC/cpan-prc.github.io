@@ -1,7 +1,7 @@
 {
  "month": "October",
- "generated": { "date": "2015-11-16", "time": "21:37:45" },
- "stats": { "done": "39", "total": "53", "percent": "73.6" },
+ "generated": { "date": "2015-11-20", "time": "15:10:25" },
+ "stats": { "done": "39", "total": "51", "percent": "76.5" },
  "assignments": [
 
     {
@@ -307,15 +307,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "bennythejudge" },
-        "distname":         "Mojolicious-Plugin-MailException",
-        "released_by":      { "pause_id": "UNERA" },
-        "repo":             { "url": "https://github.com/dr-co/libmojolicious-plugin-mail_exception", "relpath": "dr-co/libmojolicious-plugin-mail_exception" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "choroba" },
         "distname":         "Net-SFTP-Foreign",
@@ -457,15 +448,6 @@
         "repo":             { "url": "https://github.com/exodist/Declare-CLI", "relpath": "exodist/Declare-CLI" },
         "pull_requests":    [
                                 { "url": "https://github.com/exodist/Declare-CLI/pull/3", "state": "merged", "relpath": "/pull/3" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "mvuets" },
-        "distname":         "Dist-Zilla-Plugin-ContributorsFromGit",
-        "released_by":      { "pause_id": "RSRCHBOY" },
-        "repo":             { "url": "https://github.com/RsrchBoy/Dist-Zilla-Plugin-ContributorsFromGit", "relpath": "RsrchBoy/Dist-Zilla-Plugin-ContributorsFromGit" },
-        "pull_requests":    [
                             ]
     },
     {

@@ -1,7 +1,7 @@
 {
  "month": "August",
- "generated": { "date": "2015-11-16", "time": "21:36:49" },
- "stats": { "done": "42", "total": "47", "percent": "89.4" },
+ "generated": { "date": "2015-11-20", "time": "15:09:24" },
+ "stats": { "done": "42", "total": "46", "percent": "91.3" },
  "assignments": [
 
     {
@@ -60,15 +60,6 @@
         "distname":         "Proc-ProcessTable",
         "released_by":      { "pause_id": "JWB" },
         "repo":             { "url": "https://github.com/jwbargsten/perl-proc-processtable", "relpath": "jwbargsten/perl-proc-processtable" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "mcmillhj" },
-        "distname":         "Tatsumaki",
-        "released_by":      { "pause_id": "CHIPS" },
-        "repo":             { "url": "https://github.com/miyagawa/Tatsumaki", "relpath": "miyagawa/Tatsumaki" },
         "pull_requests":    [
                             ]
     },

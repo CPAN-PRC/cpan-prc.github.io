@@ -1,6 +1,6 @@
 {
  "month": "January",
- "generated": { "date": "2015-11-16", "time": "17:02:28" },
+ "generated": { "date": "2015-11-20", "time": "15:04:13" },
  "stats": { "done": "165", "total": "166", "percent": "99.4" },
  "assignments": [
 
@@ -205,7 +205,7 @@
         "released_by":      { "pause_id": "DEXTER" },
         "repo":             { "url": "https://github.com/dex4er/perl-Exception-Base", "relpath": "dex4er/perl-Exception-Base" },
         "pull_requests":    [
-                                { "url": "https://github.com/dex4er/perl-Exception-Base/pull/2", "state": "open", "relpath": "/pull/2" }
+                                { "url": "https://github.com/dex4er/perl-Exception-Base/pull/2", "state": "merged", "relpath": "/pull/2" }
                             ]
     },
     {

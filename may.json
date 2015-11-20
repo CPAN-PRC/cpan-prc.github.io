@@ -1,6 +1,6 @@
 {
  "month": "May",
- "generated": { "date": "2015-11-16", "time": "21:35:28" },
+ "generated": { "date": "2015-11-20", "time": "15:07:49" },
  "stats": { "done": "48", "total": "49", "percent": "98.0" },
  "assignments": [
 
@@ -317,7 +317,7 @@
         "released_by":      { "pause_id": "BAREFOOT" },
         "repo":             { "url": "https://github.com/schwern/method-signatures", "relpath": "schwern/method-signatures" },
         "pull_requests":    [
-                                { "url": "https://github.com/evalEmpire/method-signatures/pull/118", "state": "open", "relpath": "/pull/118" }
+                                { "url": "https://github.com/evalEmpire/method-signatures/pull/118", "state": "merged", "relpath": "/pull/118" }
                             ]
     },
     {
