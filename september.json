@@ -1,6 +1,6 @@
 {
  "month": "September",
- "generated": { "date": "2015-11-20", "time": "15:09:53" },
+ "generated": { "date": "2015-11-30", "time": "15:13:06" },
  "stats": { "done": "36", "total": "49", "percent": "73.5" },
  "assignments": [
 
@@ -263,7 +263,7 @@
         "done":             true,
         "assignee":         { "github_username": "kaoru" },
         "distname":         "PDL-Stats",
-        "released_by":      { "pause_id": "ETJ" },
+        "released_by":      { "pause_id": "MAGGIEXYZ" },
         "repo":             { "url": "https://github.com/PDLPorters/PDL-Stats", "relpath": "PDLPorters/PDL-Stats" },
         "pull_requests":    [
                                 { "url": "https://github.com/PDLPorters/PDL-Stats/pull/18", "state": "merged", "relpath": "/pull/18" }

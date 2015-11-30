@@ -1,6 +1,6 @@
 {
  "month": "August",
- "generated": { "date": "2015-11-20", "time": "15:09:24" },
+ "generated": { "date": "2015-11-30", "time": "15:12:34" },
  "stats": { "done": "42", "total": "46", "percent": "91.3" },
  "assignments": [
 
@@ -8,7 +8,7 @@
         "done":             true,
         "assignee":         { "github_username": "oalders" },
         "distname":         "libwww-perl",
-        "released_by":      { "pause_id": "ETHER" },
+        "released_by":      { "pause_id": "CAPOEIRAB" },
         "repo":             { "url": "https://github.com/libwww-perl/libwww-perl", "relpath": "libwww-perl/libwww-perl" },
         "pull_requests":    [
                             ]
@@ -77,10 +77,9 @@
         "done":             true,
         "assignee":         { "github_username": "veryrusty" },
         "distname":         "XML-Compare",
-        "released_by":      { "pause_id": "CHILTS" },
-        "repo":             { "url": "https://github.com/catalyst/XML-Compare", "relpath": "catalyst/XML-Compare" },
+        "released_by":      { "pause_id": "NEILB" },
+        "repo":             { "url": "https://github.com/neilb/XML-Compare", "relpath": "neilb/XML-Compare" },
         "pull_requests":    [
-                                { "url": "https://github.com/catalyst/XML-Compare/pull/4", "state": "merged", "relpath": "/pull/4" }
                             ]
     },
     {

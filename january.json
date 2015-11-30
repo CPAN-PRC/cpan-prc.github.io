@@ -1,6 +1,6 @@
 {
  "month": "January",
- "generated": { "date": "2015-11-20", "time": "15:04:13" },
+ "generated": { "date": "2015-11-30", "time": "15:07:19" },
  "stats": { "done": "165", "total": "166", "percent": "99.4" },
  "assignments": [
 
@@ -695,7 +695,7 @@
         "released_by":      { "pause_id": "MORNINDED" },
         "repo":             { "url": "https://github.com/aarondcohen/Set-Functional", "relpath": "aarondcohen/Set-Functional" },
         "pull_requests":    [
-                                { "url": "https://github.com/aarondcohen/Set-Functional/pull/4", "state": "merged", "relpath": "/pull/4" }
+                                { "url": "https://github.com/aarondcohen/perl-set-functional/pull/4", "state": "merged", "relpath": "/pull/4" }
                             ]
     },
     {
@@ -866,10 +866,9 @@
         "done":             true,
         "assignee":         { "github_username": "ojotoxy" },
         "distname":         "XML-Compare",
-        "released_by":      { "pause_id": "CHILTS" },
-        "repo":             { "url": "https://github.com/catalyst/XML-Compare", "relpath": "catalyst/XML-Compare" },
+        "released_by":      { "pause_id": "NEILB" },
+        "repo":             { "url": "https://github.com/neilb/XML-Compare", "relpath": "neilb/XML-Compare" },
         "pull_requests":    [
-                                { "url": "https://github.com/catalyst/XML-Compare/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]
     },
     {
@@ -1664,9 +1663,9 @@
         "released_by":      { "pause_id": "JJNAPIORK" },
         "repo":             { "url": "https://github.com/perl-catalyst/Catalyst-View-JSON", "relpath": "perl-catalyst/Catalyst-View-JSON" },
         "pull_requests":    [
-                                { "url": "https://github.com/perl-catalyst/Catalyst-View-JSON/pull/5", "state": "open", "relpath": "/pull/5" },
-                                { "url": "https://github.com/perl-catalyst/Catalyst-View-JSON/pull/4", "state": "open", "relpath": "/pull/4" },
-                                { "url": "https://github.com/perl-catalyst/Catalyst-View-JSON/pull/3", "state": "open", "relpath": "/pull/3" }
+                                { "url": "https://github.com/perl-catalyst/Catalyst-View-JSON/pull/5", "state": "merged", "relpath": "/pull/5" },
+                                { "url": "https://github.com/perl-catalyst/Catalyst-View-JSON/pull/4", "state": "merged", "relpath": "/pull/4" },
+                                { "url": "https://github.com/perl-catalyst/Catalyst-View-JSON/pull/3", "state": "merged", "relpath": "/pull/3" }
                             ]
     },
     {

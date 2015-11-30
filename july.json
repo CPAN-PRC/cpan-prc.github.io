@@ -1,6 +1,6 @@
 {
  "month": "July",
- "generated": { "date": "2015-11-20", "time": "15:08:53" },
+ "generated": { "date": "2015-11-30", "time": "15:11:56" },
  "stats": { "done": "44", "total": "45", "percent": "97.8" },
  "assignments": [
 
@@ -193,7 +193,7 @@
         "done":             true,
         "assignee":         { "github_username": "mishin" },
         "distname":         "Data-MessagePack",
-        "released_by":      { "pause_id": "GFUJI" },
+        "released_by":      { "pause_id": "SYOHEX" },
         "repo":             { "url": "https://github.com/msgpack/msgpack-perl", "relpath": "msgpack/msgpack-perl" },
         "pull_requests":    [
                                 { "url": "https://github.com/msgpack/msgpack-perl/pull/19", "state": "merged", "relpath": "/pull/19" }
