@@ -1,7 +1,7 @@
 {
  "month": "November",
- "generated": { "date": "2015-11-30", "time": "15:14:01" },
- "stats": { "done": "26", "total": "45", "percent": "57.8" },
+ "generated": { "date": "2015-12-06", "time": "20:31:43" },
+ "stats": { "done": "30", "total": "43", "percent": "69.8" },
  "assignments": [
 
     {
@@ -25,12 +25,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "kappa" },
         "distname":         "Pegex",
         "released_by":      { "pause_id": "INGY" },
         "repo":             { "url": "https://github.com/ingydotnet/pegex-pm", "relpath": "ingydotnet/pegex-pm" },
         "pull_requests":    [
+                                { "url": "https://github.com/ingydotnet/pegex-pm/pull/48", "state": "open", "relpath": "/pull/48" }
                             ]
     },
     {
@@ -147,19 +148,20 @@
         "assignee":         { "github_username": "pauloscustodio" },
         "distname":         "mixin",
         "released_by":      { "pause_id": "MSCHWERN" },
-        "repo":             { "url": "https://github.com/schwern/mixin", "relpath": "schwern/mixin" },
+        "repo":             { "url": "https://github.com/evalEmpire/mixin", "relpath": "evalEmpire/mixin" },
         "pull_requests":    [
-                                { "url": "https://github.com/schwern/mixin/pull/2", "state": "open", "relpath": "/pull/2" },
-                                { "url": "https://github.com/schwern/mixin/pull/1", "state": "closed", "relpath": "/pull/1" }
+                                { "url": "https://github.com/evalEmpire/mixin/pull/2", "state": "merged", "relpath": "/pull/2" },
+                                { "url": "https://github.com/evalEmpire/mixin/pull/1", "state": "closed", "relpath": "/pull/1" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "kyzn" },
         "distname":         "HTML-StickyQuery-DoCoMoGUID",
         "released_by":      { "pause_id": "YAPPO" },
         "repo":             { "url": "https://github.com/yappo/p5-HTML-StickyQuery-DoCoMoGUID", "relpath": "yappo/p5-HTML-StickyQuery-DoCoMoGUID" },
         "pull_requests":    [
+                                { "url": "https://github.com/yappo/p5-HTML-StickyQuery-DoCoMoGUID/pull/1", "state": "open", "relpath": "/pull/1" }
                             ]
     },
     {
@@ -265,10 +267,11 @@
         "released_by":      { "pause_id": "MINIMAL" },
         "repo":             { "url": "https://github.com/naturalist/kelp", "relpath": "naturalist/kelp" },
         "pull_requests":    [
+                                { "url": "https://github.com/naturalist/kelp/pull/46", "state": "merged", "relpath": "/pull/46" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "cakirke" },
         "distname":         "Message-Passing-AMQP",
         "released_by":      { "pause_id": "ABRAXXA" },
@@ -298,15 +301,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "dionys" },
-        "distname":         "HTML-Tidy",
-        "released_by":      { "pause_id": "PETDANCE" },
-        "repo":             { "url": "https://github.com/petdance/html-tidy", "relpath": "petdance/html-tidy" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "netangel" },
         "distname":         "MouseX-AttributeHelpers",
@@ -314,15 +308,6 @@
         "repo":             { "url": "https://github.com/masaki/mousex-attributehelpers", "relpath": "masaki/mousex-attributehelpers" },
         "pull_requests":    [
                                 { "url": "https://github.com/masaki/mousex-attributehelpers/pull/2", "state": "open", "relpath": "/pull/2" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "labrown" },
-        "distname":         "HTML-Barcode",
-        "released_by":      { "pause_id": "MSTRAT" },
-        "repo":             { "url": "https://github.com/mstratman/HTML-Barcode", "relpath": "mstratman/HTML-Barcode" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -384,12 +369,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "thrig" },
         "distname":         "XML-SAX-Writer",
         "released_by":      { "pause_id": "PERIGRIN" },
         "repo":             { "url": "https://github.com/perigrin/xml-sax-writer", "relpath": "perigrin/xml-sax-writer" },
         "pull_requests":    [
+                                { "url": "https://github.com/perigrin/xml-sax-writer/pull/9", "state": "open", "relpath": "/pull/9" }
                             ]
     },
     {
@@ -413,7 +399,7 @@
         "released_by":      { "pause_id": "GUGOD" },
         "repo":             { "url": "https://github.com/gugod/rubyish-perl", "relpath": "gugod/rubyish-perl" },
         "pull_requests":    [
-                                { "url": "https://github.com/gugod/rubyish-perl/pull/1", "state": "open", "relpath": "/pull/1" }
+                                { "url": "https://github.com/gugod/rubyish-perl/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]
     },
     {

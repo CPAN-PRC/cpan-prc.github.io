@@ -1,6 +1,6 @@
 {
  "month": "January",
- "generated": { "date": "2015-11-30", "time": "15:07:19" },
+ "generated": { "date": "2015-12-06", "time": "20:25:58" },
  "stats": { "done": "165", "total": "166", "percent": "99.4" },
  "assignments": [
 
@@ -1000,7 +1000,7 @@
         "released_by":      { "pause_id": "SYOHEX" },
         "repo":             { "url": "https://github.com/xslate/p5-Text-Xslate", "relpath": "xslate/p5-Text-Xslate" },
         "pull_requests":    [
-                                { "url": "https://github.com/xslate/p5-Text-Xslate/pull/142", "state": "open", "relpath": "/pull/142" },
+                                { "url": "https://github.com/xslate/p5-Text-Xslate/pull/142", "state": "closed", "relpath": "/pull/142" },
                                 { "url": "https://github.com/xslate/p5-Text-Xslate/pull/136", "state": "merged", "relpath": "/pull/136" }
                             ]
     },

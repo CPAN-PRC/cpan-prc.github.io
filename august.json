@@ -1,6 +1,6 @@
 {
  "month": "August",
- "generated": { "date": "2015-11-30", "time": "15:12:34" },
+ "generated": { "date": "2015-12-06", "time": "20:30:30" },
  "stats": { "done": "42", "total": "46", "percent": "91.3" },
  "assignments": [
 
@@ -8,7 +8,7 @@
         "done":             true,
         "assignee":         { "github_username": "oalders" },
         "distname":         "libwww-perl",
-        "released_by":      { "pause_id": "CAPOEIRAB" },
+        "released_by":      { "pause_id": "ETHER" },
         "repo":             { "url": "https://github.com/libwww-perl/libwww-perl", "relpath": "libwww-perl/libwww-perl" },
         "pull_requests":    [
                             ]
@@ -444,6 +444,7 @@
         "released_by":      { "pause_id": "DANJOU" },
         "repo":             { "url": "https://github.com/lopnor/Net-Google-Spreadsheets", "relpath": "lopnor/Net-Google-Spreadsheets" },
         "pull_requests":    [
+                                { "url": "https://github.com/lopnor/Net-Google-Spreadsheets/pull/5", "state": "open", "relpath": "/pull/5" },
                                 { "url": "https://github.com/lopnor/Net-Google-Spreadsheets/pull/4", "state": "open", "relpath": "/pull/4" }
                             ]
     },

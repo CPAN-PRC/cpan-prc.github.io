@@ -1,6 +1,6 @@
 {
  "month": "February",
- "generated": { "date": "2015-11-30", "time": "15:08:35" },
+ "generated": { "date": "2015-12-06", "time": "20:27:17" },
  "stats": { "done": "114", "total": "114", "percent": "100.0" },
  "assignments": [
 
@@ -28,7 +28,7 @@
         "done":             true,
         "assignee":         { "github_username": "dainapettit" },
         "distname":         "libwww-perl",
-        "released_by":      { "pause_id": "CAPOEIRAB" },
+        "released_by":      { "pause_id": "ETHER" },
         "repo":             { "url": "https://github.com/libwww-perl/libwww-perl", "relpath": "libwww-perl/libwww-perl" },
         "pull_requests":    [
                                 { "url": "https://github.com/libwww-perl/libwww-perl/pull/70", "state": "merged", "relpath": "/pull/70" }
