@@ -1,7 +1,7 @@
 {
  "month": "October",
- "generated": { "date": "2015-12-06", "time": "20:31:21" },
- "stats": { "done": "39", "total": "51", "percent": "76.5" },
+ "generated": { "date": "2015-12-15", "time": "23:07:51" },
+ "stats": { "done": "39", "total": "50", "percent": "78.0" },
  "assignments": [
 
     {
@@ -288,15 +288,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "itcharlie" },
-        "distname":         "Metabase",
-        "released_by":      { "pause_id": "RJBS" },
-        "repo":             { "url": "https://github.com/rjbs/metabase", "relpath": "rjbs/metabase" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "lharey" },
         "distname":         "Devel-Pragma",
@@ -388,7 +379,7 @@
         "released_by":      { "pause_id": "BOOK" },
         "repo":             { "url": "https://github.com/book/Git-Repository-Plugin-Log", "relpath": "book/Git-Repository-Plugin-Log" },
         "pull_requests":    [
-                                { "url": "https://github.com/book/Git-Repository-Plugin-Log/pull/3", "state": "open", "relpath": "/pull/3" }
+                                { "url": "https://github.com/book/Git-Repository-Plugin-Log/pull/3", "state": "closed", "relpath": "/pull/3" }
                             ]
     },
     {

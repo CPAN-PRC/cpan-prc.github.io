@@ -1,6 +1,6 @@
 {
  "month": "January",
- "generated": { "date": "2015-12-06", "time": "20:25:58" },
+ "generated": { "date": "2015-12-15", "time": "22:59:03" },
  "stats": { "done": "165", "total": "166", "percent": "99.4" },
  "assignments": [
 
@@ -473,8 +473,8 @@
         "pull_requests":    [
                                 { "url": "https://github.com/dpavlin/perl-fuse/pull/23", "state": "open", "relpath": "/pull/23" },
                                 { "url": "https://github.com/dpavlin/perl-fuse/pull/22", "state": "open", "relpath": "/pull/22" },
-                                { "url": "https://github.com/dpavlin/perl-fuse/pull/21", "state": "open", "relpath": "/pull/21" },
-                                { "url": "https://github.com/dpavlin/perl-fuse/pull/20", "state": "open", "relpath": "/pull/20" }
+                                { "url": "https://github.com/dpavlin/perl-fuse/pull/21", "state": "merged", "relpath": "/pull/21" },
+                                { "url": "https://github.com/dpavlin/perl-fuse/pull/20", "state": "closed", "relpath": "/pull/20" }
                             ]
     },
     {

@@ -1,6 +1,6 @@
 {
  "month": "March",
- "generated": { "date": "2015-12-06", "time": "20:28:01" },
+ "generated": { "date": "2015-12-15", "time": "23:02:08" },
  "stats": { "done": "89", "total": "89", "percent": "100.0" },
  "assignments": [
 
@@ -11,10 +11,6 @@
         "released_by":      { "pause_id": "XSAWYERX" },
         "repo":             { "url": "https://github.com/PerlDancer/Dancer2", "relpath": "PerlDancer/Dancer2" },
         "pull_requests":    [
-                                { "url": "https://github.com/PerlDancer/Dancer2/pull/1045", "state": "closed", "relpath": "/pull/1045" },
-                                { "url": "https://github.com/PerlDancer/Dancer2/pull/1042", "state": "merged", "relpath": "/pull/1042" },
-                                { "url": "https://github.com/PerlDancer/Dancer2/pull/1037", "state": "closed", "relpath": "/pull/1037" },
-                                { "url": "https://github.com/PerlDancer/Dancer2/pull/1007", "state": "merged", "relpath": "/pull/1007" }
                             ]
     },
     {
@@ -261,10 +257,10 @@
         "done":             true,
         "assignee":         { "github_username": "rjbs" },
         "distname":         "Template-Mustache",
-        "released_by":      { "pause_id": "RJBS" },
+        "released_by":      { "pause_id": "YANICK" },
         "repo":             { "url": "https://github.com/pvande/Template-Mustache", "relpath": "pvande/Template-Mustache" },
         "pull_requests":    [
-                                { "url": "https://github.com/pvande/Template-Mustache/pull/19", "state": "open", "relpath": "/pull/19" },
+                                { "url": "https://github.com/pvande/Template-Mustache/pull/19", "state": "merged", "relpath": "/pull/19" },
                                 { "url": "https://github.com/pvande/Template-Mustache/pull/18", "state": "merged", "relpath": "/pull/18" },
                                 { "url": "https://github.com/pvande/Template-Mustache/pull/17", "state": "merged", "relpath": "/pull/17" }
                             ]

@@ -1,7 +1,7 @@
 {
  "month": "December",
- "generated": { "date": "2015-12-06", "time": "20:32:22" },
- "stats": { "done": "9", "total": "110", "percent": "8.2" },
+ "generated": { "date": "2015-12-15", "time": "23:09:37" },
+ "stats": { "done": "17", "total": "116", "percent": "14.7" },
  "assignments": [
 
     {
@@ -41,12 +41,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "yanick" },
         "distname":         "Net-SSH-Perl",
         "released_by":      { "pause_id": "SCHWIGON" },
         "repo":             { "url": "https://github.com/renormalist/Net-SSH-Perl", "relpath": "renormalist/Net-SSH-Perl" },
         "pull_requests":    [
+                                { "url": "https://github.com/renormalist/Net-SSH-Perl/pull/9", "state": "open", "relpath": "/pull/9" }
                             ]
     },
     {
@@ -140,12 +141,14 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "mbeijen" },
         "distname":         "PDF-API2",
         "released_by":      { "pause_id": "SSIMMS" },
         "repo":             { "url": "https://github.com/ssimms/pdfapi2", "relpath": "ssimms/pdfapi2" },
         "pull_requests":    [
+                                { "url": "https://github.com/ssimms/pdfapi2/pull/2", "state": "open", "relpath": "/pull/2" },
+                                { "url": "https://github.com/ssimms/pdfapi2/pull/1", "state": "open", "relpath": "/pull/1" }
                             ]
     },
     {
@@ -216,9 +219,10 @@
         "done":             false,
         "assignee":         { "github_username": "srvsh" },
         "distname":         "RT-Client-REST",
-        "released_by":      { "pause_id": "DMITRI" },
+        "released_by":      { "pause_id": "SRVSH" },
         "repo":             { "url": "https://github.com/RT-Client-REST/RT-Client-REST", "relpath": "RT-Client-REST/RT-Client-REST" },
         "pull_requests":    [
+                                { "url": "https://github.com/RT-Client-REST/RT-Client-REST/pull/7", "state": "merged", "relpath": "/pull/7" },
                                 { "url": "https://github.com/RT-Client-REST/RT-Client-REST/pull/6", "state": "merged", "relpath": "/pull/6" }
                             ]
     },
@@ -333,19 +337,22 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "sjohnston" },
         "distname":         "Perl-Critic",
         "released_by":      { "pause_id": "THALJEF" },
         "repo":             { "url": "https://github.com/Perl-Critic/Perl-Critic", "relpath": "Perl-Critic/Perl-Critic" },
         "pull_requests":    [
+                                { "url": "https://github.com/Perl-Critic/Perl-Critic/pull/677", "state": "open", "relpath": "/pull/677" },
+                                { "url": "https://github.com/Perl-Critic/Perl-Critic/pull/676", "state": "open", "relpath": "/pull/676" },
+                                { "url": "https://github.com/Perl-Critic/Perl-Critic/pull/675", "state": "open", "relpath": "/pull/675" }
                             ]
     },
     {
         "done":             false,
         "assignee":         { "github_username": "harris901" },
         "distname":         "DBD-mysql",
-        "released_by":      { "pause_id": "CAPTTOFU" },
+        "released_by":      { "pause_id": "MICHIELB" },
         "repo":             { "url": "https://github.com/perl5-dbi/DBD-mysql", "relpath": "perl5-dbi/DBD-mysql" },
         "pull_requests":    [
                             ]
@@ -387,12 +394,15 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "mjg17" },
         "distname":         "XML-Twig",
         "released_by":      { "pause_id": "MIROD" },
         "repo":             { "url": "https://github.com/mirod/xmltwig", "relpath": "mirod/xmltwig" },
         "pull_requests":    [
+                                { "url": "https://github.com/mirod/xmltwig/pull/23", "state": "open", "relpath": "/pull/23" },
+                                { "url": "https://github.com/mirod/xmltwig/pull/22", "state": "open", "relpath": "/pull/22" },
+                                { "url": "https://github.com/mirod/xmltwig/pull/21", "state": "open", "relpath": "/pull/21" }
                             ]
     },
     {
@@ -572,12 +582,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "brad-mac" },
         "distname":         "JavaScript-V8",
         "released_by":      { "pause_id": "DGL" },
         "repo":             { "url": "https://github.com/dgl/javascript-v8", "relpath": "dgl/javascript-v8" },
         "pull_requests":    [
+                                { "url": "https://github.com/dgl/javascript-v8/pull/17", "state": "open", "relpath": "/pull/17" }
                             ]
     },
     {
@@ -662,6 +673,7 @@
         "released_by":      { "pause_id": "RCONOVER" },
         "repo":             { "url": "https://github.com/lukec/stripe-perl", "relpath": "lukec/stripe-perl" },
         "pull_requests":    [
+                                { "url": "https://github.com/lukec/stripe-perl/pull/69", "state": "open", "relpath": "/pull/69" },
                                 { "url": "https://github.com/lukec/stripe-perl/pull/67", "state": "open", "relpath": "/pull/67" }
                             ]
     },
@@ -702,13 +714,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "hatorikibble" },
         "distname":         "DBIx-Class-Fixtures",
         "released_by":      { "pause_id": "SKAUFMAN" },
         "repo":             { "url": "https://github.com/dbsrgits/DBIx-Class-Fixtures", "relpath": "dbsrgits/DBIx-Class-Fixtures" },
         "pull_requests":    [
-                                { "url": "https://github.com/dbsrgits/DBIx-Class-Fixtures/pull/8", "state": "open", "relpath": "/pull/8" },
+                                { "url": "https://github.com/dbsrgits/DBIx-Class-Fixtures/pull/8", "state": "merged", "relpath": "/pull/8" },
                                 { "url": "https://github.com/dbsrgits/DBIx-Class-Fixtures/pull/7", "state": "merged", "relpath": "/pull/7" }
                             ]
     },
@@ -775,6 +787,7 @@
         "released_by":      { "pause_id": "TOMITA" },
         "repo":             { "url": "https://github.com/tomi-ru/Template-Semantic", "relpath": "tomi-ru/Template-Semantic" },
         "pull_requests":    [
+                                { "url": "https://github.com/tomill/Template-Semantic/pull/15", "state": "open", "relpath": "/pull/15" },
                                 { "url": "https://github.com/tomill/Template-Semantic/pull/14", "state": "open", "relpath": "/pull/14" }
                             ]
     },
@@ -833,13 +846,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "openstrike" },
         "distname":         "MooseX-Log-Log4perl",
         "released_by":      { "pause_id": "LAMMEL" },
         "repo":             { "url": "https://github.com/lammel/moosex-log-log4perl", "relpath": "lammel/moosex-log-log4perl" },
         "pull_requests":    [
-                                { "url": "https://github.com/lammel/moosex-log-log4perl/pull/5", "state": "open", "relpath": "/pull/5" }
+                                { "url": "https://github.com/lammel/moosex-log-log4perl/pull/5", "state": "merged", "relpath": "/pull/5" }
                             ]
     },
     {
@@ -923,6 +936,7 @@
         "released_by":      { "pause_id": "ECARROLL" },
         "repo":             { "url": "https://github.com/EvanCarroll/mx-t-datetime-butmainted", "relpath": "EvanCarroll/mx-t-datetime-butmainted" },
         "pull_requests":    [
+                                { "url": "https://github.com/EvanCarroll/mx-t-datetime-butmainted/pull/1", "state": "open", "relpath": "/pull/1" }
                             ]
     },
     {
@@ -1014,6 +1028,62 @@
         "distname":         "CPAN-DistnameInfo",
         "released_by":      { "pause_id": "GBARR" },
         "repo":             { "url": "https://github.com/gbarr/CPAN-DistnameInfo", "relpath": "gbarr/CPAN-DistnameInfo" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "itcharlie" },
+        "distname":         "Attean",
+        "released_by":      { "pause_id": "GWILLIAMS" },
+        "repo":             { "url": "https://github.com/kasei/attean", "relpath": "kasei/attean" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "mishin" },
+        "distname":         "File-Monitor",
+        "released_by":      { "pause_id": "ANDYA" },
+        "repo":             { "url": "https://github.com/AndyA/File--Monitor", "relpath": "AndyA/File--Monitor" },
+        "pull_requests":    [
+                                { "url": "https://github.com/AndyA/File--Monitor/pull/3", "state": "open", "relpath": "/pull/3" }
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "davorg" },
+        "distname":         "Test-DBIx-Class-Schema",
+        "released_by":      { "pause_id": "CHISEL" },
+        "repo":             { "url": "https://github.com/chiselwright/test-dbix-class-schema", "relpath": "chiselwright/test-dbix-class-schema" },
+        "pull_requests":    [
+                                { "url": "https://github.com/chiselwright/test-dbix-class-schema/pull/15", "state": "merged", "relpath": "/pull/15" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "mickeyn" },
+        "distname":         "Plack-Debugger",
+        "released_by":      { "pause_id": "STEVAN" },
+        "repo":             { "url": "https://github.com/stevan/p5-plack-debugger", "relpath": "stevan/p5-plack-debugger" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "rbastic" },
+        "distname":         "HiD",
+        "released_by":      { "pause_id": "GENEHACK" },
+        "repo":             { "url": "https://github.com/genehack/HiD", "relpath": "genehack/HiD" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "monsieurp" },
+        "distname":         "Array-Diff",
+        "released_by":      { "pause_id": "TYPESTER" },
+        "repo":             { "url": "https://github.com/typester/array-diff-perl", "relpath": "typester/array-diff-perl" },
         "pull_requests":    [
                             ]
     }

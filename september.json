@@ -1,6 +1,6 @@
 {
  "month": "September",
- "generated": { "date": "2015-12-06", "time": "20:30:55" },
+ "generated": { "date": "2015-12-15", "time": "23:07:21" },
  "stats": { "done": "36", "total": "49", "percent": "73.5" },
  "assignments": [
 
@@ -273,7 +273,7 @@
         "done":             false,
         "assignee":         { "github_username": "trwww" },
         "distname":         "RT-Client-REST",
-        "released_by":      { "pause_id": "DMITRI" },
+        "released_by":      { "pause_id": "SRVSH" },
         "repo":             { "url": "https://github.com/RT-Client-REST/RT-Client-REST", "relpath": "RT-Client-REST/RT-Client-REST" },
         "pull_requests":    [
                             ]
@@ -399,7 +399,7 @@
         "released_by":      { "pause_id": "LAMMEL" },
         "repo":             { "url": "https://github.com/lammel/moosex-log-log4perl", "relpath": "lammel/moosex-log-log4perl" },
         "pull_requests":    [
-                                { "url": "https://github.com/lammel/moosex-log-log4perl/pull/4", "state": "open", "relpath": "/pull/4" }
+                                { "url": "https://github.com/lammel/moosex-log-log4perl/pull/4", "state": "merged", "relpath": "/pull/4" }
                             ]
     },
     {

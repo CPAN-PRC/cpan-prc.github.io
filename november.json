@@ -1,7 +1,7 @@
 {
  "month": "November",
- "generated": { "date": "2015-12-06", "time": "20:31:43" },
- "stats": { "done": "30", "total": "43", "percent": "69.8" },
+ "generated": { "date": "2015-12-15", "time": "23:08:19" },
+ "stats": { "done": "31", "total": "42", "percent": "73.8" },
  "assignments": [
 
     {
@@ -261,12 +261,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "mishin" },
         "distname":         "Kelp",
         "released_by":      { "pause_id": "MINIMAL" },
         "repo":             { "url": "https://github.com/naturalist/kelp", "relpath": "naturalist/kelp" },
         "pull_requests":    [
+                                { "url": "https://github.com/naturalist/kelp/pull/48", "state": "merged", "relpath": "/pull/48" },
                                 { "url": "https://github.com/naturalist/kelp/pull/46", "state": "merged", "relpath": "/pull/46" }
                             ]
     },
@@ -277,6 +278,7 @@
         "released_by":      { "pause_id": "ABRAXXA" },
         "repo":             { "url": "https://github.com/suretec/Message-Passing-AMQP", "relpath": "suretec/Message-Passing-AMQP" },
         "pull_requests":    [
+                                { "url": "https://github.com/suretec/Message-Passing-AMQP/pull/4", "state": "open", "relpath": "/pull/4" },
                                 { "url": "https://github.com/suretec/Message-Passing-AMQP/pull/3", "state": "open", "relpath": "/pull/3" }
                             ]
     },
@@ -297,7 +299,7 @@
         "released_by":      { "pause_id": "GGOLDBACH" },
         "repo":             { "url": "https://github.com/glauschwuffel/perl5-App-autotest", "relpath": "glauschwuffel/perl5-App-autotest" },
         "pull_requests":    [
-                                { "url": "https://github.com/glauschwuffel/perl5-App-autotest/pull/18", "state": "open", "relpath": "/pull/18" }
+                                { "url": "https://github.com/glauschwuffel/perl5-App-autotest/pull/18", "state": "merged", "relpath": "/pull/18" }
                             ]
     },
     {
@@ -408,15 +410,6 @@
         "distname":         "Parse-CSV",
         "released_by":      { "pause_id": "KWILLIAMS" },
         "repo":             { "url": "https://github.com/kenahoo/Perl-Parse-CSV", "relpath": "kenahoo/Perl-Parse-CSV" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "monsieurp" },
-        "distname":         "Test-Synopsis",
-        "released_by":      { "pause_id": "ZOFFIX" },
-        "repo":             { "url": "https://github.com/miyagawa/test-synopsis", "relpath": "miyagawa/test-synopsis" },
         "pull_requests":    [
                             ]
     },
