@@ -1,7 +1,7 @@
 {
  "month": "July",
- "generated": { "date": "2015-12-15", "time": "23:05:08" },
- "stats": { "done": "44", "total": "45", "percent": "97.8" },
+ "generated": { "date": "2016-01-05", "time": "22:26:16" },
+ "stats": { "done": "44", "total": "44", "percent": "100.0" },
  "assignments": [
 
     {
@@ -121,7 +121,7 @@
         "done":             true,
         "assignee":         { "github_username": "1nickt" },
         "distname":         "Net-XMPP",
-        "released_by":      { "pause_id": "DAPATRICK" },
+        "released_by":      { "pause_id": "PSIXDISTS" },
         "repo":             { "url": "https://github.com/dap/Net-XMPP", "relpath": "dap/Net-XMPP" },
         "pull_requests":    [
                             ]
@@ -183,7 +183,7 @@
         "done":             true,
         "assignee":         { "github_username": "labrown" },
         "distname":         "Email-MIME",
-        "released_by":      { "pause_id": "RJBS" },
+        "released_by":      { "pause_id": "PSIXDISTS" },
         "repo":             { "url": "https://github.com/rjbs/Email-MIME", "relpath": "rjbs/Email-MIME" },
         "pull_requests":    [
                                 { "url": "https://github.com/rjbs/Email-MIME/pull/25", "state": "merged", "relpath": "/pull/25" }
@@ -206,20 +206,20 @@
         "released_by":      { "pause_id": "COSIMO" },
         "repo":             { "url": "https://github.com/cosimo/perl5-device-gsm", "relpath": "cosimo/perl5-device-gsm" },
         "pull_requests":    [
-                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/15", "state": "open", "relpath": "/pull/15" },
-                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/14", "state": "open", "relpath": "/pull/14" },
-                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/13", "state": "open", "relpath": "/pull/13" },
-                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/12", "state": "open", "relpath": "/pull/12" },
-                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/11", "state": "open", "relpath": "/pull/11" },
-                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/10", "state": "open", "relpath": "/pull/10" },
-                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/9", "state": "open", "relpath": "/pull/9" },
-                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/8", "state": "open", "relpath": "/pull/8" },
+                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/15", "state": "merged", "relpath": "/pull/15" },
+                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/14", "state": "merged", "relpath": "/pull/14" },
+                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/13", "state": "merged", "relpath": "/pull/13" },
+                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/12", "state": "merged", "relpath": "/pull/12" },
+                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/11", "state": "merged", "relpath": "/pull/11" },
+                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/10", "state": "merged", "relpath": "/pull/10" },
+                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/9", "state": "merged", "relpath": "/pull/9" },
+                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/8", "state": "merged", "relpath": "/pull/8" },
                                 { "url": "https://github.com/cosimo/perl5-device-gsm/pull/7", "state": "open", "relpath": "/pull/7" },
                                 { "url": "https://github.com/cosimo/perl5-device-gsm/pull/6", "state": "open", "relpath": "/pull/6" },
-                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/5", "state": "open", "relpath": "/pull/5" },
-                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/4", "state": "open", "relpath": "/pull/4" },
-                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/3", "state": "open", "relpath": "/pull/3" },
-                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/2", "state": "open", "relpath": "/pull/2" }
+                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/5", "state": "merged", "relpath": "/pull/5" },
+                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/4", "state": "merged", "relpath": "/pull/4" },
+                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/3", "state": "merged", "relpath": "/pull/3" },
+                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/2", "state": "merged", "relpath": "/pull/2" }
                             ]
     },
     {
@@ -236,7 +236,7 @@
         "done":             true,
         "assignee":         { "github_username": "ambs" },
         "distname":         "Data-Dump",
-        "released_by":      { "pause_id": "GAAS" },
+        "released_by":      { "pause_id": "PSIXDISTS" },
         "repo":             { "url": "https://github.com/gisle/data-dump", "relpath": "gisle/data-dump" },
         "pull_requests":    [
                                 { "url": "https://github.com/gisle/data-dump/pull/14", "state": "open", "relpath": "/pull/14" }
@@ -308,7 +308,7 @@
         "done":             true,
         "assignee":         { "github_username": "kappa" },
         "distname":         "Encode",
-        "released_by":      { "pause_id": "DANKOGAI" },
+        "released_by":      { "pause_id": "PSIXDISTS" },
         "repo":             { "url": "https://github.com/dankogai/p5-encode", "relpath": "dankogai/p5-encode" },
         "pull_requests":    [
                                 { "url": "https://github.com/dankogai/p5-encode/pull/41", "state": "merged", "relpath": "/pull/41" }
@@ -393,15 +393,6 @@
         "repo":             { "url": "https://github.com/cpan-testers/CPAN-Reporter", "relpath": "cpan-testers/CPAN-Reporter" },
         "pull_requests":    [
                                 { "url": "https://github.com/cpan-testers/CPAN-Reporter/pull/27", "state": "merged", "relpath": "/pull/27" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "distalzou" },
-        "distname":         "Data-Printer",
-        "released_by":      { "pause_id": "GARU" },
-        "repo":             { "url": "https://github.com/garu/Data-Printer", "relpath": "garu/Data-Printer" },
-        "pull_requests":    [
                             ]
     },
     {

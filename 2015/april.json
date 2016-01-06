@@ -1,7 +1,7 @@
 {
  "month": "April",
- "generated": { "date": "2015-12-15", "time": "23:03:27" },
- "stats": { "done": "57", "total": "57", "percent": "100.0" },
+ "generated": { "date": "2016-01-05", "time": "22:24:38" },
+ "stats": { "done": "58", "total": "58", "percent": "100.0" },
  "assignments": [
 
     {
@@ -12,7 +12,7 @@
         "repo":             { "url": "https://github.com/toddr/XML-Parser", "relpath": "toddr/XML-Parser" },
         "pull_requests":    [
                                 { "url": "https://github.com/toddr/XML-Parser/pull/5", "state": "open", "relpath": "/pull/5" },
-                                { "url": "https://github.com/toddr/XML-Parser/pull/4", "state": "open", "relpath": "/pull/4" }
+                                { "url": "https://github.com/toddr/XML-Parser/pull/4", "state": "merged", "relpath": "/pull/4" }
                             ]
     },
     {
@@ -23,6 +23,16 @@
         "repo":             { "url": "https://github.com/moose/Moose", "relpath": "moose/Moose" },
         "pull_requests":    [
                                 { "url": "https://github.com/moose/Moose/pull/100", "state": "closed", "relpath": "/pull/100" }
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "jamessan" },
+        "distname":         "XML-Twig",
+        "released_by":      { "pause_id": "MIROD" },
+        "repo":             { "url": "https://github.com/mirod/xmltwig", "relpath": "mirod/xmltwig" },
+        "pull_requests":    [
+                                { "url": "https://github.com/mirod/xmltwig/pull/24", "state": "open", "relpath": "/pull/24" }
                             ]
     },
     {

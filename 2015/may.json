@@ -1,7 +1,7 @@
 {
  "month": "May",
- "generated": { "date": "2015-12-15", "time": "23:04:05" },
- "stats": { "done": "48", "total": "49", "percent": "98.0" },
+ "generated": { "date": "2016-01-05", "time": "22:25:15" },
+ "stats": { "done": "49", "total": "50", "percent": "98.0" },
  "assignments": [
 
     {
@@ -111,6 +111,17 @@
         "repo":             { "url": "https://github.com/miyagawa/Twiggy", "relpath": "miyagawa/Twiggy" },
         "pull_requests":    [
                                 { "url": "https://github.com/miyagawa/Twiggy/pull/47", "state": "merged", "relpath": "/pull/47" }
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "cakirke" },
+        "distname":         "CHI",
+        "released_by":      { "pause_id": "JSWARTZ" },
+        "repo":             { "url": "https://github.com/jonswar/perl-chi", "relpath": "jonswar/perl-chi" },
+        "pull_requests":    [
+                                { "url": "https://github.com/jonswar/perl-chi/pull/22", "state": "open", "relpath": "/pull/22" },
+                                { "url": "https://github.com/jonswar/perl-chi/pull/21", "state": "open", "relpath": "/pull/21" }
                             ]
     },
     {
@@ -234,7 +245,7 @@
         "done":             true,
         "assignee":         { "github_username": "garu" },
         "distname":         "Text-CSV",
-        "released_by":      { "pause_id": "MAKAMAKA" },
+        "released_by":      { "pause_id": "PSIXDISTS" },
         "repo":             { "url": "https://github.com/makamaka/Text-CSV", "relpath": "makamaka/Text-CSV" },
         "pull_requests":    [
                                 { "url": "https://github.com/makamaka/Text-CSV/pull/26", "state": "open", "relpath": "/pull/26" },
@@ -253,7 +264,7 @@
         "done":             true,
         "assignee":         { "github_username": "manwar" },
         "distname":         "Text-Markdown",
-        "released_by":      { "pause_id": "BOBTFISH" },
+        "released_by":      { "pause_id": "PSIXDISTS" },
         "repo":             { "url": "https://github.com/bobtfish/text-markdown", "relpath": "bobtfish/text-markdown" },
         "pull_requests":    [
                                 { "url": "https://github.com/bobtfish/text-markdown/pull/32", "state": "merged", "relpath": "/pull/32" }
@@ -266,7 +277,7 @@
         "released_by":      { "pause_id": "GARU" },
         "repo":             { "url": "https://github.com/garu/Data-Printer", "relpath": "garu/Data-Printer" },
         "pull_requests":    [
-                                { "url": "https://github.com/garu/Data-Printer/pull/66", "state": "open", "relpath": "/pull/66" }
+                                { "url": "https://github.com/garu/Data-Printer/pull/66", "state": "merged", "relpath": "/pull/66" }
                             ]
     },
     {

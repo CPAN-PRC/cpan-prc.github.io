@@ -1,7 +1,7 @@
 {
  "month": "October",
- "generated": { "date": "2015-12-15", "time": "23:07:51" },
- "stats": { "done": "39", "total": "50", "percent": "78.0" },
+ "generated": { "date": "2016-01-05", "time": "22:27:49" },
+ "stats": { "done": "39", "total": "43", "percent": "90.7" },
  "assignments": [
 
     {
@@ -17,7 +17,7 @@
         "done":             true,
         "assignee":         { "github_username": "Varadinsky" },
         "distname":         "YAML",
-        "released_by":      { "pause_id": "INGY" },
+        "released_by":      { "pause_id": "PSIXDISTS" },
         "repo":             { "url": "https://github.com/ingydotnet/yaml-pm", "relpath": "ingydotnet/yaml-pm" },
         "pull_requests":    [
                                 { "url": "https://github.com/ingydotnet/yaml-pm/pull/154", "state": "open", "relpath": "/pull/154" }
@@ -39,15 +39,6 @@
         "distname":         "Module-Install",
         "released_by":      { "pause_id": "ETHER" },
         "repo":             { "url": "https://github.com/Perl-Toolchain-Gang/Module-Install", "relpath": "Perl-Toolchain-Gang/Module-Install" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "oalders" },
-        "distname":         "EBook-MOBI",
-        "released_by":      { "pause_id": "BORISD" },
-        "repo":             { "url": "https://github.com/borisdaeppen/EBook--MOBI", "relpath": "borisdaeppen/EBook--MOBI" },
         "pull_requests":    [
                             ]
     },
@@ -124,22 +115,13 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "shuwnyuantee" },
-        "distname":         "WebService-Solr",
-        "released_by":      { "pause_id": "PETDANCE" },
-        "repo":             { "url": "https://github.com/bricas/webservice-solr", "relpath": "bricas/webservice-solr" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "kaoru" },
         "distname":         "HTML-Mason",
         "released_by":      { "pause_id": "DROLSKY" },
         "repo":             { "url": "https://github.com/autarch/HTML-Mason", "relpath": "autarch/HTML-Mason" },
         "pull_requests":    [
-                                { "url": "https://github.com/autarch/HTML-Mason/pull/3", "state": "open", "relpath": "/pull/3" }
+                                { "url": "https://github.com/autarch/HTML-Mason/pull/3", "state": "merged", "relpath": "/pull/3" }
                             ]
     },
     {
@@ -208,15 +190,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "JenishGnanasicamani" },
-        "distname":         "XML-Struct",
-        "released_by":      { "pause_id": "VOJ" },
-        "repo":             { "url": "https://github.com/nichtich/XML-Struct", "relpath": "nichtich/XML-Struct" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "leejo" },
         "distname":         "Hijk",
@@ -233,15 +206,6 @@
         "distname":         "Catmandu-MARC",
         "released_by":      { "pause_id": "HOCHSTEN" },
         "repo":             { "url": "https://github.com/LibreCat/Catmandu-MARC", "relpath": "LibreCat/Catmandu-MARC" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "starbelly" },
-        "distname":         "Rose-HTML-Objects",
-        "released_by":      { "pause_id": "JSIRACUSA" },
-        "repo":             { "url": "https://github.com/siracusa/rose/tree/master/modules/Rose-HTML-Objects", "relpath": "siracusa/rose/tree/master/modules/Rose-HTML-Objects" },
         "pull_requests":    [
                             ]
     },
@@ -264,7 +228,7 @@
         "pull_requests":    [
                                 { "url": "https://github.com/salortiz/LMDB_File/pull/9", "state": "merged", "relpath": "/pull/9" },
                                 { "url": "https://github.com/salortiz/LMDB_File/pull/8", "state": "merged", "relpath": "/pull/8" },
-                                { "url": "https://github.com/salortiz/LMDB_File/pull/7", "state": "open", "relpath": "/pull/7" },
+                                { "url": "https://github.com/salortiz/LMDB_File/pull/7", "state": "merged", "relpath": "/pull/7" },
                                 { "url": "https://github.com/salortiz/LMDB_File/pull/6", "state": "merged", "relpath": "/pull/6" }
                             ]
     },
@@ -442,15 +406,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "duduribeiro" },
-        "distname":         "Vroom",
-        "released_by":      { "pause_id": "INGY" },
-        "repo":             { "url": "https://github.com/ingydotnet/vroom-pm", "relpath": "ingydotnet/vroom-pm" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "monsieurp" },
         "distname":         "GraphViz",
@@ -490,24 +445,6 @@
                                 { "url": "https://github.com/koorchik/Mojolicious-Plugin-ValidateTiny/pull/11", "state": "merged", "relpath": "/pull/11" },
                                 { "url": "https://github.com/koorchik/Mojolicious-Plugin-ValidateTiny/pull/10", "state": "merged", "relpath": "/pull/10" },
                                 { "url": "https://github.com/koorchik/Mojolicious-Plugin-ValidateTiny/pull/9", "state": "closed", "relpath": "/pull/9" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "brainbuz" },
-        "distname":         "Mojolicious-Plugin-Module",
-        "released_by":      { "pause_id": "BUGOV" },
-        "repo":             { "url": "https://github.com/bugov/mojolicious-plugin-module", "relpath": "bugov/mojolicious-plugin-module" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "dnmfarrell" },
-        "distname":         "SQL-Abstract-More",
-        "released_by":      { "pause_id": "DAMI" },
-        "repo":             { "url": "https://github.com/damil/SQL-Abstract-More", "relpath": "damil/SQL-Abstract-More" },
-        "pull_requests":    [
                             ]
     }
  ]

@@ -1,14 +1,14 @@
 {
  "month": "August",
- "generated": { "date": "2015-12-15", "time": "23:05:43" },
- "stats": { "done": "42", "total": "46", "percent": "91.3" },
+ "generated": { "date": "2016-01-05", "time": "22:26:49" },
+ "stats": { "done": "42", "total": "42", "percent": "100.0" },
  "assignments": [
 
     {
         "done":             true,
         "assignee":         { "github_username": "oalders" },
         "distname":         "libwww-perl",
-        "released_by":      { "pause_id": "ETHER" },
+        "released_by":      { "pause_id": "CAPOEIRAB" },
         "repo":             { "url": "https://github.com/libwww-perl/libwww-perl", "relpath": "libwww-perl/libwww-perl" },
         "pull_requests":    [
                             ]
@@ -52,15 +52,6 @@
         "repo":             { "url": "https://github.com/toddr/XML-Parser", "relpath": "toddr/XML-Parser" },
         "pull_requests":    [
                                 { "url": "https://github.com/toddr/XML-Parser/pull/6", "state": "open", "relpath": "/pull/6" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "samfrown" },
-        "distname":         "Proc-ProcessTable",
-        "released_by":      { "pause_id": "JWB" },
-        "repo":             { "url": "https://github.com/jwbargsten/perl-proc-processtable", "relpath": "jwbargsten/perl-proc-processtable" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -157,8 +148,7 @@
                                 { "url": "https://github.com/racke/Template-Flute/pull/120", "state": "merged", "relpath": "/pull/120" },
                                 { "url": "https://github.com/racke/Template-Flute/pull/119", "state": "merged", "relpath": "/pull/119" },
                                 { "url": "https://github.com/racke/Template-Flute/pull/118", "state": "merged", "relpath": "/pull/118" },
-                                { "url": "https://github.com/racke/Template-Flute/pull/116", "state": "merged", "relpath": "/pull/116" },
-                                { "url": "https://github.com/racke/Template-Flute/pull/115", "state": "open", "relpath": "/pull/115" }
+                                { "url": "https://github.com/racke/Template-Flute/pull/116", "state": "merged", "relpath": "/pull/116" }
                             ]
     },
     {
@@ -241,24 +231,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "tudorconstantin" },
-        "distname":         "Twiggy",
-        "released_by":      { "pause_id": "MIYAGAWA" },
-        "repo":             { "url": "https://github.com/miyagawa/Twiggy", "relpath": "miyagawa/Twiggy" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "tvroom" },
-        "distname":         "DBIx-Class-Fixtures",
-        "released_by":      { "pause_id": "SKAUFMAN" },
-        "repo":             { "url": "https://github.com/dbsrgits/DBIx-Class-Fixtures", "relpath": "dbsrgits/DBIx-Class-Fixtures" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "sjohnston" },
         "distname":         "Enbugger",
@@ -318,15 +290,6 @@
         "repo":             { "url": "https://github.com/perl-pod/pod-simple", "relpath": "perl-pod/pod-simple" },
         "pull_requests":    [
                                 { "url": "https://github.com/perl-pod/pod-simple/pull/72", "state": "merged", "relpath": "/pull/72" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "gh0stwizard" },
-        "distname":         "Tkx",
-        "released_by":      { "pause_id": "GAAS" },
-        "repo":             { "url": "https://github.com/gisle/tkx", "relpath": "gisle/tkx" },
-        "pull_requests":    [
                             ]
     },
     {

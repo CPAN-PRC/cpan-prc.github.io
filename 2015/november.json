@@ -1,7 +1,7 @@
 {
  "month": "November",
- "generated": { "date": "2015-12-15", "time": "23:08:19" },
- "stats": { "done": "31", "total": "42", "percent": "73.8" },
+ "generated": { "date": "2016-01-05", "time": "22:28:09" },
+ "stats": { "done": "32", "total": "33", "percent": "97.0" },
  "assignments": [
 
     {
@@ -13,15 +13,6 @@
         "pull_requests":    [
                                 { "url": "https://github.com/neilb/Module-Info/pull/2", "state": "merged", "relpath": "/pull/2" },
                                 { "url": "https://github.com/neilb/Module-Info/pull/1", "state": "merged", "relpath": "/pull/1" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "phamer" },
-        "distname":         "TryCatch",
-        "released_by":      { "pause_id": "ASH" },
-        "repo":             { "url": "https://github.com/ashb/trycatch/tree/master", "relpath": "ashb/trycatch/tree/master" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -78,24 +69,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "munepom" },
-        "distname":         "IRI",
-        "released_by":      { "pause_id": "GWILLIAMS" },
-        "repo":             { "url": "https://github.com/kasei/perl-iri", "relpath": "kasei/perl-iri" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "quicoju" },
-        "distname":         "Net-Jabber-Bot",
-        "released_by":      { "pause_id": "TODDR" },
-        "repo":             { "url": "https://github.com/toddr/perl-net-jabber-bot/tree/master", "relpath": "toddr/perl-net-jabber-bot/tree/master" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "paultcochrane" },
         "distname":         "Plack-App-FakeApache1",
@@ -116,15 +89,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "sebokopter" },
-        "distname":         "P5U",
-        "released_by":      { "pause_id": "TOBYINK" },
-        "repo":             { "url": "https://github.com/tobyink/p5-p5u", "relpath": "tobyink/p5-p5u" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "kaoru" },
         "distname":         "POE-Loop-Glib",
@@ -132,15 +96,6 @@
         "repo":             { "url": "https://github.com/apocalypse/perl-poe-loop-glib", "relpath": "apocalypse/perl-poe-loop-glib" },
         "pull_requests":    [
                                 { "url": "https://github.com/apocalypse/perl-poe-loop-glib/pull/1", "state": "open", "relpath": "/pull/1" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "ramananbalakrishnan" },
-        "distname":         "DBIx-DBHResolver",
-        "released_by":      { "pause_id": "ZIGOROU" },
-        "repo":             { "url": "https://github.com/arisawa/p5-dbix-dbhresolver", "relpath": "arisawa/p5-dbix-dbhresolver" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -202,7 +157,7 @@
         "released_by":      { "pause_id": "MMCLERIC" },
         "repo":             { "url": "https://github.com/tadam/Ubic-Service-Plack", "relpath": "tadam/Ubic-Service-Plack" },
         "pull_requests":    [
-                                { "url": "https://github.com/tadam/Ubic-Service-Plack/pull/8", "state": "open", "relpath": "/pull/8" },
+                                { "url": "https://github.com/tadam/Ubic-Service-Plack/pull/8", "state": "merged", "relpath": "/pull/8" },
                                 { "url": "https://github.com/tadam/Ubic-Service-Plack/pull/7", "state": "open", "relpath": "/pull/7" },
                                 { "url": "https://github.com/tadam/Ubic-Service-Plack/pull/6", "state": "open", "relpath": "/pull/6" }
                             ]
@@ -279,7 +234,7 @@
         "repo":             { "url": "https://github.com/suretec/Message-Passing-AMQP", "relpath": "suretec/Message-Passing-AMQP" },
         "pull_requests":    [
                                 { "url": "https://github.com/suretec/Message-Passing-AMQP/pull/4", "state": "open", "relpath": "/pull/4" },
-                                { "url": "https://github.com/suretec/Message-Passing-AMQP/pull/3", "state": "open", "relpath": "/pull/3" }
+                                { "url": "https://github.com/suretec/Message-Passing-AMQP/pull/3", "state": "merged", "relpath": "/pull/3" }
                             ]
     },
     {
@@ -336,38 +291,10 @@
         "done":             true,
         "assignee":         { "github_username": "vytas-dauksa" },
         "distname":         "HTML-Template",
-        "released_by":      { "pause_id": "WONKO" },
+        "released_by":      { "pause_id": "PSIXDISTS" },
         "repo":             { "url": "https://github.com/mpeters/html-template", "relpath": "mpeters/html-template" },
         "pull_requests":    [
                                 { "url": "https://github.com/mpeters/html-template/pull/10", "state": "open", "relpath": "/pull/10" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "ncstang" },
-        "distname":         "Net-Twitter",
-        "released_by":      { "pause_id": "MMIMS" },
-        "repo":             { "url": "https://github.com/semifor/Net-Twitter", "relpath": "semifor/Net-Twitter" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "sthompsonxyz" },
-        "distname":         "Web-API",
-        "released_by":      { "pause_id": "LEV" },
-        "repo":             { "url": "https://github.com/nupfel/Web-API", "relpath": "nupfel/Web-API" },
-        "pull_requests":    [
-                                { "url": "https://github.com/nupfel/Web-API/pull/19", "state": "merged", "relpath": "/pull/19" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "rootkea" },
-        "distname":         "Role-Basic",
-        "released_by":      { "pause_id": "OVID" },
-        "repo":             { "url": "https://github.com/Ovid/Role-Basic", "relpath": "Ovid/Role-Basic" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -414,29 +341,21 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "sdeseille" },
-        "distname":         "Swim",
-        "released_by":      { "pause_id": "INGY" },
-        "repo":             { "url": "https://github.com/ingydotnet/swim-pm", "relpath": "ingydotnet/swim-pm" },
+        "done":             true,
+        "assignee":         { "github_username": "monsieurp" },
+        "distname":         "Test-Synopsis",
+        "released_by":      { "pause_id": "ZOFFIX" },
+        "repo":             { "url": "https://github.com/miyagawa/test-synopsis", "relpath": "miyagawa/test-synopsis" },
         "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "arnuga" },
-        "distname":         "App-Nopaste",
-        "released_by":      { "pause_id": "ETHER" },
-        "repo":             { "url": "https://github.com/karenetheridge/App-Nopaste", "relpath": "karenetheridge/App-Nopaste" },
-        "pull_requests":    [
-                                { "url": "https://github.com/karenetheridge/App-Nopaste/pull/12", "state": "open", "relpath": "/pull/12" }
+                                { "url": "https://github.com/miyagawa/test-synopsis/pull/16", "state": "merged", "relpath": "/pull/16" },
+                                { "url": "https://github.com/miyagawa/test-synopsis/pull/15", "state": "closed", "relpath": "/pull/15" }
                             ]
     },
     {
         "done":             true,
         "assignee":         { "github_username": "ambs" },
         "distname":         "HTTP-Server-Simple",
-        "released_by":      { "pause_id": "SUNNAVY" },
+        "released_by":      { "pause_id": "PSIXDISTS" },
         "repo":             { "url": "https://github.com/bestpractical/http-server-simple", "relpath": "bestpractical/http-server-simple" },
         "pull_requests":    [
                                 { "url": "https://github.com/bestpractical/http-server-simple/pull/9", "state": "open", "relpath": "/pull/9" }

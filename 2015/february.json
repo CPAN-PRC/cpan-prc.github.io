@@ -1,6 +1,6 @@
 {
  "month": "February",
- "generated": { "date": "2015-12-15", "time": "23:00:23" },
+ "generated": { "date": "2016-01-05", "time": "22:23:08" },
  "stats": { "done": "114", "total": "114", "percent": "100.0" },
  "assignments": [
 
@@ -28,7 +28,7 @@
         "done":             true,
         "assignee":         { "github_username": "dainapettit" },
         "distname":         "libwww-perl",
-        "released_by":      { "pause_id": "ETHER" },
+        "released_by":      { "pause_id": "CAPOEIRAB" },
         "repo":             { "url": "https://github.com/libwww-perl/libwww-perl", "relpath": "libwww-perl/libwww-perl" },
         "pull_requests":    [
                                 { "url": "https://github.com/libwww-perl/libwww-perl/pull/70", "state": "merged", "relpath": "/pull/70" }
@@ -166,11 +166,12 @@
     },
     {
         "done":             true,
-        "assignee":         { "github_username": "damsieboy" },
+        "assignee":         { "github_username": "dams" },
         "distname":         "re-engine-PCRE",
         "released_by":      { "pause_id": "AVAR" },
         "repo":             { "url": "https://github.com/avar/re-engine-pcre", "relpath": "avar/re-engine-pcre" },
         "pull_requests":    [
+                                { "url": "https://github.com/avar/re-engine-pcre/pull/2", "state": "open", "relpath": "/pull/2" }
                             ]
     },
     {
@@ -207,7 +208,7 @@
         "done":             true,
         "assignee":         { "github_username": "mnlagrasta" },
         "distname":         "Encode",
-        "released_by":      { "pause_id": "DANKOGAI" },
+        "released_by":      { "pause_id": "PSIXDISTS" },
         "repo":             { "url": "https://github.com/dankogai/p5-encode", "relpath": "dankogai/p5-encode" },
         "pull_requests":    [
                                 { "url": "https://github.com/dankogai/p5-encode/pull/32", "state": "merged", "relpath": "/pull/32" }
@@ -1185,7 +1186,7 @@
         "done":             true,
         "assignee":         { "github_username": "book" },
         "distname":         "Gravatar-URL",
-        "released_by":      { "pause_id": "MSCHWERN" },
+        "released_by":      { "pause_id": "PSIXDISTS" },
         "repo":             { "url": "https://github.com/schwern/gravatar-url/tree/master", "relpath": "schwern/gravatar-url/tree/master" },
         "pull_requests":    [
                                 { "url": "https://github.com/schwern/Gravatar-URL/pull/5", "state": "open", "relpath": "/pull/5" }

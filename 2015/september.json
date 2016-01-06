@@ -1,7 +1,7 @@
 {
  "month": "September",
- "generated": { "date": "2015-12-15", "time": "23:07:21" },
- "stats": { "done": "36", "total": "49", "percent": "73.5" },
+ "generated": { "date": "2016-01-05", "time": "22:27:21" },
+ "stats": { "done": "36", "total": "36", "percent": "100.0" },
  "assignments": [
 
     {
@@ -96,15 +96,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "bessarabov" },
-        "distname":         "Test-Simple",
-        "released_by":      { "pause_id": "EXODIST" },
-        "repo":             { "url": "https://github.com/Test-More/test-more", "relpath": "Test-More/test-more" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "mnlagrasta" },
         "distname":         "CLDR-Number",
@@ -138,7 +129,7 @@
         "done":             true,
         "assignee":         { "github_username": "dnmfarrell" },
         "distname":         "Net-Pcap",
-        "released_by":      { "pause_id": "SAPER" },
+        "released_by":      { "pause_id": "PSIXDISTS" },
         "repo":             { "url": "https://github.com/maddingue/Net-Pcap", "relpath": "maddingue/Net-Pcap" },
         "pull_requests":    [
                                 { "url": "https://github.com/maddingue/Net-Pcap/pull/6", "state": "open", "relpath": "/pull/6" }
@@ -170,24 +161,6 @@
         "distname":         "ZMQ-LibZMQ3",
         "released_by":      { "pause_id": "DMAKI" },
         "repo":             { "url": "https://github.com/lestrrat/p5-ZMQ", "relpath": "lestrrat/p5-ZMQ" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "brianmed" },
-        "distname":         "Inline-CPP",
-        "released_by":      { "pause_id": "DAVIDO" },
-        "repo":             { "url": "https://github.com/daoswald/Inline-CPP", "relpath": "daoswald/Inline-CPP" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "dimio" },
-        "distname":         "Compiler-Lexer",
-        "released_by":      { "pause_id": "GOCCY" },
-        "repo":             { "url": "https://github.com/goccy/p5-Compiler-Lexer", "relpath": "goccy/p5-Compiler-Lexer" },
         "pull_requests":    [
                             ]
     },
@@ -251,15 +224,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "rjbs" },
-        "distname":         "Git-Hooks",
-        "released_by":      { "pause_id": "GNUSTAVO" },
-        "repo":             { "url": "https://github.com/gnustavo/Git-Hooks", "relpath": "gnustavo/Git-Hooks" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "kaoru" },
         "distname":         "PDL-Stats",
@@ -267,15 +231,6 @@
         "repo":             { "url": "https://github.com/PDLPorters/PDL-Stats", "relpath": "PDLPorters/PDL-Stats" },
         "pull_requests":    [
                                 { "url": "https://github.com/PDLPorters/PDL-Stats/pull/18", "state": "merged", "relpath": "/pull/18" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "trwww" },
-        "distname":         "RT-Client-REST",
-        "released_by":      { "pause_id": "SRVSH" },
-        "repo":             { "url": "https://github.com/RT-Client-REST/RT-Client-REST", "relpath": "RT-Client-REST/RT-Client-REST" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -365,15 +320,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "mrcaron" },
-        "distname":         "Riji",
-        "released_by":      { "pause_id": "SONGMU" },
-        "repo":             { "url": "https://github.com/Songmu/p5-Riji", "relpath": "Songmu/p5-Riji" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "thrig" },
         "distname":         "Process-SizeLimit-Core",
@@ -384,15 +330,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "dolmen" },
-        "distname":         "ExtUtils-ModuleMaker",
-        "released_by":      { "pause_id": "JKEENAN" },
-        "repo":             { "url": "https://github.com/jkeenan/extutils-modulemaker", "relpath": "jkeenan/extutils-modulemaker" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "Sweet-kid" },
         "distname":         "MooseX-Log-Log4perl",
@@ -400,15 +337,6 @@
         "repo":             { "url": "https://github.com/lammel/moosex-log-log4perl", "relpath": "lammel/moosex-log-log4perl" },
         "pull_requests":    [
                                 { "url": "https://github.com/lammel/moosex-log-log4perl/pull/4", "state": "merged", "relpath": "/pull/4" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "adamherzog" },
-        "distname":         "HTTP-Exception",
-        "released_by":      { "pause_id": "TMUELLER" },
-        "repo":             { "url": "https://github.com/tmueller/http_exception", "relpath": "tmueller/http_exception" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -423,24 +351,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "jeffblack360" },
-        "distname":         "AnyEvent-CacheDNS",
-        "released_by":      { "pause_id": "POTYL" },
-        "repo":             { "url": "https://github.com/potyl/perl-AnyEvent-CacheDNS", "relpath": "potyl/perl-AnyEvent-CacheDNS" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "fredericorecsky" },
-        "distname":         "HTTP-Server-Simple",
-        "released_by":      { "pause_id": "SUNNAVY" },
-        "repo":             { "url": "https://github.com/bestpractical/http-server-simple", "relpath": "bestpractical/http-server-simple" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "sebokopter" },
         "distname":         "Geo-Coordinates-Converter",
@@ -448,15 +358,6 @@
         "repo":             { "url": "https://github.com/yappo/p5-Geo-Coordinates-Converter", "relpath": "yappo/p5-Geo-Coordinates-Converter" },
         "pull_requests":    [
                                 { "url": "https://github.com/yappo/p5-Geo-Coordinates-Converter/pull/3", "state": "open", "relpath": "/pull/3" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "krismatthews" },
-        "distname":         "PDF-API2",
-        "released_by":      { "pause_id": "SSIMMS" },
-        "repo":             { "url": "https://github.com/ssimms/pdfapi2", "relpath": "ssimms/pdfapi2" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -469,24 +370,6 @@
                                 { "url": "https://github.com/trapd00r/Term-ExtendedColor/pull/5", "state": "open", "relpath": "/pull/5" },
                                 { "url": "https://github.com/trapd00r/Term-ExtendedColor/pull/4", "state": "open", "relpath": "/pull/4" },
                                 { "url": "https://github.com/trapd00r/Term-ExtendedColor/pull/3", "state": "open", "relpath": "/pull/3" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "deven" },
-        "distname":         "File-chmod",
-        "released_by":      { "pause_id": "XENO" },
-        "repo":             { "url": "https://github.com/xenoterracide/file-chmod", "relpath": "xenoterracide/file-chmod" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "Hiranyaloka" },
-        "distname":         "Test-Name-FromLine",
-        "released_by":      { "pause_id": "SATOH" },
-        "repo":             { "url": "https://github.com/cho45/Test-Name-FromLine", "relpath": "cho45/Test-Name-FromLine" },
-        "pull_requests":    [
                             ]
     },
     {

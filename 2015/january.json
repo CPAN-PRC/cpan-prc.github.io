@@ -1,7 +1,7 @@
 {
  "month": "January",
- "generated": { "date": "2015-12-15", "time": "22:59:03" },
- "stats": { "done": "165", "total": "166", "percent": "99.4" },
+ "generated": { "date": "2016-01-05", "time": "22:21:59" },
+ "stats": { "done": "165", "total": "165", "percent": "100.0" },
  "assignments": [
 
     {
@@ -111,7 +111,7 @@
         "done":             true,
         "assignee":         { "github_username": "neilb" },
         "distname":         "Text-Diff",
-        "released_by":      { "pause_id": "NEILB" },
+        "released_by":      { "pause_id": "PSIXDISTS" },
         "repo":             { "url": "https://github.com/neilbowers/Text-Diff", "relpath": "neilbowers/Text-Diff" },
         "pull_requests":    [
                             ]
@@ -265,7 +265,7 @@
         "done":             true,
         "assignee":         { "github_username": "Sweet-kid" },
         "distname":         "IO-Socket-SSL",
-        "released_by":      { "pause_id": "SULLR" },
+        "released_by":      { "pause_id": "PSIXDISTS" },
         "repo":             { "url": "https://github.com/noxxi/p5-io-socket-ssl", "relpath": "noxxi/p5-io-socket-ssl" },
         "pull_requests":    [
                                 { "url": "https://github.com/noxxi/p5-io-socket-ssl/pull/25", "state": "closed", "relpath": "/pull/25" }
@@ -314,11 +314,13 @@
     },
     {
         "done":             true,
-        "assignee":         { "github_username": "damsieboy" },
+        "assignee":         { "github_username": "dams" },
         "distname":         "JSON",
         "released_by":      { "pause_id": "MAKAMAKA" },
         "repo":             { "url": "https://github.com/makamaka/JSON", "relpath": "makamaka/JSON" },
         "pull_requests":    [
+                                { "url": "https://github.com/makamaka/JSON/pull/23", "state": "open", "relpath": "/pull/23" },
+                                { "url": "https://github.com/makamaka/JSON/pull/22", "state": "open", "relpath": "/pull/22" }
                             ]
     },
     {
@@ -461,7 +463,7 @@
         "released_by":      { "pause_id": "YVES" },
         "repo":             { "url": "https://github.com/demerphq/Data-Dump-Streamer", "relpath": "demerphq/Data-Dump-Streamer" },
         "pull_requests":    [
-                                { "url": "https://github.com/demerphq/Data-Dump-Streamer/pull/12", "state": "open", "relpath": "/pull/12" }
+                                { "url": "https://github.com/demerphq/Data-Dump-Streamer/pull/12", "state": "merged", "relpath": "/pull/12" }
                             ]
     },
     {
@@ -523,7 +525,7 @@
         "done":             true,
         "assignee":         { "github_username": "estrabd" },
         "distname":         "Git-Wrapper",
-        "released_by":      { "pause_id": "GENEHACK" },
+        "released_by":      { "pause_id": "PSIXDISTS" },
         "repo":             { "url": "https://github.com/genehack/Git-Wrapper", "relpath": "genehack/Git-Wrapper" },
         "pull_requests":    [
                                 { "url": "https://github.com/genehack/Git-Wrapper/pull/65", "state": "closed", "relpath": "/pull/65" },
@@ -612,7 +614,7 @@
         "done":             true,
         "assignee":         { "github_username": "netangel" },
         "distname":         "URI-Template",
-        "released_by":      { "pause_id": "BRICAS" },
+        "released_by":      { "pause_id": "PSIXDISTS" },
         "repo":             { "url": "https://github.com/bricas/uri-template", "relpath": "bricas/uri-template" },
         "pull_requests":    [
                                 { "url": "https://github.com/bricas/uri-template/pull/3", "state": "merged", "relpath": "/pull/3" },
@@ -859,7 +861,7 @@
         "released_by":      { "pause_id": "RUZ" },
         "repo":             { "url": "https://github.com/ruz/GDGraph", "relpath": "ruz/GDGraph" },
         "pull_requests":    [
-                                { "url": "https://github.com/ruz/GDGraph/pull/4", "state": "open", "relpath": "/pull/4" }
+                                { "url": "https://github.com/ruz/GDGraph/pull/4", "state": "merged", "relpath": "/pull/4" }
                             ]
     },
     {
@@ -918,7 +920,7 @@
         "done":             true,
         "assignee":         { "github_username": "bugdebugger" },
         "distname":         "Git-PurePerl",
-        "released_by":      { "pause_id": "BROQ" },
+        "released_by":      { "pause_id": "PSIXDISTS" },
         "repo":             { "url": "https://github.com/broquaint/git-pureperl", "relpath": "broquaint/git-pureperl" },
         "pull_requests":    [
                                 { "url": "https://github.com/broquaint/git-pureperl/pull/9", "state": "merged", "relpath": "/pull/9" },
@@ -1039,7 +1041,7 @@
         "done":             true,
         "assignee":         { "github_username": "kappa" },
         "distname":         "Redis",
-        "released_by":      { "pause_id": "DAMS" },
+        "released_by":      { "pause_id": "PSIXDISTS" },
         "repo":             { "url": "https://github.com/PerlRedis/perl-redis", "relpath": "PerlRedis/perl-redis" },
         "pull_requests":    [
                                 { "url": "https://github.com/PerlRedis/perl-redis/pull/106", "state": "merged", "relpath": "/pull/106" }
@@ -1161,7 +1163,7 @@
         "done":             true,
         "assignee":         { "github_username": "tadegenban" },
         "distname":         "Term-ProgressBar",
-        "released_by":      { "pause_id": "SZABGAB" },
+        "released_by":      { "pause_id": "PSIXDISTS" },
         "repo":             { "url": "https://github.com/szabgab/Term-ProgressBar", "relpath": "szabgab/Term-ProgressBar" },
         "pull_requests":    [
                                 { "url": "https://github.com/szabgab/Term-ProgressBar/pull/8", "state": "merged", "relpath": "/pull/8" }
@@ -1372,7 +1374,7 @@
         "released_by":      { "pause_id": "ABH" },
         "repo":             { "url": "https://github.com/gisle/mozilla-ca", "relpath": "gisle/mozilla-ca" },
         "pull_requests":    [
-                                { "url": "https://github.com/gisle/mozilla-ca/pull/3", "state": "open", "relpath": "/pull/3" }
+                                { "url": "https://github.com/gisle/mozilla-ca/pull/3", "state": "closed", "relpath": "/pull/3" }
                             ]
     },
     {
@@ -1600,7 +1602,7 @@
         "done":             true,
         "assignee":         { "github_username": "sergeyromanov" },
         "distname":         "Inline-Python",
-        "released_by":      { "pause_id": "NINE" },
+        "released_by":      { "pause_id": "PSIXDISTS" },
         "repo":             { "url": "https://github.com/niner/inline-python-pm", "relpath": "niner/inline-python-pm" },
         "pull_requests":    [
                                 { "url": "https://github.com/niner/inline-python-pm/pull/8", "state": "merged", "relpath": "/pull/8" }
@@ -1641,19 +1643,10 @@
         "done":             true,
         "assignee":         { "github_username": "BrianMowrey" },
         "distname":         "File-Temp",
-        "released_by":      { "pause_id": "DAGOLDEN" },
+        "released_by":      { "pause_id": "PSIXDISTS" },
         "repo":             { "url": "https://github.com/Perl-Toolchain-Gang/File-Temp", "relpath": "Perl-Toolchain-Gang/File-Temp" },
         "pull_requests":    [
                                 { "url": "https://github.com/Perl-Toolchain-Gang/File-Temp/pull/8", "state": "open", "relpath": "/pull/8" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "stewrav" },
-        "distname":         "Sys-Hostname-Long",
-        "released_by":      { "pause_id": "SCOTT" },
-        "repo":             { "url": "https://github.com/scottp/sys-hostname-long", "relpath": "scottp/sys-hostname-long" },
-        "pull_requests":    [
                             ]
     },
     {

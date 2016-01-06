@@ -1,6 +1,6 @@
 {
  "month": "June",
- "generated": { "date": "2015-12-15", "time": "23:04:36" },
+ "generated": { "date": "2016-01-05", "time": "22:25:43" },
  "stats": { "done": "43", "total": "43", "percent": "100.0" },
  "assignments": [
 
@@ -191,7 +191,7 @@
         "done":             true,
         "assignee":         { "github_username": "yanick" },
         "distname":         "SVG",
-        "released_by":      { "pause_id": "SZABGAB" },
+        "released_by":      { "pause_id": "PSIXDISTS" },
         "repo":             { "url": "https://github.com/szabgab/SVG", "relpath": "szabgab/SVG" },
         "pull_requests":    [
                                 { "url": "https://github.com/szabgab/SVG/pull/5", "state": "merged", "relpath": "/pull/5" },
@@ -214,7 +214,7 @@
         "done":             true,
         "assignee":         { "github_username": "andyjack" },
         "distname":         "Net-Curl",
-        "released_by":      { "pause_id": "SYP" },
+        "released_by":      { "pause_id": "PSIXDISTS" },
         "repo":             { "url": "https://github.com/sparky/perl-Net-Curl", "relpath": "sparky/perl-Net-Curl" },
         "pull_requests":    [
                                 { "url": "https://github.com/sparky/perl-Net-Curl/pull/14", "state": "open", "relpath": "/pull/14" }
@@ -224,7 +224,7 @@
         "done":             true,
         "assignee":         { "github_username": "choroba" },
         "distname":         "File-LibMagic",
-        "released_by":      { "pause_id": "DROLSKY" },
+        "released_by":      { "pause_id": "PSIXDISTS" },
         "repo":             { "url": "https://github.com/autarch/File-LibMagic", "relpath": "autarch/File-LibMagic" },
         "pull_requests":    [
                                 { "url": "https://github.com/autarch/File-LibMagic/pull/5", "state": "closed", "relpath": "/pull/5" }
@@ -396,7 +396,7 @@
         "released_by":      { "pause_id": "MSTRAT" },
         "repo":             { "url": "https://github.com/mstratman/Barcode-DataMatrix", "relpath": "mstratman/Barcode-DataMatrix" },
         "pull_requests":    [
-                                { "url": "https://github.com/mstratman/Barcode-DataMatrix/pull/3", "state": "open", "relpath": "/pull/3" },
+                                { "url": "https://github.com/mstratman/Barcode-DataMatrix/pull/3", "state": "merged", "relpath": "/pull/3" },
                                 { "url": "https://github.com/mstratman/Barcode-DataMatrix/pull/2", "state": "merged", "relpath": "/pull/2" }
                             ]
     },
