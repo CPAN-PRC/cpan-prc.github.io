@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "January",
- "generated": { "date": "2016-02-01", "time": "20:58:19" },
- "stats": { "done": "47", "total": "78", "percent": "60.3" },
+ "generated": { "date": "2016-02-09", "time": "14:09:26" },
+ "stats": { "done": "49", "total": "75", "percent": "65.3" },
  "assignments": [
 
     {
@@ -30,7 +30,7 @@
         "released_by":      { "pause_id": "PJCJ" },
         "repo":             { "url": "https://github.com/pjcj/Devel--Cover", "relpath": "pjcj/Devel--Cover" },
         "pull_requests":    [
-                                { "url": "https://github.com/pjcj/Devel--Cover/pull/148", "state": "open", "relpath": "/pull/148" }
+                                { "url": "https://github.com/pjcj/Devel--Cover/pull/148", "state": "merged", "relpath": "/pull/148" }
                             ]
     },
     {
@@ -189,15 +189,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "herveus" },
-        "distname":         "Sub-Identify",
-        "released_by":      { "pause_id": "RGARCIA" },
-        "repo":             { "url": "https://github.com/rgs/Sub-Identify", "relpath": "rgs/Sub-Identify" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "bjakubski" },
         "distname":         "Git-Repository-Plugin-Log",
@@ -245,7 +236,7 @@
         "released_by":      { "pause_id": "ESAYM" },
         "repo":             { "url": "https://github.com/smith153/File-Scan-ClamAV", "relpath": "smith153/File-Scan-ClamAV" },
         "pull_requests":    [
-                                { "url": "https://github.com/smith153/File-Scan-ClamAV/pull/4", "state": "open", "relpath": "/pull/4" }
+                                { "url": "https://github.com/smith153/File-Scan-ClamAV/pull/4", "state": "merged", "relpath": "/pull/4" }
                             ]
     },
     {
@@ -300,15 +291,6 @@
         "distname":         "HiD",
         "released_by":      { "pause_id": "GENEHACK" },
         "repo":             { "url": "https://github.com/genehack/HiD", "relpath": "genehack/HiD" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "kappa" },
-        "distname":         "XML-Feed",
-        "released_by":      { "pause_id": "DAVECROSS" },
-        "repo":             { "url": "https://github.com/davorg/xml-feed", "relpath": "davorg/xml-feed" },
         "pull_requests":    [
                             ]
     },
@@ -597,7 +579,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "Jayceh" },
         "distname":         "Data-UUID",
         "released_by":      { "pause_id": "RJBS" },
@@ -631,7 +613,7 @@
         "released_by":      { "pause_id": "SCHWIGON" },
         "repo":             { "url": "https://github.com/renormalist/Net-SSH-Perl", "relpath": "renormalist/Net-SSH-Perl" },
         "pull_requests":    [
-                                { "url": "https://github.com/renormalist/Net-SSH-Perl/pull/11", "state": "open", "relpath": "/pull/11" },
+                                { "url": "https://github.com/renormalist/Net-SSH-Perl/pull/11", "state": "merged", "relpath": "/pull/11" },
                                 { "url": "https://github.com/renormalist/Net-SSH-Perl/pull/10", "state": "closed", "relpath": "/pull/10" }
                             ]
     },
@@ -646,12 +628,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "nbezzala" },
         "distname":         "Template-Flute",
         "released_by":      { "pause_id": "HORNBURG" },
         "repo":             { "url": "https://github.com/racke/Template-Flute", "relpath": "racke/Template-Flute" },
         "pull_requests":    [
+                                { "url": "https://github.com/racke/Template-Flute/pull/157", "state": "merged", "relpath": "/pull/157" }
                             ]
     },
     {
@@ -747,6 +730,7 @@
         "released_by":      { "pause_id": "DSHEROH" },
         "repo":             { "url": "https://github.com/dsheroh/Config-Onion", "relpath": "dsheroh/Config-Onion" },
         "pull_requests":    [
+                                { "url": "https://github.com/dsheroh/Config-Onion/pull/11", "state": "merged", "relpath": "/pull/11" },
                                 { "url": "https://github.com/dsheroh/Config-Onion/pull/10", "state": "merged", "relpath": "/pull/10" },
                                 { "url": "https://github.com/dsheroh/Config-Onion/pull/9", "state": "merged", "relpath": "/pull/9" }
                             ]
@@ -768,15 +752,6 @@
         "repo":             { "url": "https://github.com/doherty/Dist-Zilla-Plugin-Test-CPAN-Changes", "relpath": "doherty/Dist-Zilla-Plugin-Test-CPAN-Changes" },
         "pull_requests":    [
                                 { "url": "https://github.com/doherty/Dist-Zilla-Plugin-Test-CPAN-Changes/pull/9", "state": "open", "relpath": "/pull/9" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "sebokopter" },
-        "distname":         "Bread-Board",
-        "released_by":      { "pause_id": "YANICK" },
-        "repo":             { "url": "https://github.com/stevan/BreadBoard", "relpath": "stevan/BreadBoard" },
-        "pull_requests":    [
                             ]
     },
     {
