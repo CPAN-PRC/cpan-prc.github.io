@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "February",
- "generated": { "date": "2016-02-09", "time": "14:10:00" },
- "stats": { "done": "5", "total": "55", "percent": "9.1" },
+ "generated": { "date": "2016-02-10", "time": "08:22:42" },
+ "stats": { "done": "5", "total": "56", "percent": "8.9" },
  "assignments": [
 
     {
@@ -471,7 +471,7 @@
         "released_by":      { "pause_id": "DOMM" },
         "repo":             { "url": "https://github.com/domm/App-TimeTracker", "relpath": "domm/App-TimeTracker" },
         "pull_requests":    [
-                                { "url": "https://github.com/domm/App-TimeTracker/pull/18", "state": "open", "relpath": "/pull/18" }
+                                { "url": "https://github.com/domm/App-TimeTracker/pull/18", "state": "merged", "relpath": "/pull/18" }
                             ]
     },
     {
@@ -508,6 +508,15 @@
         "distname":         "Spreadsheet-Read",
         "released_by":      { "pause_id": "HMBRAND" },
         "repo":             { "url": "https://github.com/Tux/Spreadsheet-Read", "relpath": "Tux/Spreadsheet-Read" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "bpa" },
+        "distname":         "Data-Compare",
+        "released_by":      { "pause_id": "DCANTRELL" },
+        "repo":             { "url": "https://github.com/DrHyde/perl-modules-Data-Compare", "relpath": "DrHyde/perl-modules-Data-Compare" },
         "pull_requests":    [
                             ]
     }

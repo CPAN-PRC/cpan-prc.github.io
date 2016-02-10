@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "January",
- "generated": { "date": "2016-02-09", "time": "14:09:26" },
- "stats": { "done": "49", "total": "75", "percent": "65.3" },
+ "generated": { "date": "2016-02-10", "time": "08:22:09" },
+ "stats": { "done": "50", "total": "75", "percent": "66.7" },
  "assignments": [
 
     {
@@ -199,12 +199,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "bpa" },
         "distname":         "Sys-Mmap",
         "released_by":      { "pause_id": "TODDR" },
         "repo":             { "url": "https://github.com/toddr/Sys-Mmap/tree/master", "relpath": "toddr/Sys-Mmap/tree/master" },
         "pull_requests":    [
+                                { "url": "https://github.com/toddr/Sys-Mmap/pull/6", "state": "open", "relpath": "/pull/6" }
                             ]
     },
     {
