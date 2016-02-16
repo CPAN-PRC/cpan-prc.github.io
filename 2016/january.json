@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "January",
- "generated": { "date": "2016-02-10", "time": "08:22:09" },
+ "generated": { "date": "2016-02-16", "time": "09:13:08" },
  "stats": { "done": "50", "total": "75", "percent": "66.7" },
  "assignments": [
 
@@ -205,7 +205,7 @@
         "released_by":      { "pause_id": "TODDR" },
         "repo":             { "url": "https://github.com/toddr/Sys-Mmap/tree/master", "relpath": "toddr/Sys-Mmap/tree/master" },
         "pull_requests":    [
-                                { "url": "https://github.com/toddr/Sys-Mmap/pull/6", "state": "open", "relpath": "/pull/6" }
+                                { "url": "https://github.com/toddr/Sys-Mmap/pull/6", "state": "closed", "relpath": "/pull/6" }
                             ]
     },
     {
@@ -247,7 +247,7 @@
         "released_by":      { "pause_id": "SULLR" },
         "repo":             { "url": "https://github.com/noxxi/p5-net-sip", "relpath": "noxxi/p5-net-sip" },
         "pull_requests":    [
-                                { "url": "https://github.com/noxxi/p5-net-sip/pull/6", "state": "open", "relpath": "/pull/6" }
+                                { "url": "https://github.com/noxxi/p5-net-sip/pull/6", "state": "merged", "relpath": "/pull/6" }
                             ]
     },
     {
@@ -261,7 +261,7 @@
                                 { "url": "https://github.com/gisle/tcl.pm/pull/9", "state": "merged", "relpath": "/pull/9" },
                                 { "url": "https://github.com/gisle/tcl.pm/pull/8", "state": "merged", "relpath": "/pull/8" },
                                 { "url": "https://github.com/gisle/tcl.pm/pull/7", "state": "merged", "relpath": "/pull/7" },
-                                { "url": "https://github.com/gisle/tcl.pm/pull/6", "state": "open", "relpath": "/pull/6" },
+                                { "url": "https://github.com/gisle/tcl.pm/pull/6", "state": "closed", "relpath": "/pull/6" },
                                 { "url": "https://github.com/gisle/tcl.pm/pull/5", "state": "merged", "relpath": "/pull/5" },
                                 { "url": "https://github.com/gisle/tcl.pm/pull/4", "state": "closed", "relpath": "/pull/4" },
                                 { "url": "https://github.com/gisle/tcl.pm/pull/3", "state": "merged", "relpath": "/pull/3" }
@@ -695,6 +695,7 @@
         "released_by":      { "pause_id": "ROBM" },
         "repo":             { "url": "https://github.com/robmueller/cache-fastmmap", "relpath": "robmueller/cache-fastmmap" },
         "pull_requests":    [
+                                { "url": "https://github.com/robmueller/cache-fastmmap/pull/5", "state": "merged", "relpath": "/pull/5" }
                             ]
     },
     {
@@ -762,6 +763,8 @@
         "released_by":      { "pause_id": "BKB" },
         "repo":             { "url": "https://github.com/benkasminbullock/json-create", "relpath": "benkasminbullock/json-create" },
         "pull_requests":    [
+                                { "url": "https://github.com/benkasminbullock/json-create/pull/40", "state": "closed", "relpath": "/pull/40" },
+                                { "url": "https://github.com/benkasminbullock/json-create/pull/39", "state": "merged", "relpath": "/pull/39" }
                             ]
     }
  ]

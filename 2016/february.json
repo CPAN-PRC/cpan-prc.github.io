@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "February",
- "generated": { "date": "2016-02-10", "time": "08:22:42" },
- "stats": { "done": "5", "total": "56", "percent": "8.9" },
+ "generated": { "date": "2016-02-16", "time": "09:13:40" },
+ "stats": { "done": "8", "total": "55", "percent": "14.5" },
  "assignments": [
 
     {
@@ -133,12 +133,16 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "mcmillhj" },
         "distname":         "Interchange6",
         "released_by":      { "pause_id": "HORNBURG" },
         "repo":             { "url": "https://github.com/interchange/Interchange6", "relpath": "interchange/Interchange6" },
         "pull_requests":    [
+                                { "url": "https://github.com/interchange/Interchange6/pull/34", "state": "open", "relpath": "/pull/34" },
+                                { "url": "https://github.com/interchange/Interchange6/pull/33", "state": "merged", "relpath": "/pull/33" },
+                                { "url": "https://github.com/interchange/Interchange6/pull/32", "state": "closed", "relpath": "/pull/32" },
+                                { "url": "https://github.com/interchange/Interchange6/pull/31", "state": "merged", "relpath": "/pull/31" }
                             ]
     },
     {
@@ -184,7 +188,7 @@
         "assignee":         { "github_username": "monsieurp" },
         "distname":         "Task-Biodiverse-NoGUI",
         "released_by":      { "pause_id": "SLAFFAN" },
-        "repo":             { "url": "https://github.com/shawnlaffan/biodiverse", "relpath": "shawnlaffan/biodiverse" },
+        "repo":             { "url": "https://purl.org/biodiverse", "relpath": "https://purl.org/biodiverse" },
         "pull_requests":    [
                             ]
     },
@@ -234,15 +238,6 @@
         "repo":             { "url": "https://github.com/monitoring-plugins/monitoring-plugin-perl", "relpath": "monitoring-plugins/monitoring-plugin-perl" },
         "pull_requests":    [
                                 { "url": "https://github.com/monitoring-plugins/monitoring-plugin-perl/pull/7", "state": "open", "relpath": "/pull/7" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "nawglan" },
-        "distname":         "PDL-Graphics-Gnuplot",
-        "released_by":      { "pause_id": "ZOWIE" },
-        "repo":             { "url": "https://github.com/drzowie/PDL-Graphics-Gnuplot", "relpath": "drzowie/PDL-Graphics-Gnuplot" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -309,21 +304,13 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "hatorikibble" },
-        "distname":         "POE-Component-Logger",
-        "released_by":      { "pause_id": "DOLMEN" },
-        "repo":             { "url": "https://github.com/dolmen/POE-Component-Logger", "relpath": "dolmen/POE-Component-Logger" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "yanick" },
         "distname":         "Pod-Readme",
         "released_by":      { "pause_id": "RRWO" },
         "repo":             { "url": "https://github.com/bigpresh/Pod-Readme", "relpath": "bigpresh/Pod-Readme" },
         "pull_requests":    [
+                                { "url": "https://github.com/bigpresh/Pod-Readme/pull/18", "state": "open", "relpath": "/pull/18" }
                             ]
     },
     {
@@ -425,15 +412,18 @@
         "released_by":      { "pause_id": "MAXMIND" },
         "repo":             { "url": "https://github.com/maxmind/GeoIP2-perl", "relpath": "maxmind/GeoIP2-perl" },
         "pull_requests":    [
+                                { "url": "https://github.com/maxmind/GeoIP2-perl/pull/28", "state": "merged", "relpath": "/pull/28" },
+                                { "url": "https://github.com/maxmind/GeoIP2-perl/pull/27", "state": "merged", "relpath": "/pull/27" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "davorg" },
         "distname":         "IO-Socket-Timeout",
         "released_by":      { "pause_id": "DAMS" },
         "repo":             { "url": "https://github.com/dams/io-socket-timeout", "relpath": "dams/io-socket-timeout" },
         "pull_requests":    [
+                                { "url": "https://github.com/dams/io-socket-timeout/pull/6", "state": "merged", "relpath": "/pull/6" }
                             ]
     },
     {
@@ -452,6 +442,9 @@
         "released_by":      { "pause_id": "NEILB" },
         "repo":             { "url": "https://github.com/neilbowers/AppConfig", "relpath": "neilbowers/AppConfig" },
         "pull_requests":    [
+                                { "url": "https://github.com/neilb/AppConfig/pull/8", "state": "open", "relpath": "/pull/8" },
+                                { "url": "https://github.com/neilb/AppConfig/pull/7", "state": "open", "relpath": "/pull/7" },
+                                { "url": "https://github.com/neilb/AppConfig/pull/6", "state": "merged", "relpath": "/pull/6" }
                             ]
     },
     {
@@ -517,6 +510,15 @@
         "distname":         "Data-Compare",
         "released_by":      { "pause_id": "DCANTRELL" },
         "repo":             { "url": "https://github.com/DrHyde/perl-modules-Data-Compare", "relpath": "DrHyde/perl-modules-Data-Compare" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "nawglan" },
+        "distname":         "POE-Component-Client-UserAgent",
+        "released_by":      { "pause_id": "RCAPUTO" },
+        "repo":             { "url": "https://github.com/rcaputo/poe-component-client-useragent", "relpath": "rcaputo/poe-component-client-useragent" },
         "pull_requests":    [
                             ]
     }
