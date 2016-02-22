@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "February",
- "generated": { "date": "2016-02-16", "time": "09:13:40" },
+ "generated": { "date": "2016-02-22", "time": "22:39:25" },
  "stats": { "done": "8", "total": "55", "percent": "14.5" },
  "assignments": [
 
@@ -12,6 +12,7 @@
         "released_by":      { "pause_id": "XSAWYERX" },
         "repo":             { "url": "https://github.com/PerlDancer/Dancer2", "relpath": "PerlDancer/Dancer2" },
         "pull_requests":    [
+                                { "url": "https://github.com/PerlDancer/Dancer2/pull/1134", "state": "open", "relpath": "/pull/1134" }
                             ]
     },
     {
@@ -39,6 +40,7 @@
         "released_by":      { "pause_id": "JWB" },
         "repo":             { "url": "https://github.com/jwbargsten/perl-proc-processtable", "relpath": "jwbargsten/perl-proc-processtable" },
         "pull_requests":    [
+                                { "url": "https://github.com/jwbargsten/perl-proc-processtable/pull/16", "state": "open", "relpath": "/pull/16" }
                             ]
     },
     {
@@ -57,6 +59,7 @@
         "released_by":      { "pause_id": "BOOK" },
         "repo":             { "url": "https://github.com/book/HTTP-Proxy", "relpath": "book/HTTP-Proxy" },
         "pull_requests":    [
+                                { "url": "https://github.com/book/HTTP-Proxy/pull/8", "state": "open", "relpath": "/pull/8" }
                             ]
     },
     {
@@ -347,6 +350,7 @@
         "released_by":      { "pause_id": "STEPHEN" },
         "repo":             { "url": "https://github.com/stephenenelson/convert-binhex", "relpath": "stephenenelson/convert-binhex" },
         "pull_requests":    [
+                                { "url": "https://github.com/stephenenelson/convert-binhex/pull/2", "state": "open", "relpath": "/pull/2" }
                             ]
     },
     {
@@ -442,8 +446,9 @@
         "released_by":      { "pause_id": "NEILB" },
         "repo":             { "url": "https://github.com/neilbowers/AppConfig", "relpath": "neilbowers/AppConfig" },
         "pull_requests":    [
+                                { "url": "https://github.com/neilb/AppConfig/pull/9", "state": "open", "relpath": "/pull/9" },
                                 { "url": "https://github.com/neilb/AppConfig/pull/8", "state": "open", "relpath": "/pull/8" },
-                                { "url": "https://github.com/neilb/AppConfig/pull/7", "state": "open", "relpath": "/pull/7" },
+                                { "url": "https://github.com/neilb/AppConfig/pull/7", "state": "closed", "relpath": "/pull/7" },
                                 { "url": "https://github.com/neilb/AppConfig/pull/6", "state": "merged", "relpath": "/pull/6" }
                             ]
     },

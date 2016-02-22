@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "January",
- "generated": { "date": "2016-02-16", "time": "09:13:08" },
- "stats": { "done": "50", "total": "75", "percent": "66.7" },
+ "generated": { "date": "2016-02-22", "time": "22:38:47" },
+ "stats": { "done": "51", "total": "75", "percent": "68.0" },
  "assignments": [
 
     {
@@ -319,7 +319,7 @@
         "done":             true,
         "assignee":         { "github_username": "mvgrimes" },
         "distname":         "Pod-Simple",
-        "released_by":      { "pause_id": "MARCGREEN" },
+        "released_by":      { "pause_id": "NEILB" },
         "repo":             { "url": "https://github.com/perl-pod/pod-simple", "relpath": "perl-pod/pod-simple" },
         "pull_requests":    [
                                 { "url": "https://github.com/perl-pod/pod-simple/pull/83", "state": "open", "relpath": "/pull/83" }
@@ -434,7 +434,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "elmerq" },
         "distname":         "Alien-SDL",
         "released_by":      { "pause_id": "FROGGS" },
@@ -683,7 +683,7 @@
         "done":             false,
         "assignee":         { "github_username": "srvsh" },
         "distname":         "Catmandu-PICA",
-        "released_by":      { "pause_id": "JOROL" },
+        "released_by":      { "pause_id": "VOJ" },
         "repo":             { "url": "https://github.com/gbv/Catmandu-PICA", "relpath": "gbv/Catmandu-PICA" },
         "pull_requests":    [
                             ]
