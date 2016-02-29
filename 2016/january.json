@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "January",
- "generated": { "date": "2016-02-22", "time": "22:38:47" },
- "stats": { "done": "51", "total": "75", "percent": "68.0" },
+ "generated": { "date": "2016-02-29", "time": "23:34:04" },
+ "stats": { "done": "51", "total": "74", "percent": "68.9" },
  "assignments": [
 
     {
@@ -525,15 +525,6 @@
     },
     {
         "done":             false,
-        "assignee":         { "github_username": "kyzn" },
-        "distname":         "Prima",
-        "released_by":      { "pause_id": "KARASIK" },
-        "repo":             { "url": "https://github.com/dk/Prima", "relpath": "dk/Prima" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
         "assignee":         { "github_username": "pwr22" },
         "distname":         "Dist-Zilla-Plugin-GitFmtChanges",
         "released_by":      { "pause_id": "RUBYKAT" },
@@ -683,7 +674,7 @@
         "done":             false,
         "assignee":         { "github_username": "srvsh" },
         "distname":         "Catmandu-PICA",
-        "released_by":      { "pause_id": "VOJ" },
+        "released_by":      { "pause_id": "JOROL" },
         "repo":             { "url": "https://github.com/gbv/Catmandu-PICA", "relpath": "gbv/Catmandu-PICA" },
         "pull_requests":    [
                             ]

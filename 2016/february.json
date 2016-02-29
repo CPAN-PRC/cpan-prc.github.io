@@ -1,18 +1,18 @@
 {
  "year": "2016",
  "month": "February",
- "generated": { "date": "2016-02-22", "time": "22:39:25" },
- "stats": { "done": "8", "total": "55", "percent": "14.5" },
+ "generated": { "date": "2016-02-29", "time": "23:34:40" },
+ "stats": { "done": "28", "total": "46", "percent": "60.9" },
  "assignments": [
 
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jamessan" },
         "distname":         "Dancer2",
         "released_by":      { "pause_id": "XSAWYERX" },
         "repo":             { "url": "https://github.com/PerlDancer/Dancer2", "relpath": "PerlDancer/Dancer2" },
         "pull_requests":    [
-                                { "url": "https://github.com/PerlDancer/Dancer2/pull/1134", "state": "open", "relpath": "/pull/1134" }
+                                { "url": "https://github.com/PerlDancer/Dancer2/pull/1134", "state": "merged", "relpath": "/pull/1134" }
                             ]
     },
     {
@@ -34,26 +34,27 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "itcharlie" },
         "distname":         "Proc-ProcessTable",
         "released_by":      { "pause_id": "JWB" },
         "repo":             { "url": "https://github.com/jwbargsten/perl-proc-processtable", "relpath": "jwbargsten/perl-proc-processtable" },
         "pull_requests":    [
-                                { "url": "https://github.com/jwbargsten/perl-proc-processtable/pull/16", "state": "open", "relpath": "/pull/16" }
+                                { "url": "https://github.com/jwbargsten/perl-proc-processtable/pull/16", "state": "merged", "relpath": "/pull/16" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "Tordek" },
         "distname":         "WebService-Solr",
         "released_by":      { "pause_id": "PETDANCE" },
         "repo":             { "url": "https://github.com/bricas/webservice-solr", "relpath": "bricas/webservice-solr" },
         "pull_requests":    [
+                                { "url": "https://github.com/bricas/webservice-solr/pull/30", "state": "merged", "relpath": "/pull/30" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "zhouzhen1" },
         "distname":         "HTTP-Proxy",
         "released_by":      { "pause_id": "BOOK" },
@@ -90,21 +91,13 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "pauloscustodio" },
-        "distname":         "App-RecordStream",
-        "released_by":      { "pause_id": "TSIBLEY" },
-        "repo":             { "url": "https://github.com/benbernard/RecordStream", "relpath": "benbernard/RecordStream" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "SkySymbol" },
         "distname":         "Plack-Debugger",
         "released_by":      { "pause_id": "STEVAN" },
         "repo":             { "url": "https://github.com/stevan/p5-plack-debugger", "relpath": "stevan/p5-plack-debugger" },
         "pull_requests":    [
+                                { "url": "https://github.com/stevan/p5-plack-debugger/pull/12", "state": "open", "relpath": "/pull/12" }
                             ]
     },
     {
@@ -114,10 +107,11 @@
         "released_by":      { "pause_id": "MJEVANS" },
         "repo":             { "url": "https://github.com/perl5-dbi/DBD-ODBC", "relpath": "perl5-dbi/DBD-ODBC" },
         "pull_requests":    [
+                                { "url": "https://github.com/perl5-dbi/DBD-ODBC/pull/5", "state": "merged", "relpath": "/pull/5" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "openstrike" },
         "distname":         "POE-Component-Client-Keepalive",
         "released_by":      { "pause_id": "RCAPUTO" },
@@ -178,16 +172,7 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "bieron" },
-        "distname":         "Tk-ObjScanner",
-        "released_by":      { "pause_id": "DDUMONT" },
-        "repo":             { "url": "https://github.com/dod38fr/perl-tk-objscanner", "relpath": "dod38fr/perl-tk-objscanner" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "monsieurp" },
         "distname":         "Task-Biodiverse-NoGUI",
         "released_by":      { "pause_id": "SLAFFAN" },
@@ -203,7 +188,7 @@
         "repo":             { "url": "https://github.com/pjf/autodie", "relpath": "pjf/autodie" },
         "pull_requests":    [
                                 { "url": "https://github.com/pjf/autodie/pull/72", "state": "open", "relpath": "/pull/72" },
-                                { "url": "https://github.com/pjf/autodie/pull/71", "state": "open", "relpath": "/pull/71" }
+                                { "url": "https://github.com/pjf/autodie/pull/71", "state": "merged", "relpath": "/pull/71" }
                             ]
     },
     {
@@ -225,15 +210,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "fluca1978" },
-        "distname":         "Vim-Debug",
-        "released_by":      { "pause_id": "KABLAMO" },
-        "repo":             { "url": "https://github.com/kablamo/VimDebug", "relpath": "kablamo/VimDebug" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "shlomif" },
         "distname":         "Monitoring-Plugin",
@@ -244,39 +220,45 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "brummett" },
         "distname":         "Tie-DBI",
         "released_by":      { "pause_id": "TODDR" },
         "repo":             { "url": "https://github.com/toddr/Tie-DBI", "relpath": "toddr/Tie-DBI" },
         "pull_requests":    [
+                                { "url": "https://github.com/toddr/Tie-DBI/pull/5", "state": "open", "relpath": "/pull/5" },
+                                { "url": "https://github.com/toddr/Tie-DBI/pull/4", "state": "open", "relpath": "/pull/4" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "paultcochrane" },
         "distname":         "Template-Mustache",
         "released_by":      { "pause_id": "YANICK" },
         "repo":             { "url": "https://github.com/pvande/Template-Mustache", "relpath": "pvande/Template-Mustache" },
         "pull_requests":    [
+                                { "url": "https://github.com/pvande/Template-Mustache/pull/34", "state": "open", "relpath": "/pull/34" },
+                                { "url": "https://github.com/pvande/Template-Mustache/pull/33", "state": "open", "relpath": "/pull/33" },
+                                { "url": "https://github.com/pvande/Template-Mustache/pull/32", "state": "open", "relpath": "/pull/32" },
+                                { "url": "https://github.com/pvande/Template-Mustache/pull/31", "state": "open", "relpath": "/pull/31" },
+                                { "url": "https://github.com/pvande/Template-Mustache/pull/30", "state": "open", "relpath": "/pull/30" },
+                                { "url": "https://github.com/pvande/Template-Mustache/pull/29", "state": "open", "relpath": "/pull/29" },
+                                { "url": "https://github.com/pvande/Template-Mustache/pull/28", "state": "open", "relpath": "/pull/28" },
+                                { "url": "https://github.com/pvande/Template-Mustache/pull/27", "state": "open", "relpath": "/pull/27" },
+                                { "url": "https://github.com/pvande/Template-Mustache/pull/26", "state": "open", "relpath": "/pull/26" },
+                                { "url": "https://github.com/pvande/Template-Mustache/pull/25", "state": "open", "relpath": "/pull/25" },
+                                { "url": "https://github.com/pvande/Template-Mustache/pull/24", "state": "open", "relpath": "/pull/24" },
+                                { "url": "https://github.com/pvande/Template-Mustache/pull/23", "state": "open", "relpath": "/pull/23" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "brianmed" },
         "distname":         "Import-Base",
         "released_by":      { "pause_id": "PREACTION" },
         "repo":             { "url": "https://github.com/preaction/Import-Base", "relpath": "preaction/Import-Base" },
         "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "tadegenban" },
-        "distname":         "App-DPath",
-        "released_by":      { "pause_id": "SCHWIGON" },
-        "repo":             { "url": "https://github.com/renormalist/app-dpath", "relpath": "renormalist/app-dpath" },
-        "pull_requests":    [
+                                { "url": "https://github.com/preaction/Import-Base/pull/29", "state": "open", "relpath": "/pull/29" }
                             ]
     },
     {
@@ -285,15 +267,6 @@
         "distname":         "WWW-Mechanize-PhantomJS",
         "released_by":      { "pause_id": "CORION" },
         "repo":             { "url": "https://github.com/Corion/www-mechanize-phantomjs", "relpath": "Corion/www-mechanize-phantomjs" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "skington" },
-        "distname":         "Alien-pdf2json",
-        "released_by":      { "pause_id": "ZMUGHAL" },
-        "repo":             { "url": "https://github.com/zmughal/p5-Alien-pdf2json", "relpath": "zmughal/p5-Alien-pdf2json" },
         "pull_requests":    [
                             ]
     },
@@ -318,24 +291,6 @@
     },
     {
         "done":             false,
-        "assignee":         { "github_username": "xsawyerx" },
-        "distname":         "XML-SAX-Base",
-        "released_by":      { "pause_id": "GRANTM" },
-        "repo":             { "url": "https://github.com/grantm/XML-SAX-Base", "relpath": "grantm/XML-SAX-Base" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "adamherzog" },
-        "distname":         "FFI-Raw",
-        "released_by":      { "pause_id": "ALEXBIO" },
-        "repo":             { "url": "https://github.com/ghedo/p5-FFI-Raw", "relpath": "ghedo/p5-FFI-Raw" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
         "assignee":         { "github_username": "bjakubski" },
         "distname":         "Dist-Zilla-Plugin-CheckChangeLog",
         "released_by":      { "pause_id": "FAYLAND" },
@@ -344,7 +299,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "Varadinsky" },
         "distname":         "Convert-BinHex",
         "released_by":      { "pause_id": "STEPHEN" },
@@ -354,7 +309,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "cakirke" },
         "distname":         "JavaScript-Minifier",
         "released_by":      { "pause_id": "ZOFFIX" },
@@ -373,15 +328,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "JenishGnanasicamani" },
-        "distname":         "Catmandu-XLS",
-        "released_by":      { "pause_id": "JOROL" },
-        "repo":             { "url": "https://github.com/LibreCat/Catmandu-XLS", "relpath": "LibreCat/Catmandu-XLS" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "thrig" },
         "distname":         "Mojolicious-Plugin-ParamExpand",
@@ -392,25 +338,17 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "turnstep" },
-        "distname":         "Test-Mojibake",
-        "released_by":      { "pause_id": "SYP" },
-        "repo":             { "url": "https://github.com/creaktive/Test-Mojibake", "relpath": "creaktive/Test-Mojibake" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jmaslak" },
         "distname":         "Dist-Zilla-Plugin-ReadmeAnyFromPod",
         "released_by":      { "pause_id": "RTHOMPSON" },
         "repo":             { "url": "https://github.com/DarwinAwardWinner/Dist-Zilla-Plugin-ReadmeAnyFromPod", "relpath": "DarwinAwardWinner/Dist-Zilla-Plugin-ReadmeAnyFromPod" },
         "pull_requests":    [
+                                { "url": "https://github.com/DarwinAwardWinner/Dist-Zilla-Plugin-ReadmeAnyFromPod/pull/23", "state": "open", "relpath": "/pull/23" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "choroba" },
         "distname":         "GeoIP2",
         "released_by":      { "pause_id": "MAXMIND" },
@@ -431,22 +369,23 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "Viviparous" },
         "distname":         "Crypt-OpenSSL-Bignum",
         "released_by":      { "pause_id": "KMX" },
         "repo":             { "url": "https://github.com/kmx/perl-Crypt-OpenSSL-Bignum", "relpath": "kmx/perl-Crypt-OpenSSL-Bignum" },
         "pull_requests":    [
+                                { "url": "https://github.com/kmx/perl-Crypt-OpenSSL-Bignum/pull/2", "state": "open", "relpath": "/pull/2" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "estrabd" },
         "distname":         "AppConfig",
         "released_by":      { "pause_id": "NEILB" },
         "repo":             { "url": "https://github.com/neilbowers/AppConfig", "relpath": "neilbowers/AppConfig" },
         "pull_requests":    [
-                                { "url": "https://github.com/neilb/AppConfig/pull/9", "state": "open", "relpath": "/pull/9" },
+                                { "url": "https://github.com/neilb/AppConfig/pull/9", "state": "merged", "relpath": "/pull/9" },
                                 { "url": "https://github.com/neilb/AppConfig/pull/8", "state": "open", "relpath": "/pull/8" },
                                 { "url": "https://github.com/neilb/AppConfig/pull/7", "state": "closed", "relpath": "/pull/7" },
                                 { "url": "https://github.com/neilb/AppConfig/pull/6", "state": "merged", "relpath": "/pull/6" }
@@ -463,22 +402,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "manwar" },
         "distname":         "App-TimeTracker",
         "released_by":      { "pause_id": "DOMM" },
         "repo":             { "url": "https://github.com/domm/App-TimeTracker", "relpath": "domm/App-TimeTracker" },
         "pull_requests":    [
                                 { "url": "https://github.com/domm/App-TimeTracker/pull/18", "state": "merged", "relpath": "/pull/18" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "SysPete" },
-        "distname":         "Time-Piece",
-        "released_by":      { "pause_id": "ESAYM" },
-        "repo":             { "url": "https://github.com/rjbs/Time-Piece", "relpath": "rjbs/Time-Piece" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -491,22 +421,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "lharey" },
         "distname":         "Lingua-EN-PluralToSingular",
         "released_by":      { "pause_id": "BKB" },
         "repo":             { "url": "https://github.com/benkasminbullock/Lingua-EN-PluralToSingular", "relpath": "benkasminbullock/Lingua-EN-PluralToSingular" },
         "pull_requests":    [
                                 { "url": "https://github.com/benkasminbullock/Lingua-EN-PluralToSingular/pull/17", "state": "merged", "relpath": "/pull/17" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "sebokopter" },
-        "distname":         "Spreadsheet-Read",
-        "released_by":      { "pause_id": "HMBRAND" },
-        "repo":             { "url": "https://github.com/Tux/Spreadsheet-Read", "relpath": "Tux/Spreadsheet-Read" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -519,12 +440,32 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "nawglan" },
         "distname":         "POE-Component-Client-UserAgent",
         "released_by":      { "pause_id": "RCAPUTO" },
         "repo":             { "url": "https://github.com/rcaputo/poe-component-client-useragent", "relpath": "rcaputo/poe-component-client-useragent" },
         "pull_requests":    [
+                                { "url": "https://github.com/rcaputo/poe-component-client-useragent/pull/1", "state": "open", "relpath": "/pull/1" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "elmerq" },
+        "distname":         "URI-NamespaceMap",
+        "released_by":      { "pause_id": "KJETILK" },
+        "repo":             { "url": "https://github.com/kjetilk/URI-NamespaceMap", "relpath": "kjetilk/URI-NamespaceMap" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "pauloscustodio" },
+        "distname":         "Pod-Spell",
+        "released_by":      { "pause_id": "DOLMEN" },
+        "repo":             { "url": "https://github.com/perl-pod/Pod-Spell", "relpath": "perl-pod/Pod-Spell" },
+        "pull_requests":    [
+                                { "url": "https://github.com/perl-pod/Pod-Spell/pull/24", "state": "open", "relpath": "/pull/24" }
                             ]
     }
  ]
