@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "February",
- "generated": { "date": "2016-02-29", "time": "23:34:40" },
- "stats": { "done": "28", "total": "46", "percent": "60.9" },
+ "generated": { "date": "2016-03-01", "time": "09:32:43" },
+ "stats": { "done": "29", "total": "46", "percent": "63.0" },
  "assignments": [
 
     {
@@ -154,7 +154,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "dams" },
         "distname":         "Message-Passing",
         "released_by":      { "pause_id": "ABRAXXA" },
@@ -258,7 +258,7 @@
         "released_by":      { "pause_id": "PREACTION" },
         "repo":             { "url": "https://github.com/preaction/Import-Base", "relpath": "preaction/Import-Base" },
         "pull_requests":    [
-                                { "url": "https://github.com/preaction/Import-Base/pull/29", "state": "open", "relpath": "/pull/29" }
+                                { "url": "https://github.com/preaction/Import-Base/pull/29", "state": "closed", "relpath": "/pull/29" }
                             ]
     },
     {
