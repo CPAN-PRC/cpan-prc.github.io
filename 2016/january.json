@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "January",
- "generated": { "date": "2016-03-01", "time": "09:32:09" },
- "stats": { "done": "51", "total": "74", "percent": "68.9" },
+ "generated": { "date": "2016-03-05", "time": "18:33:04" },
+ "stats": { "done": "52", "total": "73", "percent": "71.2" },
  "assignments": [
 
     {
@@ -284,15 +284,6 @@
         "repo":             { "url": "https://github.com/billward/number-format-perl", "relpath": "billward/number-format-perl" },
         "pull_requests":    [
                                 { "url": "https://github.com/billward/number-format-perl/pull/8", "state": "open", "relpath": "/pull/8" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "marderh" },
-        "distname":         "HiD",
-        "released_by":      { "pause_id": "GENEHACK" },
-        "repo":             { "url": "https://github.com/genehack/HiD", "relpath": "genehack/HiD" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -699,12 +690,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "StarLightPL" },
         "distname":         "Parse-Syslog-Line",
         "released_by":      { "pause_id": "BLHOTSKY" },
         "repo":             { "url": "https://github.com/reyjrar/Parse-Syslog-Line", "relpath": "reyjrar/Parse-Syslog-Line" },
         "pull_requests":    [
+                                { "url": "https://github.com/reyjrar/Parse-Syslog-Line/pull/13", "state": "open", "relpath": "/pull/13" }
                             ]
     },
     {
