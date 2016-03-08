@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "March",
- "generated": { "date": "2016-03-05", "time": "18:34:03" },
- "stats": { "done": "3", "total": "51", "percent": "5.9" },
+ "generated": { "date": "2016-03-08", "time": "21:54:53" },
+ "stats": { "done": "4", "total": "53", "percent": "7.5" },
  "assignments": [
 
     {
@@ -39,7 +39,7 @@
         "released_by":      { "pause_id": "BRUMMETT" },
         "repo":             { "url": "https://github.com/brummett/Devel-hdb", "relpath": "brummett/Devel-hdb" },
         "pull_requests":    [
-                                { "url": "https://github.com/brummett/Devel-hdb/pull/104", "state": "open", "relpath": "/pull/104" },
+                                { "url": "https://github.com/brummett/Devel-hdb/pull/104", "state": "merged", "relpath": "/pull/104" },
                                 { "url": "https://github.com/brummett/Devel-hdb/pull/103", "state": "merged", "relpath": "/pull/103" }
                             ]
     },
@@ -68,6 +68,9 @@
         "released_by":      { "pause_id": "COSIMO" },
         "repo":             { "url": "https://github.com/cosimo/perl5-device-gsm", "relpath": "cosimo/perl5-device-gsm" },
         "pull_requests":    [
+                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/20", "state": "open", "relpath": "/pull/20" },
+                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/19", "state": "open", "relpath": "/pull/19" },
+                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/18", "state": "open", "relpath": "/pull/18" },
                                 { "url": "https://github.com/cosimo/perl5-device-gsm/pull/17", "state": "open", "relpath": "/pull/17" },
                                 { "url": "https://github.com/cosimo/perl5-device-gsm/pull/16", "state": "open", "relpath": "/pull/16" }
                             ]
@@ -200,6 +203,7 @@
         "released_by":      { "pause_id": "SALVA" },
         "repo":             { "url": "https://github.com/rkitover/net-ssh2", "relpath": "rkitover/net-ssh2" },
         "pull_requests":    [
+                                { "url": "https://github.com/rkitover/net-ssh2/pull/30", "state": "open", "relpath": "/pull/30" }
                             ]
     },
     {
@@ -347,12 +351,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "Jayceh" },
         "distname":         "Moo-Lax",
         "released_by":      { "pause_id": "DAMS" },
         "repo":             { "url": "https://github.com/dams/p5-Moo-Lax", "relpath": "dams/p5-Moo-Lax" },
         "pull_requests":    [
+                                { "url": "https://github.com/dams/p5-Moo-Lax/pull/5", "state": "merged", "relpath": "/pull/5" }
                             ]
     },
     {
@@ -471,6 +476,24 @@
         "distname":         "utf8-all",
         "released_by":      { "pause_id": "DOHERTY" },
         "repo":             { "url": "https://github.com/doherty/utf8-all", "relpath": "doherty/utf8-all" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "mephinet" },
+        "distname":         "Net-Works",
+        "released_by":      { "pause_id": "MAXMIND" },
+        "repo":             { "url": "https://github.com/maxmind/Net-Works", "relpath": "maxmind/Net-Works" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "genehack" },
+        "distname":         "Text-Markup",
+        "released_by":      { "pause_id": "DWHEELER" },
+        "repo":             { "url": "https://github.com/theory/text-markup", "relpath": "theory/text-markup" },
         "pull_requests":    [
                             ]
     }

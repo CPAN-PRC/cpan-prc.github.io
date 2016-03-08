@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "February",
- "generated": { "date": "2016-03-05", "time": "18:33:37" },
- "stats": { "done": "31", "total": "39", "percent": "79.5" },
+ "generated": { "date": "2016-03-08", "time": "21:54:28" },
+ "stats": { "done": "31", "total": "37", "percent": "83.8" },
  "assignments": [
 
     {
@@ -70,7 +70,7 @@
         "released_by":      { "pause_id": "STEVAN" },
         "repo":             { "url": "https://github.com/stevan/p5-plack-debugger", "relpath": "stevan/p5-plack-debugger" },
         "pull_requests":    [
-                                { "url": "https://github.com/stevan/p5-plack-debugger/pull/12", "state": "open", "relpath": "/pull/12" }
+                                { "url": "https://github.com/stevan/p5-plack-debugger/pull/12", "state": "merged", "relpath": "/pull/12" }
                             ]
     },
     {
@@ -157,15 +157,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "genehack" },
-        "distname":         "DBIx-Class-Sims",
-        "released_by":      { "pause_id": "RKINYON" },
-        "repo":             { "url": "https://github.com/robkinyon/dbix-class-sims", "relpath": "robkinyon/dbix-class-sims" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "shlomif" },
         "distname":         "Monitoring-Plugin",
@@ -215,15 +206,6 @@
         "repo":             { "url": "https://github.com/preaction/Import-Base", "relpath": "preaction/Import-Base" },
         "pull_requests":    [
                                 { "url": "https://github.com/preaction/Import-Base/pull/29", "state": "closed", "relpath": "/pull/29" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "mephinet" },
-        "distname":         "Net-Amazon-EC2",
-        "released_by":      { "pause_id": "MALLEN" },
-        "repo":             { "url": "https://github.com/mrallen1/net-amazon-ec2", "relpath": "mrallen1/net-amazon-ec2" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -333,7 +315,7 @@
         "repo":             { "url": "https://github.com/neilbowers/AppConfig", "relpath": "neilbowers/AppConfig" },
         "pull_requests":    [
                                 { "url": "https://github.com/neilb/AppConfig/pull/9", "state": "merged", "relpath": "/pull/9" },
-                                { "url": "https://github.com/neilb/AppConfig/pull/8", "state": "open", "relpath": "/pull/8" },
+                                { "url": "https://github.com/neilb/AppConfig/pull/8", "state": "merged", "relpath": "/pull/8" },
                                 { "url": "https://github.com/neilb/AppConfig/pull/7", "state": "closed", "relpath": "/pull/7" },
                                 { "url": "https://github.com/neilb/AppConfig/pull/6", "state": "merged", "relpath": "/pull/6" }
                             ]
