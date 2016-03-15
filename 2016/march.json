@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "March",
- "generated": { "date": "2016-03-08", "time": "21:54:53" },
+ "generated": { "date": "2016-03-15", "time": "00:45:08" },
  "stats": { "done": "4", "total": "53", "percent": "7.5" },
  "assignments": [
 
@@ -68,11 +68,11 @@
         "released_by":      { "pause_id": "COSIMO" },
         "repo":             { "url": "https://github.com/cosimo/perl5-device-gsm", "relpath": "cosimo/perl5-device-gsm" },
         "pull_requests":    [
-                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/20", "state": "open", "relpath": "/pull/20" },
-                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/19", "state": "open", "relpath": "/pull/19" },
-                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/18", "state": "open", "relpath": "/pull/18" },
-                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/17", "state": "open", "relpath": "/pull/17" },
-                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/16", "state": "open", "relpath": "/pull/16" }
+                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/20", "state": "merged", "relpath": "/pull/20" },
+                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/19", "state": "merged", "relpath": "/pull/19" },
+                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/18", "state": "merged", "relpath": "/pull/18" },
+                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/17", "state": "merged", "relpath": "/pull/17" },
+                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/16", "state": "merged", "relpath": "/pull/16" }
                             ]
     },
     {
@@ -167,6 +167,7 @@
         "released_by":      { "pause_id": "PERIGRIN" },
         "repo":             { "url": "https://github.com/perigrin/xml-sax-writer", "relpath": "perigrin/xml-sax-writer" },
         "pull_requests":    [
+                                { "url": "https://github.com/perigrin/xml-sax-writer/pull/10", "state": "open", "relpath": "/pull/10" }
                             ]
     },
     {
@@ -194,16 +195,6 @@
         "released_by":      { "pause_id": "ZOWIE" },
         "repo":             { "url": "https://github.com/drzowie/PDL-Graphics-Gnuplot", "relpath": "drzowie/PDL-Graphics-Gnuplot" },
         "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "ambs" },
-        "distname":         "Net-SSH2",
-        "released_by":      { "pause_id": "SALVA" },
-        "repo":             { "url": "https://github.com/rkitover/net-ssh2", "relpath": "rkitover/net-ssh2" },
-        "pull_requests":    [
-                                { "url": "https://github.com/rkitover/net-ssh2/pull/30", "state": "open", "relpath": "/pull/30" }
                             ]
     },
     {
@@ -267,6 +258,7 @@
         "released_by":      { "pause_id": "GRANTM" },
         "repo":             { "url": "https://github.com/grantm/XML-SAX-Base", "relpath": "grantm/XML-SAX-Base" },
         "pull_requests":    [
+                                { "url": "https://github.com/grantm/XML-SAX-Base/pull/2", "state": "merged", "relpath": "/pull/2" }
                             ]
     },
     {
@@ -285,6 +277,7 @@
         "released_by":      { "pause_id": "TINITA" },
         "repo":             { "url": "https://github.com/perlpunk/HTML-Template-Compiled", "relpath": "perlpunk/HTML-Template-Compiled" },
         "pull_requests":    [
+                                { "url": "https://github.com/perlpunk/HTML-Template-Compiled/pull/9", "state": "merged", "relpath": "/pull/9" }
                             ]
     },
     {
@@ -312,6 +305,15 @@
         "released_by":      { "pause_id": "DIONYS" },
         "repo":             { "url": "https://github.com/dionys/mojox-transaction-websocket76", "relpath": "dionys/mojox-transaction-websocket76" },
         "pull_requests":    [
+                                { "url": "https://github.com/dionys/mojox-transaction-websocket76/pull/12", "state": "open", "relpath": "/pull/12" },
+                                { "url": "https://github.com/dionys/mojox-transaction-websocket76/pull/11", "state": "merged", "relpath": "/pull/11" },
+                                { "url": "https://github.com/dionys/mojox-transaction-websocket76/pull/10", "state": "open", "relpath": "/pull/10" },
+                                { "url": "https://github.com/dionys/mojox-transaction-websocket76/pull/9", "state": "merged", "relpath": "/pull/9" },
+                                { "url": "https://github.com/dionys/mojox-transaction-websocket76/pull/8", "state": "merged", "relpath": "/pull/8" },
+                                { "url": "https://github.com/dionys/mojox-transaction-websocket76/pull/7", "state": "open", "relpath": "/pull/7" },
+                                { "url": "https://github.com/dionys/mojox-transaction-websocket76/pull/6", "state": "merged", "relpath": "/pull/6" },
+                                { "url": "https://github.com/dionys/mojox-transaction-websocket76/pull/5", "state": "merged", "relpath": "/pull/5" },
+                                { "url": "https://github.com/dionys/mojox-transaction-websocket76/pull/4", "state": "merged", "relpath": "/pull/4" }
                             ]
     },
     {
@@ -321,6 +323,8 @@
         "released_by":      { "pause_id": "BOWMANBS" },
         "repo":             { "url": "https://github.com/bowman/Plack-Middleware-ReverseProxyPath", "relpath": "bowman/Plack-Middleware-ReverseProxyPath" },
         "pull_requests":    [
+                                { "url": "https://github.com/bowman/Plack-Middleware-ReverseProxyPath/pull/3", "state": "open", "relpath": "/pull/3" },
+                                { "url": "https://github.com/bowman/Plack-Middleware-ReverseProxyPath/pull/2", "state": "open", "relpath": "/pull/2" }
                             ]
     },
     {
@@ -494,6 +498,15 @@
         "distname":         "Text-Markup",
         "released_by":      { "pause_id": "DWHEELER" },
         "repo":             { "url": "https://github.com/theory/text-markup", "relpath": "theory/text-markup" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "ambs" },
+        "distname":         "WWW-Shorten",
+        "released_by":      { "pause_id": "DAVECROSS" },
+        "repo":             { "url": "https://github.com/davorg/www-shorten", "relpath": "davorg/www-shorten" },
         "pull_requests":    [
                             ]
     }
