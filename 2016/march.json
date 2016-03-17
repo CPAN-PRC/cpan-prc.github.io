@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "March",
- "generated": { "date": "2016-03-15", "time": "00:45:08" },
+ "generated": { "date": "2016-03-17", "time": "10:49:52" },
  "stats": { "done": "4", "total": "53", "percent": "7.5" },
  "assignments": [
 
@@ -120,7 +120,7 @@
         "released_by":      { "pause_id": "ZARQUON" },
         "repo":             { "url": "https://github.com/jhthorsen/plack-middleware-ssi", "relpath": "jhthorsen/plack-middleware-ssi" },
         "pull_requests":    [
-                                { "url": "https://github.com/jhthorsen/plack-middleware-ssi/pull/7", "state": "open", "relpath": "/pull/7" }
+                                { "url": "https://github.com/jhthorsen/plack-middleware-ssi/pull/7", "state": "merged", "relpath": "/pull/7" }
                             ]
     },
     {
@@ -505,8 +505,8 @@
         "done":             false,
         "assignee":         { "github_username": "ambs" },
         "distname":         "WWW-Shorten",
-        "released_by":      { "pause_id": "DAVECROSS" },
-        "repo":             { "url": "https://github.com/davorg/www-shorten", "relpath": "davorg/www-shorten" },
+        "released_by":      { "pause_id": "CAPOEIRAB" },
+        "repo":             { "url": "https://github.com/p5-shorten/www-shorten", "relpath": "p5-shorten/www-shorten" },
         "pull_requests":    [
                             ]
     }
