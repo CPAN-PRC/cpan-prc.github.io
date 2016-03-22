@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "March",
- "generated": { "date": "2016-03-21", "time": "23:25:48" },
+ "generated": { "date": "2016-03-22", "time": "20:27:21" },
  "stats": { "done": "5", "total": "53", "percent": "9.4" },
  "assignments": [
 
@@ -201,6 +201,7 @@
         "released_by":      { "pause_id": "ZOWIE" },
         "repo":             { "url": "https://github.com/drzowie/PDL-Graphics-Gnuplot", "relpath": "drzowie/PDL-Graphics-Gnuplot" },
         "pull_requests":    [
+                                { "url": "https://github.com/drzowie/PDL-Graphics-Gnuplot/pull/47", "state": "open", "relpath": "/pull/47" }
                             ]
     },
     {
