@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "January",
- "generated": { "date": "2016-03-17", "time": "10:48:55" },
+ "generated": { "date": "2016-03-21", "time": "23:24:49" },
  "stats": { "done": "52", "total": "73", "percent": "71.2" },
  "assignments": [
 
@@ -50,8 +50,8 @@
         "released_by":      { "pause_id": "PEVANS" },
         "repo":             { "url": "https://github.com/Scalar-List-Utils/Scalar-List-Utils", "relpath": "Scalar-List-Utils/Scalar-List-Utils" },
         "pull_requests":    [
-                                { "url": "https://github.com/Scalar-List-Utils/Scalar-List-Utils/pull/38", "state": "open", "relpath": "/pull/38" },
-                                { "url": "https://github.com/Scalar-List-Utils/Scalar-List-Utils/pull/37", "state": "open", "relpath": "/pull/37" }
+                                { "url": "https://github.com/Scalar-List-Utils/Scalar-List-Utils/pull/38", "state": "closed", "relpath": "/pull/38" },
+                                { "url": "https://github.com/Scalar-List-Utils/Scalar-List-Utils/pull/37", "state": "merged", "relpath": "/pull/37" }
                             ]
     },
     {

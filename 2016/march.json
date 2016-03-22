@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "March",
- "generated": { "date": "2016-03-17", "time": "10:49:52" },
- "stats": { "done": "4", "total": "53", "percent": "7.5" },
+ "generated": { "date": "2016-03-21", "time": "23:25:48" },
+ "stats": { "done": "5", "total": "53", "percent": "9.4" },
  "assignments": [
 
     {
@@ -28,7 +28,7 @@
         "assignee":         { "github_username": "SysPete" },
         "distname":         "Method-Signatures",
         "released_by":      { "pause_id": "BAREFOOT" },
-        "repo":             { "url": "https://github.com/schwern/method-signatures", "relpath": "schwern/method-signatures" },
+        "repo":             { "url": "https://github.com/evalEmpire/method-signatures", "relpath": "evalEmpire/method-signatures" },
         "pull_requests":    [
                             ]
     },
@@ -50,6 +50,7 @@
         "released_by":      { "pause_id": "RUZ" },
         "repo":             { "url": "https://github.com/ruz/GDGraph", "relpath": "ruz/GDGraph" },
         "pull_requests":    [
+                                { "url": "https://github.com/ruz/GDGraph/pull/10", "state": "open", "relpath": "/pull/10" }
                             ]
     },
     {
@@ -68,6 +69,9 @@
         "released_by":      { "pause_id": "COSIMO" },
         "repo":             { "url": "https://github.com/cosimo/perl5-device-gsm", "relpath": "cosimo/perl5-device-gsm" },
         "pull_requests":    [
+                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/23", "state": "open", "relpath": "/pull/23" },
+                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/22", "state": "open", "relpath": "/pull/22" },
+                                { "url": "https://github.com/cosimo/perl5-device-gsm/pull/21", "state": "open", "relpath": "/pull/21" },
                                 { "url": "https://github.com/cosimo/perl5-device-gsm/pull/20", "state": "merged", "relpath": "/pull/20" },
                                 { "url": "https://github.com/cosimo/perl5-device-gsm/pull/19", "state": "merged", "relpath": "/pull/19" },
                                 { "url": "https://github.com/cosimo/perl5-device-gsm/pull/18", "state": "merged", "relpath": "/pull/18" },
@@ -177,6 +181,8 @@
         "released_by":      { "pause_id": "HORNBURG" },
         "repo":             { "url": "https://github.com/PerlDancer/Dancer2-Plugin-Auth-Extensible", "relpath": "PerlDancer/Dancer2-Plugin-Auth-Extensible" },
         "pull_requests":    [
+                                { "url": "https://github.com/PerlDancer/Dancer2-Plugin-Auth-Extensible/pull/48", "state": "open", "relpath": "/pull/48" },
+                                { "url": "https://github.com/PerlDancer/Dancer2-Plugin-Auth-Extensible/pull/47", "state": "closed", "relpath": "/pull/47" }
                             ]
     },
     {
@@ -334,6 +340,7 @@
         "released_by":      { "pause_id": "SYP" },
         "repo":             { "url": "https://github.com/creaktive/Test-Mojibake", "relpath": "creaktive/Test-Mojibake" },
         "pull_requests":    [
+                                { "url": "https://github.com/creaktive/Test-Mojibake/pull/11", "state": "merged", "relpath": "/pull/11" }
                             ]
     },
     {
@@ -502,12 +509,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "ambs" },
         "distname":         "WWW-Shorten",
         "released_by":      { "pause_id": "CAPOEIRAB" },
         "repo":             { "url": "https://github.com/p5-shorten/www-shorten", "relpath": "p5-shorten/www-shorten" },
         "pull_requests":    [
+                                { "url": "https://github.com/p5-shorten/www-shorten/pull/10", "state": "merged", "relpath": "/pull/10" }
                             ]
     }
  ]
