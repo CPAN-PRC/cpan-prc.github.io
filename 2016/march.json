@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "March",
- "generated": { "date": "2016-03-22", "time": "20:27:21" },
- "stats": { "done": "5", "total": "53", "percent": "9.4" },
+ "generated": { "date": "2016-03-28", "time": "21:51:33" },
+ "stats": { "done": "16", "total": "53", "percent": "30.2" },
  "assignments": [
 
     {
@@ -33,7 +33,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "manwar" },
         "distname":         "Devel-hdb",
         "released_by":      { "pause_id": "BRUMMETT" },
@@ -44,7 +44,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "Varadinsky" },
         "distname":         "GDGraph",
         "released_by":      { "pause_id": "RUZ" },
@@ -95,6 +95,7 @@
         "released_by":      { "pause_id": "BOOK" },
         "repo":             { "url": "https://github.com/book/Test-Database", "relpath": "book/Test-Database" },
         "pull_requests":    [
+                                { "url": "https://github.com/book/Test-Database/pull/3", "state": "open", "relpath": "/pull/3" }
                             ]
     },
     {
@@ -107,7 +108,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "hatorikibble" },
         "distname":         "Promises",
         "released_by":      { "pause_id": "STEVAN" },
@@ -118,7 +119,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "bieron" },
         "distname":         "Plack-Middleware-SSI",
         "released_by":      { "pause_id": "ZARQUON" },
@@ -134,15 +135,17 @@
         "released_by":      { "pause_id": "RGARCIA" },
         "repo":             { "url": "https://github.com/rgs/Sub-Identify", "relpath": "rgs/Sub-Identify" },
         "pull_requests":    [
+                                { "url": "https://github.com/rgs/Sub-Identify/pull/7", "state": "merged", "relpath": "/pull/7" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "stevieb9" },
         "distname":         "Dancer-Plugin-Database",
         "released_by":      { "pause_id": "AMBS" },
         "repo":             { "url": "https://github.com/bigpresh/Dancer-Plugin-Database", "relpath": "bigpresh/Dancer-Plugin-Database" },
         "pull_requests":    [
+                                { "url": "https://github.com/bigpresh/Dancer-Plugin-Database/pull/81", "state": "merged", "relpath": "/pull/81" }
                             ]
     },
     {
@@ -175,7 +178,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "Tordek" },
         "distname":         "Dancer2-Plugin-Auth-Extensible",
         "released_by":      { "pause_id": "HORNBURG" },
@@ -201,7 +204,7 @@
         "released_by":      { "pause_id": "ZOWIE" },
         "repo":             { "url": "https://github.com/drzowie/PDL-Graphics-Gnuplot", "relpath": "drzowie/PDL-Graphics-Gnuplot" },
         "pull_requests":    [
-                                { "url": "https://github.com/drzowie/PDL-Graphics-Gnuplot/pull/47", "state": "open", "relpath": "/pull/47" }
+                                { "url": "https://github.com/drzowie/PDL-Graphics-Gnuplot/pull/47", "state": "merged", "relpath": "/pull/47" }
                             ]
     },
     {
@@ -223,12 +226,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "yanick" },
         "distname":         "Alien-pdf2json",
         "released_by":      { "pause_id": "ZMUGHAL" },
         "repo":             { "url": "https://github.com/zmughal/p5-Alien-pdf2json", "relpath": "zmughal/p5-Alien-pdf2json" },
         "pull_requests":    [
+                                { "url": "https://github.com/project-renard/p5-Alien-pdf2json/pull/5", "state": "open", "relpath": "/pull/5" }
                             ]
     },
     {
@@ -238,15 +242,18 @@
         "released_by":      { "pause_id": "DOLMEN" },
         "repo":             { "url": "https://github.com/dolmen/POE-Component-Logger", "relpath": "dolmen/POE-Component-Logger" },
         "pull_requests":    [
+                                { "url": "https://github.com/dolmen/POE-Component-Logger/pull/2", "state": "open", "relpath": "/pull/2" },
+                                { "url": "https://github.com/dolmen/POE-Component-Logger/pull/1", "state": "open", "relpath": "/pull/1" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "pauloscustodio" },
         "distname":         "WWW-YouTube-Download",
         "released_by":      { "pause_id": "OALDERS" },
         "repo":             { "url": "https://github.com/xaicron/p5-www-youtube-download", "relpath": "xaicron/p5-www-youtube-download" },
         "pull_requests":    [
+                                { "url": "https://github.com/xaicron/p5-www-youtube-download/pull/37", "state": "open", "relpath": "/pull/37" }
                             ]
     },
     {
@@ -278,7 +285,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "zhouzhen1" },
         "distname":         "HTML-Template-Compiled",
         "released_by":      { "pause_id": "TINITA" },
@@ -312,6 +319,7 @@
         "released_by":      { "pause_id": "DIONYS" },
         "repo":             { "url": "https://github.com/dionys/mojox-transaction-websocket76", "relpath": "dionys/mojox-transaction-websocket76" },
         "pull_requests":    [
+                                { "url": "https://github.com/dionys/mojox-transaction-websocket76/pull/13", "state": "open", "relpath": "/pull/13" },
                                 { "url": "https://github.com/dionys/mojox-transaction-websocket76/pull/12", "state": "open", "relpath": "/pull/12" },
                                 { "url": "https://github.com/dionys/mojox-transaction-websocket76/pull/11", "state": "merged", "relpath": "/pull/11" },
                                 { "url": "https://github.com/dionys/mojox-transaction-websocket76/pull/10", "state": "open", "relpath": "/pull/10" },
@@ -335,7 +343,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "mcmillhj" },
         "distname":         "Test-Mojibake",
         "released_by":      { "pause_id": "SYP" },
@@ -354,12 +362,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "davorg" },
         "distname":         "Alien-TALib",
         "released_by":      { "pause_id": "VIKAS" },
         "repo":             { "url": "https://github.com/vikasnkumar/Alien-TALib", "relpath": "vikasnkumar/Alien-TALib" },
         "pull_requests":    [
+                                { "url": "https://github.com/vikasnkumar/Alien-TALib/pull/3", "state": "merged", "relpath": "/pull/3" }
                             ]
     },
     {
@@ -443,7 +452,8 @@
         "released_by":      { "pause_id": "YANICK" },
         "repo":             { "url": "https://github.com/stevan/BreadBoard", "relpath": "stevan/BreadBoard" },
         "pull_requests":    [
-                                { "url": "https://github.com/stevan/BreadBoard/pull/49", "state": "open", "relpath": "/pull/49" }
+                                { "url": "https://github.com/stevan/BreadBoard/pull/50", "state": "closed", "relpath": "/pull/50" },
+                                { "url": "https://github.com/stevan/BreadBoard/pull/49", "state": "closed", "relpath": "/pull/49" }
                             ]
     },
     {
