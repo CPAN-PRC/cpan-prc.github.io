@@ -1,17 +1,18 @@
 {
  "year": "2016",
  "month": "March",
- "generated": { "date": "2016-03-28", "time": "21:51:33" },
- "stats": { "done": "16", "total": "53", "percent": "30.2" },
+ "generated": { "date": "2016-03-31", "time": "22:50:04" },
+ "stats": { "done": "22", "total": "47", "percent": "46.8" },
  "assignments": [
 
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jamessan" },
         "distname":         "DBD-mysql",
         "released_by":      { "pause_id": "MICHIELB" },
         "repo":             { "url": "https://github.com/perl5-dbi/DBD-mysql", "relpath": "perl5-dbi/DBD-mysql" },
         "pull_requests":    [
+                                { "url": "https://github.com/perl5-dbi/DBD-mysql/pull/48", "state": "closed", "relpath": "/pull/48" }
                             ]
     },
     {
@@ -54,15 +55,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "turnstep" },
-        "distname":         "MooseX-App",
-        "released_by":      { "pause_id": "MAROS" },
-        "repo":             { "url": "https://github.com/maros/MooseX-App", "relpath": "maros/MooseX-App" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "jmaslak" },
         "distname":         "Device-Gsm",
@@ -89,7 +81,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "xsawyerx" },
         "distname":         "Test-Database",
         "released_by":      { "pause_id": "BOOK" },
@@ -168,7 +160,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "lharey" },
         "distname":         "XML-SAX-Writer",
         "released_by":      { "pause_id": "PERIGRIN" },
@@ -189,16 +181,7 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "fluca1978" },
-        "distname":         "POE-Component-Client-HTTP",
-        "released_by":      { "pause_id": "RCAPUTO" },
-        "repo":             { "url": "https://github.com/rcaputo/poe-component-client-http", "relpath": "rcaputo/poe-component-client-http" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "thrig" },
         "distname":         "PDL-Graphics-Gnuplot",
         "released_by":      { "pause_id": "ZOWIE" },
@@ -304,16 +287,7 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "sebokopter" },
-        "distname":         "Date-Holidays-CA_ES",
-        "released_by":      { "pause_id": "MRUIZ" },
-        "repo":             { "url": "https://github.com/miquelruiz/Date-Holidays-CA_ES", "relpath": "miquelruiz/Date-Holidays-CA_ES" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "paultcochrane" },
         "distname":         "MojoX-Transaction-WebSocket76",
         "released_by":      { "pause_id": "DIONYS" },
@@ -383,15 +357,6 @@
     },
     {
         "done":             false,
-        "assignee":         { "github_username": "JenishGnanasicamani" },
-        "distname":         "Devel-TraceUse",
-        "released_by":      { "pause_id": "BOOK" },
-        "repo":             { "url": "https://github.com/book/Devel-TraceUse", "relpath": "book/Devel-TraceUse" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
         "assignee":         { "github_username": "dionys" },
         "distname":         "Class-Virtual",
         "released_by":      { "pause_id": "MSCHWERN" },
@@ -437,16 +402,7 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "tadegenban" },
-        "distname":         "Regexp-Assemble",
-        "released_by":      { "pause_id": "RSAVAGE" },
-        "repo":             { "url": "https://github.com/ronsavage/Regexp-Assemble", "relpath": "ronsavage/Regexp-Assemble" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "kaoru" },
         "distname":         "Bread-Board",
         "released_by":      { "pause_id": "YANICK" },
@@ -489,15 +445,6 @@
         "distname":         "HTTP-Async",
         "released_by":      { "pause_id": "KAORU" },
         "repo":             { "url": "https://github.com/evdb/HTTP-Async", "relpath": "evdb/HTTP-Async" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "jluis" },
-        "distname":         "utf8-all",
-        "released_by":      { "pause_id": "DOHERTY" },
-        "repo":             { "url": "https://github.com/doherty/utf8-all", "relpath": "doherty/utf8-all" },
         "pull_requests":    [
                             ]
     },
