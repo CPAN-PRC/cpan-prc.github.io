@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "March",
- "generated": { "date": "2016-03-31", "time": "22:50:04" },
- "stats": { "done": "22", "total": "47", "percent": "46.8" },
+ "generated": { "date": "2016-04-05", "time": "16:06:24" },
+ "stats": { "done": "26", "total": "43", "percent": "60.5" },
  "assignments": [
 
     {
@@ -21,15 +21,6 @@
         "distname":         "SOAP-Lite",
         "released_by":      { "pause_id": "PHRED" },
         "repo":             { "url": "https://github.com/redhotpenguin/soaplite", "relpath": "redhotpenguin/soaplite" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "SysPete" },
-        "distname":         "Method-Signatures",
-        "released_by":      { "pause_id": "BAREFOOT" },
-        "repo":             { "url": "https://github.com/evalEmpire/method-signatures", "relpath": "evalEmpire/method-signatures" },
         "pull_requests":    [
                             ]
     },
@@ -91,15 +82,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "mvgrimes" },
-        "distname":         "re-engine-PCRE",
-        "released_by":      { "pause_id": "AVAR" },
-        "repo":             { "url": "https://github.com/avar/re-engine-pcre", "relpath": "avar/re-engine-pcre" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "hatorikibble" },
         "distname":         "Promises",
@@ -121,7 +103,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "brummett" },
         "distname":         "Sub-Identify",
         "released_by":      { "pause_id": "RGARCIA" },
@@ -219,7 +201,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "cakirke" },
         "distname":         "POE-Component-Logger",
         "released_by":      { "pause_id": "DOLMEN" },
@@ -278,15 +260,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "SkySymbol" },
-        "distname":         "Search-OpenSearch-Server",
-        "released_by":      { "pause_id": "KARMAN" },
-        "repo":             { "url": "https://github.com/karpet/search-opensearch-server", "relpath": "karpet/search-opensearch-server" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "paultcochrane" },
         "distname":         "MojoX-Transaction-WebSocket76",
@@ -306,7 +279,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "choroba" },
         "distname":         "Plack-Middleware-ReverseProxyPath",
         "released_by":      { "pause_id": "BOWMANBS" },
@@ -356,21 +329,13 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "dionys" },
-        "distname":         "Class-Virtual",
-        "released_by":      { "pause_id": "MSCHWERN" },
-        "repo":             { "url": "https://github.com/schwern/Class-Virtual", "relpath": "schwern/Class-Virtual" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "Viviparous" },
         "distname":         "Git-CPAN-Patch",
         "released_by":      { "pause_id": "YANICK" },
         "repo":             { "url": "https://github.com/yanick/git-cpan-patch", "relpath": "yanick/git-cpan-patch" },
         "pull_requests":    [
+                                { "url": "https://github.com/yanick/git-cpan-patch/pull/32", "state": "open", "relpath": "/pull/32" }
                             ]
     },
     {

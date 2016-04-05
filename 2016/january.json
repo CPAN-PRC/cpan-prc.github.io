@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "January",
- "generated": { "date": "2016-03-31", "time": "22:49:03" },
+ "generated": { "date": "2016-04-05", "time": "16:05:17" },
  "stats": { "done": "52", "total": "73", "percent": "71.2" },
  "assignments": [
 
@@ -332,7 +332,7 @@
         "released_by":      { "pause_id": "LEV" },
         "repo":             { "url": "https://github.com/nupfel/Web-API", "relpath": "nupfel/Web-API" },
         "pull_requests":    [
-                                { "url": "https://github.com/nupfel/Web-API/pull/20", "state": "open", "relpath": "/pull/20" }
+                                { "url": "https://github.com/nupfel/Web-API/pull/20", "state": "merged", "relpath": "/pull/20" }
                             ]
     },
     {
