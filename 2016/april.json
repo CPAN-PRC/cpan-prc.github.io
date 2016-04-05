@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "April",
- "generated": { "date": "2016-04-05", "time": "16:06:51" },
- "stats": { "done": "0", "total": "36", "percent": "0.0" },
+ "generated": { "date": "2016-04-05", "time": "21:27:50" },
+ "stats": { "done": "1", "total": "38", "percent": "2.6" },
  "assignments": [
 
     {
@@ -80,7 +80,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "Varadinsky" },
         "distname":         "Hailo",
         "released_by":      { "pause_id": "AVAR" },
@@ -291,15 +291,6 @@
     },
     {
         "done":             false,
-        "assignee":         { "github_username": "nbezzala" },
-        "distname":         "Net-Amazon-EC2",
-        "released_by":      { "pause_id": "MALLEN" },
-        "repo":             { "url": "https://github.com/mrallen1/net-amazon-ec2", "relpath": "mrallen1/net-amazon-ec2" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
         "assignee":         { "github_username": "JenishGnanasicamani" },
         "distname":         "Archive-Any",
         "released_by":      { "pause_id": "OALDERS" },
@@ -333,6 +324,33 @@
         "distname":         "System-Command",
         "released_by":      { "pause_id": "BOOK" },
         "repo":             { "url": "https://github.com/book/System-Command", "relpath": "book/System-Command" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "dams" },
+        "distname":         "Net-Amazon-EC2",
+        "released_by":      { "pause_id": "MALLEN" },
+        "repo":             { "url": "https://github.com/mrallen1/net-amazon-ec2", "relpath": "mrallen1/net-amazon-ec2" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "mvgrimes" },
+        "distname":         "Parse-BBCode",
+        "released_by":      { "pause_id": "TINITA" },
+        "repo":             { "url": "https://github.com/perlpunk/Parse-BBCode", "relpath": "perlpunk/Parse-BBCode" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "openstrike" },
+        "distname":         "LWP-UserAgent-Paranoid",
+        "released_by":      { "pause_id": "TSIBLEY" },
+        "repo":             { "url": "https://github.com/bestpractical/lwp-useragent-paranoid", "relpath": "bestpractical/lwp-useragent-paranoid" },
         "pull_requests":    [
                             ]
     }

@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "March",
- "generated": { "date": "2016-04-05", "time": "16:06:24" },
- "stats": { "done": "26", "total": "43", "percent": "60.5" },
+ "generated": { "date": "2016-04-05", "time": "21:27:23" },
+ "stats": { "done": "27", "total": "42", "percent": "64.3" },
  "assignments": [
 
     {
@@ -222,16 +222,7 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "dams" },
-        "distname":         "FFI-Raw",
-        "released_by":      { "pause_id": "ALEXBIO" },
-        "repo":             { "url": "https://github.com/ghedo/p5-FFI-Raw", "relpath": "ghedo/p5-FFI-Raw" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "openstrike" },
         "distname":         "XML-SAX-Base",
         "released_by":      { "pause_id": "GRANTM" },
