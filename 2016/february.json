@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "February",
- "generated": { "date": "2016-04-05", "time": "21:26:57" },
+ "generated": { "date": "2016-04-06", "time": "23:44:29" },
  "stats": { "done": "31", "total": "36", "percent": "86.1" },
  "assignments": [
 
@@ -100,7 +100,7 @@
         "released_by":      { "pause_id": "HORNBURG" },
         "repo":             { "url": "https://github.com/interchange/Interchange6", "relpath": "interchange/Interchange6" },
         "pull_requests":    [
-                                { "url": "https://github.com/interchange/Interchange6/pull/34", "state": "open", "relpath": "/pull/34" },
+                                { "url": "https://github.com/interchange/Interchange6/pull/34", "state": "closed", "relpath": "/pull/34" },
                                 { "url": "https://github.com/interchange/Interchange6/pull/33", "state": "merged", "relpath": "/pull/33" },
                                 { "url": "https://github.com/interchange/Interchange6/pull/32", "state": "closed", "relpath": "/pull/32" },
                                 { "url": "https://github.com/interchange/Interchange6/pull/31", "state": "merged", "relpath": "/pull/31" }
