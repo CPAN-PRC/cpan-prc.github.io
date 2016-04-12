@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "March",
- "generated": { "date": "2016-04-06", "time": "23:44:51" },
- "stats": { "done": "27", "total": "42", "percent": "64.3" },
+ "generated": { "date": "2016-04-12", "time": "07:28:44" },
+ "stats": { "done": "27", "total": "41", "percent": "65.9" },
  "assignments": [
 
     {
@@ -13,15 +13,6 @@
         "repo":             { "url": "https://github.com/perl5-dbi/DBD-mysql", "relpath": "perl5-dbi/DBD-mysql" },
         "pull_requests":    [
                                 { "url": "https://github.com/perl5-dbi/DBD-mysql/pull/48", "state": "closed", "relpath": "/pull/48" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "monsieurp" },
-        "distname":         "SOAP-Lite",
-        "released_by":      { "pause_id": "PHRED" },
-        "repo":             { "url": "https://github.com/redhotpenguin/soaplite", "relpath": "redhotpenguin/soaplite" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -188,6 +179,7 @@
         "released_by":      { "pause_id": "RRWO" },
         "repo":             { "url": "https://github.com/robrwo/Const-Exporter", "relpath": "robrwo/Const-Exporter" },
         "pull_requests":    [
+                                { "url": "https://github.com/robrwo/Const-Exporter/pull/12", "state": "open", "relpath": "/pull/12" }
                             ]
     },
     {
@@ -197,7 +189,7 @@
         "released_by":      { "pause_id": "ZMUGHAL" },
         "repo":             { "url": "https://github.com/zmughal/p5-Alien-pdf2json", "relpath": "zmughal/p5-Alien-pdf2json" },
         "pull_requests":    [
-                                { "url": "https://github.com/project-renard/p5-Alien-pdf2json/pull/5", "state": "open", "relpath": "/pull/5" }
+                                { "url": "https://github.com/project-renard/p5-Alien-pdf2json/pull/5", "state": "closed", "relpath": "/pull/5" }
                             ]
     },
     {
@@ -218,7 +210,7 @@
         "released_by":      { "pause_id": "OALDERS" },
         "repo":             { "url": "https://github.com/xaicron/p5-www-youtube-download", "relpath": "xaicron/p5-www-youtube-download" },
         "pull_requests":    [
-                                { "url": "https://github.com/xaicron/p5-www-youtube-download/pull/37", "state": "open", "relpath": "/pull/37" }
+                                { "url": "https://github.com/xaicron/p5-www-youtube-download/pull/37", "state": "merged", "relpath": "/pull/37" }
                             ]
     },
     {

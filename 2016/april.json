@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "April",
- "generated": { "date": "2016-04-06", "time": "23:45:17" },
- "stats": { "done": "1", "total": "38", "percent": "2.6" },
+ "generated": { "date": "2016-04-12", "time": "07:29:08" },
+ "stats": { "done": "2", "total": "39", "percent": "5.1" },
  "assignments": [
 
     {
@@ -32,6 +32,7 @@
         "released_by":      { "pause_id": "PREACTION" },
         "repo":             { "url": "https://github.com/preaction/Statocles", "relpath": "preaction/Statocles" },
         "pull_requests":    [
+                                { "url": "https://github.com/preaction/Statocles/pull/487", "state": "open", "relpath": "/pull/487" }
                             ]
     },
     {
@@ -44,12 +45,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "yanick" },
         "distname":         "Alien-SVN",
         "released_by":      { "pause_id": "MSCHWERN" },
         "repo":             { "url": "https://github.com/evalEmpire/Alien-SVN", "relpath": "evalEmpire/Alien-SVN" },
         "pull_requests":    [
+                                { "url": "https://github.com/evalEmpire/Alien-SVN/pull/18", "state": "open", "relpath": "/pull/18" }
                             ]
     },
     {
@@ -351,6 +353,15 @@
         "distname":         "LWP-UserAgent-Paranoid",
         "released_by":      { "pause_id": "TSIBLEY" },
         "repo":             { "url": "https://github.com/bestpractical/lwp-useragent-paranoid", "relpath": "bestpractical/lwp-useragent-paranoid" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "monsieurp" },
+        "distname":         "Regexp-Assemble",
+        "released_by":      { "pause_id": "RSAVAGE" },
+        "repo":             { "url": "https://github.com/ronsavage/Regexp-Assemble", "relpath": "ronsavage/Regexp-Assemble" },
         "pull_requests":    [
                             ]
     }
