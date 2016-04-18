@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "April",
- "generated": { "date": "2016-04-12", "time": "07:29:08" },
- "stats": { "done": "2", "total": "39", "percent": "5.1" },
+ "generated": { "date": "2016-04-18", "time": "21:18:37" },
+ "stats": { "done": "5", "total": "39", "percent": "12.8" },
  "assignments": [
 
     {
@@ -16,12 +16,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "pauloscustodio" },
         "distname":         "Archive-Zip",
         "released_by":      { "pause_id": "PHRED" },
         "repo":             { "url": "https://github.com/redhotpenguin/perl-Archive-Zip-svn", "relpath": "redhotpenguin/perl-Archive-Zip-svn" },
         "pull_requests":    [
+                                { "url": "https://github.com/redhotpenguin/perl-Archive-Zip/pull/28", "state": "merged", "relpath": "/pull/28" },
                                 { "url": "https://github.com/redhotpenguin/perl-Archive-Zip/pull/19", "state": "merged", "relpath": "/pull/19" }
                             ]
     },
@@ -42,6 +43,7 @@
         "released_by":      { "pause_id": "XSAWYERX" },
         "repo":             { "url": "https://github.com/xsawyerx/module-starter", "relpath": "xsawyerx/module-starter" },
         "pull_requests":    [
+                                { "url": "https://github.com/xsawyerx/module-starter/pull/58", "state": "open", "relpath": "/pull/58" }
                             ]
     },
     {
@@ -98,6 +100,8 @@
         "released_by":      { "pause_id": "GUGOD" },
         "repo":             { "url": "https://github.com/gugod/net-redmine", "relpath": "gugod/net-redmine" },
         "pull_requests":    [
+                                { "url": "https://github.com/gugod/net-redmine/pull/5", "state": "open", "relpath": "/pull/5" },
+                                { "url": "https://github.com/gugod/net-redmine/pull/4", "state": "open", "relpath": "/pull/4" }
                             ]
     },
     {
@@ -253,6 +257,7 @@
         "released_by":      { "pause_id": "SALVA" },
         "repo":             { "url": "https://github.com/rkitover/net-ssh2", "relpath": "rkitover/net-ssh2" },
         "pull_requests":    [
+                                { "url": "https://github.com/rkitover/net-ssh2/pull/31", "state": "merged", "relpath": "/pull/31" }
                             ]
     },
     {
@@ -265,12 +270,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jmaslak" },
         "distname":         "Inline-Lua",
         "released_by":      { "pause_id": "RHOELZ" },
         "repo":             { "url": "https://github.com/hoelzro/inline-lua", "relpath": "hoelzro/inline-lua" },
         "pull_requests":    [
+                                { "url": "https://github.com/hoelzro/inline-lua/pull/21", "state": "open", "relpath": "/pull/21" }
                             ]
     },
     {
@@ -280,6 +286,7 @@
         "released_by":      { "pause_id": "CORION" },
         "repo":             { "url": "https://github.com/Corion/www-mechanize-phantomjs", "relpath": "Corion/www-mechanize-phantomjs" },
         "pull_requests":    [
+                                { "url": "https://github.com/Corion/www-mechanize-phantomjs/pull/14", "state": "merged", "relpath": "/pull/14" }
                             ]
     },
     {
@@ -357,12 +364,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "monsieurp" },
         "distname":         "Regexp-Assemble",
         "released_by":      { "pause_id": "RSAVAGE" },
         "repo":             { "url": "https://github.com/ronsavage/Regexp-Assemble", "relpath": "ronsavage/Regexp-Assemble" },
         "pull_requests":    [
+                                { "url": "https://github.com/ronsavage/Regexp-Assemble/pull/5", "state": "merged", "relpath": "/pull/5" }
                             ]
     }
  ]

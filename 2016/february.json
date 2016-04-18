@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "February",
- "generated": { "date": "2016-04-12", "time": "07:28:23" },
+ "generated": { "date": "2016-04-18", "time": "21:17:48" },
  "stats": { "done": "31", "total": "36", "percent": "86.1" },
  "assignments": [
 
@@ -173,8 +173,8 @@
         "released_by":      { "pause_id": "TODDR" },
         "repo":             { "url": "https://github.com/toddr/Tie-DBI", "relpath": "toddr/Tie-DBI" },
         "pull_requests":    [
-                                { "url": "https://github.com/toddr/Tie-DBI/pull/5", "state": "open", "relpath": "/pull/5" },
-                                { "url": "https://github.com/toddr/Tie-DBI/pull/4", "state": "open", "relpath": "/pull/4" }
+                                { "url": "https://github.com/toddr/Tie-DBI/pull/5", "state": "merged", "relpath": "/pull/5" },
+                                { "url": "https://github.com/toddr/Tie-DBI/pull/4", "state": "merged", "relpath": "/pull/4" }
                             ]
     },
     {
@@ -376,6 +376,7 @@
         "released_by":      { "pause_id": "DOLMEN" },
         "repo":             { "url": "https://github.com/perl-pod/Pod-Spell", "relpath": "perl-pod/Pod-Spell" },
         "pull_requests":    [
+                                { "url": "https://github.com/perl-pod/Pod-Spell/pull/27", "state": "open", "relpath": "/pull/27" },
                                 { "url": "https://github.com/perl-pod/Pod-Spell/pull/24", "state": "open", "relpath": "/pull/24" }
                             ]
     }

@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "March",
- "generated": { "date": "2016-04-12", "time": "07:28:44" },
- "stats": { "done": "27", "total": "41", "percent": "65.9" },
+ "generated": { "date": "2016-04-18", "time": "21:18:11" },
+ "stats": { "done": "28", "total": "41", "percent": "68.3" },
  "assignments": [
 
     {
@@ -187,7 +187,7 @@
         "assignee":         { "github_username": "yanick" },
         "distname":         "Alien-pdf2json",
         "released_by":      { "pause_id": "ZMUGHAL" },
-        "repo":             { "url": "https://github.com/zmughal/p5-Alien-pdf2json", "relpath": "zmughal/p5-Alien-pdf2json" },
+        "repo":             { "url": "https://github.com/project-renard/p5-Alien-pdf2json", "relpath": "project-renard/p5-Alien-pdf2json" },
         "pull_requests":    [
                                 { "url": "https://github.com/project-renard/p5-Alien-pdf2json/pull/5", "state": "closed", "relpath": "/pull/5" }
                             ]
@@ -249,13 +249,13 @@
         "released_by":      { "pause_id": "DIONYS" },
         "repo":             { "url": "https://github.com/dionys/mojox-transaction-websocket76", "relpath": "dionys/mojox-transaction-websocket76" },
         "pull_requests":    [
-                                { "url": "https://github.com/dionys/mojox-transaction-websocket76/pull/13", "state": "open", "relpath": "/pull/13" },
+                                { "url": "https://github.com/dionys/mojox-transaction-websocket76/pull/13", "state": "merged", "relpath": "/pull/13" },
                                 { "url": "https://github.com/dionys/mojox-transaction-websocket76/pull/12", "state": "open", "relpath": "/pull/12" },
                                 { "url": "https://github.com/dionys/mojox-transaction-websocket76/pull/11", "state": "merged", "relpath": "/pull/11" },
-                                { "url": "https://github.com/dionys/mojox-transaction-websocket76/pull/10", "state": "open", "relpath": "/pull/10" },
+                                { "url": "https://github.com/dionys/mojox-transaction-websocket76/pull/10", "state": "closed", "relpath": "/pull/10" },
                                 { "url": "https://github.com/dionys/mojox-transaction-websocket76/pull/9", "state": "merged", "relpath": "/pull/9" },
                                 { "url": "https://github.com/dionys/mojox-transaction-websocket76/pull/8", "state": "merged", "relpath": "/pull/8" },
-                                { "url": "https://github.com/dionys/mojox-transaction-websocket76/pull/7", "state": "open", "relpath": "/pull/7" },
+                                { "url": "https://github.com/dionys/mojox-transaction-websocket76/pull/7", "state": "merged", "relpath": "/pull/7" },
                                 { "url": "https://github.com/dionys/mojox-transaction-websocket76/pull/6", "state": "merged", "relpath": "/pull/6" },
                                 { "url": "https://github.com/dionys/mojox-transaction-websocket76/pull/5", "state": "merged", "relpath": "/pull/5" },
                                 { "url": "https://github.com/dionys/mojox-transaction-websocket76/pull/4", "state": "merged", "relpath": "/pull/4" }
@@ -318,7 +318,7 @@
         "released_by":      { "pause_id": "YANICK" },
         "repo":             { "url": "https://github.com/yanick/git-cpan-patch", "relpath": "yanick/git-cpan-patch" },
         "pull_requests":    [
-                                { "url": "https://github.com/yanick/git-cpan-patch/pull/32", "state": "open", "relpath": "/pull/32" }
+                                { "url": "https://github.com/yanick/git-cpan-patch/pull/32", "state": "closed", "relpath": "/pull/32" }
                             ]
     },
     {
@@ -406,12 +406,16 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "genehack" },
         "distname":         "Text-Markup",
         "released_by":      { "pause_id": "DWHEELER" },
         "repo":             { "url": "https://github.com/theory/text-markup", "relpath": "theory/text-markup" },
         "pull_requests":    [
+                                { "url": "https://github.com/theory/text-markup/pull/25", "state": "open", "relpath": "/pull/25" },
+                                { "url": "https://github.com/theory/text-markup/pull/24", "state": "open", "relpath": "/pull/24" },
+                                { "url": "https://github.com/theory/text-markup/pull/23", "state": "open", "relpath": "/pull/23" },
+                                { "url": "https://github.com/theory/text-markup/pull/22", "state": "open", "relpath": "/pull/22" }
                             ]
     },
     {
