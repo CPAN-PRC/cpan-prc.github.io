@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "April",
- "generated": { "date": "2016-04-18", "time": "21:18:37" },
+ "generated": { "date": "2016-04-25", "time": "22:26:07" },
  "stats": { "done": "5", "total": "39", "percent": "12.8" },
  "assignments": [
 
@@ -221,6 +221,7 @@
         "released_by":      { "pause_id": "RKINYON" },
         "repo":             { "url": "https://github.com/robkinyon/dbix-class-sims", "relpath": "robkinyon/dbix-class-sims" },
         "pull_requests":    [
+                                { "url": "https://github.com/robkinyon/dbix-class-sims/pull/21", "state": "open", "relpath": "/pull/21" }
                             ]
     },
     {
@@ -276,7 +277,7 @@
         "released_by":      { "pause_id": "RHOELZ" },
         "repo":             { "url": "https://github.com/hoelzro/inline-lua", "relpath": "hoelzro/inline-lua" },
         "pull_requests":    [
-                                { "url": "https://github.com/hoelzro/inline-lua/pull/21", "state": "open", "relpath": "/pull/21" }
+                                { "url": "https://github.com/hoelzro/inline-lua/pull/21", "state": "merged", "relpath": "/pull/21" }
                             ]
     },
     {
@@ -334,6 +335,7 @@
         "released_by":      { "pause_id": "BOOK" },
         "repo":             { "url": "https://github.com/book/System-Command", "relpath": "book/System-Command" },
         "pull_requests":    [
+                                { "url": "https://github.com/book/System-Command/pull/22", "state": "closed", "relpath": "/pull/22" }
                             ]
     },
     {

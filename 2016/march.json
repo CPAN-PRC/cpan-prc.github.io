@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "March",
- "generated": { "date": "2016-04-18", "time": "21:18:11" },
+ "generated": { "date": "2016-04-25", "time": "22:25:42" },
  "stats": { "done": "28", "total": "41", "percent": "68.3" },
  "assignments": [
 
@@ -414,7 +414,7 @@
         "pull_requests":    [
                                 { "url": "https://github.com/theory/text-markup/pull/25", "state": "open", "relpath": "/pull/25" },
                                 { "url": "https://github.com/theory/text-markup/pull/24", "state": "open", "relpath": "/pull/24" },
-                                { "url": "https://github.com/theory/text-markup/pull/23", "state": "open", "relpath": "/pull/23" },
+                                { "url": "https://github.com/theory/text-markup/pull/23", "state": "closed", "relpath": "/pull/23" },
                                 { "url": "https://github.com/theory/text-markup/pull/22", "state": "open", "relpath": "/pull/22" }
                             ]
     },
