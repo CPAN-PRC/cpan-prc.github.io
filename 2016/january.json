@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "January",
- "generated": { "date": "2016-04-25", "time": "22:24:50" },
- "stats": { "done": "52", "total": "73", "percent": "71.2" },
+ "generated": { "date": "2016-05-03", "time": "20:15:19" },
+ "stats": { "done": "51", "total": "72", "percent": "70.8" },
  "assignments": [
 
     {
@@ -134,16 +134,6 @@
         "released_by":      { "pause_id": "COSIMO" },
         "repo":             { "url": "https://github.com/cosimo/perl5-net-statsd", "relpath": "cosimo/perl5-net-statsd" },
         "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             true,
-        "assignee":         { "github_username": "SkySymbol" },
-        "distname":         "Net-GitHub",
-        "released_by":      { "pause_id": "FAYLAND" },
-        "repo":             { "url": "https://github.com/fayland/perl-net-github", "relpath": "fayland/perl-net-github" },
-        "pull_requests":    [
-                                { "url": "https://github.com/fayland/perl-net-github/pull/72", "state": "merged", "relpath": "/pull/72" }
                             ]
     },
     {

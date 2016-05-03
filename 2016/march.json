@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "March",
- "generated": { "date": "2016-04-25", "time": "22:25:42" },
- "stats": { "done": "28", "total": "41", "percent": "68.3" },
+ "generated": { "date": "2016-05-03", "time": "20:16:19" },
+ "stats": { "done": "28", "total": "40", "percent": "70.0" },
  "assignments": [
 
     {
@@ -124,15 +124,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "adamherzog" },
-        "distname":         "Mozilla-CA",
-        "released_by":      { "pause_id": "ABH" },
-        "repo":             { "url": "https://github.com/gisle/mozilla-ca", "relpath": "gisle/mozilla-ca" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "lharey" },
         "distname":         "XML-SAX-Writer",
@@ -161,15 +152,6 @@
         "repo":             { "url": "https://github.com/drzowie/PDL-Graphics-Gnuplot", "relpath": "drzowie/PDL-Graphics-Gnuplot" },
         "pull_requests":    [
                                 { "url": "https://github.com/drzowie/PDL-Graphics-Gnuplot/pull/47", "state": "merged", "relpath": "/pull/47" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "itcharlie" },
-        "distname":         "Makefile-DOM",
-        "released_by":      { "pause_id": "AGENT" },
-        "repo":             { "url": "https://github.com/agentzh/makefile-dom-pm", "relpath": "agentzh/makefile-dom-pm" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -426,6 +408,15 @@
         "repo":             { "url": "https://github.com/p5-shorten/www-shorten", "relpath": "p5-shorten/www-shorten" },
         "pull_requests":    [
                                 { "url": "https://github.com/p5-shorten/www-shorten/pull/10", "state": "merged", "relpath": "/pull/10" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "monsieurp" },
+        "distname":         "URI-Find",
+        "released_by":      { "pause_id": "MSCHWERN" },
+        "repo":             { "url": "https://github.com/schwern/URI-Find", "relpath": "schwern/URI-Find" },
+        "pull_requests":    [
                             ]
     }
  ]
