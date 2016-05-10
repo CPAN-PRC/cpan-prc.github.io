@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "April",
- "generated": { "date": "2016-05-03", "time": "20:16:43" },
+ "generated": { "date": "2016-05-10", "time": "09:02:57" },
  "stats": { "done": "19", "total": "36", "percent": "52.8" },
  "assignments": [
 
@@ -205,7 +205,7 @@
         "released_by":      { "pause_id": "RKINYON" },
         "repo":             { "url": "https://github.com/robkinyon/dbix-class-sims", "relpath": "robkinyon/dbix-class-sims" },
         "pull_requests":    [
-                                { "url": "https://github.com/robkinyon/dbix-class-sims/pull/21", "state": "open", "relpath": "/pull/21" }
+                                { "url": "https://github.com/robkinyon/dbix-class-sims/pull/21", "state": "merged", "relpath": "/pull/21" }
                             ]
     },
     {
