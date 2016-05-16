@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "March",
- "generated": { "date": "2016-05-10", "time": "09:02:36" },
+ "generated": { "date": "2016-05-16", "time": "20:03:11" },
  "stats": { "done": "28", "total": "40", "percent": "70.0" },
  "assignments": [
 
@@ -250,8 +250,8 @@
         "released_by":      { "pause_id": "BOWMANBS" },
         "repo":             { "url": "https://github.com/bowman/Plack-Middleware-ReverseProxyPath", "relpath": "bowman/Plack-Middleware-ReverseProxyPath" },
         "pull_requests":    [
-                                { "url": "https://github.com/bowman/Plack-Middleware-ReverseProxyPath/pull/3", "state": "open", "relpath": "/pull/3" },
-                                { "url": "https://github.com/bowman/Plack-Middleware-ReverseProxyPath/pull/2", "state": "open", "relpath": "/pull/2" }
+                                { "url": "https://github.com/bowman/Plack-Middleware-ReverseProxyPath/pull/3", "state": "merged", "relpath": "/pull/3" },
+                                { "url": "https://github.com/bowman/Plack-Middleware-ReverseProxyPath/pull/2", "state": "merged", "relpath": "/pull/2" }
                             ]
     },
     {
@@ -394,10 +394,10 @@
         "released_by":      { "pause_id": "DWHEELER" },
         "repo":             { "url": "https://github.com/theory/text-markup", "relpath": "theory/text-markup" },
         "pull_requests":    [
-                                { "url": "https://github.com/theory/text-markup/pull/25", "state": "open", "relpath": "/pull/25" },
-                                { "url": "https://github.com/theory/text-markup/pull/24", "state": "open", "relpath": "/pull/24" },
+                                { "url": "https://github.com/theory/text-markup/pull/25", "state": "closed", "relpath": "/pull/25" },
+                                { "url": "https://github.com/theory/text-markup/pull/24", "state": "closed", "relpath": "/pull/24" },
                                 { "url": "https://github.com/theory/text-markup/pull/23", "state": "closed", "relpath": "/pull/23" },
-                                { "url": "https://github.com/theory/text-markup/pull/22", "state": "open", "relpath": "/pull/22" }
+                                { "url": "https://github.com/theory/text-markup/pull/22", "state": "merged", "relpath": "/pull/22" }
                             ]
     },
     {

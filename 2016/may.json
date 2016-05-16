@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "May",
- "generated": { "date": "2016-05-10", "time": "09:03:17" },
- "stats": { "done": "0", "total": "23", "percent": "0.0" },
+ "generated": { "date": "2016-05-16", "time": "20:03:53" },
+ "stats": { "done": "2", "total": "29", "percent": "6.9" },
  "assignments": [
 
     {
@@ -61,31 +61,23 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "Varadinsky" },
         "distname":         "Test-Continuous",
         "released_by":      { "pause_id": "GUGOD" },
         "repo":             { "url": "https://github.com/gugod/Test-Continuous", "relpath": "gugod/Test-Continuous" },
         "pull_requests":    [
+                                { "url": "https://github.com/gugod/Test-Continuous/pull/18", "state": "open", "relpath": "/pull/18" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "zhouzhen1" },
         "distname":         "POE-Component-Bundle-WebDevelopment",
         "released_by":      { "pause_id": "ZOFFIX" },
         "repo":             { "url": "https://github.com/zoffixznet/poe-component-bundle-webdevelopment", "relpath": "zoffixznet/poe-component-bundle-webdevelopment" },
         "pull_requests":    [
                                 { "url": "https://github.com/zoffixznet/POE-Component-Bundle-WebDevelopment/pull/4", "state": "merged", "relpath": "/pull/4" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "shlomif" },
-        "distname":         "Test-WWW-Mechanize",
-        "released_by":      { "pause_id": "PETDANCE" },
-        "repo":             { "url": "https://github.com/petdance/test-www-mechanize", "relpath": "petdance/test-www-mechanize" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -173,15 +165,6 @@
     },
     {
         "done":             false,
-        "assignee":         { "github_username": "mcmillhj" },
-        "distname":         "Test-Portability-Files",
-        "released_by":      { "pause_id": "ABRAXXA" },
-        "repo":             { "url": "https://github.com/abraxxa/Test-Portability-Files", "relpath": "abraxxa/Test-Portability-Files" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
         "assignee":         { "github_username": "jluis" },
         "distname":         "POE",
         "released_by":      { "pause_id": "RCAPUTO" },
@@ -200,19 +183,91 @@
     },
     {
         "done":             false,
-        "assignee":         { "github_username": "Viviparous" },
-        "distname":         "Test-DBIx-Class-Schema",
-        "released_by":      { "pause_id": "CHISEL" },
-        "repo":             { "url": "https://github.com/chiselwright/test-dbix-class-schema", "relpath": "chiselwright/test-dbix-class-schema" },
+        "assignee":         { "github_username": "stevieb9" },
+        "distname":         "RDF-LinkedData",
+        "released_by":      { "pause_id": "KJETILK" },
+        "repo":             { "url": "https://github.com/kjetilk/RDF-LinkedData", "relpath": "kjetilk/RDF-LinkedData" },
         "pull_requests":    [
                             ]
     },
     {
         "done":             false,
-        "assignee":         { "github_username": "stevieb9" },
-        "distname":         "RDF-LinkedData",
-        "released_by":      { "pause_id": "KJETILK" },
-        "repo":             { "url": "https://github.com/kjetilk/RDF-LinkedData", "relpath": "kjetilk/RDF-LinkedData" },
+        "assignee":         { "github_username": "Viviparous" },
+        "distname":         "DateTime",
+        "released_by":      { "pause_id": "DROLSKY" },
+        "repo":             { "url": "https://github.com/autarch/DateTime.pm", "relpath": "autarch/DateTime.pm" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "mcmillhj" },
+        "distname":         "HTML-Tidy",
+        "released_by":      { "pause_id": "PETDANCE" },
+        "repo":             { "url": "https://github.com/petdance/html-tidy", "relpath": "petdance/html-tidy" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "mvgrimes" },
+        "distname":         "App-githook-perltidy",
+        "released_by":      { "pause_id": "MLAWREN" },
+        "repo":             { "url": "https://github.com/mlawren/githook-perltidy", "relpath": "mlawren/githook-perltidy" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "turnstep" },
+        "distname":         "Config-Find",
+        "released_by":      { "pause_id": "SALVA" },
+        "repo":             { "url": "https://github.com/salva/p5-Config-Find", "relpath": "salva/p5-Config-Find" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "shlomif" },
+        "distname":         "JSON-Parse",
+        "released_by":      { "pause_id": "BKB" },
+        "repo":             { "url": "https://github.com/benkasminbullock/JSON-Parse", "relpath": "benkasminbullock/JSON-Parse" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "dionys" },
+        "distname":         "Algorithm-TokenBucket",
+        "released_by":      { "pause_id": "KAPPA" },
+        "repo":             { "url": "https://github.com/kappa/Algorithm-TokenBucket", "relpath": "kappa/Algorithm-TokenBucket" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "Jayceh" },
+        "distname":         "File-Serialize",
+        "released_by":      { "pause_id": "YANICK" },
+        "repo":             { "url": "https://github.com/yanick/File-Serialize", "relpath": "yanick/File-Serialize" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "choroba" },
+        "distname":         "Image-Info",
+        "released_by":      { "pause_id": "SREZIC" },
+        "repo":             { "url": "https://github.com/eserte/image-info", "relpath": "eserte/image-info" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "genio" },
+        "distname":         "Test-Differences",
+        "released_by":      { "pause_id": "DCANTRELL" },
+        "repo":             { "url": "https://github.com/Ovid/Test-Differences", "relpath": "Ovid/Test-Differences" },
         "pull_requests":    [
                             ]
     }
