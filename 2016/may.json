@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "May",
- "generated": { "date": "2016-05-16", "time": "20:03:53" },
- "stats": { "done": "2", "total": "29", "percent": "6.9" },
+ "generated": { "date": "2016-05-24", "time": "08:27:46" },
+ "stats": { "done": "4", "total": "31", "percent": "12.9" },
  "assignments": [
 
     {
@@ -117,7 +117,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "openstrike" },
         "distname":         "Mozilla-CA",
         "released_by":      { "pause_id": "ABH" },
@@ -152,6 +152,7 @@
         "released_by":      { "pause_id": "PERIGRIN" },
         "repo":             { "url": "https://github.com/perigrin/xml-namespacesupport", "relpath": "perigrin/xml-namespacesupport" },
         "pull_requests":    [
+                                { "url": "https://github.com/perigrin/xml-namespacesupport/pull/13", "state": "open", "relpath": "/pull/13" }
                             ]
     },
     {
@@ -170,6 +171,7 @@
         "released_by":      { "pause_id": "RCAPUTO" },
         "repo":             { "url": "https://github.com/rcaputo/poe", "relpath": "rcaputo/poe" },
         "pull_requests":    [
+                                { "url": "https://github.com/rcaputo/poe/pull/23", "state": "open", "relpath": "/pull/23" }
                             ]
     },
     {
@@ -206,6 +208,7 @@
         "released_by":      { "pause_id": "PETDANCE" },
         "repo":             { "url": "https://github.com/petdance/html-tidy", "relpath": "petdance/html-tidy" },
         "pull_requests":    [
+                                { "url": "https://github.com/petdance/html-tidy/pull/21", "state": "open", "relpath": "/pull/21" }
                             ]
     },
     {
@@ -227,12 +230,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "shlomif" },
         "distname":         "JSON-Parse",
         "released_by":      { "pause_id": "BKB" },
         "repo":             { "url": "https://github.com/benkasminbullock/JSON-Parse", "relpath": "benkasminbullock/JSON-Parse" },
         "pull_requests":    [
+                                { "url": "https://github.com/benkasminbullock/JSON-Parse/pull/33", "state": "merged", "relpath": "/pull/33" }
                             ]
     },
     {
@@ -268,6 +272,25 @@
         "distname":         "Test-Differences",
         "released_by":      { "pause_id": "DCANTRELL" },
         "repo":             { "url": "https://github.com/Ovid/Test-Differences", "relpath": "Ovid/Test-Differences" },
+        "pull_requests":    [
+                                { "url": "https://github.com/Ovid/Test-Differences/pull/11", "state": "open", "relpath": "/pull/11" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "JenishGnanasicamani" },
+        "distname":         "Net-IMP",
+        "released_by":      { "pause_id": "SULLR" },
+        "repo":             { "url": "https://github.com/noxxi/p5-net-imp", "relpath": "noxxi/p5-net-imp" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "xsawyerx" },
+        "distname":         "Plack-Test-AnyEvent",
+        "released_by":      { "pause_id": "RHOELZ" },
+        "repo":             { "url": "https://github.com/hoelzro/plack-test-anyevent", "relpath": "hoelzro/plack-test-anyevent" },
         "pull_requests":    [
                             ]
     }

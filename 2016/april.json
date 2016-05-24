@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "April",
- "generated": { "date": "2016-05-16", "time": "20:03:32" },
- "stats": { "done": "22", "total": "31", "percent": "71.0" },
+ "generated": { "date": "2016-05-24", "time": "08:27:28" },
+ "stats": { "done": "22", "total": "30", "percent": "73.3" },
  "assignments": [
 
     {
@@ -225,22 +225,13 @@
     },
     {
         "done":             false,
-        "assignee":         { "github_username": "xsawyerx" },
-        "distname":         "IO-Socket-SSL",
-        "released_by":      { "pause_id": "SULLR" },
-        "repo":             { "url": "https://github.com/noxxi/p5-io-socket-ssl", "relpath": "noxxi/p5-io-socket-ssl" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
         "assignee":         { "github_username": "brummett" },
         "distname":         "Method-Signatures",
         "released_by":      { "pause_id": "BAREFOOT" },
         "repo":             { "url": "https://github.com/evalEmpire/method-signatures", "relpath": "evalEmpire/method-signatures" },
         "pull_requests":    [
                                 { "url": "https://github.com/evalEmpire/method-signatures/pull/127", "state": "open", "relpath": "/pull/127" },
-                                { "url": "https://github.com/evalEmpire/method-signatures/pull/126", "state": "open", "relpath": "/pull/126" }
+                                { "url": "https://github.com/evalEmpire/method-signatures/pull/126", "state": "merged", "relpath": "/pull/126" }
                             ]
     },
     {

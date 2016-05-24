@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "January",
- "generated": { "date": "2016-05-16", "time": "20:02:09" },
- "stats": { "done": "51", "total": "72", "percent": "70.8" },
+ "generated": { "date": "2016-05-24", "time": "08:26:11" },
+ "stats": { "done": "51", "total": "71", "percent": "71.8" },
  "assignments": [
 
     {
@@ -727,17 +727,6 @@
         "repo":             { "url": "https://github.com/doherty/Dist-Zilla-Plugin-Test-CPAN-Changes", "relpath": "doherty/Dist-Zilla-Plugin-Test-CPAN-Changes" },
         "pull_requests":    [
                                 { "url": "https://github.com/doherty/Dist-Zilla-Plugin-Test-CPAN-Changes/pull/9", "state": "open", "relpath": "/pull/9" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "joenio" },
-        "distname":         "JSON-Create",
-        "released_by":      { "pause_id": "BKB" },
-        "repo":             { "url": "https://github.com/benkasminbullock/json-create", "relpath": "benkasminbullock/json-create" },
-        "pull_requests":    [
-                                { "url": "https://github.com/benkasminbullock/json-create/pull/40", "state": "closed", "relpath": "/pull/40" },
-                                { "url": "https://github.com/benkasminbullock/json-create/pull/39", "state": "merged", "relpath": "/pull/39" }
                             ]
     }
  ]
