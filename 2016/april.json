@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "April",
- "generated": { "date": "2016-05-24", "time": "08:27:28" },
- "stats": { "done": "22", "total": "30", "percent": "73.3" },
+ "generated": { "date": "2016-06-07", "time": "09:30:31" },
+ "stats": { "done": "23", "total": "29", "percent": "79.3" },
  "assignments": [
 
     {
@@ -102,15 +102,6 @@
         "distname":         "Git-CPAN-Hook",
         "released_by":      { "pause_id": "BOOK" },
         "repo":             { "url": "https://github.com/book/Git-CPAN-Hook", "relpath": "book/Git-CPAN-Hook" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "m0veax" },
-        "distname":         "Device-Modem",
-        "released_by":      { "pause_id": "COSIMO" },
-        "repo":             { "url": "https://github.com/cosimo/perl5-device-modem", "relpath": "cosimo/perl5-device-modem" },
         "pull_requests":    [
                             ]
     },
@@ -224,13 +215,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "brummett" },
         "distname":         "Method-Signatures",
         "released_by":      { "pause_id": "BAREFOOT" },
         "repo":             { "url": "https://github.com/evalEmpire/method-signatures", "relpath": "evalEmpire/method-signatures" },
         "pull_requests":    [
-                                { "url": "https://github.com/evalEmpire/method-signatures/pull/127", "state": "open", "relpath": "/pull/127" },
+                                { "url": "https://github.com/evalEmpire/method-signatures/pull/127", "state": "merged", "relpath": "/pull/127" },
                                 { "url": "https://github.com/evalEmpire/method-signatures/pull/126", "state": "merged", "relpath": "/pull/126" }
                             ]
     },
