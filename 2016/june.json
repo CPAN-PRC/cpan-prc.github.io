@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "June",
- "generated": { "date": "2016-06-07", "time": "09:31:06" },
- "stats": { "done": "2", "total": "24", "percent": "8.3" },
+ "generated": { "date": "2016-06-13", "time": "21:41:41" },
+ "stats": { "done": "2", "total": "26", "percent": "7.7" },
  "assignments": [
 
     {
@@ -12,6 +12,7 @@
         "released_by":      { "pause_id": "PHRED" },
         "repo":             { "url": "https://github.com/redhotpenguin/soaplite", "relpath": "redhotpenguin/soaplite" },
         "pull_requests":    [
+                                { "url": "https://github.com/redhotpenguin/soaplite/pull/26", "state": "merged", "relpath": "/pull/26" }
                             ]
     },
     {
@@ -40,7 +41,7 @@
         "released_by":      { "pause_id": "MANWAR" },
         "repo":             { "url": "https://github.com/manwar/Test-Strict", "relpath": "manwar/Test-Strict" },
         "pull_requests":    [
-                                { "url": "https://github.com/Manwar/Test-Strict/pull/19", "state": "open", "relpath": "/pull/19" }
+                                { "url": "https://github.com/Manwar/Test-Strict/pull/19", "state": "merged", "relpath": "/pull/19" }
                             ]
     },
     {
@@ -87,6 +88,7 @@
         "released_by":      { "pause_id": "GUGOD" },
         "repo":             { "url": "https://github.com/gugod/rubyish-perl", "relpath": "gugod/rubyish-perl" },
         "pull_requests":    [
+                                { "url": "https://github.com/gugod/rubyish-perl/pull/2", "state": "open", "relpath": "/pull/2" }
                             ]
     },
     {
@@ -141,6 +143,7 @@
         "released_by":      { "pause_id": "MSCHWERN" },
         "repo":             { "url": "https://github.com/schwern/Class-Virtual", "relpath": "schwern/Class-Virtual" },
         "pull_requests":    [
+                                { "url": "https://github.com/schwern/Class-Virtual/pull/3", "state": "open", "relpath": "/pull/3" }
                             ]
     },
     {
@@ -168,6 +171,7 @@
         "released_by":      { "pause_id": "RCAPUTO" },
         "repo":             { "url": "https://github.com/rcaputo/poe-loop-tk", "relpath": "rcaputo/poe-loop-tk" },
         "pull_requests":    [
+                                { "url": "https://github.com/rcaputo/poe-loop-tk/pull/1", "state": "open", "relpath": "/pull/1" }
                             ]
     },
     {
@@ -186,7 +190,8 @@
         "released_by":      { "pause_id": "SREZIC" },
         "repo":             { "url": "https://github.com/eserte/p5-Kwalify", "relpath": "eserte/p5-Kwalify" },
         "pull_requests":    [
-                                { "url": "https://github.com/eserte/p5-Kwalify/pull/4", "state": "open", "relpath": "/pull/4" }
+                                { "url": "https://github.com/eserte/p5-Kwalify/pull/5", "state": "open", "relpath": "/pull/5" },
+                                { "url": "https://github.com/eserte/p5-Kwalify/pull/4", "state": "merged", "relpath": "/pull/4" }
                             ]
     },
     {
@@ -222,6 +227,24 @@
         "distname":         "Git-Repository",
         "released_by":      { "pause_id": "BOOK" },
         "repo":             { "url": "https://github.com/book/Git-Repository", "relpath": "book/Git-Repository" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "athos-ribeiro" },
+        "distname":         "Text-Aligner",
+        "released_by":      { "pause_id": "SHLOMIF" },
+        "repo":             { "url": "https://github.com/shlomif/Text-Aligner", "relpath": "shlomif/Text-Aligner" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "StarLightPL" },
+        "distname":         "App-Genpass",
+        "released_by":      { "pause_id": "XSAWYERX" },
+        "repo":             { "url": "https://github.com/xsawyerx/app-genpass", "relpath": "xsawyerx/app-genpass" },
         "pull_requests":    [
                             ]
     }

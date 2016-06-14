@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "May",
- "generated": { "date": "2016-06-07", "time": "09:30:49" },
+ "generated": { "date": "2016-06-13", "time": "21:41:20" },
  "stats": { "done": "19", "total": "27", "percent": "70.4" },
  "assignments": [
 
@@ -239,7 +239,7 @@
         "released_by":      { "pause_id": "SREZIC" },
         "repo":             { "url": "https://github.com/eserte/image-info", "relpath": "eserte/image-info" },
         "pull_requests":    [
-                                { "url": "https://github.com/eserte/image-info/pull/8", "state": "open", "relpath": "/pull/8" }
+                                { "url": "https://github.com/eserte/image-info/pull/8", "state": "merged", "relpath": "/pull/8" }
                             ]
     },
     {

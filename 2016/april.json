@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "April",
- "generated": { "date": "2016-06-07", "time": "09:30:31" },
+ "generated": { "date": "2016-06-13", "time": "21:40:45" },
  "stats": { "done": "23", "total": "29", "percent": "79.3" },
  "assignments": [
 
@@ -122,7 +122,7 @@
         "released_by":      { "pause_id": "PETDANCE" },
         "repo":             { "url": "https://github.com/petdance/ack2", "relpath": "petdance/ack2" },
         "pull_requests":    [
-                                { "url": "https://github.com/petdance/ack2/pull/592", "state": "open", "relpath": "/pull/592" }
+                                { "url": "https://github.com/petdance/ack2/pull/592", "state": "merged", "relpath": "/pull/592" }
                             ]
     },
     {

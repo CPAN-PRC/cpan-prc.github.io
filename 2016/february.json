@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "February",
- "generated": { "date": "2016-06-07", "time": "09:29:37" },
- "stats": { "done": "31", "total": "36", "percent": "86.1" },
+ "generated": { "date": "2016-06-13", "time": "21:39:53" },
+ "stats": { "done": "31", "total": "35", "percent": "88.6" },
  "assignments": [
 
     {
@@ -12,7 +12,6 @@
         "released_by":      { "pause_id": "XSAWYERX" },
         "repo":             { "url": "https://github.com/PerlDancer/Dancer2", "relpath": "PerlDancer/Dancer2" },
         "pull_requests":    [
-                                { "url": "https://github.com/PerlDancer/Dancer2/pull/1134", "state": "merged", "relpath": "/pull/1134" }
                             ]
     },
     {
@@ -52,15 +51,6 @@
         "repo":             { "url": "https://github.com/book/HTTP-Proxy", "relpath": "book/HTTP-Proxy" },
         "pull_requests":    [
                                 { "url": "https://github.com/book/HTTP-Proxy/pull/8", "state": "open", "relpath": "/pull/8" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "Sweet-kid" },
-        "distname":         "HTML-Mason",
-        "released_by":      { "pause_id": "DROLSKY" },
-        "repo":             { "url": "https://github.com/autarch/HTML-Mason", "relpath": "autarch/HTML-Mason" },
-        "pull_requests":    [
                             ]
     },
     {

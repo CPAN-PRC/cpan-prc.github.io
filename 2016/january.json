@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "January",
- "generated": { "date": "2016-06-07", "time": "09:29:00" },
- "stats": { "done": "51", "total": "71", "percent": "71.8" },
+ "generated": { "date": "2016-06-13", "time": "21:39:24" },
+ "stats": { "done": "51", "total": "70", "percent": "72.9" },
  "assignments": [
 
     {
@@ -394,16 +394,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "athos-ribeiro" },
-        "distname":         "Bot-Cobalt",
-        "released_by":      { "pause_id": "AVENJ" },
-        "repo":             { "url": "https://github.com/avenj/bot-cobalt", "relpath": "avenj/bot-cobalt" },
-        "pull_requests":    [
-                                { "url": "https://github.com/avenj/bot-cobalt/pull/6", "state": "open", "relpath": "/pull/6" }
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "manwar" },
         "distname":         "Catalyst-Plugin-ErrorCatcher",
@@ -617,8 +607,8 @@
         "released_by":      { "pause_id": "JACOBY" },
         "repo":             { "url": "https://github.com/szabgab/expect.pm", "relpath": "szabgab/expect.pm" },
         "pull_requests":    [
-                                { "url": "https://github.com/jacoby/expect.pm/pull/2", "state": "open", "relpath": "/pull/2" },
-                                { "url": "https://github.com/jacoby/expect.pm/pull/1", "state": "open", "relpath": "/pull/1" }
+                                { "url": "https://github.com/jacoby/expect.pm/pull/2", "state": "merged", "relpath": "/pull/2" },
+                                { "url": "https://github.com/jacoby/expect.pm/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]
     },
     {
@@ -726,7 +716,7 @@
         "released_by":      { "pause_id": "DOHERTY" },
         "repo":             { "url": "https://github.com/doherty/Dist-Zilla-Plugin-Test-CPAN-Changes", "relpath": "doherty/Dist-Zilla-Plugin-Test-CPAN-Changes" },
         "pull_requests":    [
-                                { "url": "https://github.com/doherty/Dist-Zilla-Plugin-Test-CPAN-Changes/pull/9", "state": "open", "relpath": "/pull/9" }
+                                { "url": "https://github.com/doherty/Dist-Zilla-Plugin-Test-CPAN-Changes/pull/9", "state": "merged", "relpath": "/pull/9" }
                             ]
     }
  ]

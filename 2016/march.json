@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "March",
- "generated": { "date": "2016-06-07", "time": "09:30:04" },
- "stats": { "done": "28", "total": "40", "percent": "70.0" },
+ "generated": { "date": "2016-06-13", "time": "21:40:22" },
+ "stats": { "done": "28", "total": "38", "percent": "73.7" },
  "assignments": [
 
     {
@@ -323,15 +323,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "StarLightPL" },
-        "distname":         "POE-Component-Client-Ping",
-        "released_by":      { "pause_id": "RCAPUTO" },
-        "repo":             { "url": "https://github.com/rcaputo/poe-component-client-ping", "relpath": "rcaputo/poe-component-client-ping" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "kaoru" },
         "distname":         "Bread-Board",
@@ -357,15 +348,6 @@
         "distname":         "HiD",
         "released_by":      { "pause_id": "GENEHACK" },
         "repo":             { "url": "https://github.com/genehack/HiD", "relpath": "genehack/HiD" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "j1n3l0" },
-        "distname":         "WWW-Mechanize-Shell",
-        "released_by":      { "pause_id": "CORION" },
-        "repo":             { "url": "https://github.com/Corion/WWW-Mechanize-Shell", "relpath": "Corion/WWW-Mechanize-Shell" },
         "pull_requests":    [
                             ]
     },
@@ -417,6 +399,7 @@
         "released_by":      { "pause_id": "MSCHWERN" },
         "repo":             { "url": "https://github.com/schwern/URI-Find", "relpath": "schwern/URI-Find" },
         "pull_requests":    [
+                                { "url": "https://github.com/schwern/URI-Find/pull/14", "state": "open", "relpath": "/pull/14" }
                             ]
     }
  ]
