@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "June",
- "generated": { "date": "2016-06-13", "time": "21:41:41" },
- "stats": { "done": "2", "total": "26", "percent": "7.7" },
+ "generated": { "date": "2016-06-15", "time": "07:27:25" },
+ "stats": { "done": "2", "total": "34", "percent": "5.9" },
  "assignments": [
 
     {
@@ -157,15 +157,6 @@
     },
     {
         "done":             false,
-        "assignee":         { "github_username": "mcmillhj" },
-        "distname":         "WWW-Mechanize-Cached",
-        "released_by":      { "pause_id": "OALDERS" },
-        "repo":             { "url": "https://github.com/oalders/www-mechanize-cached", "relpath": "oalders/www-mechanize-cached" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
         "assignee":         { "github_username": "pauloscustodio" },
         "distname":         "POE-Loop-Tk",
         "released_by":      { "pause_id": "RCAPUTO" },
@@ -245,6 +236,87 @@
         "distname":         "App-Genpass",
         "released_by":      { "pause_id": "XSAWYERX" },
         "repo":             { "url": "https://github.com/xsawyerx/app-genpass", "relpath": "xsawyerx/app-genpass" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "bjakubski" },
+        "distname":         "Data-Compare",
+        "released_by":      { "pause_id": "DCANTRELL" },
+        "repo":             { "url": "https://github.com/DrHyde/perl-modules-Data-Compare", "relpath": "DrHyde/perl-modules-Data-Compare" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "sdeseille" },
+        "distname":         "Mail-Builder",
+        "released_by":      { "pause_id": "MAROS" },
+        "repo":             { "url": "https://github.com/maros/Mail-Builder", "relpath": "maros/Mail-Builder" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "mcmillhj" },
+        "distname":         "MooX-Cmd",
+        "released_by":      { "pause_id": "REHSACK" },
+        "repo":             { "url": "https://github.com/Getty/p5-moox-cmd", "relpath": "Getty/p5-moox-cmd" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "lancew" },
+        "distname":         "String-CamelSnakeKebab",
+        "released_by":      { "pause_id": "KABLAMO" },
+        "repo":             { "url": "https://github.com/kablamo/perl-string-camelsnakekebab", "relpath": "kablamo/perl-string-camelsnakekebab" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "brianmed" },
+        "distname":         "POE-Loop-EV",
+        "released_by":      { "pause_id": "DBOOK" },
+        "repo":             { "url": "https://github.com/Grinnz/POE-Loop-EV", "relpath": "Grinnz/POE-Loop-EV" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "lorn" },
+        "distname":         "Hook-AfterRuntime",
+        "released_by":      { "pause_id": "EXODIST" },
+        "repo":             { "url": "https://github.com/exodist/Hook-AfterRuntime", "relpath": "exodist/Hook-AfterRuntime" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "estrabd" },
+        "distname":         "App-Cmd",
+        "released_by":      { "pause_id": "RJBS" },
+        "repo":             { "url": "https://github.com/rjbs/App-Cmd", "relpath": "rjbs/App-Cmd" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "srvsh" },
+        "distname":         "HTTP-BrowserDetect",
+        "released_by":      { "pause_id": "OALDERS" },
+        "repo":             { "url": "https://github.com/oalders/http-browserdetect", "relpath": "oalders/http-browserdetect" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "jacoby" },
+        "distname":         "IPC-System-Simple",
+        "released_by":      { "pause_id": "PJF" },
+        "repo":             { "url": "https://github.com/pjf/ipc-system-simple", "relpath": "pjf/ipc-system-simple" },
         "pull_requests":    [
                             ]
     }

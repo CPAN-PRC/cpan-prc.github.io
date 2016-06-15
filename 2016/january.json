@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "January",
- "generated": { "date": "2016-06-13", "time": "21:39:24" },
- "stats": { "done": "51", "total": "70", "percent": "72.9" },
+ "generated": { "date": "2016-06-15", "time": "07:25:27" },
+ "stats": { "done": "52", "total": "65", "percent": "80.0" },
  "assignments": [
 
     {
@@ -468,15 +468,6 @@
     },
     {
         "done":             false,
-        "assignee":         { "github_username": "jacoby" },
-        "distname":         "Dist-Zilla-Plugin-CopyFilesFromBuild",
-        "released_by":      { "pause_id": "RTHOMPSON" },
-        "repo":             { "url": "https://github.com/DarwinAwardWinner/Dist-Zilla-Plugin-CopyFilesFromBuild", "relpath": "DarwinAwardWinner/Dist-Zilla-Plugin-CopyFilesFromBuild" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
         "assignee":         { "github_username": "daleevans" },
         "distname":         "GraphViz",
         "released_by":      { "pause_id": "RSAVAGE" },
@@ -561,15 +552,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "book" },
-        "distname":         "Number-Phone",
-        "released_by":      { "pause_id": "DCANTRELL" },
-        "repo":             { "url": "https://github.com/DrHyde/perl-modules-Number-Phone", "relpath": "DrHyde/perl-modules-Number-Phone" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "choroba" },
         "distname":         "Net-SSH-Perl",
@@ -612,17 +594,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "zsyed91" },
-        "distname":         "Exobrain",
-        "released_by":      { "pause_id": "PJF" },
-        "repo":             { "url": "https://github.com/pjf/exobrain", "relpath": "pjf/exobrain" },
-        "pull_requests":    [
-                                { "url": "https://github.com/pjf/exobrain/pull/64", "state": "open", "relpath": "/pull/64" },
-                                { "url": "https://github.com/pjf/exobrain/pull/63", "state": "merged", "relpath": "/pull/63" }
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "alabamapaul" },
         "distname":         "Git-Sub",
@@ -642,16 +613,7 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "srvsh" },
-        "distname":         "Catmandu-PICA",
-        "released_by":      { "pause_id": "JOROL" },
-        "repo":             { "url": "https://github.com/gbv/Catmandu-PICA", "relpath": "gbv/Catmandu-PICA" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "1nickt" },
         "distname":         "Cache-FastMmap",
         "released_by":      { "pause_id": "ROBM" },
@@ -698,15 +660,6 @@
                                 { "url": "https://github.com/dsheroh/Config-Onion/pull/11", "state": "merged", "relpath": "/pull/11" },
                                 { "url": "https://github.com/dsheroh/Config-Onion/pull/10", "state": "merged", "relpath": "/pull/10" },
                                 { "url": "https://github.com/dsheroh/Config-Onion/pull/9", "state": "merged", "relpath": "/pull/9" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "lorn" },
-        "distname":         "MooseX-AuthorizedMethods",
-        "released_by":      { "pause_id": "DRUOSO" },
-        "repo":             { "url": "https://github.com/ruoso/MooseX-AuthorizedMethods", "relpath": "ruoso/MooseX-AuthorizedMethods" },
-        "pull_requests":    [
                             ]
     },
     {

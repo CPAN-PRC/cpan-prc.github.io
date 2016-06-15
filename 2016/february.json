@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "February",
- "generated": { "date": "2016-06-13", "time": "21:39:53" },
- "stats": { "done": "31", "total": "35", "percent": "88.6" },
+ "generated": { "date": "2016-06-15", "time": "07:25:58" },
+ "stats": { "done": "31", "total": "33", "percent": "93.9" },
  "assignments": [
 
     {
@@ -11,15 +11,6 @@
         "distname":         "Dancer2",
         "released_by":      { "pause_id": "XSAWYERX" },
         "repo":             { "url": "https://github.com/PerlDancer/Dancer2", "relpath": "PerlDancer/Dancer2" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "lancew" },
-        "distname":         "Test-Simple",
-        "released_by":      { "pause_id": "EXODIST" },
-        "repo":             { "url": "https://github.com/Test-More/test-more", "relpath": "Test-More/test-more" },
         "pull_requests":    [
                             ]
     },
@@ -206,15 +197,6 @@
         "repo":             { "url": "https://github.com/bigpresh/Pod-Readme", "relpath": "bigpresh/Pod-Readme" },
         "pull_requests":    [
                                 { "url": "https://github.com/bigpresh/Pod-Readme/pull/18", "state": "open", "relpath": "/pull/18" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "bjakubski" },
-        "distname":         "Dist-Zilla-Plugin-CheckChangeLog",
-        "released_by":      { "pause_id": "FAYLAND" },
-        "repo":             { "url": "https://github.com/fayland/dist-zilla-plugin-checkchangelog", "relpath": "fayland/dist-zilla-plugin-checkchangelog" },
-        "pull_requests":    [
                             ]
     },
     {

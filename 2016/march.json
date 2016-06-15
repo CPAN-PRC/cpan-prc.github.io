@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "March",
- "generated": { "date": "2016-06-13", "time": "21:40:22" },
- "stats": { "done": "28", "total": "38", "percent": "73.7" },
+ "generated": { "date": "2016-06-15", "time": "07:26:22" },
+ "stats": { "done": "29", "total": "34", "percent": "85.3" },
  "assignments": [
 
     {
@@ -155,7 +155,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "estrabd" },
         "distname":         "Const-Exporter",
         "released_by":      { "pause_id": "RRWO" },
@@ -203,15 +203,6 @@
         "repo":             { "url": "https://github.com/grantm/XML-SAX-Base", "relpath": "grantm/XML-SAX-Base" },
         "pull_requests":    [
                                 { "url": "https://github.com/grantm/XML-SAX-Base/pull/2", "state": "merged", "relpath": "/pull/2" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "brianmed" },
-        "distname":         "Text-Textile-Plaintext",
-        "released_by":      { "pause_id": "RJRAY" },
-        "repo":             { "url": "https://github.com/rjray/text-textile-plaintext/tree/master", "relpath": "rjray/text-textile-plaintext/tree/master" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -304,15 +295,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "sdeseille" },
-        "distname":         "Data-Compare",
-        "released_by":      { "pause_id": "DCANTRELL" },
-        "repo":             { "url": "https://github.com/DrHyde/perl-modules-Data-Compare", "relpath": "DrHyde/perl-modules-Data-Compare" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "shlomif" },
         "distname":         "Sys-Cmd",
@@ -339,24 +321,6 @@
         "distname":         "Time-Piece",
         "released_by":      { "pause_id": "ESAYM" },
         "repo":             { "url": "https://github.com/rjbs/Time-Piece", "relpath": "rjbs/Time-Piece" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "lejeunerenard" },
-        "distname":         "HiD",
-        "released_by":      { "pause_id": "GENEHACK" },
-        "repo":             { "url": "https://github.com/genehack/HiD", "relpath": "genehack/HiD" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "bennythejudge" },
-        "distname":         "HTTP-Async",
-        "released_by":      { "pause_id": "KAORU" },
-        "repo":             { "url": "https://github.com/evdb/HTTP-Async", "relpath": "evdb/HTTP-Async" },
         "pull_requests":    [
                             ]
     },
