@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "March",
- "generated": { "date": "2016-06-15", "time": "07:26:22" },
+ "generated": { "date": "2016-06-21", "time": "21:59:46" },
  "stats": { "done": "29", "total": "34", "percent": "85.3" },
  "assignments": [
 
@@ -140,7 +140,7 @@
         "released_by":      { "pause_id": "HORNBURG" },
         "repo":             { "url": "https://github.com/PerlDancer/Dancer2-Plugin-Auth-Extensible", "relpath": "PerlDancer/Dancer2-Plugin-Auth-Extensible" },
         "pull_requests":    [
-                                { "url": "https://github.com/PerlDancer/Dancer2-Plugin-Auth-Extensible/pull/48", "state": "open", "relpath": "/pull/48" },
+                                { "url": "https://github.com/PerlDancer/Dancer2-Plugin-Auth-Extensible/pull/48", "state": "closed", "relpath": "/pull/48" },
                                 { "url": "https://github.com/PerlDancer/Dancer2-Plugin-Auth-Extensible/pull/47", "state": "closed", "relpath": "/pull/47" }
                             ]
     },

@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "June",
- "generated": { "date": "2016-06-15", "time": "07:27:25" },
- "stats": { "done": "2", "total": "34", "percent": "5.9" },
+ "generated": { "date": "2016-06-21", "time": "22:00:55" },
+ "stats": { "done": "3", "total": "34", "percent": "8.8" },
  "assignments": [
 
     {
@@ -12,6 +12,7 @@
         "released_by":      { "pause_id": "PHRED" },
         "repo":             { "url": "https://github.com/redhotpenguin/soaplite", "relpath": "redhotpenguin/soaplite" },
         "pull_requests":    [
+                                { "url": "https://github.com/redhotpenguin/soaplite/pull/27", "state": "merged", "relpath": "/pull/27" },
                                 { "url": "https://github.com/redhotpenguin/soaplite/pull/26", "state": "merged", "relpath": "/pull/26" }
                             ]
     },
@@ -70,6 +71,7 @@
         "released_by":      { "pause_id": "BRUMMETT" },
         "repo":             { "url": "https://github.com/genome/UR", "relpath": "genome/UR" },
         "pull_requests":    [
+                                { "url": "https://github.com/genome/UR/pull/119", "state": "merged", "relpath": "/pull/119" }
                             ]
     },
     {
@@ -82,7 +84,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "zhouzhen1" },
         "distname":         "Rubyish",
         "released_by":      { "pause_id": "GUGOD" },
@@ -273,6 +275,7 @@
         "released_by":      { "pause_id": "KABLAMO" },
         "repo":             { "url": "https://github.com/kablamo/perl-string-camelsnakekebab", "relpath": "kablamo/perl-string-camelsnakekebab" },
         "pull_requests":    [
+                                { "url": "https://github.com/kablamo/perl-string-camelsnakekebab/pull/3", "state": "merged", "relpath": "/pull/3" }
                             ]
     },
     {
