@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "May",
- "generated": { "date": "2016-06-21", "time": "22:00:35" },
- "stats": { "done": "19", "total": "27", "percent": "70.4" },
+ "generated": { "date": "2016-06-27", "time": "22:34:09" },
+ "stats": { "done": "20", "total": "27", "percent": "74.1" },
  "assignments": [
 
     {
@@ -224,12 +224,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "Jayceh" },
         "distname":         "File-Serialize",
         "released_by":      { "pause_id": "YANICK" },
         "repo":             { "url": "https://github.com/yanick/File-Serialize", "relpath": "yanick/File-Serialize" },
         "pull_requests":    [
+                                { "url": "https://github.com/yanick/File-Serialize/pull/4", "state": "open", "relpath": "/pull/4" }
                             ]
     },
     {

@@ -1,12 +1,12 @@
 {
  "year": "2016",
  "month": "June",
- "generated": { "date": "2016-06-21", "time": "22:00:55" },
- "stats": { "done": "3", "total": "34", "percent": "8.8" },
+ "generated": { "date": "2016-06-27", "time": "22:34:29" },
+ "stats": { "done": "9", "total": "36", "percent": "25.0" },
  "assignments": [
 
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "openstrike" },
         "distname":         "SOAP-Lite",
         "released_by":      { "pause_id": "PHRED" },
@@ -65,22 +65,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "yanick" },
         "distname":         "UR",
         "released_by":      { "pause_id": "BRUMMETT" },
         "repo":             { "url": "https://github.com/genome/UR", "relpath": "genome/UR" },
         "pull_requests":    [
                                 { "url": "https://github.com/genome/UR/pull/119", "state": "merged", "relpath": "/pull/119" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "hatorikibble" },
-        "distname":         "Message-Passing-AMQP",
-        "released_by":      { "pause_id": "ABRAXXA" },
-        "repo":             { "url": "https://github.com/suretec/Message-Passing-AMQP", "relpath": "suretec/Message-Passing-AMQP" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -94,12 +85,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jmaslak" },
         "distname":         "Makefile-DOM",
         "released_by":      { "pause_id": "AGENT" },
         "repo":             { "url": "https://github.com/agentzh/makefile-dom-pm", "relpath": "agentzh/makefile-dom-pm" },
         "pull_requests":    [
+                                { "url": "https://github.com/agentzh/makefile-dom-pm/pull/6", "state": "merged", "relpath": "/pull/6" }
                             ]
     },
     {
@@ -127,6 +119,7 @@
         "released_by":      { "pause_id": "SALVA" },
         "repo":             { "url": "https://github.com/salva/p5-Net-OpenSSH", "relpath": "salva/p5-Net-OpenSSH" },
         "pull_requests":    [
+                                { "url": "https://github.com/salva/p5-Net-OpenSSH/pull/21", "state": "merged", "relpath": "/pull/21" }
                             ]
     },
     {
@@ -203,15 +196,20 @@
         "released_by":      { "pause_id": "RHOELZ" },
         "repo":             { "url": "https://github.com/hoelzro/plack-test-anyevent", "relpath": "hoelzro/plack-test-anyevent" },
         "pull_requests":    [
+                                { "url": "https://github.com/hoelzro/plack-test-anyevent/pull/10", "state": "merged", "relpath": "/pull/10" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "paultcochrane" },
         "distname":         "Algorithm-TokenBucket",
         "released_by":      { "pause_id": "KAPPA" },
         "repo":             { "url": "https://github.com/kappa/Algorithm-TokenBucket", "relpath": "kappa/Algorithm-TokenBucket" },
         "pull_requests":    [
+                                { "url": "https://github.com/kappa/Algorithm-TokenBucket/pull/4", "state": "open", "relpath": "/pull/4" },
+                                { "url": "https://github.com/kappa/Algorithm-TokenBucket/pull/3", "state": "open", "relpath": "/pull/3" },
+                                { "url": "https://github.com/kappa/Algorithm-TokenBucket/pull/2", "state": "open", "relpath": "/pull/2" },
+                                { "url": "https://github.com/kappa/Algorithm-TokenBucket/pull/1", "state": "open", "relpath": "/pull/1" }
                             ]
     },
     {
@@ -221,6 +219,7 @@
         "released_by":      { "pause_id": "BOOK" },
         "repo":             { "url": "https://github.com/book/Git-Repository", "relpath": "book/Git-Repository" },
         "pull_requests":    [
+                                { "url": "https://github.com/book/Git-Repository/pull/16", "state": "open", "relpath": "/pull/16" }
                             ]
     },
     {
@@ -269,7 +268,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "lancew" },
         "distname":         "String-CamelSnakeKebab",
         "released_by":      { "pause_id": "KABLAMO" },
@@ -281,9 +280,9 @@
     {
         "done":             false,
         "assignee":         { "github_username": "brianmed" },
-        "distname":         "POE-Loop-EV",
+        "distname":         "Minion-Backend-SQLite",
         "released_by":      { "pause_id": "DBOOK" },
-        "repo":             { "url": "https://github.com/Grinnz/POE-Loop-EV", "relpath": "Grinnz/POE-Loop-EV" },
+        "repo":             { "url": "https://github.com/Grinnz/Minion-Backend-SQLite", "relpath": "Grinnz/Minion-Backend-SQLite" },
         "pull_requests":    [
                             ]
     },
@@ -320,6 +319,34 @@
         "distname":         "IPC-System-Simple",
         "released_by":      { "pause_id": "PJF" },
         "repo":             { "url": "https://github.com/pjf/ipc-system-simple", "relpath": "pjf/ipc-system-simple" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "kyzn" },
+        "distname":         "HiD",
+        "released_by":      { "pause_id": "GENEHACK" },
+        "repo":             { "url": "https://github.com/genehack/HiD", "relpath": "genehack/HiD" },
+        "pull_requests":    [
+                                { "url": "https://github.com/genehack/HiD/pull/41", "state": "open", "relpath": "/pull/41" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "pwr22" },
+        "distname":         "JSON-Create",
+        "released_by":      { "pause_id": "BKB" },
+        "repo":             { "url": "https://github.com/benkasminbullock/json-create", "relpath": "benkasminbullock/json-create" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "starbelly" },
+        "distname":         "Image-Size",
+        "released_by":      { "pause_id": "RJRAY" },
+        "repo":             { "url": "https://github.com/rjray/image-size", "relpath": "rjray/image-size" },
         "pull_requests":    [
                             ]
     }
