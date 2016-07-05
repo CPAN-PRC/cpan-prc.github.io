@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "May",
- "generated": { "date": "2016-06-27", "time": "22:34:09" },
+ "generated": { "date": "2016-07-05", "time": "07:15:35" },
  "stats": { "done": "20", "total": "27", "percent": "74.1" },
  "assignments": [
 
@@ -179,7 +179,7 @@
         "assignee":         { "github_username": "Viviparous" },
         "distname":         "DateTime",
         "released_by":      { "pause_id": "DROLSKY" },
-        "repo":             { "url": "https://github.com/autarch/DateTime.pm", "relpath": "autarch/DateTime.pm" },
+        "repo":             { "url": "https://github.com/houseabsolute/DateTime.pm", "relpath": "houseabsolute/DateTime.pm" },
         "pull_requests":    [
                                 { "url": "https://github.com/houseabsolute/DateTime.pm/pull/16", "state": "merged", "relpath": "/pull/16" }
                             ]

@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "June",
- "generated": { "date": "2016-06-27", "time": "22:34:29" },
- "stats": { "done": "9", "total": "36", "percent": "25.0" },
+ "generated": { "date": "2016-07-05", "time": "07:15:54" },
+ "stats": { "done": "17", "total": "35", "percent": "48.6" },
  "assignments": [
 
     {
@@ -104,16 +104,17 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "Viviparous" },
         "distname":         "Text-BibTeX",
         "released_by":      { "pause_id": "AMBS" },
         "repo":             { "url": "https://github.com/ambs/Text-BibTeX", "relpath": "ambs/Text-BibTeX" },
         "pull_requests":    [
+                                { "url": "https://github.com/ambs/Text-BibTeX/pull/11", "state": "open", "relpath": "/pull/11" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "Varadinsky" },
         "distname":         "Net-OpenSSH",
         "released_by":      { "pause_id": "SALVA" },
@@ -123,16 +124,17 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "lharey" },
         "distname":         "Pod-Browser",
         "released_by":      { "pause_id": "PERLER" },
         "repo":             { "url": "https://github.com/monken/p5-pod-browser", "relpath": "monken/p5-pod-browser" },
         "pull_requests":    [
+                                { "url": "https://github.com/monken/p5-pod-browser/pull/2", "state": "open", "relpath": "/pull/2" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "dionys" },
         "distname":         "Class-Virtual",
         "released_by":      { "pause_id": "MSCHWERN" },
@@ -151,7 +153,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "pauloscustodio" },
         "distname":         "POE-Loop-Tk",
         "released_by":      { "pause_id": "RCAPUTO" },
@@ -170,7 +172,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "manwar" },
         "distname":         "Kwalify",
         "released_by":      { "pause_id": "SREZIC" },
@@ -206,20 +208,20 @@
         "released_by":      { "pause_id": "KAPPA" },
         "repo":             { "url": "https://github.com/kappa/Algorithm-TokenBucket", "relpath": "kappa/Algorithm-TokenBucket" },
         "pull_requests":    [
-                                { "url": "https://github.com/kappa/Algorithm-TokenBucket/pull/4", "state": "open", "relpath": "/pull/4" },
-                                { "url": "https://github.com/kappa/Algorithm-TokenBucket/pull/3", "state": "open", "relpath": "/pull/3" },
-                                { "url": "https://github.com/kappa/Algorithm-TokenBucket/pull/2", "state": "open", "relpath": "/pull/2" },
-                                { "url": "https://github.com/kappa/Algorithm-TokenBucket/pull/1", "state": "open", "relpath": "/pull/1" }
+                                { "url": "https://github.com/kappa/Algorithm-TokenBucket/pull/4", "state": "merged", "relpath": "/pull/4" },
+                                { "url": "https://github.com/kappa/Algorithm-TokenBucket/pull/3", "state": "merged", "relpath": "/pull/3" },
+                                { "url": "https://github.com/kappa/Algorithm-TokenBucket/pull/2", "state": "merged", "relpath": "/pull/2" },
+                                { "url": "https://github.com/kappa/Algorithm-TokenBucket/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "choroba" },
         "distname":         "Git-Repository",
         "released_by":      { "pause_id": "BOOK" },
         "repo":             { "url": "https://github.com/book/Git-Repository", "relpath": "book/Git-Repository" },
         "pull_requests":    [
-                                { "url": "https://github.com/book/Git-Repository/pull/16", "state": "open", "relpath": "/pull/16" }
+                                { "url": "https://github.com/book/Git-Repository/pull/16", "state": "closed", "relpath": "/pull/16" }
                             ]
     },
     {
@@ -279,15 +281,6 @@
     },
     {
         "done":             false,
-        "assignee":         { "github_username": "brianmed" },
-        "distname":         "Minion-Backend-SQLite",
-        "released_by":      { "pause_id": "DBOOK" },
-        "repo":             { "url": "https://github.com/Grinnz/Minion-Backend-SQLite", "relpath": "Grinnz/Minion-Backend-SQLite" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
         "assignee":         { "github_username": "lorn" },
         "distname":         "Hook-AfterRuntime",
         "released_by":      { "pause_id": "EXODIST" },
@@ -342,12 +335,13 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "starbelly" },
-        "distname":         "Image-Size",
-        "released_by":      { "pause_id": "RJRAY" },
-        "repo":             { "url": "https://github.com/rjray/image-size", "relpath": "rjray/image-size" },
+        "done":             true,
+        "assignee":         { "github_username": "Jayceh" },
+        "distname":         "URI-Fetch",
+        "released_by":      { "pause_id": "NEILB" },
+        "repo":             { "url": "https://github.com/neilb/URI-Fetch", "relpath": "neilb/URI-Fetch" },
         "pull_requests":    [
+                                { "url": "https://github.com/neilb/URI-Fetch/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]
     }
  ]

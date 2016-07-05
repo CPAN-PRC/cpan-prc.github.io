@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "April",
- "generated": { "date": "2016-06-27", "time": "22:33:49" },
+ "generated": { "date": "2016-07-05", "time": "07:15:16" },
  "stats": { "done": "23", "total": "29", "percent": "79.3" },
  "assignments": [
 
@@ -112,7 +112,7 @@
         "released_by":      { "pause_id": "RJBS" },
         "repo":             { "url": "https://github.com/rjbs/Dist-Zilla", "relpath": "rjbs/Dist-Zilla" },
         "pull_requests":    [
-                                { "url": "https://github.com/rjbs/Dist-Zilla/pull/543", "state": "open", "relpath": "/pull/543" }
+                                { "url": "https://github.com/rjbs/Dist-Zilla/pull/543", "state": "closed", "relpath": "/pull/543" }
                             ]
     },
     {
@@ -279,7 +279,7 @@
         "done":             false,
         "assignee":         { "github_username": "jhunt" },
         "distname":         "Test-Vars",
-        "released_by":      { "pause_id": "DROLSKY" },
+        "released_by":      { "pause_id": "GFUJI" },
         "repo":             { "url": "https://github.com/gfx/p5-Test-Vars", "relpath": "gfx/p5-Test-Vars" },
         "pull_requests":    [
                             ]

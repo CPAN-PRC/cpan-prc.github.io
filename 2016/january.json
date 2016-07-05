@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "January",
- "generated": { "date": "2016-06-27", "time": "22:32:35" },
- "stats": { "done": "52", "total": "64", "percent": "81.2" },
+ "generated": { "date": "2016-07-05", "time": "07:13:53" },
+ "stats": { "done": "52", "total": "63", "percent": "82.5" },
  "assignments": [
 
     {
@@ -483,15 +483,6 @@
         "repo":             { "url": "https://github.com/battlemidget/p5-juju", "relpath": "battlemidget/p5-juju" },
         "pull_requests":    [
                                 { "url": "https://github.com/battlemidget/p5-juju/pull/2", "state": "merged", "relpath": "/pull/2" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "ratcristian" },
-        "distname":         "File-SharedNFSLock",
-        "released_by":      { "pause_id": "FANGLY" },
-        "repo":             { "url": "https://github.com/fangly/file-sharednfslock", "relpath": "fangly/file-sharednfslock" },
-        "pull_requests":    [
                             ]
     },
     {

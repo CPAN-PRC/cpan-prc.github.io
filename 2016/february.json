@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "February",
- "generated": { "date": "2016-06-27", "time": "22:33:04" },
- "stats": { "done": "31", "total": "33", "percent": "93.9" },
+ "generated": { "date": "2016-07-05", "time": "07:14:29" },
+ "stats": { "done": "31", "total": "32", "percent": "96.9" },
  "assignments": [
 
     {
@@ -217,15 +217,6 @@
         "repo":             { "url": "https://github.com/zoffixznet/javascript-minifier", "relpath": "zoffixznet/javascript-minifier" },
         "pull_requests":    [
                                 { "url": "https://github.com/zoffixznet/JavaScript-Minifier/pull/7", "state": "merged", "relpath": "/pull/7" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "alabamapaul" },
-        "distname":         "Data-Rmap",
-        "released_by":      { "pause_id": "BOWMANBS" },
-        "repo":             { "url": "https://github.com/bowman/Data-Rmap", "relpath": "bowman/Data-Rmap" },
-        "pull_requests":    [
                             ]
     },
     {
