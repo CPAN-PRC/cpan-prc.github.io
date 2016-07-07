@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "June",
- "generated": { "date": "2016-07-05", "time": "07:15:54" },
- "stats": { "done": "17", "total": "35", "percent": "48.6" },
+ "generated": { "date": "2016-07-07", "time": "21:55:58" },
+ "stats": { "done": "18", "total": "35", "percent": "51.4" },
  "assignments": [
 
     {
@@ -26,7 +26,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "ambs" },
         "distname":         "Gedcom",
         "released_by":      { "pause_id": "PJCJ" },

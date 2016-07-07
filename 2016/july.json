@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "July",
- "generated": { "date": "2016-07-05", "time": "07:16:14" },
- "stats": { "done": "2", "total": "19", "percent": "10.5" },
+ "generated": { "date": "2016-07-07", "time": "21:56:20" },
+ "stats": { "done": "3", "total": "21", "percent": "14.3" },
  "assignments": [
 
     {
@@ -116,7 +116,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "genio" },
         "distname":         "MooseX-Attribute-Deflator",
         "released_by":      { "pause_id": "PERLER" },
@@ -141,8 +141,8 @@
         "released_by":      { "pause_id": "RJRAY" },
         "repo":             { "url": "https://github.com/rjray/text-textile-plaintext/tree/master", "relpath": "rjray/text-textile-plaintext/tree/master" },
         "pull_requests":    [
-                                { "url": "https://github.com/rjray/text-textile-plaintext/pull/2", "state": "open", "relpath": "/pull/2" },
-                                { "url": "https://github.com/rjray/text-textile-plaintext/pull/1", "state": "open", "relpath": "/pull/1" }
+                                { "url": "https://github.com/rjray/text-textile-plaintext/pull/2", "state": "merged", "relpath": "/pull/2" },
+                                { "url": "https://github.com/rjray/text-textile-plaintext/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]
     },
     {
@@ -152,6 +152,7 @@
         "released_by":      { "pause_id": "FAYLAND" },
         "repo":             { "url": "https://github.com/fayland/dist-zilla-plugin-checkchangelog", "relpath": "fayland/dist-zilla-plugin-checkchangelog" },
         "pull_requests":    [
+                                { "url": "https://github.com/fayland/dist-zilla-plugin-checkchangelog/pull/2", "state": "open", "relpath": "/pull/2" },
                                 { "url": "https://github.com/fayland/dist-zilla-plugin-checkchangelog/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]
     },
@@ -180,6 +181,24 @@
         "distname":         "IO-Socket-SSL",
         "released_by":      { "pause_id": "SULLR" },
         "repo":             { "url": "https://github.com/noxxi/p5-io-socket-ssl", "relpath": "noxxi/p5-io-socket-ssl" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "ambs" },
+        "distname":         "Algorithm-GooglePolylineEncoding",
+        "released_by":      { "pause_id": "SREZIC" },
+        "repo":             { "url": "https://github.com/eserte/algorithm-googlepolylineencoding", "relpath": "eserte/algorithm-googlepolylineencoding" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "dionys" },
+        "distname":         "Test-Deep",
+        "released_by":      { "pause_id": "RJBS" },
+        "repo":             { "url": "https://github.com/rjbs/Test-Deep", "relpath": "rjbs/Test-Deep" },
         "pull_requests":    [
                             ]
     }
