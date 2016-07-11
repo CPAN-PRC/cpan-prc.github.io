@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "January",
- "generated": { "date": "2016-07-07", "time": "21:53:49" },
+ "generated": { "date": "2016-07-11", "time": "22:51:01" },
  "stats": { "done": "52", "total": "63", "percent": "82.5" },
  "assignments": [
 
@@ -490,7 +490,7 @@
         "assignee":         { "github_username": "jscook" },
         "distname":         "HTML-ParseBrowser",
         "released_by":      { "pause_id": "NEILB" },
-        "repo":             { "url": "https://github.com/neilbowers/HTML-ParseBrowser", "relpath": "neilbowers/HTML-ParseBrowser" },
+        "repo":             { "url": "https://github.com/neilb/HTML-ParseBrowser", "relpath": "neilb/HTML-ParseBrowser" },
         "pull_requests":    [
                             ]
     },

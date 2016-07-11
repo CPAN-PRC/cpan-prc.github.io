@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "February",
- "generated": { "date": "2016-07-07", "time": "21:54:24" },
+ "generated": { "date": "2016-07-11", "time": "22:51:29" },
  "stats": { "done": "31", "total": "32", "percent": "96.9" },
  "assignments": [
 
@@ -9,7 +9,7 @@
         "done":             true,
         "assignee":         { "github_username": "jamessan" },
         "distname":         "Dancer2",
-        "released_by":      { "pause_id": "XSAWYERX" },
+        "released_by":      { "pause_id": "CROMEDOME" },
         "repo":             { "url": "https://github.com/PerlDancer/Dancer2", "relpath": "PerlDancer/Dancer2" },
         "pull_requests":    [
                             ]
@@ -41,7 +41,6 @@
         "released_by":      { "pause_id": "BOOK" },
         "repo":             { "url": "https://github.com/book/HTTP-Proxy", "relpath": "book/HTTP-Proxy" },
         "pull_requests":    [
-                                { "url": "https://github.com/book/HTTP-Proxy/pull/8", "state": "open", "relpath": "/pull/8" }
                             ]
     },
     {
