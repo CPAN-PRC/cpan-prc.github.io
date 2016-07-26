@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "May",
- "generated": { "date": "2016-07-11", "time": "22:53:36" },
- "stats": { "done": "20", "total": "27", "percent": "74.1" },
+ "generated": { "date": "2016-07-26", "time": "20:51:46" },
+ "stats": { "done": "20", "total": "26", "percent": "76.9" },
  "assignments": [
 
     {
@@ -50,7 +50,7 @@
         "released_by":      { "pause_id": "XSAWYERX" },
         "repo":             { "url": "https://github.com/xsawyerx/www-xkcd", "relpath": "xsawyerx/www-xkcd" },
         "pull_requests":    [
-                                { "url": "https://github.com/xsawyerx/www-xkcd/pull/5", "state": "open", "relpath": "/pull/5" }
+                                { "url": "https://github.com/xsawyerx/www-xkcd/pull/5", "state": "merged", "relpath": "/pull/5" }
                             ]
     },
     {
@@ -251,15 +251,6 @@
         "repo":             { "url": "https://github.com/Ovid/Test-Differences", "relpath": "Ovid/Test-Differences" },
         "pull_requests":    [
                                 { "url": "https://github.com/Ovid/Test-Differences/pull/11", "state": "open", "relpath": "/pull/11" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "JenishGnanasicamani" },
-        "distname":         "Net-IMP",
-        "released_by":      { "pause_id": "SULLR" },
-        "repo":             { "url": "https://github.com/noxxi/p5-net-imp", "relpath": "noxxi/p5-net-imp" },
-        "pull_requests":    [
                             ]
     },
     {

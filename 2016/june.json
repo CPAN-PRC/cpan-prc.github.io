@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "June",
- "generated": { "date": "2016-07-11", "time": "22:53:54" },
+ "generated": { "date": "2016-07-26", "time": "20:52:15" },
  "stats": { "done": "18", "total": "35", "percent": "51.4" },
  "assignments": [
 
@@ -23,6 +23,8 @@
         "released_by":      { "pause_id": "THALJEF" },
         "repo":             { "url": "https://github.com/thaljef/Pinto", "relpath": "thaljef/Pinto" },
         "pull_requests":    [
+                                { "url": "https://github.com/thaljef/Pinto/pull/228", "state": "open", "relpath": "/pull/228" },
+                                { "url": "https://github.com/thaljef/Pinto/pull/227", "state": "closed", "relpath": "/pull/227" }
                             ]
     },
     {

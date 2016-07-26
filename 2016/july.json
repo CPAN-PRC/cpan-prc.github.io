@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "July",
- "generated": { "date": "2016-07-11", "time": "22:54:13" },
- "stats": { "done": "3", "total": "21", "percent": "14.3" },
+ "generated": { "date": "2016-07-26", "time": "20:52:36" },
+ "stats": { "done": "8", "total": "22", "percent": "36.4" },
  "assignments": [
 
     {
@@ -34,12 +34,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "lancew" },
         "distname":         "XML-LibXML",
         "released_by":      { "pause_id": "SHLOMIF" },
         "repo":             { "url": "https://github.com/shlomif/perl-XML-LibXML", "relpath": "shlomif/perl-XML-LibXML" },
         "pull_requests":    [
+                                { "url": "https://github.com/shlomif/perl-XML-LibXML/pull/2", "state": "merged", "relpath": "/pull/2" }
                             ]
     },
     {
@@ -76,19 +77,28 @@
         "released_by":      { "pause_id": "NEILB" },
         "repo":             { "url": "https://github.com/neilbowers/Module-Path", "relpath": "neilbowers/Module-Path" },
         "pull_requests":    [
+                                { "url": "https://github.com/neilb/Module-Path/pull/25", "state": "open", "relpath": "/pull/25" },
+                                { "url": "https://github.com/neilb/Module-Path/pull/24", "state": "open", "relpath": "/pull/24" },
+                                { "url": "https://github.com/neilb/Module-Path/pull/23", "state": "open", "relpath": "/pull/23" },
+                                { "url": "https://github.com/neilb/Module-Path/pull/22", "state": "open", "relpath": "/pull/22" },
+                                { "url": "https://github.com/neilb/Module-Path/pull/21", "state": "open", "relpath": "/pull/21" },
+                                { "url": "https://github.com/neilb/Module-Path/pull/20", "state": "open", "relpath": "/pull/20" },
+                                { "url": "https://github.com/neilb/Module-Path/pull/19", "state": "merged", "relpath": "/pull/19" },
+                                { "url": "https://github.com/neilb/Module-Path/pull/18", "state": "merged", "relpath": "/pull/18" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "zhouzhen1" },
         "distname":         "PDF-Create",
         "released_by":      { "pause_id": "MANWAR" },
         "repo":             { "url": "https://github.com/manwar/pdf-create", "relpath": "manwar/pdf-create" },
         "pull_requests":    [
+                                { "url": "https://github.com/Manwar/pdf-create/pull/10", "state": "open", "relpath": "/pull/10" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "manwar" },
         "distname":         "HTTP-Async",
         "released_by":      { "pause_id": "KAORU" },
@@ -146,7 +156,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "starbelly" },
         "distname":         "Dist-Zilla-Plugin-CheckChangeLog",
         "released_by":      { "pause_id": "FAYLAND" },
@@ -185,12 +195,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "ambs" },
         "distname":         "Algorithm-GooglePolylineEncoding",
         "released_by":      { "pause_id": "SREZIC" },
         "repo":             { "url": "https://github.com/eserte/algorithm-googlepolylineencoding", "relpath": "eserte/algorithm-googlepolylineencoding" },
         "pull_requests":    [
+                                { "url": "https://github.com/eserte/algorithm-googlepolylineencoding/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]
     },
     {
@@ -199,6 +210,15 @@
         "distname":         "Test-Deep",
         "released_by":      { "pause_id": "RJBS" },
         "repo":             { "url": "https://github.com/rjbs/Test-Deep", "relpath": "rjbs/Test-Deep" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "JenishGnanasicamani" },
+        "distname":         "YAML",
+        "released_by":      { "pause_id": "TINITA" },
+        "repo":             { "url": "https://github.com/ingydotnet/yaml-pm", "relpath": "ingydotnet/yaml-pm" },
         "pull_requests":    [
                             ]
     }
