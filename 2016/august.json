@@ -1,0 +1,182 @@
+{
+ "year": "2016",
+ "month": "August",
+ "generated": { "date": "2016-08-05", "time": "11:04:26" },
+ "stats": { "done": "0", "total": "19", "percent": "0.0" },
+ "assignments": [
+
+    {
+        "done":             false,
+        "assignee":         { "github_username": "ambs" },
+        "distname":         "Module-Install",
+        "released_by":      { "pause_id": "ETHER" },
+        "repo":             { "url": "https://github.com/Perl-Toolchain-Gang/Module-Install", "relpath": "Perl-Toolchain-Gang/Module-Install" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "yanick" },
+        "distname":         "Zonemaster",
+        "released_by":      { "pause_id": "IIS" },
+        "repo":             { "url": "https://github.com/dotse/zonemaster-engine", "relpath": "dotse/zonemaster-engine" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "Varadinsky" },
+        "distname":         "WWW-Mechanize",
+        "released_by":      { "pause_id": "OALDERS" },
+        "repo":             { "url": "https://github.com/libwww-perl/WWW-Mechanize", "relpath": "libwww-perl/WWW-Mechanize" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "genio" },
+        "distname":         "Device-Modem",
+        "released_by":      { "pause_id": "COSIMO" },
+        "repo":             { "url": "https://github.com/cosimo/perl5-device-modem", "relpath": "cosimo/perl5-device-modem" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "openstrike" },
+        "distname":         "Exobrain",
+        "released_by":      { "pause_id": "PJF" },
+        "repo":             { "url": "https://github.com/pjf/exobrain", "relpath": "pjf/exobrain" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "paultcochrane" },
+        "distname":         "Mo",
+        "released_by":      { "pause_id": "TINITA" },
+        "repo":             { "url": "https://github.com/ingydotnet/mo-pm", "relpath": "ingydotnet/mo-pm" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "jmaslak" },
+        "distname":         "CPAN-DistnameInfo",
+        "released_by":      { "pause_id": "RJBS" },
+        "repo":             { "url": "https://github.com/gbarr/CPAN-DistnameInfo", "relpath": "gbarr/CPAN-DistnameInfo" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "lharey" },
+        "distname":         "Gravatar-URL",
+        "released_by":      { "pause_id": "MSCHWERN" },
+        "repo":             { "url": "https://github.com/schwern/gravatar-url/tree/master", "relpath": "schwern/gravatar-url/tree/master" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "dionys" },
+        "distname":         "Net-SFTP-Foreign",
+        "released_by":      { "pause_id": "SALVA" },
+        "repo":             { "url": "https://github.com/salva/p5-Net-SFTP-Foreign", "relpath": "salva/p5-Net-SFTP-Foreign" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "monsieurp" },
+        "distname":         "Tree-Binary",
+        "released_by":      { "pause_id": "RSAVAGE" },
+        "repo":             { "url": "https://github.com/ronsavage/Tree-Binary", "relpath": "ronsavage/Tree-Binary" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "lancew" },
+        "distname":         "Math-Cephes",
+        "released_by":      { "pause_id": "SHLOMIF" },
+        "repo":             { "url": "https://github.com/shlomif/Math-Cephes", "relpath": "shlomif/Math-Cephes" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "marderh" },
+        "distname":         "POE-Loop-EV",
+        "released_by":      { "pause_id": "DBOOK" },
+        "repo":             { "url": "https://github.com/Grinnz/POE-Loop-EV", "relpath": "Grinnz/POE-Loop-EV" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "shlomif" },
+        "distname":         "Search-OpenSearch-Server",
+        "released_by":      { "pause_id": "KARMAN" },
+        "repo":             { "url": "https://github.com/karpet/search-opensearch-server", "relpath": "karpet/search-opensearch-server" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "manwar" },
+        "distname":         "Date-Holidays-CA_ES",
+        "released_by":      { "pause_id": "MRUIZ" },
+        "repo":             { "url": "https://github.com/miquelruiz/Date-Holidays-CA_ES", "relpath": "miquelruiz/Date-Holidays-CA_ES" },
+        "pull_requests":    [
+                                { "url": "https://github.com/miquelruiz/Date-Holidays-CA_ES/pull/1", "state": "merged", "relpath": "/pull/1" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "starbelly" },
+        "distname":         "DateTime-Format-CLDR",
+        "released_by":      { "pause_id": "MAROS" },
+        "repo":             { "url": "https://github.com/maros/DateTime-Format-CLDR", "relpath": "maros/DateTime-Format-CLDR" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "Viviparous" },
+        "distname":         "Perl-Critic-StricterSubs",
+        "released_by":      { "pause_id": "THALJEF" },
+        "repo":             { "url": "https://github.com/Perl-Critic/Perl-Critic-StricterSubs", "relpath": "Perl-Critic/Perl-Critic-StricterSubs" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "zhouzhen1" },
+        "distname":         "Digest-Whirlpool",
+        "released_by":      { "pause_id": "AVAR" },
+        "repo":             { "url": "https://github.com/avar/digest-whirlpool", "relpath": "avar/digest-whirlpool" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "jluis" },
+        "distname":         "List-Objects-WithUtils",
+        "released_by":      { "pause_id": "AVENJ" },
+        "repo":             { "url": "https://github.com/avenj/list-objects-withutils", "relpath": "avenj/list-objects-withutils" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "pauloscustodio" },
+        "distname":         "Proc-Daemon",
+        "released_by":      { "pause_id": "AKREAL" },
+        "repo":             { "url": "https://github.com/akreal/Proc-Daemon", "relpath": "akreal/Proc-Daemon" },
+        "pull_requests":    [
+                            ]
+    }
+ ]
+}
+

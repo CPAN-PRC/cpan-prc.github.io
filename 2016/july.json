@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "July",
- "generated": { "date": "2016-07-26", "time": "20:52:36" },
- "stats": { "done": "8", "total": "22", "percent": "36.4" },
+ "generated": { "date": "2016-08-05", "time": "11:04:13" },
+ "stats": { "done": "15", "total": "20", "percent": "75.0" },
  "assignments": [
 
     {
@@ -25,15 +25,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "lharey" },
-        "distname":         "Exobrain",
-        "released_by":      { "pause_id": "PJF" },
-        "repo":             { "url": "https://github.com/pjf/exobrain", "relpath": "pjf/exobrain" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "lancew" },
         "distname":         "XML-LibXML",
@@ -44,12 +35,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "marderh" },
         "distname":         "Test-WWW-Mechanize",
         "released_by":      { "pause_id": "PETDANCE" },
         "repo":             { "url": "https://github.com/petdance/test-www-mechanize", "relpath": "petdance/test-www-mechanize" },
         "pull_requests":    [
+                                { "url": "https://github.com/petdance/test-www-mechanize/pull/51", "state": "open", "relpath": "/pull/51" }
                             ]
     },
     {
@@ -62,21 +54,23 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "Varadinsky" },
         "distname":         "Number-Phone",
         "released_by":      { "pause_id": "DCANTRELL" },
         "repo":             { "url": "https://github.com/DrHyde/perl-modules-Number-Phone", "relpath": "DrHyde/perl-modules-Number-Phone" },
         "pull_requests":    [
+                                { "url": "https://github.com/DrHyde/perl-modules-Number-Phone/pull/61", "state": "open", "relpath": "/pull/61" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "paultcochrane" },
         "distname":         "Module-Path",
         "released_by":      { "pause_id": "NEILB" },
         "repo":             { "url": "https://github.com/neilbowers/Module-Path", "relpath": "neilbowers/Module-Path" },
         "pull_requests":    [
+                                { "url": "https://github.com/neilb/Module-Path/pull/27", "state": "open", "relpath": "/pull/27" },
                                 { "url": "https://github.com/neilb/Module-Path/pull/25", "state": "open", "relpath": "/pull/25" },
                                 { "url": "https://github.com/neilb/Module-Path/pull/24", "state": "open", "relpath": "/pull/24" },
                                 { "url": "https://github.com/neilb/Module-Path/pull/23", "state": "open", "relpath": "/pull/23" },
@@ -109,15 +103,6 @@
     },
     {
         "done":             false,
-        "assignee":         { "github_username": "Viviparous" },
-        "distname":         "WWW-Mechanize-Cached",
-        "released_by":      { "pause_id": "OALDERS" },
-        "repo":             { "url": "https://github.com/oalders/www-mechanize-cached", "relpath": "oalders/www-mechanize-cached" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
         "assignee":         { "github_username": "alabamapaul" },
         "distname":         "Bot-Cobalt",
         "released_by":      { "pause_id": "AVENJ" },
@@ -136,12 +121,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "pauloscustodio" },
         "distname":         "POE-Component-Client-DNS",
         "released_by":      { "pause_id": "RCAPUTO" },
         "repo":             { "url": "https://github.com/rcaputo/poe-component-client-dns", "relpath": "rcaputo/poe-component-client-dns" },
         "pull_requests":    [
+                                { "url": "https://github.com/rcaputo/poe-component-client-dns/pull/4", "state": "open", "relpath": "/pull/4" }
                             ]
     },
     {
@@ -167,16 +153,17 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jmaslak" },
         "distname":         "Alien-Leptonica",
         "released_by":      { "pause_id": "ZMUGHAL" },
         "repo":             { "url": "https://github.com/zmughal/p5-Alien-Leptonica", "relpath": "zmughal/p5-Alien-Leptonica" },
         "pull_requests":    [
+                                { "url": "https://github.com/EntropyOrg/p5-Alien-Leptonica/pull/10", "state": "merged", "relpath": "/pull/10" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "openstrike" },
         "distname":         "Ref-Util",
         "released_by":      { "pause_id": "XSAWYERX" },
@@ -192,6 +179,7 @@
         "released_by":      { "pause_id": "SULLR" },
         "repo":             { "url": "https://github.com/noxxi/p5-io-socket-ssl", "relpath": "noxxi/p5-io-socket-ssl" },
         "pull_requests":    [
+                                { "url": "https://github.com/noxxi/p5-io-socket-ssl/pull/44", "state": "merged", "relpath": "/pull/44" }
                             ]
     },
     {
@@ -205,12 +193,14 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "dionys" },
         "distname":         "Test-Deep",
         "released_by":      { "pause_id": "RJBS" },
         "repo":             { "url": "https://github.com/rjbs/Test-Deep", "relpath": "rjbs/Test-Deep" },
         "pull_requests":    [
+                                { "url": "https://github.com/rjbs/Test-Deep/pull/45", "state": "open", "relpath": "/pull/45" },
+                                { "url": "https://github.com/rjbs/Test-Deep/pull/44", "state": "open", "relpath": "/pull/44" }
                             ]
     },
     {

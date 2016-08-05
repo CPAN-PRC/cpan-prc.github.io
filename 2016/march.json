@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "March",
- "generated": { "date": "2016-07-26", "time": "20:50:42" },
- "stats": { "done": "29", "total": "34", "percent": "85.3" },
+ "generated": { "date": "2016-08-05", "time": "11:02:49" },
+ "stats": { "done": "30", "total": "34", "percent": "88.2" },
  "assignments": [
 
     {
@@ -357,7 +357,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "monsieurp" },
         "distname":         "URI-Find",
         "released_by":      { "pause_id": "MSCHWERN" },

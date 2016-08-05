@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "June",
- "generated": { "date": "2016-07-26", "time": "20:52:15" },
- "stats": { "done": "18", "total": "35", "percent": "51.4" },
+ "generated": { "date": "2016-08-05", "time": "11:03:52" },
+ "stats": { "done": "20", "total": "36", "percent": "55.6" },
  "assignments": [
 
     {
@@ -17,7 +17,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jluis" },
         "distname":         "Pinto",
         "released_by":      { "pause_id": "THALJEF" },
@@ -344,6 +344,16 @@
         "repo":             { "url": "https://github.com/neilb/URI-Fetch", "relpath": "neilb/URI-Fetch" },
         "pull_requests":    [
                                 { "url": "https://github.com/neilb/URI-Fetch/pull/1", "state": "merged", "relpath": "/pull/1" }
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "monsieurp" },
+        "distname":         "Test-Portability-Files",
+        "released_by":      { "pause_id": "ABRAXXA" },
+        "repo":             { "url": "https://github.com/abraxxa/Test-Portability-Files", "relpath": "abraxxa/Test-Portability-Files" },
+        "pull_requests":    [
+                                { "url": "https://github.com/abraxxa/Test-Portability-Files/pull/6", "state": "open", "relpath": "/pull/6" }
                             ]
     }
  ]

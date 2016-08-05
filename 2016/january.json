@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "January",
- "generated": { "date": "2016-07-26", "time": "20:49:31" },
- "stats": { "done": "52", "total": "63", "percent": "82.5" },
+ "generated": { "date": "2016-08-05", "time": "11:01:55" },
+ "stats": { "done": "52", "total": "62", "percent": "83.9" },
  "assignments": [
 
     {
@@ -304,15 +304,6 @@
         "repo":             { "url": "https://github.com/perl-pod/pod-simple", "relpath": "perl-pod/pod-simple" },
         "pull_requests":    [
                                 { "url": "https://github.com/perl-pod/pod-simple/pull/83", "state": "merged", "relpath": "/pull/83" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "tynovsky" },
-        "distname":         "Zonemaster",
-        "released_by":      { "pause_id": "IIS" },
-        "repo":             { "url": "https://github.com/dotse/zonemaster-engine", "relpath": "dotse/zonemaster-engine" },
-        "pull_requests":    [
                             ]
     },
     {
