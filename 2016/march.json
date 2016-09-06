@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "March",
- "generated": { "date": "2016-08-05", "time": "11:02:49" },
- "stats": { "done": "30", "total": "34", "percent": "88.2" },
+ "generated": { "date": "2016-09-06", "time": "20:15:30" },
+ "stats": { "done": "30", "total": "30", "percent": "100.0" },
  "assignments": [
 
     {
@@ -54,15 +54,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "skington" },
-        "distname":         "App-RecordStream",
-        "released_by":      { "pause_id": "TSIBLEY" },
-        "repo":             { "url": "https://github.com/benbernard/RecordStream", "relpath": "benbernard/RecordStream" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "xsawyerx" },
         "distname":         "Test-Database",
@@ -107,7 +98,7 @@
         "done":             true,
         "assignee":         { "github_username": "stevieb9" },
         "distname":         "Dancer-Plugin-Database",
-        "released_by":      { "pause_id": "AMBS" },
+        "released_by":      { "pause_id": "BIGPRESH" },
         "repo":             { "url": "https://github.com/bigpresh/Dancer-Plugin-Database", "relpath": "bigpresh/Dancer-Plugin-Database" },
         "pull_requests":    [
                                 { "url": "https://github.com/bigpresh/Dancer-Plugin-Database/pull/81", "state": "merged", "relpath": "/pull/81" }
@@ -256,15 +247,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "nawglan" },
-        "distname":         "SVG-TT-Graph",
-        "released_by":      { "pause_id": "LLAP" },
-        "repo":             { "url": "https://github.com/ranguard/svg-tt-graph", "relpath": "ranguard/svg-tt-graph" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "davorg" },
         "distname":         "Alien-TALib",
@@ -316,24 +298,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "bpa" },
-        "distname":         "Time-Piece",
-        "released_by":      { "pause_id": "ESAYM" },
-        "repo":             { "url": "https://github.com/rjbs/Time-Piece", "relpath": "rjbs/Time-Piece" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "mephinet" },
-        "distname":         "Net-Works",
-        "released_by":      { "pause_id": "MAXMIND" },
-        "repo":             { "url": "https://github.com/maxmind/Net-Works", "relpath": "maxmind/Net-Works" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "genehack" },
         "distname":         "Text-Markup",
@@ -363,7 +327,7 @@
         "released_by":      { "pause_id": "MSCHWERN" },
         "repo":             { "url": "https://github.com/schwern/URI-Find", "relpath": "schwern/URI-Find" },
         "pull_requests":    [
-                                { "url": "https://github.com/schwern/URI-Find/pull/14", "state": "open", "relpath": "/pull/14" }
+                                { "url": "https://github.com/schwern/URI-Find/pull/14", "state": "merged", "relpath": "/pull/14" }
                             ]
     }
  ]

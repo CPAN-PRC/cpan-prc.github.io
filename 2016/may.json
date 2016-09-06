@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "May",
- "generated": { "date": "2016-08-05", "time": "11:03:33" },
- "stats": { "done": "20", "total": "26", "percent": "76.9" },
+ "generated": { "date": "2016-09-06", "time": "20:16:28" },
+ "stats": { "done": "21", "total": "26", "percent": "80.8" },
  "assignments": [
 
     {
@@ -26,12 +26,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "nbezzala" },
         "distname":         "re-engine-PCRE",
         "released_by":      { "pause_id": "AVAR" },
         "repo":             { "url": "https://github.com/avar/re-engine-pcre", "relpath": "avar/re-engine-pcre" },
         "pull_requests":    [
+                                { "url": "https://github.com/avar/re-engine-pcre/pull/4", "state": "open", "relpath": "/pull/4" }
                             ]
     },
     {

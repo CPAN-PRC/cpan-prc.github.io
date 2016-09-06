@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "June",
- "generated": { "date": "2016-08-05", "time": "11:03:52" },
+ "generated": { "date": "2016-09-06", "time": "20:16:58" },
  "stats": { "done": "20", "total": "36", "percent": "55.6" },
  "assignments": [
 
@@ -142,7 +142,7 @@
         "released_by":      { "pause_id": "MSCHWERN" },
         "repo":             { "url": "https://github.com/schwern/Class-Virtual", "relpath": "schwern/Class-Virtual" },
         "pull_requests":    [
-                                { "url": "https://github.com/schwern/Class-Virtual/pull/3", "state": "open", "relpath": "/pull/3" }
+                                { "url": "https://github.com/schwern/Class-Virtual/pull/3", "state": "merged", "relpath": "/pull/3" }
                             ]
     },
     {

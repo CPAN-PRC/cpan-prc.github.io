@@ -1,0 +1,146 @@
+{
+ "year": "2016",
+ "month": "September",
+ "generated": { "date": "2016-09-06", "time": "20:17:53" },
+ "stats": { "done": "0", "total": "15", "percent": "0.0" },
+ "assignments": [
+
+    {
+        "done":             false,
+        "assignee":         { "github_username": "paultcochrane" },
+        "distname":         "Test-Exception-LessClever",
+        "released_by":      { "pause_id": "EXODIST" },
+        "repo":             { "url": "https://github.com/exodist/Test-Exception-LessClever", "relpath": "exodist/Test-Exception-LessClever" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "Varadinsky" },
+        "distname":         "Prima",
+        "released_by":      { "pause_id": "KARASIK" },
+        "repo":             { "url": "https://github.com/dk/Prima", "relpath": "dk/Prima" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "openstrike" },
+        "distname":         "App-DPath",
+        "released_by":      { "pause_id": "SCHWIGON" },
+        "repo":             { "url": "https://github.com/renormalist/app-dpath", "relpath": "renormalist/app-dpath" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "nbezzala" },
+        "distname":         "HTML-ParseBrowser",
+        "released_by":      { "pause_id": "NEILB" },
+        "repo":             { "url": "https://github.com/neilb/HTML-ParseBrowser", "relpath": "neilb/HTML-ParseBrowser" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "yanick" },
+        "distname":         "WWW-Mechanize-Cached",
+        "released_by":      { "pause_id": "OALDERS" },
+        "repo":             { "url": "https://github.com/oalders/www-mechanize-cached", "relpath": "oalders/www-mechanize-cached" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "lancew" },
+        "distname":         "CatalystX-ExtJS-Direct",
+        "released_by":      { "pause_id": "PERLER" },
+        "repo":             { "url": "https://github.com/monken/p5-catalystx-extjs-direct", "relpath": "monken/p5-catalystx-extjs-direct" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "ambs" },
+        "distname":         "Catalyst-Controller-Validation-DFV",
+        "released_by":      { "pause_id": "CHISEL" },
+        "repo":             { "url": "https://github.com/chiselwright/catalyst-validation-dfv", "relpath": "chiselwright/catalyst-validation-dfv" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "jmaslak" },
+        "distname":         "POE-Component-Client-Ping",
+        "released_by":      { "pause_id": "RCAPUTO" },
+        "repo":             { "url": "https://github.com/rcaputo/poe-component-client-ping", "relpath": "rcaputo/poe-component-client-ping" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "pauloscustodio" },
+        "distname":         "Data-Rmap",
+        "released_by":      { "pause_id": "BOWMANBS" },
+        "repo":             { "url": "https://github.com/bowman/Data-Rmap", "relpath": "bowman/Data-Rmap" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "manwar" },
+        "distname":         "WWW-Pastebin-PastebinCa-Retrieve",
+        "released_by":      { "pause_id": "ZOFFIX" },
+        "repo":             { "url": "https://github.com/zoffixznet/www-pastebin-pastebinca-retrieve", "relpath": "zoffixznet/www-pastebin-pastebinca-retrieve" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "lharey" },
+        "distname":         "HTML-Selector-XPath",
+        "released_by":      { "pause_id": "CORION" },
+        "repo":             { "url": "https://github.com/Corion/HTML-Selector-XPath", "relpath": "Corion/HTML-Selector-XPath" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "shlomif" },
+        "distname":         "MooseX-Role-Loggable",
+        "released_by":      { "pause_id": "XSAWYERX" },
+        "repo":             { "url": "https://github.com/xsawyerx/moosex-role-loggable", "relpath": "xsawyerx/moosex-role-loggable" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "genio" },
+        "distname":         "Math-FFT",
+        "released_by":      { "pause_id": "SHLOMIF" },
+        "repo":             { "url": "https://github.com/shlomif/perl-Math-FFT", "relpath": "shlomif/perl-Math-FFT" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "Viviparous" },
+        "distname":         "Beam-Emitter",
+        "released_by":      { "pause_id": "PREACTION" },
+        "repo":             { "url": "https://github.com/preaction/Beam-Emitter", "relpath": "preaction/Beam-Emitter" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "choroba" },
+        "distname":         "String-Interpolate",
+        "released_by":      { "pause_id": "NEILB" },
+        "repo":             { "url": "https://github.com/neilbowers/String-Interpolate", "relpath": "neilbowers/String-Interpolate" },
+        "pull_requests":    [
+                                { "url": "https://github.com/neilb/String-Interpolate/pull/2", "state": "open", "relpath": "/pull/2" }
+                            ]
+    }
+ ]
+}
+

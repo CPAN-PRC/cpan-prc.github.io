@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "February",
- "generated": { "date": "2016-08-05", "time": "11:02:28" },
+ "generated": { "date": "2016-09-06", "time": "20:15:05" },
  "stats": { "done": "31", "total": "32", "percent": "96.9" },
  "assignments": [
 
@@ -196,7 +196,7 @@
         "released_by":      { "pause_id": "RRWO" },
         "repo":             { "url": "https://github.com/bigpresh/Pod-Readme", "relpath": "bigpresh/Pod-Readme" },
         "pull_requests":    [
-                                { "url": "https://github.com/bigpresh/Pod-Readme/pull/18", "state": "open", "relpath": "/pull/18" }
+                                { "url": "https://github.com/bigpresh/Pod-Readme/pull/18", "state": "merged", "relpath": "/pull/18" }
                             ]
     },
     {

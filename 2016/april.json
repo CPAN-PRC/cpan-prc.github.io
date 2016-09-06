@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "April",
- "generated": { "date": "2016-08-05", "time": "11:03:13" },
- "stats": { "done": "23", "total": "29", "percent": "79.3" },
+ "generated": { "date": "2016-09-06", "time": "20:15:54" },
+ "stats": { "done": "23", "total": "25", "percent": "92.0" },
  "assignments": [
 
     {
@@ -20,7 +20,7 @@
         "assignee":         { "github_username": "pauloscustodio" },
         "distname":         "Archive-Zip",
         "released_by":      { "pause_id": "PHRED" },
-        "repo":             { "url": "https://github.com/redhotpenguin/perl-Archive-Zip-svn", "relpath": "redhotpenguin/perl-Archive-Zip-svn" },
+        "repo":             { "url": "https://github.com/redhotpenguin/perl-Archive-Zip", "relpath": "redhotpenguin/perl-Archive-Zip" },
         "pull_requests":    [
                                 { "url": "https://github.com/redhotpenguin/perl-Archive-Zip/pull/28", "state": "merged", "relpath": "/pull/28" },
                                 { "url": "https://github.com/redhotpenguin/perl-Archive-Zip/pull/19", "state": "merged", "relpath": "/pull/19" }
@@ -78,15 +78,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "omega" },
-        "distname":         "Tk-FontDialog",
-        "released_by":      { "pause_id": "SREZIC" },
-        "repo":             { "url": "https://github.com/eserte/tk-fontdialog", "relpath": "eserte/tk-fontdialog" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "kaoru" },
         "distname":         "DBIx-Class-InflateColumn-Serializer",
@@ -129,7 +120,7 @@
         "done":             true,
         "assignee":         { "github_username": "manwar" },
         "distname":         "Dancer2-Plugin-Database",
-        "released_by":      { "pause_id": "AMBS" },
+        "released_by":      { "pause_id": "BIGPRESH" },
         "repo":             { "url": "https://github.com/bigpresh/Dancer-Plugin-Database", "relpath": "bigpresh/Dancer-Plugin-Database" },
         "pull_requests":    [
                                 { "url": "https://github.com/bigpresh/Dancer-Plugin-Database/pull/83", "state": "merged", "relpath": "/pull/83" }
@@ -161,15 +152,6 @@
         "repo":             { "url": "https://github.com/robkinyon/dbix-class-sims", "relpath": "robkinyon/dbix-class-sims" },
         "pull_requests":    [
                                 { "url": "https://github.com/robkinyon/dbix-class-sims/pull/21", "state": "merged", "relpath": "/pull/21" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "davorg" },
-        "distname":         "POE-Component-Client-HTTP",
-        "released_by":      { "pause_id": "RCAPUTO" },
-        "repo":             { "url": "https://github.com/rcaputo/poe-component-client-http", "relpath": "rcaputo/poe-component-client-http" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -273,24 +255,6 @@
         "repo":             { "url": "https://github.com/ronsavage/Regexp-Assemble", "relpath": "ronsavage/Regexp-Assemble" },
         "pull_requests":    [
                                 { "url": "https://github.com/ronsavage/Regexp-Assemble/pull/5", "state": "merged", "relpath": "/pull/5" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "jhunt" },
-        "distname":         "Test-Vars",
-        "released_by":      { "pause_id": "GFUJI" },
-        "repo":             { "url": "https://github.com/gfx/p5-Test-Vars", "relpath": "gfx/p5-Test-Vars" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "itcharlie" },
-        "distname":         "Data-Transpose",
-        "released_by":      { "pause_id": "HORNBURG" },
-        "repo":             { "url": "https://github.com/racke/Data-Transpose", "relpath": "racke/Data-Transpose" },
-        "pull_requests":    [
                             ]
     }
  ]

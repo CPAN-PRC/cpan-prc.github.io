@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "July",
- "generated": { "date": "2016-08-05", "time": "11:04:13" },
- "stats": { "done": "15", "total": "20", "percent": "75.0" },
+ "generated": { "date": "2016-09-06", "time": "20:17:28" },
+ "stats": { "done": "16", "total": "20", "percent": "80.0" },
  "assignments": [
 
     {
@@ -98,7 +98,7 @@
         "released_by":      { "pause_id": "KAORU" },
         "repo":             { "url": "https://github.com/evdb/HTTP-Async", "relpath": "evdb/HTTP-Async" },
         "pull_requests":    [
-                                { "url": "https://github.com/evdb/HTTP-Async/pull/14", "state": "open", "relpath": "/pull/14" }
+                                { "url": "https://github.com/evdb/HTTP-Async/pull/14", "state": "merged", "relpath": "/pull/14" }
                             ]
     },
     {
@@ -157,7 +157,7 @@
         "assignee":         { "github_username": "jmaslak" },
         "distname":         "Alien-Leptonica",
         "released_by":      { "pause_id": "ZMUGHAL" },
-        "repo":             { "url": "https://github.com/zmughal/p5-Alien-Leptonica", "relpath": "zmughal/p5-Alien-Leptonica" },
+        "repo":             { "url": "https://github.com/EntropyOrg/p5-Alien-Leptonica", "relpath": "EntropyOrg/p5-Alien-Leptonica" },
         "pull_requests":    [
                                 { "url": "https://github.com/EntropyOrg/p5-Alien-Leptonica/pull/10", "state": "merged", "relpath": "/pull/10" }
                             ]
@@ -173,7 +173,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "choroba" },
         "distname":         "IO-Socket-SSL",
         "released_by":      { "pause_id": "SULLR" },

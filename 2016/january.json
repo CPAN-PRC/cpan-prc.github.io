@@ -1,28 +1,10 @@
 {
  "year": "2016",
  "month": "January",
- "generated": { "date": "2016-08-05", "time": "11:01:55" },
- "stats": { "done": "52", "total": "62", "percent": "83.9" },
+ "generated": { "date": "2016-09-06", "time": "20:14:36" },
+ "stats": { "done": "52", "total": "55", "percent": "94.5" },
  "assignments": [
 
-    {
-        "done":             false,
-        "assignee":         { "github_username": "ivanwills" },
-        "distname":         "PDF-API2",
-        "released_by":      { "pause_id": "SSIMMS" },
-        "repo":             { "url": "https://github.com/ssimms/pdfapi2", "relpath": "ssimms/pdfapi2" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "lucaskanashiro" },
-        "distname":         "Reflex",
-        "released_by":      { "pause_id": "RCAPUTO" },
-        "repo":             { "url": "https://github.com/rcaputo/reflex", "relpath": "rcaputo/reflex" },
-        "pull_requests":    [
-                            ]
-    },
     {
         "done":             true,
         "assignee":         { "github_username": "kaoru" },
@@ -258,15 +240,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "rvandam" },
-        "distname":         "Beam-Wire",
-        "released_by":      { "pause_id": "PREACTION" },
-        "repo":             { "url": "https://github.com/preaction/Beam-Wire", "relpath": "preaction/Beam-Wire" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "brianmed" },
         "distname":         "Number-Format",
@@ -458,15 +431,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "daleevans" },
-        "distname":         "GraphViz",
-        "released_by":      { "pause_id": "RSAVAGE" },
-        "repo":             { "url": "https://github.com/ronsavage/GraphViz", "relpath": "ronsavage/GraphViz" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "zhouzhen1" },
         "distname":         "Juju",
@@ -474,15 +438,6 @@
         "repo":             { "url": "https://github.com/battlemidget/p5-juju", "relpath": "battlemidget/p5-juju" },
         "pull_requests":    [
                                 { "url": "https://github.com/battlemidget/p5-juju/pull/2", "state": "merged", "relpath": "/pull/2" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "jscook" },
-        "distname":         "HTML-ParseBrowser",
-        "released_by":      { "pause_id": "NEILB" },
-        "repo":             { "url": "https://github.com/neilb/HTML-ParseBrowser", "relpath": "neilb/HTML-ParseBrowser" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -513,15 +468,6 @@
         "repo":             { "url": "https://github.com/rjbs/Data-UUID", "relpath": "rjbs/Data-UUID" },
         "pull_requests":    [
                                 { "url": "https://github.com/rjbs/Data-UUID/pull/22", "state": "open", "relpath": "/pull/22" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "LesleyB" },
-        "distname":         "parent",
-        "released_by":      { "pause_id": "CORION" },
-        "repo":             { "url": "https://github.com/Corion/parent", "relpath": "Corion/parent" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -612,15 +558,6 @@
         "repo":             { "url": "https://github.com/reyjrar/Parse-Syslog-Line", "relpath": "reyjrar/Parse-Syslog-Line" },
         "pull_requests":    [
                                 { "url": "https://github.com/reyjrar/Parse-Syslog-Line/pull/13", "state": "merged", "relpath": "/pull/13" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "deven" },
-        "distname":         "Role-REST-Client",
-        "released_by":      { "pause_id": "KAARE" },
-        "repo":             { "url": "https://github.com/kaare/Role-REST-Client", "relpath": "kaare/Role-REST-Client" },
-        "pull_requests":    [
                             ]
     },
     {
