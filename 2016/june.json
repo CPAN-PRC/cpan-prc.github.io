@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "June",
- "generated": { "date": "2016-09-06", "time": "20:16:58" },
+ "generated": { "date": "2016-09-21", "time": "08:20:42" },
  "stats": { "done": "20", "total": "36", "percent": "55.6" },
  "assignments": [
 
@@ -34,7 +34,7 @@
         "released_by":      { "pause_id": "PJCJ" },
         "repo":             { "url": "https://github.com/pjcj/Gedcom.pm", "relpath": "pjcj/Gedcom.pm" },
         "pull_requests":    [
-                                { "url": "https://github.com/pjcj/Gedcom.pm/pull/17", "state": "open", "relpath": "/pull/17" }
+                                { "url": "https://github.com/pjcj/Gedcom.pm/pull/17", "state": "closed", "relpath": "/pull/17" }
                             ]
     },
     {

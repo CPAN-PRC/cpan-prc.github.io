@@ -1,19 +1,10 @@
 {
  "year": "2016",
  "month": "September",
- "generated": { "date": "2016-09-06", "time": "20:17:53" },
+ "generated": { "date": "2016-09-21", "time": "08:21:19" },
  "stats": { "done": "0", "total": "15", "percent": "0.0" },
  "assignments": [
 
-    {
-        "done":             false,
-        "assignee":         { "github_username": "paultcochrane" },
-        "distname":         "Test-Exception-LessClever",
-        "released_by":      { "pause_id": "EXODIST" },
-        "repo":             { "url": "https://github.com/exodist/Test-Exception-LessClever", "relpath": "exodist/Test-Exception-LessClever" },
-        "pull_requests":    [
-                            ]
-    },
     {
         "done":             false,
         "assignee":         { "github_username": "Varadinsky" },
@@ -111,6 +102,7 @@
         "released_by":      { "pause_id": "XSAWYERX" },
         "repo":             { "url": "https://github.com/xsawyerx/moosex-role-loggable", "relpath": "xsawyerx/moosex-role-loggable" },
         "pull_requests":    [
+                                { "url": "https://github.com/xsawyerx/moosex-role-loggable/pull/3", "state": "open", "relpath": "/pull/3" }
                             ]
     },
     {
@@ -120,6 +112,9 @@
         "released_by":      { "pause_id": "SHLOMIF" },
         "repo":             { "url": "https://github.com/shlomif/perl-Math-FFT", "relpath": "shlomif/perl-Math-FFT" },
         "pull_requests":    [
+                                { "url": "https://github.com/shlomif/perl-Math-FFT/pull/3", "state": "merged", "relpath": "/pull/3" },
+                                { "url": "https://github.com/shlomif/perl-Math-FFT/pull/2", "state": "merged", "relpath": "/pull/2" },
+                                { "url": "https://github.com/shlomif/perl-Math-FFT/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]
     },
     {
@@ -139,6 +134,15 @@
         "repo":             { "url": "https://github.com/neilbowers/String-Interpolate", "relpath": "neilbowers/String-Interpolate" },
         "pull_requests":    [
                                 { "url": "https://github.com/neilb/String-Interpolate/pull/2", "state": "open", "relpath": "/pull/2" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "paultcochrane" },
+        "distname":         "PDF-API2",
+        "released_by":      { "pause_id": "SSIMMS" },
+        "repo":             { "url": "https://github.com/ssimms/pdfapi2", "relpath": "ssimms/pdfapi2" },
+        "pull_requests":    [
                             ]
     }
  ]

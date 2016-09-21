@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "July",
- "generated": { "date": "2016-09-06", "time": "20:17:28" },
- "stats": { "done": "16", "total": "20", "percent": "80.0" },
+ "generated": { "date": "2016-09-21", "time": "08:20:57" },
+ "stats": { "done": "16", "total": "19", "percent": "84.2" },
  "assignments": [
 
     {
@@ -45,22 +45,13 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "kyzn" },
-        "distname":         "HTML-Mason",
-        "released_by":      { "pause_id": "DROLSKY" },
-        "repo":             { "url": "https://github.com/autarch/HTML-Mason", "relpath": "autarch/HTML-Mason" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "Varadinsky" },
         "distname":         "Number-Phone",
         "released_by":      { "pause_id": "DCANTRELL" },
         "repo":             { "url": "https://github.com/DrHyde/perl-modules-Number-Phone", "relpath": "DrHyde/perl-modules-Number-Phone" },
         "pull_requests":    [
-                                { "url": "https://github.com/DrHyde/perl-modules-Number-Phone/pull/61", "state": "open", "relpath": "/pull/61" }
+                                { "url": "https://github.com/DrHyde/perl-modules-Number-Phone/pull/61", "state": "merged", "relpath": "/pull/61" }
                             ]
     },
     {
@@ -88,7 +79,7 @@
         "released_by":      { "pause_id": "MANWAR" },
         "repo":             { "url": "https://github.com/manwar/pdf-create", "relpath": "manwar/pdf-create" },
         "pull_requests":    [
-                                { "url": "https://github.com/Manwar/pdf-create/pull/10", "state": "open", "relpath": "/pull/10" }
+                                { "url": "https://github.com/Manwar/pdf-create/pull/10", "state": "merged", "relpath": "/pull/10" }
                             ]
     },
     {
