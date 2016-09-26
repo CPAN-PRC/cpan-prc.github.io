@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "September",
- "generated": { "date": "2016-09-21", "time": "08:21:19" },
- "stats": { "done": "0", "total": "15", "percent": "0.0" },
+ "generated": { "date": "2016-09-26", "time": "23:12:30" },
+ "stats": { "done": "4", "total": "18", "percent": "22.2" },
  "assignments": [
 
     {
@@ -39,15 +39,18 @@
         "released_by":      { "pause_id": "OALDERS" },
         "repo":             { "url": "https://github.com/oalders/www-mechanize-cached", "relpath": "oalders/www-mechanize-cached" },
         "pull_requests":    [
+                                { "url": "https://github.com/libwww-perl/www-mechanize-cached/pull/13", "state": "open", "relpath": "/pull/13" },
+                                { "url": "https://github.com/libwww-perl/www-mechanize-cached/pull/12", "state": "open", "relpath": "/pull/12" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "lancew" },
         "distname":         "CatalystX-ExtJS-Direct",
         "released_by":      { "pause_id": "PERLER" },
         "repo":             { "url": "https://github.com/monken/p5-catalystx-extjs-direct", "relpath": "monken/p5-catalystx-extjs-direct" },
         "pull_requests":    [
+                                { "url": "https://github.com/monken/p5-catalystx-extjs-direct/pull/2", "state": "open", "relpath": "/pull/2" }
                             ]
     },
     {
@@ -75,6 +78,7 @@
         "released_by":      { "pause_id": "BOWMANBS" },
         "repo":             { "url": "https://github.com/bowman/Data-Rmap", "relpath": "bowman/Data-Rmap" },
         "pull_requests":    [
+                                { "url": "https://github.com/bowman/Data-Rmap/pull/5", "state": "open", "relpath": "/pull/5" }
                             ]
     },
     {
@@ -84,19 +88,21 @@
         "released_by":      { "pause_id": "ZOFFIX" },
         "repo":             { "url": "https://github.com/zoffixznet/www-pastebin-pastebinca-retrieve", "relpath": "zoffixznet/www-pastebin-pastebinca-retrieve" },
         "pull_requests":    [
+                                { "url": "https://github.com/zoffixznet/WWW-Pastebin-PastebinCa-Retrieve/pull/2", "state": "merged", "relpath": "/pull/2" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "lharey" },
         "distname":         "HTML-Selector-XPath",
         "released_by":      { "pause_id": "CORION" },
         "repo":             { "url": "https://github.com/Corion/HTML-Selector-XPath", "relpath": "Corion/HTML-Selector-XPath" },
         "pull_requests":    [
+                                { "url": "https://github.com/Corion/HTML-Selector-XPath/pull/6", "state": "merged", "relpath": "/pull/6" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "shlomif" },
         "distname":         "MooseX-Role-Loggable",
         "released_by":      { "pause_id": "XSAWYERX" },
@@ -106,7 +112,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "genio" },
         "distname":         "Math-FFT",
         "released_by":      { "pause_id": "SHLOMIF" },
@@ -142,6 +148,38 @@
         "distname":         "PDF-API2",
         "released_by":      { "pause_id": "SSIMMS" },
         "repo":             { "url": "https://github.com/ssimms/pdfapi2", "relpath": "ssimms/pdfapi2" },
+        "pull_requests":    [
+                                { "url": "https://github.com/ssimms/pdfapi2/pull/9", "state": "open", "relpath": "/pull/9" },
+                                { "url": "https://github.com/ssimms/pdfapi2/pull/8", "state": "open", "relpath": "/pull/8" },
+                                { "url": "https://github.com/ssimms/pdfapi2/pull/7", "state": "open", "relpath": "/pull/7" },
+                                { "url": "https://github.com/ssimms/pdfapi2/pull/6", "state": "open", "relpath": "/pull/6" },
+                                { "url": "https://github.com/ssimms/pdfapi2/pull/5", "state": "open", "relpath": "/pull/5" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "itcharlie" },
+        "distname":         "Locale-Codes",
+        "released_by":      { "pause_id": "SBECK" },
+        "repo":             { "url": "https://github.com/SBECK-github/Locale-Codes", "relpath": "SBECK-github/Locale-Codes" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "dionys" },
+        "distname":         "Image-Xpm",
+        "released_by":      { "pause_id": "SREZIC" },
+        "repo":             { "url": "https://github.com/eserte/image-xpm", "relpath": "eserte/image-xpm" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "jluis" },
+        "distname":         "Text-vCard",
+        "released_by":      { "pause_id": "LLAP" },
+        "repo":             { "url": "https://github.com/ranguard/text-vcard", "relpath": "ranguard/text-vcard" },
         "pull_requests":    [
                             ]
     }

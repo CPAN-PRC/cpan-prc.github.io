@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "August",
- "generated": { "date": "2016-09-21", "time": "08:21:09" },
- "stats": { "done": "14", "total": "19", "percent": "73.7" },
+ "generated": { "date": "2016-09-26", "time": "23:12:18" },
+ "stats": { "done": "15", "total": "18", "percent": "83.3" },
  "assignments": [
 
     {
@@ -93,15 +93,6 @@
     },
     {
         "done":             false,
-        "assignee":         { "github_username": "dionys" },
-        "distname":         "Net-SFTP-Foreign",
-        "released_by":      { "pause_id": "SALVA" },
-        "repo":             { "url": "https://github.com/salva/p5-Net-SFTP-Foreign", "relpath": "salva/p5-Net-SFTP-Foreign" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
         "assignee":         { "github_username": "monsieurp" },
         "distname":         "Tree-Binary",
         "released_by":      { "pause_id": "RSAVAGE" },
@@ -168,7 +159,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jluis" },
         "distname":         "List-Objects-WithUtils",
         "released_by":      { "pause_id": "AVENJ" },

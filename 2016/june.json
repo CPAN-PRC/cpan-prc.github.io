@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "June",
- "generated": { "date": "2016-09-21", "time": "08:20:42" },
+ "generated": { "date": "2016-09-26", "time": "23:11:49" },
  "stats": { "done": "20", "total": "36", "percent": "55.6" },
  "assignments": [
 
@@ -353,7 +353,7 @@
         "released_by":      { "pause_id": "ABRAXXA" },
         "repo":             { "url": "https://github.com/abraxxa/Test-Portability-Files", "relpath": "abraxxa/Test-Portability-Files" },
         "pull_requests":    [
-                                { "url": "https://github.com/abraxxa/Test-Portability-Files/pull/6", "state": "open", "relpath": "/pull/6" }
+                                { "url": "https://github.com/abraxxa/Test-Portability-Files/pull/6", "state": "closed", "relpath": "/pull/6" }
                             ]
     }
  ]
