@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "September",
- "generated": { "date": "2016-09-26", "time": "23:12:30" },
- "stats": { "done": "4", "total": "18", "percent": "22.2" },
+ "generated": { "date": "2016-10-05", "time": "20:13:46" },
+ "stats": { "done": "11", "total": "16", "percent": "68.8" },
  "assignments": [
 
     {
@@ -15,12 +15,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "openstrike" },
         "distname":         "App-DPath",
         "released_by":      { "pause_id": "SCHWIGON" },
         "repo":             { "url": "https://github.com/renormalist/app-dpath", "relpath": "renormalist/app-dpath" },
         "pull_requests":    [
+                                { "url": "https://github.com/renormalist/app-dpath/pull/8", "state": "open", "relpath": "/pull/8" }
                             ]
     },
     {
@@ -33,14 +34,14 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "yanick" },
         "distname":         "WWW-Mechanize-Cached",
         "released_by":      { "pause_id": "OALDERS" },
         "repo":             { "url": "https://github.com/oalders/www-mechanize-cached", "relpath": "oalders/www-mechanize-cached" },
         "pull_requests":    [
-                                { "url": "https://github.com/libwww-perl/www-mechanize-cached/pull/13", "state": "open", "relpath": "/pull/13" },
-                                { "url": "https://github.com/libwww-perl/www-mechanize-cached/pull/12", "state": "open", "relpath": "/pull/12" }
+                                { "url": "https://github.com/libwww-perl/www-mechanize-cached/pull/13", "state": "merged", "relpath": "/pull/13" },
+                                { "url": "https://github.com/libwww-perl/www-mechanize-cached/pull/12", "state": "merged", "relpath": "/pull/12" }
                             ]
     },
     {
@@ -54,25 +55,17 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "ambs" },
-        "distname":         "Catalyst-Controller-Validation-DFV",
-        "released_by":      { "pause_id": "CHISEL" },
-        "repo":             { "url": "https://github.com/chiselwright/catalyst-validation-dfv", "relpath": "chiselwright/catalyst-validation-dfv" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jmaslak" },
         "distname":         "POE-Component-Client-Ping",
         "released_by":      { "pause_id": "RCAPUTO" },
         "repo":             { "url": "https://github.com/rcaputo/poe-component-client-ping", "relpath": "rcaputo/poe-component-client-ping" },
         "pull_requests":    [
+                                { "url": "https://github.com/rcaputo/poe-component-client-ping/pull/4", "state": "open", "relpath": "/pull/4" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "pauloscustodio" },
         "distname":         "Data-Rmap",
         "released_by":      { "pause_id": "BOWMANBS" },
@@ -82,7 +75,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "manwar" },
         "distname":         "WWW-Pastebin-PastebinCa-Retrieve",
         "released_by":      { "pause_id": "ZOFFIX" },
@@ -133,7 +126,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "choroba" },
         "distname":         "String-Interpolate",
         "released_by":      { "pause_id": "NEILB" },
@@ -143,12 +136,19 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "paultcochrane" },
         "distname":         "PDF-API2",
         "released_by":      { "pause_id": "SSIMMS" },
         "repo":             { "url": "https://github.com/ssimms/pdfapi2", "relpath": "ssimms/pdfapi2" },
         "pull_requests":    [
+                                { "url": "https://github.com/ssimms/pdfapi2/pull/16", "state": "open", "relpath": "/pull/16" },
+                                { "url": "https://github.com/ssimms/pdfapi2/pull/15", "state": "open", "relpath": "/pull/15" },
+                                { "url": "https://github.com/ssimms/pdfapi2/pull/14", "state": "open", "relpath": "/pull/14" },
+                                { "url": "https://github.com/ssimms/pdfapi2/pull/13", "state": "open", "relpath": "/pull/13" },
+                                { "url": "https://github.com/ssimms/pdfapi2/pull/12", "state": "open", "relpath": "/pull/12" },
+                                { "url": "https://github.com/ssimms/pdfapi2/pull/11", "state": "open", "relpath": "/pull/11" },
+                                { "url": "https://github.com/ssimms/pdfapi2/pull/10", "state": "open", "relpath": "/pull/10" },
                                 { "url": "https://github.com/ssimms/pdfapi2/pull/9", "state": "open", "relpath": "/pull/9" },
                                 { "url": "https://github.com/ssimms/pdfapi2/pull/8", "state": "open", "relpath": "/pull/8" },
                                 { "url": "https://github.com/ssimms/pdfapi2/pull/7", "state": "open", "relpath": "/pull/7" },
@@ -167,20 +167,13 @@
     },
     {
         "done":             false,
-        "assignee":         { "github_username": "dionys" },
-        "distname":         "Image-Xpm",
-        "released_by":      { "pause_id": "SREZIC" },
-        "repo":             { "url": "https://github.com/eserte/image-xpm", "relpath": "eserte/image-xpm" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
         "assignee":         { "github_username": "jluis" },
         "distname":         "Text-vCard",
         "released_by":      { "pause_id": "LLAP" },
         "repo":             { "url": "https://github.com/ranguard/text-vcard", "relpath": "ranguard/text-vcard" },
         "pull_requests":    [
+                                { "url": "https://github.com/ranguard/text-vcard/pull/44", "state": "open", "relpath": "/pull/44" },
+                                { "url": "https://github.com/ranguard/text-vcard/pull/43", "state": "merged", "relpath": "/pull/43" }
                             ]
     }
  ]

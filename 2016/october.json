@@ -1,0 +1,157 @@
+{
+ "year": "2016",
+ "month": "October",
+ "generated": { "date": "2016-10-05", "time": "20:13:57" },
+ "stats": { "done": "0", "total": "14", "percent": "0.0" },
+ "assignments": [
+
+    {
+        "done":             false,
+        "assignee":         { "github_username": "pauloscustodio" },
+        "distname":         "URI",
+        "released_by":      { "pause_id": "ETHER" },
+        "repo":             { "url": "https://github.com/libwww-perl/uri", "relpath": "libwww-perl/uri" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "lancew" },
+        "distname":         "Reflex",
+        "released_by":      { "pause_id": "RCAPUTO" },
+        "repo":             { "url": "https://github.com/rcaputo/reflex", "relpath": "rcaputo/reflex" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "genio" },
+        "distname":         "App-RecordStream",
+        "released_by":      { "pause_id": "TSIBLEY" },
+        "repo":             { "url": "https://github.com/benbernard/RecordStream", "relpath": "benbernard/RecordStream" },
+        "pull_requests":    [
+                                { "url": "https://github.com/benbernard/RecordStream/pull/77", "state": "open", "relpath": "/pull/77" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "manwar" },
+        "distname":         "Tk-FontDialog",
+        "released_by":      { "pause_id": "SREZIC" },
+        "repo":             { "url": "https://github.com/eserte/tk-fontdialog", "relpath": "eserte/tk-fontdialog" },
+        "pull_requests":    [
+                                { "url": "https://github.com/eserte/tk-fontdialog/pull/2", "state": "merged", "relpath": "/pull/2" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "ambs" },
+        "distname":         "Perl-Critic-StricterSubs",
+        "released_by":      { "pause_id": "THALJEF" },
+        "repo":             { "url": "https://github.com/Perl-Critic/Perl-Critic-StricterSubs", "relpath": "Perl-Critic/Perl-Critic-StricterSubs" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "yanick" },
+        "distname":         "SQL-Statement",
+        "released_by":      { "pause_id": "REHSACK" },
+        "repo":             { "url": "https://github.com/perl5-utils/SQL-Statement", "relpath": "perl5-utils/SQL-Statement" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "jmaslak" },
+        "distname":         "Role-REST-Client",
+        "released_by":      { "pause_id": "KAARE" },
+        "repo":             { "url": "https://github.com/kaare/Role-REST-Client", "relpath": "kaare/Role-REST-Client" },
+        "pull_requests":    [
+                                { "url": "https://github.com/kaare/Role-REST-Client/pull/36", "state": "open", "relpath": "/pull/36" },
+                                { "url": "https://github.com/kaare/Role-REST-Client/pull/35", "state": "open", "relpath": "/pull/35" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "choroba" },
+        "distname":         "parent",
+        "released_by":      { "pause_id": "CORION" },
+        "repo":             { "url": "https://github.com/Corion/parent", "relpath": "Corion/parent" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "paultcochrane" },
+        "distname":         "Crypt-OpenSSL-RSA",
+        "released_by":      { "pause_id": "PERLER" },
+        "repo":             { "url": "https://github.com/monken/Crypt-OpenSSL-RSA", "relpath": "monken/Crypt-OpenSSL-RSA" },
+        "pull_requests":    [
+                                { "url": "https://github.com/monken/Crypt-OpenSSL-RSA/pull/17", "state": "open", "relpath": "/pull/17" },
+                                { "url": "https://github.com/monken/Crypt-OpenSSL-RSA/pull/16", "state": "open", "relpath": "/pull/16" },
+                                { "url": "https://github.com/monken/Crypt-OpenSSL-RSA/pull/15", "state": "open", "relpath": "/pull/15" },
+                                { "url": "https://github.com/monken/Crypt-OpenSSL-RSA/pull/14", "state": "open", "relpath": "/pull/14" },
+                                { "url": "https://github.com/monken/Crypt-OpenSSL-RSA/pull/13", "state": "open", "relpath": "/pull/13" },
+                                { "url": "https://github.com/monken/Crypt-OpenSSL-RSA/pull/12", "state": "open", "relpath": "/pull/12" },
+                                { "url": "https://github.com/monken/Crypt-OpenSSL-RSA/pull/11", "state": "open", "relpath": "/pull/11" },
+                                { "url": "https://github.com/monken/Crypt-OpenSSL-RSA/pull/10", "state": "open", "relpath": "/pull/10" },
+                                { "url": "https://github.com/monken/Crypt-OpenSSL-RSA/pull/9", "state": "open", "relpath": "/pull/9" },
+                                { "url": "https://github.com/monken/Crypt-OpenSSL-RSA/pull/8", "state": "open", "relpath": "/pull/8" },
+                                { "url": "https://github.com/monken/Crypt-OpenSSL-RSA/pull/7", "state": "open", "relpath": "/pull/7" },
+                                { "url": "https://github.com/monken/Crypt-OpenSSL-RSA/pull/6", "state": "open", "relpath": "/pull/6" },
+                                { "url": "https://github.com/monken/Crypt-OpenSSL-RSA/pull/5", "state": "open", "relpath": "/pull/5" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "lharey" },
+        "distname":         "Data-Transpose",
+        "released_by":      { "pause_id": "HORNBURG" },
+        "repo":             { "url": "https://github.com/racke/Data-Transpose", "relpath": "racke/Data-Transpose" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "dionys" },
+        "distname":         "HTML-ExtractText",
+        "released_by":      { "pause_id": "ZOFFIX" },
+        "repo":             { "url": "https://github.com/zoffixznet/html-extracttext", "relpath": "zoffixznet/html-extracttext" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "kyzn" },
+        "distname":         "Catalyst-Controller-Validation-DFV",
+        "released_by":      { "pause_id": "CHISEL" },
+        "repo":             { "url": "https://github.com/chiselwright/catalyst-validation-dfv", "relpath": "chiselwright/catalyst-validation-dfv" },
+        "pull_requests":    [
+                                { "url": "https://github.com/chiselwright/catalyst-validation-dfv/pull/1", "state": "merged", "relpath": "/pull/1" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "shlomif" },
+        "distname":         "Crypt-OpenSSL-DSA",
+        "released_by":      { "pause_id": "KMX" },
+        "repo":             { "url": "https://github.com/kmx/perl-Crypt-OpenSSL-DSA", "relpath": "kmx/perl-Crypt-OpenSSL-DSA" },
+        "pull_requests":    [
+                                { "url": "https://github.com/kmx/perl-Crypt-OpenSSL-DSA/pull/2", "state": "open", "relpath": "/pull/2" },
+                                { "url": "https://github.com/kmx/perl-Crypt-OpenSSL-DSA/pull/1", "state": "open", "relpath": "/pull/1" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "openstrike" },
+        "distname":         "Time-Piece",
+        "released_by":      { "pause_id": "ESAYM" },
+        "repo":             { "url": "https://github.com/rjbs/Time-Piece", "relpath": "rjbs/Time-Piece" },
+        "pull_requests":    [
+                                { "url": "https://github.com/rjbs/Time-Piece/pull/25", "state": "open", "relpath": "/pull/25" }
+                            ]
+    }
+ ]
+}
+
