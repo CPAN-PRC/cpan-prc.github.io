@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "January",
- "generated": { "date": "2016-10-05", "time": "20:11:16" },
+ "generated": { "date": "2016-10-11", "time": "10:01:50" },
  "stats": { "done": "52", "total": "55", "percent": "94.5" },
  "assignments": [
 
@@ -32,8 +32,6 @@
         "released_by":      { "pause_id": "PEVANS" },
         "repo":             { "url": "https://github.com/Scalar-List-Utils/Scalar-List-Utils", "relpath": "Scalar-List-Utils/Scalar-List-Utils" },
         "pull_requests":    [
-                                { "url": "https://github.com/Scalar-List-Utils/Scalar-List-Utils/pull/38", "state": "closed", "relpath": "/pull/38" },
-                                { "url": "https://github.com/Scalar-List-Utils/Scalar-List-Utils/pull/37", "state": "merged", "relpath": "/pull/37" }
                             ]
     },
     {
@@ -145,7 +143,6 @@
         "released_by":      { "pause_id": "MARKF" },
         "repo":             { "url": "https://github.com/2shortplanks/Test-DatabaseRow", "relpath": "2shortplanks/Test-DatabaseRow" },
         "pull_requests":    [
-                                { "url": "https://github.com/2shortplanks/Test-DatabaseRow/pull/3", "state": "merged", "relpath": "/pull/3" }
                             ]
     },
     {

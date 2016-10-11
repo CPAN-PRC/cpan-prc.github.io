@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "October",
- "generated": { "date": "2016-10-05", "time": "20:13:57" },
- "stats": { "done": "0", "total": "14", "percent": "0.0" },
+ "generated": { "date": "2016-10-11", "time": "10:04:15" },
+ "stats": { "done": "0", "total": "15", "percent": "0.0" },
  "assignments": [
 
     {
@@ -79,6 +79,7 @@
         "released_by":      { "pause_id": "CORION" },
         "repo":             { "url": "https://github.com/Corion/parent", "relpath": "Corion/parent" },
         "pull_requests":    [
+                                { "url": "https://github.com/Corion/parent/pull/7", "state": "merged", "relpath": "/pull/7" }
                             ]
     },
     {
@@ -150,6 +151,15 @@
         "repo":             { "url": "https://github.com/rjbs/Time-Piece", "relpath": "rjbs/Time-Piece" },
         "pull_requests":    [
                                 { "url": "https://github.com/rjbs/Time-Piece/pull/25", "state": "open", "relpath": "/pull/25" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "nbezzala" },
+        "distname":         "File-MimeInfo",
+        "released_by":      { "pause_id": "MICHIELB" },
+        "repo":             { "url": "https://github.com/mbeijen/File-MimeInfo", "relpath": "mbeijen/File-MimeInfo" },
+        "pull_requests":    [
                             ]
     }
  ]

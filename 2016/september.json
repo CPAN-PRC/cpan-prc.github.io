@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "September",
- "generated": { "date": "2016-10-05", "time": "20:13:46" },
- "stats": { "done": "11", "total": "16", "percent": "68.8" },
+ "generated": { "date": "2016-10-11", "time": "10:04:05" },
+ "stats": { "done": "11", "total": "15", "percent": "73.3" },
  "assignments": [
 
     {
@@ -22,15 +22,6 @@
         "repo":             { "url": "https://github.com/renormalist/app-dpath", "relpath": "renormalist/app-dpath" },
         "pull_requests":    [
                                 { "url": "https://github.com/renormalist/app-dpath/pull/8", "state": "open", "relpath": "/pull/8" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "nbezzala" },
-        "distname":         "HTML-ParseBrowser",
-        "released_by":      { "pause_id": "NEILB" },
-        "repo":             { "url": "https://github.com/neilb/HTML-ParseBrowser", "relpath": "neilb/HTML-ParseBrowser" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -142,18 +133,18 @@
         "released_by":      { "pause_id": "SSIMMS" },
         "repo":             { "url": "https://github.com/ssimms/pdfapi2", "relpath": "ssimms/pdfapi2" },
         "pull_requests":    [
-                                { "url": "https://github.com/ssimms/pdfapi2/pull/16", "state": "open", "relpath": "/pull/16" },
+                                { "url": "https://github.com/ssimms/pdfapi2/pull/16", "state": "closed", "relpath": "/pull/16" },
                                 { "url": "https://github.com/ssimms/pdfapi2/pull/15", "state": "open", "relpath": "/pull/15" },
-                                { "url": "https://github.com/ssimms/pdfapi2/pull/14", "state": "open", "relpath": "/pull/14" },
-                                { "url": "https://github.com/ssimms/pdfapi2/pull/13", "state": "open", "relpath": "/pull/13" },
-                                { "url": "https://github.com/ssimms/pdfapi2/pull/12", "state": "open", "relpath": "/pull/12" },
+                                { "url": "https://github.com/ssimms/pdfapi2/pull/14", "state": "merged", "relpath": "/pull/14" },
+                                { "url": "https://github.com/ssimms/pdfapi2/pull/13", "state": "merged", "relpath": "/pull/13" },
+                                { "url": "https://github.com/ssimms/pdfapi2/pull/12", "state": "closed", "relpath": "/pull/12" },
                                 { "url": "https://github.com/ssimms/pdfapi2/pull/11", "state": "open", "relpath": "/pull/11" },
-                                { "url": "https://github.com/ssimms/pdfapi2/pull/10", "state": "open", "relpath": "/pull/10" },
-                                { "url": "https://github.com/ssimms/pdfapi2/pull/9", "state": "open", "relpath": "/pull/9" },
-                                { "url": "https://github.com/ssimms/pdfapi2/pull/8", "state": "open", "relpath": "/pull/8" },
-                                { "url": "https://github.com/ssimms/pdfapi2/pull/7", "state": "open", "relpath": "/pull/7" },
-                                { "url": "https://github.com/ssimms/pdfapi2/pull/6", "state": "open", "relpath": "/pull/6" },
-                                { "url": "https://github.com/ssimms/pdfapi2/pull/5", "state": "open", "relpath": "/pull/5" }
+                                { "url": "https://github.com/ssimms/pdfapi2/pull/10", "state": "merged", "relpath": "/pull/10" },
+                                { "url": "https://github.com/ssimms/pdfapi2/pull/9", "state": "merged", "relpath": "/pull/9" },
+                                { "url": "https://github.com/ssimms/pdfapi2/pull/8", "state": "merged", "relpath": "/pull/8" },
+                                { "url": "https://github.com/ssimms/pdfapi2/pull/7", "state": "merged", "relpath": "/pull/7" },
+                                { "url": "https://github.com/ssimms/pdfapi2/pull/6", "state": "merged", "relpath": "/pull/6" },
+                                { "url": "https://github.com/ssimms/pdfapi2/pull/5", "state": "merged", "relpath": "/pull/5" }
                             ]
     },
     {
@@ -172,7 +163,7 @@
         "released_by":      { "pause_id": "LLAP" },
         "repo":             { "url": "https://github.com/ranguard/text-vcard", "relpath": "ranguard/text-vcard" },
         "pull_requests":    [
-                                { "url": "https://github.com/ranguard/text-vcard/pull/44", "state": "open", "relpath": "/pull/44" },
+                                { "url": "https://github.com/ranguard/text-vcard/pull/44", "state": "merged", "relpath": "/pull/44" },
                                 { "url": "https://github.com/ranguard/text-vcard/pull/43", "state": "merged", "relpath": "/pull/43" }
                             ]
     }
