@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "August",
- "generated": { "date": "2016-10-11", "time": "10:03:55" },
+ "generated": { "date": "2016-10-18", "time": "10:01:02" },
  "stats": { "done": "15", "total": "18", "percent": "83.3" },
  "assignments": [
 
@@ -22,7 +22,7 @@
         "done":             true,
         "assignee":         { "github_username": "yanick" },
         "distname":         "Zonemaster",
-        "released_by":      { "pause_id": "IIS" },
+        "released_by":      { "pause_id": "ZNMSTR" },
         "repo":             { "url": "https://github.com/dotse/zonemaster-engine", "relpath": "dotse/zonemaster-engine" },
         "pull_requests":    [
                                 { "url": "https://github.com/dotse/zonemaster-engine/pull/225", "state": "open", "relpath": "/pull/225" }

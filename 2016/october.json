@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "October",
- "generated": { "date": "2016-10-11", "time": "10:04:15" },
- "stats": { "done": "0", "total": "15", "percent": "0.0" },
+ "generated": { "date": "2016-10-18", "time": "10:01:21" },
+ "stats": { "done": "0", "total": "16", "percent": "0.0" },
  "assignments": [
 
     {
@@ -50,6 +50,7 @@
         "released_by":      { "pause_id": "THALJEF" },
         "repo":             { "url": "https://github.com/Perl-Critic/Perl-Critic-StricterSubs", "relpath": "Perl-Critic/Perl-Critic-StricterSubs" },
         "pull_requests":    [
+                                { "url": "https://github.com/Perl-Critic/Perl-Critic-StricterSubs/pull/8", "state": "open", "relpath": "/pull/8" }
                             ]
     },
     {
@@ -68,8 +69,8 @@
         "released_by":      { "pause_id": "KAARE" },
         "repo":             { "url": "https://github.com/kaare/Role-REST-Client", "relpath": "kaare/Role-REST-Client" },
         "pull_requests":    [
-                                { "url": "https://github.com/kaare/Role-REST-Client/pull/36", "state": "open", "relpath": "/pull/36" },
-                                { "url": "https://github.com/kaare/Role-REST-Client/pull/35", "state": "open", "relpath": "/pull/35" }
+                                { "url": "https://github.com/kaare/Role-REST-Client/pull/36", "state": "merged", "relpath": "/pull/36" },
+                                { "url": "https://github.com/kaare/Role-REST-Client/pull/35", "state": "merged", "relpath": "/pull/35" }
                             ]
     },
     {
@@ -139,8 +140,8 @@
         "released_by":      { "pause_id": "KMX" },
         "repo":             { "url": "https://github.com/kmx/perl-Crypt-OpenSSL-DSA", "relpath": "kmx/perl-Crypt-OpenSSL-DSA" },
         "pull_requests":    [
-                                { "url": "https://github.com/kmx/perl-Crypt-OpenSSL-DSA/pull/2", "state": "open", "relpath": "/pull/2" },
-                                { "url": "https://github.com/kmx/perl-Crypt-OpenSSL-DSA/pull/1", "state": "open", "relpath": "/pull/1" }
+                                { "url": "https://github.com/kmx/perl-Crypt-OpenSSL-DSA/pull/2", "state": "merged", "relpath": "/pull/2" },
+                                { "url": "https://github.com/kmx/perl-Crypt-OpenSSL-DSA/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]
     },
     {
@@ -159,6 +160,15 @@
         "distname":         "File-MimeInfo",
         "released_by":      { "pause_id": "MICHIELB" },
         "repo":             { "url": "https://github.com/mbeijen/File-MimeInfo", "relpath": "mbeijen/File-MimeInfo" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "krismatthews" },
+        "distname":         "Parallel-ForkManager",
+        "released_by":      { "pause_id": "YANICK" },
+        "repo":             { "url": "https://github.com/dluxhu/perl-parallel-forkmanager", "relpath": "dluxhu/perl-parallel-forkmanager" },
         "pull_requests":    [
                             ]
     }

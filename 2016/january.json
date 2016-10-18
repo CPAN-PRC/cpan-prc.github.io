@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "January",
- "generated": { "date": "2016-10-11", "time": "10:01:50" },
+ "generated": { "date": "2016-10-18", "time": "09:59:01" },
  "stats": { "done": "52", "total": "55", "percent": "94.5" },
  "assignments": [
 
@@ -94,6 +94,8 @@
         "released_by":      { "pause_id": "GWILLIAMS" },
         "repo":             { "url": "https://github.com/kasei/attean", "relpath": "kasei/attean" },
         "pull_requests":    [
+                                { "url": "https://github.com/kasei/attean/pull/105", "state": "merged", "relpath": "/pull/105" },
+                                { "url": "https://github.com/kasei/attean/pull/104", "state": "open", "relpath": "/pull/104" },
                                 { "url": "https://github.com/kasei/attean/pull/63", "state": "merged", "relpath": "/pull/63" }
                             ]
     },
