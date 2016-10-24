@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "March",
- "generated": { "date": "2016-10-18", "time": "09:59:42" },
+ "generated": { "date": "2016-10-24", "time": "21:55:13" },
  "stats": { "done": "30", "total": "30", "percent": "100.0" },
  "assignments": [
 
@@ -9,7 +9,7 @@
         "done":             true,
         "assignee":         { "github_username": "jamessan" },
         "distname":         "DBD-mysql",
-        "released_by":      { "pause_id": "CAPTTOFU" },
+        "released_by":      { "pause_id": "MICHIELB" },
         "repo":             { "url": "https://github.com/perl5-dbi/DBD-mysql", "relpath": "perl5-dbi/DBD-mysql" },
         "pull_requests":    [
                                 { "url": "https://github.com/perl5-dbi/DBD-mysql/pull/48", "state": "closed", "relpath": "/pull/48" }

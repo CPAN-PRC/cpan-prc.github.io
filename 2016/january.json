@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "January",
- "generated": { "date": "2016-10-18", "time": "09:59:01" },
+ "generated": { "date": "2016-10-24", "time": "21:54:24" },
  "stats": { "done": "52", "total": "55", "percent": "94.5" },
  "assignments": [
 
@@ -516,9 +516,9 @@
         "assignee":         { "github_username": "alabamapaul" },
         "distname":         "Git-Sub",
         "released_by":      { "pause_id": "DOLMEN" },
-        "repo":             { "url": "https://github.com/dolmen/p5-Git-Sub", "relpath": "dolmen/p5-Git-Sub" },
+        "repo":             { "url": "https://github.com/dolmen-perl5/Git-Sub", "relpath": "dolmen-perl5/Git-Sub" },
         "pull_requests":    [
-                                { "url": "https://github.com/dolmen/p5-Git-Sub/pull/4", "state": "open", "relpath": "/pull/4" }
+                                { "url": "https://github.com/dolmen-perl5/Git-Sub/pull/4", "state": "closed", "relpath": "/pull/4" }
                             ]
     },
     {

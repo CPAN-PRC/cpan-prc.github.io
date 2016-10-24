@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "September",
- "generated": { "date": "2016-10-18", "time": "10:01:11" },
- "stats": { "done": "11", "total": "15", "percent": "73.3" },
+ "generated": { "date": "2016-10-24", "time": "21:56:56" },
+ "stats": { "done": "12", "total": "15", "percent": "80.0" },
  "assignments": [
 
     {
@@ -157,7 +157,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jluis" },
         "distname":         "Text-vCard",
         "released_by":      { "pause_id": "LLAP" },
