@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "October",
- "generated": { "date": "2016-10-24", "time": "21:57:09" },
- "stats": { "done": "0", "total": "17", "percent": "0.0" },
+ "generated": { "date": "2016-11-01", "time": "23:04:24" },
+ "stats": { "done": "14", "total": "16", "percent": "87.5" },
  "assignments": [
 
     {
@@ -15,16 +15,7 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "lancew" },
-        "distname":         "Reflex",
-        "released_by":      { "pause_id": "RCAPUTO" },
-        "repo":             { "url": "https://github.com/rcaputo/reflex", "relpath": "rcaputo/reflex" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "genio" },
         "distname":         "App-RecordStream",
         "released_by":      { "pause_id": "TSIBLEY" },
@@ -34,7 +25,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "manwar" },
         "distname":         "Tk-FontDialog",
         "released_by":      { "pause_id": "SREZIC" },
@@ -44,7 +35,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "ambs" },
         "distname":         "Perl-Critic-StricterSubs",
         "released_by":      { "pause_id": "THALJEF" },
@@ -54,7 +45,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "yanick" },
         "distname":         "SQL-Statement",
         "released_by":      { "pause_id": "REHSACK" },
@@ -63,7 +54,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jmaslak" },
         "distname":         "Role-REST-Client",
         "released_by":      { "pause_id": "KAARE" },
@@ -74,7 +65,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "choroba" },
         "distname":         "parent",
         "released_by":      { "pause_id": "CORION" },
@@ -84,7 +75,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "paultcochrane" },
         "distname":         "Crypt-OpenSSL-RSA",
         "released_by":      { "pause_id": "PERLER" },
@@ -106,7 +97,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "lharey" },
         "distname":         "Data-Transpose",
         "released_by":      { "pause_id": "HORNBURG" },
@@ -116,16 +107,17 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "dionys" },
         "distname":         "HTML-ExtractText",
         "released_by":      { "pause_id": "ZOFFIX" },
         "repo":             { "url": "https://github.com/zoffixznet/html-extracttext", "relpath": "zoffixznet/html-extracttext" },
         "pull_requests":    [
+                                { "url": "https://github.com/zoffixznet/HTML-ExtractText/pull/14", "state": "merged", "relpath": "/pull/14" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "kyzn" },
         "distname":         "Catalyst-Controller-Validation-DFV",
         "released_by":      { "pause_id": "CHISEL" },
@@ -135,7 +127,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "shlomif" },
         "distname":         "Crypt-OpenSSL-DSA",
         "released_by":      { "pause_id": "KMX" },
@@ -146,17 +138,18 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "openstrike" },
         "distname":         "Time-Piece",
         "released_by":      { "pause_id": "ESAYM" },
         "repo":             { "url": "https://github.com/rjbs/Time-Piece", "relpath": "rjbs/Time-Piece" },
         "pull_requests":    [
+                                { "url": "https://github.com/rjbs/Time-Piece/pull/28", "state": "open", "relpath": "/pull/28" },
                                 { "url": "https://github.com/rjbs/Time-Piece/pull/25", "state": "open", "relpath": "/pull/25" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "nbezzala" },
         "distname":         "File-MimeInfo",
         "released_by":      { "pause_id": "MICHIELB" },
@@ -175,12 +168,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jluis" },
         "distname":         "Config-Model",
         "released_by":      { "pause_id": "DDUMONT" },
         "repo":             { "url": "https://github.com/dod38fr/config-model", "relpath": "dod38fr/config-model" },
         "pull_requests":    [
+                                { "url": "https://github.com/dod38fr/config-model/pull/9", "state": "merged", "relpath": "/pull/9" }
                             ]
     }
  ]

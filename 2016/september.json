@@ -1,19 +1,10 @@
 {
  "year": "2016",
  "month": "September",
- "generated": { "date": "2016-10-24", "time": "21:56:56" },
- "stats": { "done": "12", "total": "15", "percent": "80.0" },
+ "generated": { "date": "2016-11-01", "time": "23:04:16" },
+ "stats": { "done": "13", "total": "13", "percent": "100.0" },
  "assignments": [
 
-    {
-        "done":             false,
-        "assignee":         { "github_username": "Varadinsky" },
-        "distname":         "Prima",
-        "released_by":      { "pause_id": "KARASIK" },
-        "repo":             { "url": "https://github.com/dk/Prima", "relpath": "dk/Prima" },
-        "pull_requests":    [
-                            ]
-    },
     {
         "done":             true,
         "assignee":         { "github_username": "openstrike" },
@@ -108,7 +99,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "Viviparous" },
         "distname":         "Beam-Emitter",
         "released_by":      { "pause_id": "PREACTION" },
@@ -145,15 +136,6 @@
                                 { "url": "https://github.com/ssimms/pdfapi2/pull/7", "state": "merged", "relpath": "/pull/7" },
                                 { "url": "https://github.com/ssimms/pdfapi2/pull/6", "state": "merged", "relpath": "/pull/6" },
                                 { "url": "https://github.com/ssimms/pdfapi2/pull/5", "state": "merged", "relpath": "/pull/5" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "itcharlie" },
-        "distname":         "Locale-Codes",
-        "released_by":      { "pause_id": "SBECK" },
-        "repo":             { "url": "https://github.com/SBECK-github/Locale-Codes", "relpath": "SBECK-github/Locale-Codes" },
-        "pull_requests":    [
                             ]
     },
     {
