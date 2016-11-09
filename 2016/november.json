@@ -1,0 +1,179 @@
+{
+ "year": "2016",
+ "month": "November",
+ "generated": { "date": "2016-11-09", "time": "16:23:03" },
+ "stats": { "done": "0", "total": "18", "percent": "0.0" },
+ "assignments": [
+
+    {
+        "done":             false,
+        "assignee":         { "github_username": "itcharlie" },
+        "distname":         "Reflex",
+        "released_by":      { "pause_id": "RCAPUTO" },
+        "repo":             { "url": "https://github.com/rcaputo/reflex", "relpath": "rcaputo/reflex" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "choroba" },
+        "distname":         "Test-Exception-LessClever",
+        "released_by":      { "pause_id": "EXODIST" },
+        "repo":             { "url": "https://github.com/exodist/Test-Exception-LessClever", "relpath": "exodist/Test-Exception-LessClever" },
+        "pull_requests":    [
+                                { "url": "https://github.com/exodist/Test-Exception-LessClever/pull/5", "state": "merged", "relpath": "/pull/5" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "jluis" },
+        "distname":         "Prima",
+        "released_by":      { "pause_id": "KARASIK" },
+        "repo":             { "url": "https://github.com/dk/Prima", "relpath": "dk/Prima" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "shlomif" },
+        "distname":         "HTML-Mason",
+        "released_by":      { "pause_id": "DROLSKY" },
+        "repo":             { "url": "https://github.com/autarch/HTML-Mason", "relpath": "autarch/HTML-Mason" },
+        "pull_requests":    [
+                                { "url": "https://github.com/houseabsolute/HTML-Mason/pull/4", "state": "merged", "relpath": "/pull/4" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "ambs" },
+        "distname":         "Net-SFTP-Foreign",
+        "released_by":      { "pause_id": "SALVA" },
+        "repo":             { "url": "https://github.com/salva/p5-Net-SFTP-Foreign", "relpath": "salva/p5-Net-SFTP-Foreign" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "Varadinsky" },
+        "distname":         "LWP-ConsoleLogger",
+        "released_by":      { "pause_id": "OALDERS" },
+        "repo":             { "url": "https://github.com/oalders/lwp-consolelogger", "relpath": "oalders/lwp-consolelogger" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "jmaslak" },
+        "distname":         "Mojolicious-Plugin-MoreUtilHelpers",
+        "released_by":      { "pause_id": "SHAW" },
+        "repo":             { "url": "https://github.com/sshaw/Mojolicious-Plugin-MoreUtilHelpers", "relpath": "sshaw/Mojolicious-Plugin-MoreUtilHelpers" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "paultcochrane" },
+        "distname":         "Dist-Zilla-Plugin-GitHubREADME-Badge",
+        "released_by":      { "pause_id": "FAYLAND" },
+        "repo":             { "url": "https://github.com/fayland/perl-Dist-Zilla-Plugin-GitHubREADME-Badge", "relpath": "fayland/perl-Dist-Zilla-Plugin-GitHubREADME-Badge" },
+        "pull_requests":    [
+                                { "url": "https://github.com/fayland/perl-Dist-Zilla-Plugin-GitHubREADME-Badge/pull/16", "state": "open", "relpath": "/pull/16" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "manwar" },
+        "distname":         "InfluxDB-LineProtocol",
+        "released_by":      { "pause_id": "DOMM" },
+        "repo":             { "url": "https://github.com/domm/InfluxDB-LineProtocol", "relpath": "domm/InfluxDB-LineProtocol" },
+        "pull_requests":    [
+                                { "url": "https://github.com/domm/InfluxDB-LineProtocol/pull/10", "state": "merged", "relpath": "/pull/10" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "kyzn" },
+        "distname":         "BenchmarkAnything-Storage-Frontend-Lib",
+        "released_by":      { "pause_id": "SCHWIGON" },
+        "repo":             { "url": "https://github.com/benchmarkanything/BenchmarkAnything-Storage-Frontend-Lib", "relpath": "benchmarkanything/BenchmarkAnything-Storage-Frontend-Lib" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "openstrike" },
+        "distname":         "Dist-Zilla-Plugin-GitFmtChanges",
+        "released_by":      { "pause_id": "RUBYKAT" },
+        "repo":             { "url": "https://github.com/rubykat/dzp-GitFmtChanges", "relpath": "rubykat/dzp-GitFmtChanges" },
+        "pull_requests":    [
+                                { "url": "https://github.com/rubykat/dzp-GitFmtChanges/pull/4", "state": "open", "relpath": "/pull/4" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "nbezzala" },
+        "distname":         "Monitoring-Livestatus",
+        "released_by":      { "pause_id": "NIERLEIN" },
+        "repo":             { "url": "https://github.com/sni/Monitoring-Livestatus", "relpath": "sni/Monitoring-Livestatus" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "yanick" },
+        "distname":         "Perl-Unsafe-Signals",
+        "released_by":      { "pause_id": "RGARCIA" },
+        "repo":             { "url": "https://github.com/rgs/Perl-Unsafe-Signals", "relpath": "rgs/Perl-Unsafe-Signals" },
+        "pull_requests":    [
+                                { "url": "https://github.com/rgs/Perl-Unsafe-Signals/pull/2", "state": "open", "relpath": "/pull/2" },
+                                { "url": "https://github.com/rgs/Perl-Unsafe-Signals/pull/1", "state": "open", "relpath": "/pull/1" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "dionys" },
+        "distname":         "Mojolicious-Plugin-CaptchaRenderer",
+        "released_by":      { "pause_id": "DMITRYNOD" },
+        "repo":             { "url": "https://github.com/konstantinov/Mojolicious-Plugin-CaptchaRenderer", "relpath": "konstantinov/Mojolicious-Plugin-CaptchaRenderer" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "lancew" },
+        "distname":         "File-SharedNFSLock",
+        "released_by":      { "pause_id": "FANGLY" },
+        "repo":             { "url": "https://github.com/fangly/file-sharednfslock", "relpath": "fangly/file-sharednfslock" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "lharey" },
+        "distname":         "Dezi",
+        "released_by":      { "pause_id": "KARMAN" },
+        "repo":             { "url": "https://github.com/karpet/Dezi", "relpath": "karpet/Dezi" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "genio" },
+        "distname":         "SVG-TT-Graph",
+        "released_by":      { "pause_id": "LLAP" },
+        "repo":             { "url": "https://github.com/ranguard/svg-tt-graph", "relpath": "ranguard/svg-tt-graph" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "Viviparous" },
+        "distname":         "RDF-Trine-Node-Literal-XML",
+        "released_by":      { "pause_id": "KJETILK" },
+        "repo":             { "url": "https://github.com/kjetilk/RDF-Trine-Node-Literal-XML", "relpath": "kjetilk/RDF-Trine-Node-Literal-XML" },
+        "pull_requests":    [
+                            ]
+    }
+ ]
+}
+
