@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "February",
- "generated": { "date": "2016-11-09", "time": "16:20:47" },
+ "generated": { "date": "2016-11-15", "time": "23:03:36" },
  "stats": { "done": "31", "total": "32", "percent": "96.9" },
  "assignments": [
 
@@ -165,18 +165,18 @@
         "released_by":      { "pause_id": "YANICK" },
         "repo":             { "url": "https://github.com/pvande/Template-Mustache", "relpath": "pvande/Template-Mustache" },
         "pull_requests":    [
-                                { "url": "https://github.com/pvande/Template-Mustache/pull/34", "state": "closed", "relpath": "/pull/34" },
-                                { "url": "https://github.com/pvande/Template-Mustache/pull/33", "state": "closed", "relpath": "/pull/33" },
-                                { "url": "https://github.com/pvande/Template-Mustache/pull/32", "state": "closed", "relpath": "/pull/32" },
-                                { "url": "https://github.com/pvande/Template-Mustache/pull/31", "state": "closed", "relpath": "/pull/31" },
-                                { "url": "https://github.com/pvande/Template-Mustache/pull/30", "state": "closed", "relpath": "/pull/30" },
-                                { "url": "https://github.com/pvande/Template-Mustache/pull/29", "state": "merged", "relpath": "/pull/29" },
-                                { "url": "https://github.com/pvande/Template-Mustache/pull/28", "state": "merged", "relpath": "/pull/28" },
-                                { "url": "https://github.com/pvande/Template-Mustache/pull/27", "state": "closed", "relpath": "/pull/27" },
-                                { "url": "https://github.com/pvande/Template-Mustache/pull/26", "state": "merged", "relpath": "/pull/26" },
-                                { "url": "https://github.com/pvande/Template-Mustache/pull/25", "state": "merged", "relpath": "/pull/25" },
-                                { "url": "https://github.com/pvande/Template-Mustache/pull/24", "state": "closed", "relpath": "/pull/24" },
-                                { "url": "https://github.com/pvande/Template-Mustache/pull/23", "state": "closed", "relpath": "/pull/23" }
+                                { "url": "https://github.com/yanick/Template-Mustache/pull/34", "state": "closed", "relpath": "/pull/34" },
+                                { "url": "https://github.com/yanick/Template-Mustache/pull/33", "state": "closed", "relpath": "/pull/33" },
+                                { "url": "https://github.com/yanick/Template-Mustache/pull/32", "state": "closed", "relpath": "/pull/32" },
+                                { "url": "https://github.com/yanick/Template-Mustache/pull/31", "state": "closed", "relpath": "/pull/31" },
+                                { "url": "https://github.com/yanick/Template-Mustache/pull/30", "state": "closed", "relpath": "/pull/30" },
+                                { "url": "https://github.com/yanick/Template-Mustache/pull/29", "state": "merged", "relpath": "/pull/29" },
+                                { "url": "https://github.com/yanick/Template-Mustache/pull/28", "state": "merged", "relpath": "/pull/28" },
+                                { "url": "https://github.com/yanick/Template-Mustache/pull/27", "state": "closed", "relpath": "/pull/27" },
+                                { "url": "https://github.com/yanick/Template-Mustache/pull/26", "state": "merged", "relpath": "/pull/26" },
+                                { "url": "https://github.com/yanick/Template-Mustache/pull/25", "state": "merged", "relpath": "/pull/25" },
+                                { "url": "https://github.com/yanick/Template-Mustache/pull/24", "state": "closed", "relpath": "/pull/24" },
+                                { "url": "https://github.com/yanick/Template-Mustache/pull/23", "state": "closed", "relpath": "/pull/23" }
                             ]
     },
     {

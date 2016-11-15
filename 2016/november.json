@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "November",
- "generated": { "date": "2016-11-09", "time": "16:23:03" },
- "stats": { "done": "0", "total": "18", "percent": "0.0" },
+ "generated": { "date": "2016-11-15", "time": "23:05:57" },
+ "stats": { "done": "5", "total": "18", "percent": "27.8" },
  "assignments": [
 
     {
@@ -15,7 +15,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "choroba" },
         "distname":         "Test-Exception-LessClever",
         "released_by":      { "pause_id": "EXODIST" },
@@ -34,7 +34,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "shlomif" },
         "distname":         "HTML-Mason",
         "released_by":      { "pause_id": "DROLSKY" },
@@ -71,13 +71,25 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "paultcochrane" },
         "distname":         "Dist-Zilla-Plugin-GitHubREADME-Badge",
         "released_by":      { "pause_id": "FAYLAND" },
         "repo":             { "url": "https://github.com/fayland/perl-Dist-Zilla-Plugin-GitHubREADME-Badge", "relpath": "fayland/perl-Dist-Zilla-Plugin-GitHubREADME-Badge" },
         "pull_requests":    [
-                                { "url": "https://github.com/fayland/perl-Dist-Zilla-Plugin-GitHubREADME-Badge/pull/16", "state": "open", "relpath": "/pull/16" }
+                                { "url": "https://github.com/fayland/perl-Dist-Zilla-Plugin-GitHubREADME-Badge/pull/28", "state": "open", "relpath": "/pull/28" },
+                                { "url": "https://github.com/fayland/perl-Dist-Zilla-Plugin-GitHubREADME-Badge/pull/27", "state": "open", "relpath": "/pull/27" },
+                                { "url": "https://github.com/fayland/perl-Dist-Zilla-Plugin-GitHubREADME-Badge/pull/26", "state": "open", "relpath": "/pull/26" },
+                                { "url": "https://github.com/fayland/perl-Dist-Zilla-Plugin-GitHubREADME-Badge/pull/25", "state": "merged", "relpath": "/pull/25" },
+                                { "url": "https://github.com/fayland/perl-Dist-Zilla-Plugin-GitHubREADME-Badge/pull/24", "state": "merged", "relpath": "/pull/24" },
+                                { "url": "https://github.com/fayland/perl-Dist-Zilla-Plugin-GitHubREADME-Badge/pull/23", "state": "merged", "relpath": "/pull/23" },
+                                { "url": "https://github.com/fayland/perl-Dist-Zilla-Plugin-GitHubREADME-Badge/pull/22", "state": "merged", "relpath": "/pull/22" },
+                                { "url": "https://github.com/fayland/perl-Dist-Zilla-Plugin-GitHubREADME-Badge/pull/21", "state": "merged", "relpath": "/pull/21" },
+                                { "url": "https://github.com/fayland/perl-Dist-Zilla-Plugin-GitHubREADME-Badge/pull/20", "state": "closed", "relpath": "/pull/20" },
+                                { "url": "https://github.com/fayland/perl-Dist-Zilla-Plugin-GitHubREADME-Badge/pull/19", "state": "merged", "relpath": "/pull/19" },
+                                { "url": "https://github.com/fayland/perl-Dist-Zilla-Plugin-GitHubREADME-Badge/pull/18", "state": "merged", "relpath": "/pull/18" },
+                                { "url": "https://github.com/fayland/perl-Dist-Zilla-Plugin-GitHubREADME-Badge/pull/17", "state": "merged", "relpath": "/pull/17" },
+                                { "url": "https://github.com/fayland/perl-Dist-Zilla-Plugin-GitHubREADME-Badge/pull/16", "state": "merged", "relpath": "/pull/16" }
                             ]
     },
     {
@@ -119,7 +131,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "yanick" },
         "distname":         "Perl-Unsafe-Signals",
         "released_by":      { "pause_id": "RGARCIA" },
@@ -157,12 +169,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "genio" },
         "distname":         "SVG-TT-Graph",
         "released_by":      { "pause_id": "LLAP" },
         "repo":             { "url": "https://github.com/ranguard/svg-tt-graph", "relpath": "ranguard/svg-tt-graph" },
         "pull_requests":    [
+                                { "url": "https://github.com/ranguard/svg-tt-graph/pull/23", "state": "merged", "relpath": "/pull/23" }
                             ]
     },
     {

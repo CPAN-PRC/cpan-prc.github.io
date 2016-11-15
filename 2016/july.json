@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "July",
- "generated": { "date": "2016-11-09", "time": "16:22:19" },
+ "generated": { "date": "2016-11-15", "time": "23:05:13" },
  "stats": { "done": "16", "total": "19", "percent": "84.2" },
  "assignments": [
 
@@ -79,7 +79,7 @@
         "released_by":      { "pause_id": "MANWAR" },
         "repo":             { "url": "https://github.com/manwar/pdf-create", "relpath": "manwar/pdf-create" },
         "pull_requests":    [
-                                { "url": "https://github.com/Manwar/pdf-create/pull/10", "state": "merged", "relpath": "/pull/10" }
+                                { "url": "https://github.com/manwar/pdf-create/pull/10", "state": "merged", "relpath": "/pull/10" }
                             ]
     },
     {
