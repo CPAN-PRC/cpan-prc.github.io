@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "March",
- "generated": { "date": "2016-11-15", "time": "23:03:56" },
+ "generated": { "date": "2016-11-22", "time": "00:16:58" },
  "stats": { "done": "30", "total": "30", "percent": "100.0" },
  "assignments": [
 
@@ -33,7 +33,7 @@
         "released_by":      { "pause_id": "RUZ" },
         "repo":             { "url": "https://github.com/ruz/GDGraph", "relpath": "ruz/GDGraph" },
         "pull_requests":    [
-                                { "url": "https://github.com/ruz/GDGraph/pull/10", "state": "open", "relpath": "/pull/10" }
+                                { "url": "https://github.com/ruz/GDGraph/pull/10", "state": "merged", "relpath": "/pull/10" }
                             ]
     },
     {

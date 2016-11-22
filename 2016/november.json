@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "November",
- "generated": { "date": "2016-11-15", "time": "23:05:57" },
+ "generated": { "date": "2016-11-22", "time": "00:18:43" },
  "stats": { "done": "5", "total": "18", "percent": "27.8" },
  "assignments": [
 
@@ -18,7 +18,7 @@
         "done":             true,
         "assignee":         { "github_username": "choroba" },
         "distname":         "Test-Exception-LessClever",
-        "released_by":      { "pause_id": "EXODIST" },
+        "released_by":      { "pause_id": "ETHER" },
         "repo":             { "url": "https://github.com/exodist/Test-Exception-LessClever", "relpath": "exodist/Test-Exception-LessClever" },
         "pull_requests":    [
                                 { "url": "https://github.com/exodist/Test-Exception-LessClever/pull/5", "state": "merged", "relpath": "/pull/5" }
@@ -118,7 +118,7 @@
         "released_by":      { "pause_id": "RUBYKAT" },
         "repo":             { "url": "https://github.com/rubykat/dzp-GitFmtChanges", "relpath": "rubykat/dzp-GitFmtChanges" },
         "pull_requests":    [
-                                { "url": "https://github.com/rubykat/dzp-GitFmtChanges/pull/4", "state": "open", "relpath": "/pull/4" }
+                                { "url": "https://github.com/rubykat/dzp-GitFmtChanges/pull/4", "state": "merged", "relpath": "/pull/4" }
                             ]
     },
     {

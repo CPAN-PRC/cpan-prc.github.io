@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "September",
- "generated": { "date": "2016-11-15", "time": "23:05:37" },
+ "generated": { "date": "2016-11-22", "time": "00:18:24" },
  "stats": { "done": "13", "total": "13", "percent": "100.0" },
  "assignments": [
 
@@ -53,7 +53,7 @@
         "released_by":      { "pause_id": "BOWMANBS" },
         "repo":             { "url": "https://github.com/bowman/Data-Rmap", "relpath": "bowman/Data-Rmap" },
         "pull_requests":    [
-                                { "url": "https://github.com/bowman/Data-Rmap/pull/5", "state": "open", "relpath": "/pull/5" }
+                                { "url": "https://github.com/bowman/Data-Rmap/pull/5", "state": "merged", "relpath": "/pull/5" }
                             ]
     },
     {

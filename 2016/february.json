@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "February",
- "generated": { "date": "2016-11-15", "time": "23:03:36" },
+ "generated": { "date": "2016-11-22", "time": "00:16:41" },
  "stats": { "done": "31", "total": "32", "percent": "96.9" },
  "assignments": [
 
@@ -163,7 +163,7 @@
         "assignee":         { "github_username": "paultcochrane" },
         "distname":         "Template-Mustache",
         "released_by":      { "pause_id": "YANICK" },
-        "repo":             { "url": "https://github.com/pvande/Template-Mustache", "relpath": "pvande/Template-Mustache" },
+        "repo":             { "url": "https://github.com/yanick/Template-Mustache", "relpath": "yanick/Template-Mustache" },
         "pull_requests":    [
                                 { "url": "https://github.com/yanick/Template-Mustache/pull/34", "state": "closed", "relpath": "/pull/34" },
                                 { "url": "https://github.com/yanick/Template-Mustache/pull/33", "state": "closed", "relpath": "/pull/33" },
