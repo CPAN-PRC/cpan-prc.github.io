@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "November",
- "generated": { "date": "2016-11-22", "time": "00:18:43" },
- "stats": { "done": "5", "total": "18", "percent": "27.8" },
+ "generated": { "date": "2016-11-28", "time": "20:48:08" },
+ "stats": { "done": "7", "total": "19", "percent": "36.8" },
  "assignments": [
 
     {
@@ -44,12 +44,14 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "ambs" },
         "distname":         "Net-SFTP-Foreign",
         "released_by":      { "pause_id": "SALVA" },
         "repo":             { "url": "https://github.com/salva/p5-Net-SFTP-Foreign", "relpath": "salva/p5-Net-SFTP-Foreign" },
         "pull_requests":    [
+                                { "url": "https://github.com/salva/p5-Net-SFTP-Foreign/pull/9", "state": "open", "relpath": "/pull/9" },
+                                { "url": "https://github.com/salva/p5-Net-SFTP-Foreign/pull/8", "state": "open", "relpath": "/pull/8" }
                             ]
     },
     {
@@ -160,12 +162,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "lharey" },
         "distname":         "Dezi",
         "released_by":      { "pause_id": "KARMAN" },
         "repo":             { "url": "https://github.com/karpet/Dezi", "relpath": "karpet/Dezi" },
         "pull_requests":    [
+                                { "url": "https://github.com/karpet/Dezi/pull/7", "state": "merged", "relpath": "/pull/7" }
                             ]
     },
     {
@@ -184,6 +187,15 @@
         "distname":         "RDF-Trine-Node-Literal-XML",
         "released_by":      { "pause_id": "KJETILK" },
         "repo":             { "url": "https://github.com/kjetilk/RDF-Trine-Node-Literal-XML", "relpath": "kjetilk/RDF-Trine-Node-Literal-XML" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "pauloscustodio" },
+        "distname":         "File-Next",
+        "released_by":      { "pause_id": "PETDANCE" },
+        "repo":             { "url": "https://github.com/petdance/file-next/tree/master", "relpath": "petdance/file-next/tree/master" },
         "pull_requests":    [
                             ]
     }
