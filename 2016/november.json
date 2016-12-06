@@ -1,19 +1,10 @@
 {
  "year": "2016",
  "month": "November",
- "generated": { "date": "2016-11-28", "time": "20:48:08" },
- "stats": { "done": "7", "total": "19", "percent": "36.8" },
+ "generated": { "date": "2016-12-06", "time": "22:31:23" },
+ "stats": { "done": "14", "total": "15", "percent": "93.3" },
  "assignments": [
 
-    {
-        "done":             false,
-        "assignee":         { "github_username": "itcharlie" },
-        "distname":         "Reflex",
-        "released_by":      { "pause_id": "RCAPUTO" },
-        "repo":             { "url": "https://github.com/rcaputo/reflex", "relpath": "rcaputo/reflex" },
-        "pull_requests":    [
-                            ]
-    },
     {
         "done":             true,
         "assignee":         { "github_username": "choroba" },
@@ -55,21 +46,23 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "Varadinsky" },
         "distname":         "LWP-ConsoleLogger",
         "released_by":      { "pause_id": "OALDERS" },
         "repo":             { "url": "https://github.com/oalders/lwp-consolelogger", "relpath": "oalders/lwp-consolelogger" },
         "pull_requests":    [
+                                { "url": "https://github.com/oalders/lwp-consolelogger/pull/8", "state": "merged", "relpath": "/pull/8" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jmaslak" },
         "distname":         "Mojolicious-Plugin-MoreUtilHelpers",
         "released_by":      { "pause_id": "SHAW" },
         "repo":             { "url": "https://github.com/sshaw/Mojolicious-Plugin-MoreUtilHelpers", "relpath": "sshaw/Mojolicious-Plugin-MoreUtilHelpers" },
         "pull_requests":    [
+                                { "url": "https://github.com/sshaw/Mojolicious-Plugin-MoreUtilHelpers/pull/4", "state": "merged", "relpath": "/pull/4" }
                             ]
     },
     {
@@ -95,7 +88,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "manwar" },
         "distname":         "InfluxDB-LineProtocol",
         "released_by":      { "pause_id": "DOMM" },
@@ -105,31 +98,23 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "kyzn" },
         "distname":         "BenchmarkAnything-Storage-Frontend-Lib",
         "released_by":      { "pause_id": "SCHWIGON" },
         "repo":             { "url": "https://github.com/benchmarkanything/BenchmarkAnything-Storage-Frontend-Lib", "relpath": "benchmarkanything/BenchmarkAnything-Storage-Frontend-Lib" },
         "pull_requests":    [
+                                { "url": "https://github.com/benchmarkanything/BenchmarkAnything-Storage-Frontend-Lib/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "openstrike" },
         "distname":         "Dist-Zilla-Plugin-GitFmtChanges",
         "released_by":      { "pause_id": "RUBYKAT" },
         "repo":             { "url": "https://github.com/rubykat/dzp-GitFmtChanges", "relpath": "rubykat/dzp-GitFmtChanges" },
         "pull_requests":    [
                                 { "url": "https://github.com/rubykat/dzp-GitFmtChanges/pull/4", "state": "merged", "relpath": "/pull/4" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "nbezzala" },
-        "distname":         "Monitoring-Livestatus",
-        "released_by":      { "pause_id": "NIERLEIN" },
-        "repo":             { "url": "https://github.com/sni/Monitoring-Livestatus", "relpath": "sni/Monitoring-Livestatus" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -144,21 +129,13 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "dionys" },
-        "distname":         "Mojolicious-Plugin-CaptchaRenderer",
-        "released_by":      { "pause_id": "DMITRYNOD" },
-        "repo":             { "url": "https://github.com/konstantinov/Mojolicious-Plugin-CaptchaRenderer", "relpath": "konstantinov/Mojolicious-Plugin-CaptchaRenderer" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "lancew" },
         "distname":         "File-SharedNFSLock",
         "released_by":      { "pause_id": "FANGLY" },
         "repo":             { "url": "https://github.com/fangly/file-sharednfslock", "relpath": "fangly/file-sharednfslock" },
         "pull_requests":    [
+                                { "url": "https://github.com/fangly/file-sharednfslock/pull/4", "state": "open", "relpath": "/pull/4" }
                             ]
     },
     {
@@ -182,21 +159,13 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "Viviparous" },
-        "distname":         "RDF-Trine-Node-Literal-XML",
-        "released_by":      { "pause_id": "KJETILK" },
-        "repo":             { "url": "https://github.com/kjetilk/RDF-Trine-Node-Literal-XML", "relpath": "kjetilk/RDF-Trine-Node-Literal-XML" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "pauloscustodio" },
         "distname":         "File-Next",
         "released_by":      { "pause_id": "PETDANCE" },
         "repo":             { "url": "https://github.com/petdance/file-next/tree/master", "relpath": "petdance/file-next/tree/master" },
         "pull_requests":    [
+                                { "url": "https://github.com/petdance/file-next/pull/31", "state": "merged", "relpath": "/pull/31" }
                             ]
     }
  ]
