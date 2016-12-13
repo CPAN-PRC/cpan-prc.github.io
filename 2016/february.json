@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "February",
- "generated": { "date": "2016-12-06", "time": "22:29:13" },
+ "generated": { "date": "2016-12-13", "time": "08:32:01" },
  "stats": { "done": "31", "total": "32", "percent": "96.9" },
  "assignments": [
 
@@ -31,7 +31,7 @@
         "released_by":      { "pause_id": "PETDANCE" },
         "repo":             { "url": "https://github.com/bricas/webservice-solr", "relpath": "bricas/webservice-solr" },
         "pull_requests":    [
-                                { "url": "https://github.com/bricas/webservice-solr/pull/30", "state": "merged", "relpath": "/pull/30" }
+                                { "url": "https://github.com/petdance/webservice-solr/pull/30", "state": "merged", "relpath": "/pull/30" }
                             ]
     },
     {

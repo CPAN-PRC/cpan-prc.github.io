@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "January",
- "generated": { "date": "2016-12-06", "time": "22:28:50" },
+ "generated": { "date": "2016-12-13", "time": "08:31:35" },
  "stats": { "done": "52", "total": "55", "percent": "94.5" },
  "assignments": [
 
@@ -29,7 +29,7 @@
         "done":             true,
         "assignee":         { "github_username": "adamherzog" },
         "distname":         "Scalar-List-Utils",
-        "released_by":      { "pause_id": "PEVANS" },
+        "released_by":      { "pause_id": "RURBAN" },
         "repo":             { "url": "https://github.com/Scalar-List-Utils/Scalar-List-Utils", "relpath": "Scalar-List-Utils/Scalar-List-Utils" },
         "pull_requests":    [
                             ]
@@ -41,7 +41,7 @@
         "released_by":      { "pause_id": "PETDANCE" },
         "repo":             { "url": "https://github.com/petdance/html-lint", "relpath": "petdance/html-lint" },
         "pull_requests":    [
-                                { "url": "https://github.com/petdance/html-lint/pull/45", "state": "open", "relpath": "/pull/45" }
+                                { "url": "https://github.com/petdance/html-lint/pull/45", "state": "merged", "relpath": "/pull/45" }
                             ]
     },
     {
