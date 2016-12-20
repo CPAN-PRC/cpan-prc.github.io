@@ -1,17 +1,19 @@
 {
  "year": "2016",
  "month": "December",
- "generated": { "date": "2016-12-13", "time": "08:34:35" },
- "stats": { "done": "0", "total": "18", "percent": "0.0" },
+ "generated": { "date": "2016-12-20", "time": "09:13:20" },
+ "stats": { "done": "1", "total": "18", "percent": "5.6" },
  "assignments": [
 
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "yanick" },
         "distname":         "Test2-Suite",
         "released_by":      { "pause_id": "EXODIST" },
         "repo":             { "url": "https://github.com/Test-More/Test2-Suite", "relpath": "Test-More/Test2-Suite" },
         "pull_requests":    [
+                                { "url": "https://github.com/Test-More/Test2-Suite/pull/108", "state": "closed", "relpath": "/pull/108" },
+                                { "url": "https://github.com/Test-More/Test2-Suite/pull/107", "state": "merged", "relpath": "/pull/107" }
                             ]
     },
     {
@@ -30,6 +32,7 @@
         "released_by":      { "pause_id": "MARKELLIS" },
         "repo":             { "url": "https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq", "relpath": "net-amqp-rabbitmq/net-amqp-rabbitmq" },
         "pull_requests":    [
+                                { "url": "https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq/pull/145", "state": "merged", "relpath": "/pull/145" }
                             ]
     },
     {
@@ -94,6 +97,11 @@
         "released_by":      { "pause_id": "SALVA" },
         "repo":             { "url": "https://github.com/salva/p5-Math-Int128", "relpath": "salva/p5-Math-Int128" },
         "pull_requests":    [
+                                { "url": "https://github.com/salva/p5-Math-Int128/pull/15", "state": "open", "relpath": "/pull/15" },
+                                { "url": "https://github.com/salva/p5-Math-Int128/pull/14", "state": "open", "relpath": "/pull/14" },
+                                { "url": "https://github.com/salva/p5-Math-Int128/pull/13", "state": "open", "relpath": "/pull/13" },
+                                { "url": "https://github.com/salva/p5-Math-Int128/pull/12", "state": "open", "relpath": "/pull/12" },
+                                { "url": "https://github.com/salva/p5-Math-Int128/pull/11", "state": "open", "relpath": "/pull/11" },
                                 { "url": "https://github.com/salva/p5-Math-Int128/pull/10", "state": "merged", "relpath": "/pull/10" }
                             ]
     },
@@ -123,6 +131,7 @@
         "released_by":      { "pause_id": "SREZIC" },
         "repo":             { "url": "https://github.com/eserte/image-xpm", "relpath": "eserte/image-xpm" },
         "pull_requests":    [
+                                { "url": "https://github.com/eserte/image-xpm/pull/3", "state": "merged", "relpath": "/pull/3" },
                                 { "url": "https://github.com/eserte/image-xpm/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]
     },
