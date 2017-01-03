@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "August",
- "generated": { "date": "2016-12-20", "time": "09:12:42" },
- "stats": { "done": "15", "total": "18", "percent": "83.3" },
+ "generated": { "date": "2017-01-03", "time": "18:49:55" },
+ "stats": { "done": "15", "total": "17", "percent": "88.2" },
  "assignments": [
 
     {
@@ -89,15 +89,6 @@
         "pull_requests":    [
                                 { "url": "https://github.com/schwern/Gravatar-URL/pull/9", "state": "closed", "relpath": "/pull/9" },
                                 { "url": "https://github.com/schwern/Gravatar-URL/pull/8", "state": "merged", "relpath": "/pull/8" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "monsieurp" },
-        "distname":         "Tree-Binary",
-        "released_by":      { "pause_id": "RSAVAGE" },
-        "repo":             { "url": "https://github.com/ronsavage/Tree-Binary", "relpath": "ronsavage/Tree-Binary" },
-        "pull_requests":    [
                             ]
     },
     {

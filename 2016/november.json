@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "November",
- "generated": { "date": "2016-12-20", "time": "09:13:11" },
- "stats": { "done": "14", "total": "15", "percent": "93.3" },
+ "generated": { "date": "2017-01-03", "time": "18:50:25" },
+ "stats": { "done": "15", "total": "15", "percent": "100.0" },
  "assignments": [
 
     {
@@ -16,12 +16,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jluis" },
         "distname":         "Prima",
         "released_by":      { "pause_id": "KARASIK" },
         "repo":             { "url": "https://github.com/dk/Prima", "relpath": "dk/Prima" },
         "pull_requests":    [
+                                { "url": "https://github.com/dk/Prima/pull/44", "state": "merged", "relpath": "/pull/44" }
                             ]
     },
     {

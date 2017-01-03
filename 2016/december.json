@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "December",
- "generated": { "date": "2016-12-20", "time": "09:13:20" },
- "stats": { "done": "1", "total": "18", "percent": "5.6" },
+ "generated": { "date": "2017-01-03", "time": "18:50:34" },
+ "stats": { "done": "11", "total": "16", "percent": "68.8" },
  "assignments": [
 
     {
@@ -26,7 +26,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "lancew" },
         "distname":         "Net-AMQP-RabbitMQ",
         "released_by":      { "pause_id": "MARKELLIS" },
@@ -45,22 +45,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "shlomif" },
         "distname":         "Dancer2-Plugin-Auth-Extensible-Provider-DBIC",
         "released_by":      { "pause_id": "SYSPETE" },
         "repo":             { "url": "https://github.com/ctrlo/Dancer2-Plugin-Auth-Extensible-Provider-DBIC", "relpath": "ctrlo/Dancer2-Plugin-Auth-Extensible-Provider-DBIC" },
         "pull_requests":    [
                                 { "url": "https://github.com/ctrlo/Dancer2-Plugin-Auth-Extensible-Provider-DBIC/pull/15", "state": "merged", "relpath": "/pull/15" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "choroba" },
-        "distname":         "OrePAN2",
-        "released_by":      { "pause_id": "OALDERS" },
-        "repo":             { "url": "https://github.com/tokuhirom/OrePAN2", "relpath": "tokuhirom/OrePAN2" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -82,21 +73,25 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "lharey" },
         "distname":         "GraphViz",
         "released_by":      { "pause_id": "RSAVAGE" },
         "repo":             { "url": "https://github.com/ronsavage/GraphViz", "relpath": "ronsavage/GraphViz" },
         "pull_requests":    [
+                                { "url": "https://github.com/ronsavage/GraphViz/pull/4", "state": "merged", "relpath": "/pull/4" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "paultcochrane" },
         "distname":         "Math-Int128",
         "released_by":      { "pause_id": "SALVA" },
         "repo":             { "url": "https://github.com/salva/p5-Math-Int128", "relpath": "salva/p5-Math-Int128" },
         "pull_requests":    [
+                                { "url": "https://github.com/salva/p5-Math-Int128/pull/18", "state": "open", "relpath": "/pull/18" },
+                                { "url": "https://github.com/salva/p5-Math-Int128/pull/17", "state": "open", "relpath": "/pull/17" },
+                                { "url": "https://github.com/salva/p5-Math-Int128/pull/16", "state": "open", "relpath": "/pull/16" },
                                 { "url": "https://github.com/salva/p5-Math-Int128/pull/15", "state": "open", "relpath": "/pull/15" },
                                 { "url": "https://github.com/salva/p5-Math-Int128/pull/14", "state": "open", "relpath": "/pull/14" },
                                 { "url": "https://github.com/salva/p5-Math-Int128/pull/13", "state": "open", "relpath": "/pull/13" },
@@ -106,16 +101,17 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "ambs" },
         "distname":         "WWW-Pastebin-PastebinCom-API",
         "released_by":      { "pause_id": "ZOFFIX" },
         "repo":             { "url": "https://github.com/zoffixznet/www-pastebin-pastebincom-api", "relpath": "zoffixznet/www-pastebin-pastebincom-api" },
         "pull_requests":    [
+                                { "url": "https://github.com/zoffixznet/WWW-Pastebin-PastebinCom-API/pull/3", "state": "merged", "relpath": "/pull/3" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "kyzn" },
         "distname":         "Monitoring-Livestatus",
         "released_by":      { "pause_id": "NIERLEIN" },
@@ -125,7 +121,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "openstrike" },
         "distname":         "Image-Xpm",
         "released_by":      { "pause_id": "SREZIC" },
@@ -136,40 +132,33 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "pauloscustodio" },
         "distname":         "Mojolicious-Plugin-CaptchaRenderer",
         "released_by":      { "pause_id": "DMITRYNOD" },
         "repo":             { "url": "https://github.com/konstantinov/Mojolicious-Plugin-CaptchaRenderer", "relpath": "konstantinov/Mojolicious-Plugin-CaptchaRenderer" },
         "pull_requests":    [
+                                { "url": "https://github.com/konstantinov/Mojolicious-Plugin-CaptchaRenderer/pull/1", "state": "open", "relpath": "/pull/1" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "genio" },
         "distname":         "Foorum",
         "released_by":      { "pause_id": "FAYLAND" },
         "repo":             { "url": "https://github.com/fayland/foorum/tree/master", "relpath": "fayland/foorum/tree/master" },
         "pull_requests":    [
+                                { "url": "https://github.com/fayland/foorum/pull/1", "state": "open", "relpath": "/pull/1" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "manwar" },
         "distname":         "Getopt-Long-Descriptive",
         "released_by":      { "pause_id": "RJBS" },
         "repo":             { "url": "https://github.com/rjbs/Getopt-Long-Descriptive", "relpath": "rjbs/Getopt-Long-Descriptive" },
         "pull_requests":    [
                                 { "url": "https://github.com/rjbs/Getopt-Long-Descriptive/pull/22", "state": "open", "relpath": "/pull/22" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "Viviparous" },
-        "distname":         "Beam-Wire",
-        "released_by":      { "pause_id": "PREACTION" },
-        "repo":             { "url": "https://github.com/preaction/Beam-Wire", "relpath": "preaction/Beam-Wire" },
-        "pull_requests":    [
                             ]
     },
     {

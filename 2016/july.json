@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "July",
- "generated": { "date": "2016-12-20", "time": "09:12:31" },
+ "generated": { "date": "2017-01-03", "time": "18:49:44" },
  "stats": { "done": "16", "total": "19", "percent": "84.2" },
  "assignments": [
 
@@ -198,7 +198,7 @@
         "done":             false,
         "assignee":         { "github_username": "JenishGnanasicamani" },
         "distname":         "YAML",
-        "released_by":      { "pause_id": "TINITA" },
+        "released_by":      { "pause_id": "INGY" },
         "repo":             { "url": "https://github.com/ingydotnet/yaml-pm", "relpath": "ingydotnet/yaml-pm" },
         "pull_requests":    [
                             ]

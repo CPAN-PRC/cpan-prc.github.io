@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "January",
- "generated": { "date": "2016-12-20", "time": "09:10:41" },
+ "generated": { "date": "2017-01-03", "time": "18:47:46" },
  "stats": { "done": "52", "total": "55", "percent": "94.5" },
  "assignments": [
 
@@ -27,11 +27,13 @@
     },
     {
         "done":             true,
-        "assignee":         { "github_username": "adamherzog" },
+        "assignee":         { "github_username": "adherzog" },
         "distname":         "Scalar-List-Utils",
-        "released_by":      { "pause_id": "RURBAN" },
+        "released_by":      { "pause_id": "PEVANS" },
         "repo":             { "url": "https://github.com/Scalar-List-Utils/Scalar-List-Utils", "relpath": "Scalar-List-Utils/Scalar-List-Utils" },
         "pull_requests":    [
+                                { "url": "https://github.com/Scalar-List-Utils/Scalar-List-Utils/pull/38", "state": "closed", "relpath": "/pull/38" },
+                                { "url": "https://github.com/Scalar-List-Utils/Scalar-List-Utils/pull/37", "state": "merged", "relpath": "/pull/37" }
                             ]
     },
     {

@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "June",
- "generated": { "date": "2016-12-20", "time": "09:12:14" },
- "stats": { "done": "20", "total": "36", "percent": "55.6" },
+ "generated": { "date": "2017-01-03", "time": "18:49:29" },
+ "stats": { "done": "20", "total": "35", "percent": "57.1" },
  "assignments": [
 
     {
@@ -112,7 +112,7 @@
         "released_by":      { "pause_id": "AMBS" },
         "repo":             { "url": "https://github.com/ambs/Text-BibTeX", "relpath": "ambs/Text-BibTeX" },
         "pull_requests":    [
-                                { "url": "https://github.com/ambs/Text-BibTeX/pull/11", "state": "open", "relpath": "/pull/11" }
+                                { "url": "https://github.com/ambs/Text-BibTeX/pull/11", "state": "closed", "relpath": "/pull/11" }
                             ]
     },
     {
@@ -287,15 +287,6 @@
         "distname":         "Hook-AfterRuntime",
         "released_by":      { "pause_id": "EXODIST" },
         "repo":             { "url": "https://github.com/exodist/Hook-AfterRuntime", "relpath": "exodist/Hook-AfterRuntime" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "estrabd" },
-        "distname":         "App-Cmd",
-        "released_by":      { "pause_id": "RJBS" },
-        "repo":             { "url": "https://github.com/rjbs/App-Cmd", "relpath": "rjbs/App-Cmd" },
         "pull_requests":    [
                             ]
     },
