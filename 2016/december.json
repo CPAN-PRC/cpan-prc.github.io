@@ -1,7 +1,7 @@
 {
  "year": "2016",
  "month": "December",
- "generated": { "date": "2017-01-03", "time": "18:50:34" },
+ "generated": { "date": "2017-01-09", "time": "21:15:56" },
  "stats": { "done": "11", "total": "16", "percent": "68.8" },
  "assignments": [
 
@@ -138,7 +138,7 @@
         "released_by":      { "pause_id": "DMITRYNOD" },
         "repo":             { "url": "https://github.com/konstantinov/Mojolicious-Plugin-CaptchaRenderer", "relpath": "konstantinov/Mojolicious-Plugin-CaptchaRenderer" },
         "pull_requests":    [
-                                { "url": "https://github.com/konstantinov/Mojolicious-Plugin-CaptchaRenderer/pull/1", "state": "open", "relpath": "/pull/1" }
+                                { "url": "https://github.com/konstantinov/Mojolicious-Plugin-CaptchaRenderer/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]
     },
     {
