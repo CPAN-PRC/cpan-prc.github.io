@@ -1,8 +1,8 @@
 {
  "year": "2016",
  "month": "December",
- "generated": { "date": "2017-01-09", "time": "21:15:56" },
- "stats": { "done": "11", "total": "16", "percent": "68.8" },
+ "generated": { "date": "2017-01-14", "time": "09:19:06" },
+ "stats": { "done": "12", "total": "17", "percent": "70.6" },
  "assignments": [
 
     {
@@ -52,6 +52,16 @@
         "repo":             { "url": "https://github.com/ctrlo/Dancer2-Plugin-Auth-Extensible-Provider-DBIC", "relpath": "ctrlo/Dancer2-Plugin-Auth-Extensible-Provider-DBIC" },
         "pull_requests":    [
                                 { "url": "https://github.com/ctrlo/Dancer2-Plugin-Auth-Extensible-Provider-DBIC/pull/15", "state": "merged", "relpath": "/pull/15" }
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "choroba" },
+        "distname":         "OrePAN2",
+        "released_by":      { "pause_id": "OALDERS" },
+        "repo":             { "url": "https://github.com/tokuhirom/OrePAN2", "relpath": "tokuhirom/OrePAN2" },
+        "pull_requests":    [
+                                { "url": "https://github.com/tokuhirom/OrePAN2/pull/48", "state": "open", "relpath": "/pull/48" }
                             ]
     },
     {
