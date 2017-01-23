@@ -1,15 +1,15 @@
 {
  "year": "2017",
  "month": "January",
- "generated": { "date": "2017-01-16", "time": "23:11:06" },
- "stats": { "done": "8", "total": "69", "percent": "11.6" },
+ "generated": { "date": "2017-01-23", "time": "22:34:38" },
+ "stats": { "done": "14", "total": "67", "percent": "20.9" },
  "assignments": [
 
     {
         "done":             false,
         "assignee":         { "github_username": "hackman" },
         "distname":         "libwww-perl",
-        "released_by":      { "pause_id": "CAPOEIRAB" },
+        "released_by":      { "pause_id": "OALDERS" },
         "repo":             { "url": "https://github.com/libwww-perl/libwww-perl", "relpath": "libwww-perl/libwww-perl" },
         "pull_requests":    [
                             ]
@@ -69,12 +69,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "perlancar" },
         "distname":         "Statocles",
         "released_by":      { "pause_id": "PREACTION" },
         "repo":             { "url": "https://github.com/preaction/Statocles", "relpath": "preaction/Statocles" },
         "pull_requests":    [
+                                { "url": "https://github.com/preaction/Statocles/pull/527", "state": "open", "relpath": "/pull/527" }
                             ]
     },
     {
@@ -136,15 +137,6 @@
     },
     {
         "done":             false,
-        "assignee":         { "github_username": "pauloscustodio" },
-        "distname":         "Couchbase-Client",
-        "released_by":      { "pause_id": "MNUNBERG" },
-        "repo":             { "url": "https://github.com/mnunberg/perl-Couchbase-Client", "relpath": "mnunberg/perl-Couchbase-Client" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
         "assignee":         { "github_username": "klp2" },
         "distname":         "TermReadKey",
         "released_by":      { "pause_id": "JSTOWE" },
@@ -169,15 +161,6 @@
         "repo":             { "url": "https://github.com/und3f/anyevent-ping", "relpath": "und3f/anyevent-ping" },
         "pull_requests":    [
                                 { "url": "https://github.com/und3f/anyevent-ping/pull/14", "state": "open", "relpath": "/pull/14" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "druthb" },
-        "distname":         "Env-C",
-        "released_by":      { "pause_id": "MSCHOUT" },
-        "repo":             { "url": "https://github.com/mschout/env-c", "relpath": "mschout/env-c" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -339,15 +322,6 @@
     },
     {
         "done":             false,
-        "assignee":         { "github_username": "fredericorecsky" },
-        "distname":         "Text-BibTeX",
-        "released_by":      { "pause_id": "AMBS" },
-        "repo":             { "url": "https://github.com/ambs/Text-BibTeX", "relpath": "ambs/Text-BibTeX" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
         "assignee":         { "github_username": "itcharlie" },
         "distname":         "parent",
         "released_by":      { "pause_id": "CORION" },
@@ -365,16 +339,17 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "lharey" },
         "distname":         "Make",
         "released_by":      { "pause_id": "KLPTWO" },
         "repo":             { "url": "https://github.com/klp2/Make", "relpath": "klp2/Make" },
         "pull_requests":    [
+                                { "url": "https://github.com/klp2/Make/pull/2", "state": "merged", "relpath": "/pull/2" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "kwakwaversal" },
         "distname":         "URI-NamespaceMap",
         "released_by":      { "pause_id": "KJETILK" },
@@ -385,12 +360,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "simbabque" },
         "distname":         "Dancer2-Plugin-Auth-Extensible-Provider-DBIC",
         "released_by":      { "pause_id": "SYSPETE" },
         "repo":             { "url": "https://github.com/ctrlo/Dancer2-Plugin-Auth-Extensible-Provider-DBIC", "relpath": "ctrlo/Dancer2-Plugin-Auth-Extensible-Provider-DBIC" },
         "pull_requests":    [
+                                { "url": "https://github.com/ctrlo/Dancer2-Plugin-Auth-Extensible-Provider-DBIC/pull/16", "state": "merged", "relpath": "/pull/16" }
                             ]
     },
     {
@@ -430,12 +406,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "stevieb9" },
         "distname":         "gettext",
         "released_by":      { "pause_id": "PVANDRY" },
         "repo":             { "url": "https://github.com/vandry/Perl-Locale-gettext", "relpath": "vandry/Perl-Locale-gettext" },
         "pull_requests":    [
+                                { "url": "https://github.com/vandry/Perl-Locale-gettext/pull/2", "state": "open", "relpath": "/pull/2" }
                             ]
     },
     {
@@ -575,6 +552,7 @@
         "released_by":      { "pause_id": "INGY" },
         "repo":             { "url": "https://github.com/ingydotnet/jemplate", "relpath": "ingydotnet/jemplate" },
         "pull_requests":    [
+                                { "url": "https://github.com/ingydotnet/jemplate/pull/31", "state": "open", "relpath": "/pull/31" }
                             ]
     },
     {
@@ -642,11 +620,21 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "kharec" },
         "distname":         "MojoX-Routes-AsGraph",
         "released_by":      { "pause_id": "MELO" },
         "repo":             { "url": "https://github.com/melo/mojox-routes-asgraph", "relpath": "melo/mojox-routes-asgraph" },
+        "pull_requests":    [
+                                { "url": "https://github.com/melo/mojox-routes-asgraph/pull/3", "state": "merged", "relpath": "/pull/3" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "pauloscustodio" },
+        "distname":         "Template-Caribou",
+        "released_by":      { "pause_id": "YANICK" },
+        "repo":             { "url": "https://github.com/yanick/Template-Caribou", "relpath": "yanick/Template-Caribou" },
         "pull_requests":    [
                             ]
     }
