@@ -1,8 +1,8 @@
 {
  "year": "2017",
  "month": "January",
- "generated": { "date": "2017-01-23", "time": "22:34:38" },
- "stats": { "done": "14", "total": "67", "percent": "20.9" },
+ "generated": { "date": "2017-01-31", "time": "16:48:16" },
+ "stats": { "done": "16", "total": "65", "percent": "24.6" },
  "assignments": [
 
     {
@@ -39,6 +39,7 @@
         "released_by":      { "pause_id": "HACKMAN" },
         "repo":             { "url": "https://github.com/hackman/Linux-Unshare", "relpath": "hackman/Linux-Unshare" },
         "pull_requests":    [
+                                { "url": "https://github.com/hackman/Linux-Unshare/pull/2", "state": "merged", "relpath": "/pull/2" }
                             ]
     },
     {
@@ -104,6 +105,7 @@
         "released_by":      { "pause_id": "SYMKAT" },
         "repo":             { "url": "https://github.com/symkat/Daemon-Control", "relpath": "symkat/Daemon-Control" },
         "pull_requests":    [
+                                { "url": "https://github.com/symkat/Daemon-Control/pull/90", "state": "open", "relpath": "/pull/90" },
                                 { "url": "https://github.com/symkat/Daemon-Control/pull/89", "state": "merged", "relpath": "/pull/89" }
                             ]
     },
@@ -151,6 +153,7 @@
         "released_by":      { "pause_id": "DAMI" },
         "repo":             { "url": "https://github.com/damil/SQL-Abstract-More", "relpath": "damil/SQL-Abstract-More" },
         "pull_requests":    [
+                                { "url": "https://github.com/damil/SQL-Abstract-More/pull/9", "state": "open", "relpath": "/pull/9" }
                             ]
     },
     {
@@ -215,10 +218,11 @@
         "released_by":      { "pause_id": "LETO" },
         "repo":             { "url": "https://github.com/leto/math--gsl/tree/master", "relpath": "leto/math--gsl/tree/master" },
         "pull_requests":    [
+                                { "url": "https://github.com/leto/math--gsl/pull/138", "state": "open", "relpath": "/pull/138" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "cv-library" },
         "distname":         "Task-Biodiverse-NoGUI",
         "released_by":      { "pause_id": "SLAFFAN" },
@@ -261,6 +265,7 @@
         "released_by":      { "pause_id": "ZMUGHAL" },
         "repo":             { "url": "https://github.com/zmughal/p5-Data-Frame", "relpath": "zmughal/p5-Data-Frame" },
         "pull_requests":    [
+                                { "url": "https://github.com/EntropyOrg/p5-Data-Frame/pull/24", "state": "merged", "relpath": "/pull/24" }
                             ]
     },
     {
@@ -318,15 +323,6 @@
         "pull_requests":    [
                                 { "url": "https://github.com/evdb/HTTP-Async/pull/16", "state": "merged", "relpath": "/pull/16" },
                                 { "url": "https://github.com/evdb/HTTP-Async/pull/15", "state": "merged", "relpath": "/pull/15" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "itcharlie" },
-        "distname":         "parent",
-        "released_by":      { "pause_id": "CORION" },
-        "repo":             { "url": "https://github.com/Corion/parent", "relpath": "Corion/parent" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -412,7 +408,7 @@
         "released_by":      { "pause_id": "PVANDRY" },
         "repo":             { "url": "https://github.com/vandry/Perl-Locale-gettext", "relpath": "vandry/Perl-Locale-gettext" },
         "pull_requests":    [
-                                { "url": "https://github.com/vandry/Perl-Locale-gettext/pull/2", "state": "open", "relpath": "/pull/2" }
+                                { "url": "https://github.com/vandry/Perl-Locale-gettext/pull/2", "state": "merged", "relpath": "/pull/2" }
                             ]
     },
     {
@@ -443,12 +439,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "lancew" },
         "distname":         "Search-OpenSearch-Server",
         "released_by":      { "pause_id": "KARMAN" },
         "repo":             { "url": "https://github.com/karpet/search-opensearch-server", "relpath": "karpet/search-opensearch-server" },
         "pull_requests":    [
+                                { "url": "https://github.com/karpet/search-opensearch-server/pull/3", "state": "merged", "relpath": "/pull/3" }
                             ]
     },
     {
@@ -509,15 +506,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "xsawyerx" },
-        "distname":         "Protocol-HTTP2",
-        "released_by":      { "pause_id": "CRUX" },
-        "repo":             { "url": "https://github.com/vlet/p5-Protocol-HTTP2", "relpath": "vlet/p5-Protocol-HTTP2" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "genio" },
         "distname":         "Prima",
@@ -571,6 +559,8 @@
         "released_by":      { "pause_id": "MHX" },
         "repo":             { "url": "https://github.com/mhx/Convert-Binary-C", "relpath": "mhx/Convert-Binary-C" },
         "pull_requests":    [
+                                { "url": "https://github.com/mhx/Convert-Binary-C/pull/3", "state": "open", "relpath": "/pull/3" },
+                                { "url": "https://github.com/mhx/Convert-Binary-C/pull/2", "state": "closed", "relpath": "/pull/2" }
                             ]
     },
     {
@@ -589,6 +579,7 @@
         "released_by":      { "pause_id": "PLICEASE" },
         "repo":             { "url": "https://github.com/plicease/Shell-Config-Generate", "relpath": "plicease/Shell-Config-Generate" },
         "pull_requests":    [
+                                { "url": "https://github.com/plicease/Shell-Config-Generate/pull/15", "state": "open", "relpath": "/pull/15" }
                             ]
     },
     {
@@ -626,6 +617,8 @@
         "released_by":      { "pause_id": "MELO" },
         "repo":             { "url": "https://github.com/melo/mojox-routes-asgraph", "relpath": "melo/mojox-routes-asgraph" },
         "pull_requests":    [
+                                { "url": "https://github.com/melo/mojox-routes-asgraph/pull/6", "state": "merged", "relpath": "/pull/6" },
+                                { "url": "https://github.com/melo/mojox-routes-asgraph/pull/5", "state": "merged", "relpath": "/pull/5" },
                                 { "url": "https://github.com/melo/mojox-routes-asgraph/pull/3", "state": "merged", "relpath": "/pull/3" }
                             ]
     },
@@ -636,6 +629,7 @@
         "released_by":      { "pause_id": "YANICK" },
         "repo":             { "url": "https://github.com/yanick/Template-Caribou", "relpath": "yanick/Template-Caribou" },
         "pull_requests":    [
+                                { "url": "https://github.com/yanick/Template-Caribou/pull/4", "state": "open", "relpath": "/pull/4" }
                             ]
     }
  ]
