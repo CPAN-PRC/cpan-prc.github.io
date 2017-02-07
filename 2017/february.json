@@ -1,8 +1,8 @@
 {
  "year": "2017",
  "month": "February",
- "generated": { "date": "2017-02-07", "time": "10:32:14" },
- "stats": { "done": "3", "total": "36", "percent": "8.3" },
+ "generated": { "date": "2017-02-07", "time": "10:42:28" },
+ "stats": { "done": "3", "total": "37", "percent": "8.1" },
  "assignments": [
 
     {
@@ -332,6 +332,15 @@
         "distname":         "CPAN-Mini-Webserver",
         "released_by":      { "pause_id": "MITHALDU" },
         "repo":             { "url": "https://github.com/wchristian/cpan-mini-webserver", "relpath": "wchristian/cpan-mini-webserver" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "genehack" },
+        "distname":         "Module-Package",
+        "released_by":      { "pause_id": "INGY" },
+        "repo":             { "url": "https://github.com/ingydotnet/module-package-pm", "relpath": "ingydotnet/module-package-pm" },
         "pull_requests":    [
                             ]
     }
