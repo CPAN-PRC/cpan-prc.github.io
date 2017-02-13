@@ -1,8 +1,8 @@
 {
  "year": "2017",
  "month": "January",
- "generated": { "date": "2017-02-07", "time": "10:41:58" },
- "stats": { "done": "34", "total": "63", "percent": "54.0" },
+ "generated": { "date": "2017-02-13", "time": "20:34:45" },
+ "stats": { "done": "35", "total": "63", "percent": "55.6" },
  "assignments": [
 
     {
@@ -215,7 +215,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jluis" },
         "distname":         "Exobrain",
         "released_by":      { "pause_id": "PJF" },

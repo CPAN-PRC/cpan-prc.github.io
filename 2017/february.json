@@ -1,8 +1,8 @@
 {
  "year": "2017",
  "month": "February",
- "generated": { "date": "2017-02-07", "time": "10:42:28" },
- "stats": { "done": "3", "total": "37", "percent": "8.1" },
+ "generated": { "date": "2017-02-13", "time": "20:35:24" },
+ "stats": { "done": "5", "total": "39", "percent": "12.8" },
  "assignments": [
 
     {
@@ -152,12 +152,14 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "xsawyerx" },
         "distname":         "Dancer2-Plugin-DBIC",
         "released_by":      { "pause_id": "IRONCAMEL" },
         "repo":             { "url": "https://github.com/ironcamel/Dancer2-Plugin-DBIC", "relpath": "ironcamel/Dancer2-Plugin-DBIC" },
         "pull_requests":    [
+                                { "url": "https://github.com/ironcamel/Dancer2-Plugin-DBIC/pull/20", "state": "open", "relpath": "/pull/20" },
+                                { "url": "https://github.com/ironcamel/Dancer2-Plugin-DBIC/pull/19", "state": "merged", "relpath": "/pull/19" }
                             ]
     },
     {
@@ -198,12 +200,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "yanick" },
         "distname":         "Benchmark-Perl-Formance",
         "released_by":      { "pause_id": "SCHWIGON" },
         "repo":             { "url": "https://github.com/renormalist/Benchmark-Perl-Formance", "relpath": "renormalist/Benchmark-Perl-Formance" },
         "pull_requests":    [
+                                { "url": "https://github.com/renormalist/Benchmark-Perl-Formance/pull/4", "state": "merged", "relpath": "/pull/4" }
                             ]
     },
     {
@@ -232,6 +235,8 @@
         "released_by":      { "pause_id": "IDOPEREL" },
         "repo":             { "url": "https://github.com/ido50/Locale-Wolowitz", "relpath": "ido50/Locale-Wolowitz" },
         "pull_requests":    [
+                                { "url": "https://github.com/ido50/Locale-Wolowitz/pull/11", "state": "open", "relpath": "/pull/11" },
+                                { "url": "https://github.com/ido50/Locale-Wolowitz/pull/10", "state": "open", "relpath": "/pull/10" }
                             ]
     },
     {
@@ -241,16 +246,6 @@
         "released_by":      { "pause_id": "EWATERS" },
         "repo":             { "url": "https://github.com/ewaters/poe-component-sequence", "relpath": "ewaters/poe-component-sequence" },
         "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "manwar" },
-        "distname":         "Swim",
-        "released_by":      { "pause_id": "INGY" },
-        "repo":             { "url": "https://github.com/ingydotnet/swim-pm", "relpath": "ingydotnet/swim-pm" },
-        "pull_requests":    [
-                                { "url": "https://github.com/ingydotnet/swim-pm/pull/36", "state": "open", "relpath": "/pull/36" }
                             ]
     },
     {
@@ -278,6 +273,7 @@
         "released_by":      { "pause_id": "DAMI" },
         "repo":             { "url": "https://github.com/damil/SQL-Abstract-FromQuery", "relpath": "damil/SQL-Abstract-FromQuery" },
         "pull_requests":    [
+                                { "url": "https://github.com/damil/SQL-Abstract-FromQuery/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]
     },
     {
@@ -341,6 +337,33 @@
         "distname":         "Module-Package",
         "released_by":      { "pause_id": "INGY" },
         "repo":             { "url": "https://github.com/ingydotnet/module-package-pm", "relpath": "ingydotnet/module-package-pm" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "manwar" },
+        "distname":         "Test-Base",
+        "released_by":      { "pause_id": "INGY" },
+        "repo":             { "url": "https://github.com/ingydotnet/test-base-pm", "relpath": "ingydotnet/test-base-pm" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "jluis" },
+        "distname":         "XML-RSS",
+        "released_by":      { "pause_id": "SHLOMIF" },
+        "repo":             { "url": "https://github.com/shlomif/perl-XML-RSS", "relpath": "shlomif/perl-XML-RSS" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "RENEEB" },
+        "distname":         "Net-GitHub",
+        "released_by":      { "pause_id": "FAYLAND" },
+        "repo":             { "url": "https://github.com/fayland/perl-net-github", "relpath": "fayland/perl-net-github" },
         "pull_requests":    [
                             ]
     }
