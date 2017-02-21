@@ -1,8 +1,8 @@
 {
  "year": "2017",
  "month": "February",
- "generated": { "date": "2017-02-13", "time": "20:35:24" },
- "stats": { "done": "5", "total": "39", "percent": "12.8" },
+ "generated": { "date": "2017-02-21", "time": "22:25:46" },
+ "stats": { "done": "9", "total": "39", "percent": "23.1" },
  "assignments": [
 
     {
@@ -21,6 +21,7 @@
         "released_by":      { "pause_id": "INGY" },
         "repo":             { "url": "https://github.com/ingydotnet/swim-pm", "relpath": "ingydotnet/swim-pm" },
         "pull_requests":    [
+                                { "url": "https://github.com/ingydotnet/swim-pm/pull/42", "state": "open", "relpath": "/pull/42" }
                             ]
     },
     {
@@ -76,6 +77,7 @@
         "released_by":      { "pause_id": "CHOCOLATE" },
         "repo":             { "url": "https://github.com/chocolateboy/true", "relpath": "chocolateboy/true" },
         "pull_requests":    [
+                                { "url": "https://github.com/chocolateboy/true/pull/5", "state": "open", "relpath": "/pull/5" }
                             ]
     },
     {
@@ -98,7 +100,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "cv-library" },
         "distname":         "Git-Hooks",
         "released_by":      { "pause_id": "GNUSTAVO" },
@@ -125,12 +127,14 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jjatria" },
         "distname":         "Regexp-Common-time",
         "released_by":      { "pause_id": "SZABGAB" },
         "repo":             { "url": "https://github.com/szabgab/Regexp-Common-time", "relpath": "szabgab/Regexp-Common-time" },
         "pull_requests":    [
+                                { "url": "https://github.com/manwar/Regexp-Common-time/pull/3", "state": "open", "relpath": "/pull/3" },
+                                { "url": "https://github.com/manwar/Regexp-Common-time/pull/2", "state": "open", "relpath": "/pull/2" }
                             ]
     },
     {
@@ -173,12 +177,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "kharec" },
         "distname":         "Bash-Completion",
         "released_by":      { "pause_id": "MELO" },
         "repo":             { "url": "https://github.com/melo/bash-completion", "relpath": "melo/bash-completion" },
         "pull_requests":    [
+                                { "url": "https://github.com/melo/bash-completion/pull/5", "state": "merged", "relpath": "/pull/5" }
                             ]
     },
     {
@@ -188,6 +193,8 @@
         "released_by":      { "pause_id": "ARODLAND" },
         "repo":             { "url": "https://github.com/arodland/Unicode-CaseFold", "relpath": "arodland/Unicode-CaseFold" },
         "pull_requests":    [
+                                { "url": "https://github.com/arodland/Unicode-CaseFold/pull/2", "state": "open", "relpath": "/pull/2" },
+                                { "url": "https://github.com/arodland/Unicode-CaseFold/pull/1", "state": "open", "relpath": "/pull/1" }
                             ]
     },
     {
@@ -210,12 +217,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "lharey" },
         "distname":         "Template-Caribou",
         "released_by":      { "pause_id": "YANICK" },
         "repo":             { "url": "https://github.com/yanick/Template-Caribou", "relpath": "yanick/Template-Caribou" },
         "pull_requests":    [
+                                { "url": "https://github.com/yanick/Template-Caribou/pull/10", "state": "open", "relpath": "/pull/10" },
                                 { "url": "https://github.com/yanick/Template-Caribou/pull/5", "state": "closed", "relpath": "/pull/5" }
                             ]
     },
@@ -347,6 +355,7 @@
         "released_by":      { "pause_id": "INGY" },
         "repo":             { "url": "https://github.com/ingydotnet/test-base-pm", "relpath": "ingydotnet/test-base-pm" },
         "pull_requests":    [
+                                { "url": "https://github.com/ingydotnet/test-base-pm/pull/20", "state": "open", "relpath": "/pull/20" }
                             ]
     },
     {
