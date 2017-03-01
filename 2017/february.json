@@ -1,8 +1,8 @@
 {
  "year": "2017",
  "month": "February",
- "generated": { "date": "2017-02-21", "time": "22:25:46" },
- "stats": { "done": "9", "total": "39", "percent": "23.1" },
+ "generated": { "date": "2017-03-01", "time": "22:36:07" },
+ "stats": { "done": "17", "total": "37", "percent": "45.9" },
  "assignments": [
 
     {
@@ -62,16 +62,7 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "nbezzala" },
-        "distname":         "POE-Component-SmokeBox-Recent",
-        "released_by":      { "pause_id": "BINGOS" },
-        "repo":             { "url": "https://github.com/bingos/poe-component-smokebox-recent", "relpath": "bingos/poe-component-smokebox-recent" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "perlancar" },
         "distname":         "true",
         "released_by":      { "pause_id": "CHOCOLATE" },
@@ -81,12 +72,14 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "choroba" },
         "distname":         "App-GitHooks",
         "released_by":      { "pause_id": "AUBERTG" },
         "repo":             { "url": "https://github.com/guillaumeaubert/App-GitHooks", "relpath": "guillaumeaubert/App-GitHooks" },
         "pull_requests":    [
+                                { "url": "https://github.com/guillaumeaubert/App-GitHooks/pull/44", "state": "open", "relpath": "/pull/44" },
+                                { "url": "https://github.com/guillaumeaubert/App-GitHooks/pull/43", "state": "merged", "relpath": "/pull/43" }
                             ]
     },
     {
@@ -193,7 +186,11 @@
         "released_by":      { "pause_id": "ARODLAND" },
         "repo":             { "url": "https://github.com/arodland/Unicode-CaseFold", "relpath": "arodland/Unicode-CaseFold" },
         "pull_requests":    [
-                                { "url": "https://github.com/arodland/Unicode-CaseFold/pull/2", "state": "open", "relpath": "/pull/2" },
+                                { "url": "https://github.com/arodland/Unicode-CaseFold/pull/6", "state": "open", "relpath": "/pull/6" },
+                                { "url": "https://github.com/arodland/Unicode-CaseFold/pull/5", "state": "open", "relpath": "/pull/5" },
+                                { "url": "https://github.com/arodland/Unicode-CaseFold/pull/4", "state": "closed", "relpath": "/pull/4" },
+                                { "url": "https://github.com/arodland/Unicode-CaseFold/pull/3", "state": "closed", "relpath": "/pull/3" },
+                                { "url": "https://github.com/arodland/Unicode-CaseFold/pull/2", "state": "closed", "relpath": "/pull/2" },
                                 { "url": "https://github.com/arodland/Unicode-CaseFold/pull/1", "state": "open", "relpath": "/pull/1" }
                             ]
     },
@@ -223,7 +220,7 @@
         "released_by":      { "pause_id": "YANICK" },
         "repo":             { "url": "https://github.com/yanick/Template-Caribou", "relpath": "yanick/Template-Caribou" },
         "pull_requests":    [
-                                { "url": "https://github.com/yanick/Template-Caribou/pull/10", "state": "open", "relpath": "/pull/10" },
+                                { "url": "https://github.com/yanick/Template-Caribou/pull/10", "state": "closed", "relpath": "/pull/10" },
                                 { "url": "https://github.com/yanick/Template-Caribou/pull/5", "state": "closed", "relpath": "/pull/5" }
                             ]
     },
@@ -237,7 +234,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "vti" },
         "distname":         "Locale-Wolowitz",
         "released_by":      { "pause_id": "IDOPEREL" },
@@ -248,12 +245,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "lancew" },
         "distname":         "POE-Component-Sequence",
         "released_by":      { "pause_id": "EWATERS" },
         "repo":             { "url": "https://github.com/ewaters/poe-component-sequence", "relpath": "ewaters/poe-component-sequence" },
         "pull_requests":    [
+                                { "url": "https://github.com/ewaters/poe-component-sequence/pull/2", "state": "open", "relpath": "/pull/2" }
                             ]
     },
     {
@@ -275,22 +273,24 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "openstrike" },
         "distname":         "SQL-Abstract-FromQuery",
         "released_by":      { "pause_id": "DAMI" },
         "repo":             { "url": "https://github.com/damil/SQL-Abstract-FromQuery", "relpath": "damil/SQL-Abstract-FromQuery" },
         "pull_requests":    [
+                                { "url": "https://github.com/damil/SQL-Abstract-FromQuery/pull/2", "state": "open", "relpath": "/pull/2" },
                                 { "url": "https://github.com/damil/SQL-Abstract-FromQuery/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "kyzn" },
         "distname":         "Log-Dispatch",
         "released_by":      { "pause_id": "DROLSKY" },
         "repo":             { "url": "https://github.com/houseabsolute/Log-Dispatch", "relpath": "houseabsolute/Log-Dispatch" },
         "pull_requests":    [
+                                { "url": "https://github.com/houseabsolute/Log-Dispatch/pull/42", "state": "closed", "relpath": "/pull/42" }
                             ]
     },
     {
@@ -303,12 +303,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "s-nez" },
         "distname":         "AnyEvent-Subprocess",
         "released_by":      { "pause_id": "JROCKWAY" },
         "repo":             { "url": "https://github.com/jrockway/anyevent-subprocess", "relpath": "jrockway/anyevent-subprocess" },
         "pull_requests":    [
+                                { "url": "https://github.com/jrockway/anyevent-subprocess/pull/10", "state": "open", "relpath": "/pull/10" }
                             ]
     },
     {
@@ -349,22 +350,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "manwar" },
         "distname":         "Test-Base",
         "released_by":      { "pause_id": "INGY" },
         "repo":             { "url": "https://github.com/ingydotnet/test-base-pm", "relpath": "ingydotnet/test-base-pm" },
         "pull_requests":    [
                                 { "url": "https://github.com/ingydotnet/test-base-pm/pull/20", "state": "open", "relpath": "/pull/20" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "jluis" },
-        "distname":         "XML-RSS",
-        "released_by":      { "pause_id": "SHLOMIF" },
-        "repo":             { "url": "https://github.com/shlomif/perl-XML-RSS", "relpath": "shlomif/perl-XML-RSS" },
-        "pull_requests":    [
                             ]
     },
     {
