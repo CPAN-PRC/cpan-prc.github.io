@@ -1,7 +1,7 @@
 {
  "year": "2017",
  "month": "January",
- "generated": { "date": "2017-03-01", "time": "22:35:37" },
+ "generated": { "date": "2017-03-12", "time": "12:22:52" },
  "stats": { "done": "35", "total": "62", "percent": "56.5" },
  "assignments": [
 
@@ -117,7 +117,7 @@
         "released_by":      { "pause_id": "AWWAIID" },
         "repo":             { "url": "https://github.com/awwaiid/devel-ebug", "relpath": "awwaiid/devel-ebug" },
         "pull_requests":    [
-                                { "url": "https://github.com/awwaiid/Devel-ebug/pull/12", "state": "open", "relpath": "/pull/12" }
+                                { "url": "https://github.com/awwaiid/Devel-ebug/pull/12", "state": "merged", "relpath": "/pull/12" }
                             ]
     },
     {

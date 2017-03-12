@@ -1,8 +1,8 @@
 {
  "year": "2017",
  "month": "February",
- "generated": { "date": "2017-03-01", "time": "22:36:07" },
- "stats": { "done": "17", "total": "37", "percent": "45.9" },
+ "generated": { "date": "2017-03-12", "time": "12:23:11" },
+ "stats": { "done": "19", "total": "37", "percent": "51.4" },
  "assignments": [
 
     {
@@ -25,12 +25,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "pauloscustodio" },
         "distname":         "Devel-ebug",
         "released_by":      { "pause_id": "AWWAIID" },
         "repo":             { "url": "https://github.com/awwaiid/devel-ebug", "relpath": "awwaiid/devel-ebug" },
         "pull_requests":    [
+                                { "url": "https://github.com/awwaiid/Devel-ebug/pull/13", "state": "merged", "relpath": "/pull/13" }
                             ]
     },
     {
@@ -49,6 +50,7 @@
         "released_by":      { "pause_id": "HACKMAN" },
         "repo":             { "url": "https://github.com/hackman/Linux-Unshare", "relpath": "hackman/Linux-Unshare" },
         "pull_requests":    [
+                                { "url": "https://github.com/hackman/Linux-Unshare/pull/3", "state": "open", "relpath": "/pull/3" }
                             ]
     },
     {
@@ -78,7 +80,7 @@
         "released_by":      { "pause_id": "AUBERTG" },
         "repo":             { "url": "https://github.com/guillaumeaubert/App-GitHooks", "relpath": "guillaumeaubert/App-GitHooks" },
         "pull_requests":    [
-                                { "url": "https://github.com/guillaumeaubert/App-GitHooks/pull/44", "state": "open", "relpath": "/pull/44" },
+                                { "url": "https://github.com/guillaumeaubert/App-GitHooks/pull/44", "state": "merged", "relpath": "/pull/44" },
                                 { "url": "https://github.com/guillaumeaubert/App-GitHooks/pull/43", "state": "merged", "relpath": "/pull/43" }
                             ]
     },
@@ -155,7 +157,7 @@
         "released_by":      { "pause_id": "IRONCAMEL" },
         "repo":             { "url": "https://github.com/ironcamel/Dancer2-Plugin-DBIC", "relpath": "ironcamel/Dancer2-Plugin-DBIC" },
         "pull_requests":    [
-                                { "url": "https://github.com/ironcamel/Dancer2-Plugin-DBIC/pull/20", "state": "open", "relpath": "/pull/20" },
+                                { "url": "https://github.com/ironcamel/Dancer2-Plugin-DBIC/pull/20", "state": "merged", "relpath": "/pull/20" },
                                 { "url": "https://github.com/ironcamel/Dancer2-Plugin-DBIC/pull/19", "state": "merged", "relpath": "/pull/19" }
                             ]
     },
@@ -180,7 +182,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "paultcochrane" },
         "distname":         "Unicode-CaseFold",
         "released_by":      { "pause_id": "ARODLAND" },
@@ -279,7 +281,7 @@
         "released_by":      { "pause_id": "DAMI" },
         "repo":             { "url": "https://github.com/damil/SQL-Abstract-FromQuery", "relpath": "damil/SQL-Abstract-FromQuery" },
         "pull_requests":    [
-                                { "url": "https://github.com/damil/SQL-Abstract-FromQuery/pull/2", "state": "open", "relpath": "/pull/2" },
+                                { "url": "https://github.com/damil/SQL-Abstract-FromQuery/pull/2", "state": "closed", "relpath": "/pull/2" },
                                 { "url": "https://github.com/damil/SQL-Abstract-FromQuery/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]
     },
