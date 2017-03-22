@@ -1,8 +1,8 @@
 {
  "year": "2017",
  "month": "March",
- "generated": { "date": "2017-03-12", "time": "12:23:23" },
- "stats": { "done": "5", "total": "25", "percent": "20.0" },
+ "generated": { "date": "2017-03-22", "time": "08:58:14" },
+ "stats": { "done": "6", "total": "27", "percent": "22.2" },
  "assignments": [
 
     {
@@ -24,12 +24,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "simbabque" },
         "distname":         "Devel-ebug",
         "released_by":      { "pause_id": "AWWAIID" },
         "repo":             { "url": "https://github.com/awwaiid/devel-ebug", "relpath": "awwaiid/devel-ebug" },
         "pull_requests":    [
+                                { "url": "https://github.com/awwaiid/Devel-ebug/pull/15", "state": "merged", "relpath": "/pull/15" }
                             ]
     },
     {
@@ -39,8 +40,8 @@
         "released_by":      { "pause_id": "MAROS" },
         "repo":             { "url": "https://github.com/maros/Mail-Builder", "relpath": "maros/Mail-Builder" },
         "pull_requests":    [
-                                { "url": "https://github.com/maros/Mail-Builder/pull/3", "state": "open", "relpath": "/pull/3" },
-                                { "url": "https://github.com/maros/Mail-Builder/pull/2", "state": "open", "relpath": "/pull/2" }
+                                { "url": "https://github.com/maros/Mail-Builder/pull/3", "state": "merged", "relpath": "/pull/3" },
+                                { "url": "https://github.com/maros/Mail-Builder/pull/2", "state": "merged", "relpath": "/pull/2" }
                             ]
     },
     {
@@ -50,6 +51,7 @@
         "released_by":      { "pause_id": "AUBERTG" },
         "repo":             { "url": "https://github.com/guillaumeaubert/App-GitHooks", "relpath": "guillaumeaubert/App-GitHooks" },
         "pull_requests":    [
+                                { "url": "https://github.com/guillaumeaubert/App-GitHooks/pull/46", "state": "merged", "relpath": "/pull/46" }
                             ]
     },
     {
@@ -152,6 +154,7 @@
         "released_by":      { "pause_id": "GNUSTAVO" },
         "repo":             { "url": "https://github.com/gnustavo/Git-Hooks", "relpath": "gnustavo/Git-Hooks" },
         "pull_requests":    [
+                                { "url": "https://github.com/gnustavo/Git-Hooks/pull/36", "state": "closed", "relpath": "/pull/36" }
                             ]
     },
     {
@@ -208,6 +211,11 @@
         "released_by":      { "pause_id": "XSAWYERX" },
         "repo":             { "url": "https://github.com/xsawyerx/sys-hostip", "relpath": "xsawyerx/sys-hostip" },
         "pull_requests":    [
+                                { "url": "https://github.com/xsawyerx/sys-hostip/pull/14", "state": "open", "relpath": "/pull/14" },
+                                { "url": "https://github.com/xsawyerx/sys-hostip/pull/13", "state": "open", "relpath": "/pull/13" },
+                                { "url": "https://github.com/xsawyerx/sys-hostip/pull/12", "state": "open", "relpath": "/pull/12" },
+                                { "url": "https://github.com/xsawyerx/sys-hostip/pull/11", "state": "open", "relpath": "/pull/11" },
+                                { "url": "https://github.com/xsawyerx/sys-hostip/pull/10", "state": "open", "relpath": "/pull/10" }
                             ]
     },
     {
@@ -234,6 +242,24 @@
         "distname":         "Proc-CPUUsage",
         "released_by":      { "pause_id": "MELO" },
         "repo":             { "url": "https://github.com/melo/proc-metrics", "relpath": "melo/proc-metrics" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "jj" },
+        "distname":         "MooseX-FileAttribute",
+        "released_by":      { "pause_id": "JROCKWAY" },
+        "repo":             { "url": "https://github.com/jrockway/moosex-fileattribute", "relpath": "jrockway/moosex-fileattribute" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "monsieurp" },
+        "distname":         "WebService-Raygun",
+        "released_by":      { "pause_id": "HEYTRAV" },
+        "repo":             { "url": "https://github.com/heytrav/raygun4perl", "relpath": "heytrav/raygun4perl" },
         "pull_requests":    [
                             ]
     }
