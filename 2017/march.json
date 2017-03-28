@@ -1,7 +1,7 @@
 {
  "year": "2017",
  "month": "March",
- "generated": { "date": "2017-03-22", "time": "08:58:14" },
+ "generated": { "date": "2017-03-28", "time": "19:51:46" },
  "stats": { "done": "6", "total": "27", "percent": "22.2" },
  "assignments": [
 
@@ -107,6 +107,7 @@
         "released_by":      { "pause_id": "CHOCOLATE" },
         "repo":             { "url": "https://github.com/chocolateboy/true", "relpath": "chocolateboy/true" },
         "pull_requests":    [
+                                { "url": "https://github.com/chocolateboy/true/pull/6", "state": "open", "relpath": "/pull/6" }
                             ]
     },
     {
@@ -126,6 +127,7 @@
         "released_by":      { "pause_id": "RCAPUTO" },
         "repo":             { "url": "https://github.com/rcaputo/poe-component-client-http", "relpath": "rcaputo/poe-component-client-http" },
         "pull_requests":    [
+                                { "url": "https://github.com/rcaputo/poe-component-client-http/pull/5", "state": "open", "relpath": "/pull/5" }
                             ]
     },
     {
@@ -145,6 +147,7 @@
         "released_by":      { "pause_id": "MAXMIND" },
         "repo":             { "url": "https://github.com/maxmind/Stepford", "relpath": "maxmind/Stepford" },
         "pull_requests":    [
+                                { "url": "https://github.com/maxmind/Stepford/pull/33", "state": "merged", "relpath": "/pull/33" }
                             ]
     },
     {
@@ -211,11 +214,12 @@
         "released_by":      { "pause_id": "XSAWYERX" },
         "repo":             { "url": "https://github.com/xsawyerx/sys-hostip", "relpath": "xsawyerx/sys-hostip" },
         "pull_requests":    [
-                                { "url": "https://github.com/xsawyerx/sys-hostip/pull/14", "state": "open", "relpath": "/pull/14" },
-                                { "url": "https://github.com/xsawyerx/sys-hostip/pull/13", "state": "open", "relpath": "/pull/13" },
-                                { "url": "https://github.com/xsawyerx/sys-hostip/pull/12", "state": "open", "relpath": "/pull/12" },
-                                { "url": "https://github.com/xsawyerx/sys-hostip/pull/11", "state": "open", "relpath": "/pull/11" },
-                                { "url": "https://github.com/xsawyerx/sys-hostip/pull/10", "state": "open", "relpath": "/pull/10" }
+                                { "url": "https://github.com/xsawyerx/sys-hostip/pull/15", "state": "merged", "relpath": "/pull/15" },
+                                { "url": "https://github.com/xsawyerx/sys-hostip/pull/14", "state": "merged", "relpath": "/pull/14" },
+                                { "url": "https://github.com/xsawyerx/sys-hostip/pull/13", "state": "merged", "relpath": "/pull/13" },
+                                { "url": "https://github.com/xsawyerx/sys-hostip/pull/12", "state": "merged", "relpath": "/pull/12" },
+                                { "url": "https://github.com/xsawyerx/sys-hostip/pull/11", "state": "merged", "relpath": "/pull/11" },
+                                { "url": "https://github.com/xsawyerx/sys-hostip/pull/10", "state": "merged", "relpath": "/pull/10" }
                             ]
     },
     {
@@ -252,6 +256,7 @@
         "released_by":      { "pause_id": "JROCKWAY" },
         "repo":             { "url": "https://github.com/jrockway/moosex-fileattribute", "relpath": "jrockway/moosex-fileattribute" },
         "pull_requests":    [
+                                { "url": "https://github.com/jrockway/moosex-fileattribute/pull/3", "state": "open", "relpath": "/pull/3" }
                             ]
     },
     {
