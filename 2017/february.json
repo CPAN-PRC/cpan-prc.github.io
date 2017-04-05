@@ -1,19 +1,10 @@
 {
  "year": "2017",
  "month": "February",
- "generated": { "date": "2017-03-28", "time": "19:51:31" },
- "stats": { "done": "21", "total": "37", "percent": "56.8" },
+ "generated": { "date": "2017-04-05", "time": "21:47:17" },
+ "stats": { "done": "21", "total": "36", "percent": "58.3" },
  "assignments": [
 
-    {
-        "done":             false,
-        "assignee":         { "github_username": "itcharlie" },
-        "distname":         "MySQL-Diff",
-        "released_by":      { "pause_id": "ESTRABD" },
-        "repo":             { "url": "https://github.com/aspiers/mysqldiff", "relpath": "aspiers/mysqldiff" },
-        "pull_requests":    [
-                            ]
-    },
     {
         "done":             true,
         "assignee":         { "github_username": "jj" },
