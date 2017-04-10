@@ -1,7 +1,7 @@
 {
  "year": "2017",
  "month": "January",
- "generated": { "date": "2017-04-05", "time": "21:46:57" },
+ "generated": { "date": "2017-04-10", "time": "20:15:07" },
  "stats": { "done": "35", "total": "35", "percent": "100.0" },
  "assignments": [
 
@@ -319,7 +319,7 @@
         "released_by":      { "pause_id": "MHX" },
         "repo":             { "url": "https://github.com/mhx/Convert-Binary-C", "relpath": "mhx/Convert-Binary-C" },
         "pull_requests":    [
-                                { "url": "https://github.com/mhx/Convert-Binary-C/pull/3", "state": "open", "relpath": "/pull/3" },
+                                { "url": "https://github.com/mhx/Convert-Binary-C/pull/3", "state": "merged", "relpath": "/pull/3" },
                                 { "url": "https://github.com/mhx/Convert-Binary-C/pull/2", "state": "closed", "relpath": "/pull/2" }
                             ]
     },

@@ -1,7 +1,7 @@
 {
  "year": "2017",
  "month": "March",
- "generated": { "date": "2017-04-05", "time": "21:47:33" },
+ "generated": { "date": "2017-04-10", "time": "20:15:58" },
  "stats": { "done": "17", "total": "23", "percent": "73.9" },
  "assignments": [
 
@@ -223,7 +223,7 @@
         "done":             true,
         "assignee":         { "github_username": "jj" },
         "distname":         "MooseX-FileAttribute",
-        "released_by":      { "pause_id": "JROCKWAY" },
+        "released_by":      { "pause_id": "ETHER" },
         "repo":             { "url": "https://github.com/jrockway/moosex-fileattribute", "relpath": "jrockway/moosex-fileattribute" },
         "pull_requests":    [
                                 { "url": "https://github.com/jrockway/moosex-fileattribute/pull/3", "state": "open", "relpath": "/pull/3" }

@@ -1,8 +1,8 @@
 {
  "year": "2017",
  "month": "April",
- "generated": { "date": "2017-04-05", "time": "21:47:48" },
- "stats": { "done": "3", "total": "23", "percent": "13.0" },
+ "generated": { "date": "2017-04-10", "time": "20:16:18" },
+ "stats": { "done": "3", "total": "24", "percent": "12.5" },
  "assignments": [
 
     {
@@ -45,9 +45,10 @@
         "done":             false,
         "assignee":         { "github_username": "genio" },
         "distname":         "MooseX-FileAttribute",
-        "released_by":      { "pause_id": "JROCKWAY" },
+        "released_by":      { "pause_id": "ETHER" },
         "repo":             { "url": "https://github.com/jrockway/moosex-fileattribute", "relpath": "jrockway/moosex-fileattribute" },
         "pull_requests":    [
+                                { "url": "https://github.com/jrockway/moosex-fileattribute/pull/5", "state": "closed", "relpath": "/pull/5" }
                             ]
     },
     {
@@ -113,7 +114,7 @@
         "released_by":      { "pause_id": "MAXMIND" },
         "repo":             { "url": "https://github.com/maxmind/Stepford", "relpath": "maxmind/Stepford" },
         "pull_requests":    [
-                                { "url": "https://github.com/maxmind/Stepford/pull/37", "state": "open", "relpath": "/pull/37" },
+                                { "url": "https://github.com/maxmind/Stepford/pull/37", "state": "merged", "relpath": "/pull/37" },
                                 { "url": "https://github.com/maxmind/Stepford/pull/35", "state": "open", "relpath": "/pull/35" },
                                 { "url": "https://github.com/maxmind/Stepford/pull/34", "state": "merged", "relpath": "/pull/34" }
                             ]
@@ -125,6 +126,7 @@
         "released_by":      { "pause_id": "FRACTAL" },
         "repo":             { "url": "https://github.com/hoytech/Log-Defer-Viz", "relpath": "hoytech/Log-Defer-Viz" },
         "pull_requests":    [
+                                { "url": "https://github.com/hoytech/Log-Defer-Viz/pull/10", "state": "merged", "relpath": "/pull/10" }
                             ]
     },
     {
@@ -171,6 +173,7 @@
         "released_by":      { "pause_id": "RJBS" },
         "repo":             { "url": "https://github.com/rjbs/App-Cmd", "relpath": "rjbs/App-Cmd" },
         "pull_requests":    [
+                                { "url": "https://github.com/rjbs/App-Cmd/pull/64", "state": "open", "relpath": "/pull/64" }
                             ]
     },
     {
@@ -193,15 +196,6 @@
     },
     {
         "done":             false,
-        "assignee":         { "github_username": "lharey" },
-        "distname":         "Text-Trac",
-        "released_by":      { "pause_id": "SZABGAB" },
-        "repo":             { "url": "https://github.com/szabgab/Text-Trac", "relpath": "szabgab/Text-Trac" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
         "assignee":         { "github_username": "dionys" },
         "distname":         "Setup-File",
         "released_by":      { "pause_id": "PERLANCAR" },
@@ -215,6 +209,24 @@
         "distname":         "libwww-perl",
         "released_by":      { "pause_id": "OALDERS" },
         "repo":             { "url": "https://github.com/libwww-perl/libwww-perl", "relpath": "libwww-perl/libwww-perl" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "lharey" },
+        "distname":         "Log-Log4perl",
+        "released_by":      { "pause_id": "MSCHILLI" },
+        "repo":             { "url": "https://github.com/mschilli/log4perl", "relpath": "mschilli/log4perl" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "ZipRecruiter" },
+        "distname":         "WWW-Mechanize",
+        "released_by":      { "pause_id": "OALDERS" },
+        "repo":             { "url": "https://github.com/libwww-perl/WWW-Mechanize", "relpath": "libwww-perl/WWW-Mechanize" },
         "pull_requests":    [
                             ]
     }
