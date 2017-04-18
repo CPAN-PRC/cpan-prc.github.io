@@ -1,8 +1,8 @@
 {
  "year": "2017",
  "month": "March",
- "generated": { "date": "2017-04-10", "time": "20:15:58" },
- "stats": { "done": "17", "total": "23", "percent": "73.9" },
+ "generated": { "date": "2017-04-18", "time": "13:34:10" },
+ "stats": { "done": "18", "total": "23", "percent": "78.3" },
  "assignments": [
 
     {
@@ -174,7 +174,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "paultcochrane" },
         "distname":         "Sys-HostIP",
         "released_by":      { "pause_id": "XSAWYERX" },
