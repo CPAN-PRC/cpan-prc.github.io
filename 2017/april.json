@@ -1,8 +1,8 @@
 {
  "year": "2017",
  "month": "April",
- "generated": { "date": "2017-04-18", "time": "13:34:29" },
- "stats": { "done": "5", "total": "25", "percent": "20.0" },
+ "generated": { "date": "2017-04-24", "time": "16:56:52" },
+ "stats": { "done": "6", "total": "26", "percent": "23.1" },
  "assignments": [
 
     {
@@ -21,6 +21,7 @@
         "released_by":      { "pause_id": "DWHEELER" },
         "repo":             { "url": "https://github.com/theory/sqitch", "relpath": "theory/sqitch" },
         "pull_requests":    [
+                                { "url": "https://github.com/theory/sqitch/pull/329", "state": "open", "relpath": "/pull/329" }
                             ]
     },
     {
@@ -33,7 +34,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "genio" },
         "distname":         "MooseX-FileAttribute",
         "released_by":      { "pause_id": "ETHER" },
@@ -211,6 +212,7 @@
         "released_by":      { "pause_id": "MSCHILLI" },
         "repo":             { "url": "https://github.com/mschilli/log4perl", "relpath": "mschilli/log4perl" },
         "pull_requests":    [
+                                { "url": "https://github.com/mschilli/log4perl/pull/80", "state": "open", "relpath": "/pull/80" }
                             ]
     },
     {
@@ -238,6 +240,24 @@
         "released_by":      { "pause_id": "PLICEASE" },
         "repo":             { "url": "https://github.com/plicease/Test-Script", "relpath": "plicease/Test-Script" },
         "pull_requests":    [
+                                { "url": "https://github.com/plicease/Test-Script/pull/21", "state": "open", "relpath": "/pull/21" },
+                                { "url": "https://github.com/plicease/Test-Script/pull/20", "state": "open", "relpath": "/pull/20" },
+                                { "url": "https://github.com/plicease/Test-Script/pull/19", "state": "open", "relpath": "/pull/19" },
+                                { "url": "https://github.com/plicease/Test-Script/pull/18", "state": "open", "relpath": "/pull/18" },
+                                { "url": "https://github.com/plicease/Test-Script/pull/17", "state": "open", "relpath": "/pull/17" },
+                                { "url": "https://github.com/plicease/Test-Script/pull/16", "state": "open", "relpath": "/pull/16" },
+                                { "url": "https://github.com/plicease/Test-Script/pull/15", "state": "open", "relpath": "/pull/15" },
+                                { "url": "https://github.com/plicease/Test-Script/pull/14", "state": "open", "relpath": "/pull/14" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "mjg17" },
+        "distname":         "Test-CheckManifest",
+        "released_by":      { "pause_id": "RENEEB" },
+        "repo":             { "url": "https://github.com/reneeb/Test-CheckManifest", "relpath": "reneeb/Test-CheckManifest" },
+        "pull_requests":    [
+                                { "url": "https://github.com/reneeb/Test-CheckManifest/pull/6", "state": "merged", "relpath": "/pull/6" }
                             ]
     }
  ]
