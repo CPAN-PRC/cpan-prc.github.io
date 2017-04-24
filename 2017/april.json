@@ -1,8 +1,8 @@
 {
  "year": "2017",
  "month": "April",
- "generated": { "date": "2017-04-24", "time": "16:56:52" },
- "stats": { "done": "6", "total": "26", "percent": "23.1" },
+ "generated": { "date": "2017-04-24", "time": "20:35:03" },
+ "stats": { "done": "8", "total": "25", "percent": "32.0" },
  "assignments": [
 
     {
@@ -15,7 +15,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "yati-sagade" },
         "distname":         "App-Sqitch",
         "released_by":      { "pause_id": "DWHEELER" },
@@ -31,6 +31,7 @@
         "released_by":      { "pause_id": "MSCHOUT" },
         "repo":             { "url": "https://github.com/mschout/env-c", "relpath": "mschout/env-c" },
         "pull_requests":    [
+                                { "url": "https://github.com/mschout/env-c/pull/7", "state": "open", "relpath": "/pull/7" }
                             ]
     },
     {
@@ -152,15 +153,6 @@
     },
     {
         "done":             false,
-        "assignee":         { "github_username": "kyzn" },
-        "distname":         "Protocol-HTTP2",
-        "released_by":      { "pause_id": "CRUX" },
-        "repo":             { "url": "https://github.com/vlet/p5-Protocol-HTTP2", "relpath": "vlet/p5-Protocol-HTTP2" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
         "assignee":         { "github_username": "xsawyerx" },
         "distname":         "App-Cmd",
         "released_by":      { "pause_id": "RJBS" },
@@ -251,7 +243,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "mjg17" },
         "distname":         "Test-CheckManifest",
         "released_by":      { "pause_id": "RENEEB" },

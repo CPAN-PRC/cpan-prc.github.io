@@ -1,8 +1,8 @@
 {
  "year": "2017",
  "month": "February",
- "generated": { "date": "2017-04-24", "time": "16:56:20" },
- "stats": { "done": "21", "total": "36", "percent": "58.3" },
+ "generated": { "date": "2017-04-24", "time": "20:34:32" },
+ "stats": { "done": "21", "total": "35", "percent": "60.0" },
  "assignments": [
 
     {
@@ -185,15 +185,6 @@
                                 { "url": "https://github.com/arodland/Unicode-CaseFold/pull/3", "state": "closed", "relpath": "/pull/3" },
                                 { "url": "https://github.com/arodland/Unicode-CaseFold/pull/2", "state": "closed", "relpath": "/pull/2" },
                                 { "url": "https://github.com/arodland/Unicode-CaseFold/pull/1", "state": "open", "relpath": "/pull/1" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "Varadinsky" },
-        "distname":         "App-ElasticSearch-Utilities",
-        "released_by":      { "pause_id": "BLHOTSKY" },
-        "repo":             { "url": "https://github.com/reyjrar/es-utils", "relpath": "reyjrar/es-utils" },
-        "pull_requests":    [
                             ]
     },
     {
