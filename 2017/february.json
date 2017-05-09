@@ -1,8 +1,8 @@
 {
  "year": "2017",
  "month": "February",
- "generated": { "date": "2017-04-24", "time": "20:34:32" },
- "stats": { "done": "21", "total": "35", "percent": "60.0" },
+ "generated": { "date": "2017-05-09", "time": "22:58:05" },
+ "stats": { "done": "21", "total": "21", "percent": "100.0" },
  "assignments": [
 
     {
@@ -23,15 +23,6 @@
         "repo":             { "url": "https://github.com/awwaiid/devel-ebug", "relpath": "awwaiid/devel-ebug" },
         "pull_requests":    [
                                 { "url": "https://github.com/awwaiid/Devel-ebug/pull/13", "state": "merged", "relpath": "/pull/13" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "brummett" },
-        "distname":         "Env-C",
-        "released_by":      { "pause_id": "MSCHOUT" },
-        "repo":             { "url": "https://github.com/mschout/env-c", "relpath": "mschout/env-c" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -76,39 +67,11 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "hchienjo" },
-        "distname":         "LaTeX-Driver",
-        "released_by":      { "pause_id": "EINHVERFR" },
-        "repo":             { "url": "https://github.com/Template-Toolkit-Latex/LaTeX-Driver", "relpath": "Template-Toolkit-Latex/LaTeX-Driver" },
-        "pull_requests":    [
-                                { "url": "https://github.com/Template-Toolkit-Latex/LaTeX-Driver/pull/10", "state": "open", "relpath": "/pull/10" }
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "cv-library" },
         "distname":         "Git-Hooks",
         "released_by":      { "pause_id": "GNUSTAVO" },
         "repo":             { "url": "https://github.com/gnustavo/Git-Hooks", "relpath": "gnustavo/Git-Hooks" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "kwakwaversal" },
-        "distname":         "Make",
-        "released_by":      { "pause_id": "KLPTWO" },
-        "repo":             { "url": "https://github.com/klp2/Make", "relpath": "klp2/Make" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "lorn" },
-        "distname":         "Method-Signatures-Simple",
-        "released_by":      { "pause_id": "RHESA" },
-        "repo":             { "url": "https://github.com/rhesa/method-signatures-simple", "relpath": "rhesa/method-signatures-simple" },
         "pull_requests":    [
                             ]
     },
@@ -121,24 +84,6 @@
         "pull_requests":    [
                                 { "url": "https://github.com/manwar/Regexp-Common-time/pull/3", "state": "open", "relpath": "/pull/3" },
                                 { "url": "https://github.com/manwar/Regexp-Common-time/pull/2", "state": "open", "relpath": "/pull/2" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "stevieb9" },
-        "distname":         "MojoX-Redis",
-        "released_by":      { "pause_id": "UNDEF" },
-        "repo":             { "url": "https://github.com/und3f/mojox-redis", "relpath": "und3f/mojox-redis" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "brad-mac" },
-        "distname":         "Tree-Binary",
-        "released_by":      { "pause_id": "RSAVAGE" },
-        "repo":             { "url": "https://github.com/ronsavage/Tree-Binary", "relpath": "ronsavage/Tree-Binary" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -209,15 +154,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "sdeseille" },
-        "distname":         "Facebook-Graph",
-        "released_by":      { "pause_id": "RIZEN" },
-        "repo":             { "url": "https://github.com/rizen/Facebook-Graph", "relpath": "rizen/Facebook-Graph" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "vti" },
         "distname":         "Locale-Wolowitz",
@@ -236,24 +172,6 @@
         "repo":             { "url": "https://github.com/ewaters/poe-component-sequence", "relpath": "ewaters/poe-component-sequence" },
         "pull_requests":    [
                                 { "url": "https://github.com/ewaters/poe-component-sequence/pull/2", "state": "open", "relpath": "/pull/2" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "trwww" },
-        "distname":         "POE-Loop-EV",
-        "released_by":      { "pause_id": "DBOOK" },
-        "repo":             { "url": "https://github.com/Grinnz/POE-Loop-EV", "relpath": "Grinnz/POE-Loop-EV" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "ambs" },
-        "distname":         "Meta-Builder",
-        "released_by":      { "pause_id": "EXODIST" },
-        "repo":             { "url": "https://github.com/exodist/Meta-Builder", "relpath": "exodist/Meta-Builder" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -278,15 +196,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "soren" },
-        "distname":         "Template-Caribou",
-        "released_by":      { "pause_id": "YANICK" },
-        "repo":             { "url": "https://github.com/yanick/Template-Caribou", "relpath": "yanick/Template-Caribou" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "s-nez" },
         "distname":         "AnyEvent-Subprocess",
@@ -294,15 +203,6 @@
         "repo":             { "url": "https://github.com/jrockway/anyevent-subprocess", "relpath": "jrockway/anyevent-subprocess" },
         "pull_requests":    [
                                 { "url": "https://github.com/jrockway/anyevent-subprocess/pull/10", "state": "open", "relpath": "/pull/10" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "marderh" },
-        "distname":         "Jenkins-API",
-        "released_by":      { "pause_id": "NEWELLC" },
-        "repo":             { "url": "https://github.com/colinnewell/Jenkins-API", "relpath": "colinnewell/Jenkins-API" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -316,24 +216,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "cakirke" },
-        "distname":         "CPAN-Mini-Webserver",
-        "released_by":      { "pause_id": "MITHALDU" },
-        "repo":             { "url": "https://github.com/wchristian/cpan-mini-webserver", "relpath": "wchristian/cpan-mini-webserver" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "genehack" },
-        "distname":         "Module-Package",
-        "released_by":      { "pause_id": "INGY" },
-        "repo":             { "url": "https://github.com/ingydotnet/module-package-pm", "relpath": "ingydotnet/module-package-pm" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "manwar" },
         "distname":         "Test-Base",
@@ -341,15 +223,6 @@
         "repo":             { "url": "https://github.com/ingydotnet/test-base-pm", "relpath": "ingydotnet/test-base-pm" },
         "pull_requests":    [
                                 { "url": "https://github.com/ingydotnet/test-base-pm/pull/20", "state": "open", "relpath": "/pull/20" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "RENEEB" },
-        "distname":         "Net-GitHub",
-        "released_by":      { "pause_id": "FAYLAND" },
-        "repo":             { "url": "https://github.com/fayland/perl-net-github", "relpath": "fayland/perl-net-github" },
-        "pull_requests":    [
                             ]
     }
  ]

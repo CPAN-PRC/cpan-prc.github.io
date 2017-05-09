@@ -1,8 +1,8 @@
 {
  "year": "2017",
  "month": "April",
- "generated": { "date": "2017-04-24", "time": "20:35:03" },
- "stats": { "done": "8", "total": "25", "percent": "32.0" },
+ "generated": { "date": "2017-05-09", "time": "22:58:27" },
+ "stats": { "done": "16", "total": "22", "percent": "72.7" },
  "assignments": [
 
     {
@@ -21,11 +21,11 @@
         "released_by":      { "pause_id": "DWHEELER" },
         "repo":             { "url": "https://github.com/theory/sqitch", "relpath": "theory/sqitch" },
         "pull_requests":    [
-                                { "url": "https://github.com/theory/sqitch/pull/329", "state": "open", "relpath": "/pull/329" }
+                                { "url": "https://github.com/theory/sqitch/pull/329", "state": "merged", "relpath": "/pull/329" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jluis" },
         "distname":         "Env-C",
         "released_by":      { "pause_id": "MSCHOUT" },
@@ -75,30 +75,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "lancew" },
         "distname":         "HTML-FormFu-Model-DBIC",
         "released_by":      { "pause_id": "NIGELM" },
         "repo":             { "url": "https://github.com/fireartist/HTML-FormFu-Model-DBIC", "relpath": "fireartist/HTML-FormFu-Model-DBIC" },
         "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "s-nez" },
-        "distname":         "LaTeX-Driver",
-        "released_by":      { "pause_id": "EINHVERFR" },
-        "repo":             { "url": "https://github.com/Template-Toolkit-Latex/LaTeX-Driver", "relpath": "Template-Toolkit-Latex/LaTeX-Driver" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "vti" },
-        "distname":         "POE-Component-Client-HTTP",
-        "released_by":      { "pause_id": "RCAPUTO" },
-        "repo":             { "url": "https://github.com/rcaputo/poe-component-client-http", "relpath": "rcaputo/poe-component-client-http" },
-        "pull_requests":    [
+                                { "url": "https://github.com/FormFu/HTML-FormFu-Model-DBIC/pull/10", "state": "open", "relpath": "/pull/10" }
                             ]
     },
     {
@@ -114,7 +97,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "manwar" },
         "distname":         "Log-Defer-Viz",
         "released_by":      { "pause_id": "FRACTAL" },
@@ -168,6 +151,7 @@
         "released_by":      { "pause_id": "DROLSKY" },
         "repo":             { "url": "https://github.com/autarch/Params-Validate", "relpath": "autarch/Params-Validate" },
         "pull_requests":    [
+                                { "url": "https://github.com/houseabsolute/Params-Validate/pull/14", "state": "closed", "relpath": "/pull/14" }
                             ]
     },
     {
@@ -177,19 +161,11 @@
         "released_by":      { "pause_id": "PLICEASE" },
         "repo":             { "url": "https://github.com/Perl5-Alien/Alien-Base", "relpath": "Perl5-Alien/Alien-Base" },
         "pull_requests":    [
+                                { "url": "https://github.com/Perl5-Alien/Alien-Base/pull/187", "state": "open", "relpath": "/pull/187" }
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "dionys" },
-        "distname":         "Setup-File",
-        "released_by":      { "pause_id": "PERLANCAR" },
-        "repo":             { "url": "https://github.com/perlancar/perl-Setup-File", "relpath": "perlancar/perl-Setup-File" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "cv-library" },
         "distname":         "libwww-perl",
         "released_by":      { "pause_id": "OALDERS" },
@@ -198,17 +174,18 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "lharey" },
         "distname":         "Log-Log4perl",
         "released_by":      { "pause_id": "MSCHILLI" },
         "repo":             { "url": "https://github.com/mschilli/log4perl", "relpath": "mschilli/log4perl" },
         "pull_requests":    [
-                                { "url": "https://github.com/mschilli/log4perl/pull/80", "state": "open", "relpath": "/pull/80" }
+                                { "url": "https://github.com/mschilli/log4perl/pull/81", "state": "open", "relpath": "/pull/81" },
+                                { "url": "https://github.com/mschilli/log4perl/pull/80", "state": "closed", "relpath": "/pull/80" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "ZipRecruiter" },
         "distname":         "WWW-Mechanize",
         "released_by":      { "pause_id": "OALDERS" },
@@ -217,29 +194,32 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "perlancar" },
         "distname":         "HTTP-Server-Simple",
         "released_by":      { "pause_id": "BPS" },
         "repo":             { "url": "https://github.com/bestpractical/http-server-simple", "relpath": "bestpractical/http-server-simple" },
         "pull_requests":    [
+                                { "url": "https://github.com/bestpractical/http-server-simple/pull/11", "state": "open", "relpath": "/pull/11" },
+                                { "url": "https://github.com/bestpractical/http-server-simple/pull/10", "state": "closed", "relpath": "/pull/10" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "paultcochrane" },
         "distname":         "Test-Script",
         "released_by":      { "pause_id": "PLICEASE" },
         "repo":             { "url": "https://github.com/plicease/Test-Script", "relpath": "plicease/Test-Script" },
         "pull_requests":    [
-                                { "url": "https://github.com/plicease/Test-Script/pull/21", "state": "open", "relpath": "/pull/21" },
-                                { "url": "https://github.com/plicease/Test-Script/pull/20", "state": "open", "relpath": "/pull/20" },
-                                { "url": "https://github.com/plicease/Test-Script/pull/19", "state": "open", "relpath": "/pull/19" },
-                                { "url": "https://github.com/plicease/Test-Script/pull/18", "state": "open", "relpath": "/pull/18" },
-                                { "url": "https://github.com/plicease/Test-Script/pull/17", "state": "open", "relpath": "/pull/17" },
-                                { "url": "https://github.com/plicease/Test-Script/pull/16", "state": "open", "relpath": "/pull/16" },
-                                { "url": "https://github.com/plicease/Test-Script/pull/15", "state": "open", "relpath": "/pull/15" },
-                                { "url": "https://github.com/plicease/Test-Script/pull/14", "state": "open", "relpath": "/pull/14" }
+                                { "url": "https://github.com/plicease/Test-Script/pull/22", "state": "closed", "relpath": "/pull/22" },
+                                { "url": "https://github.com/plicease/Test-Script/pull/21", "state": "closed", "relpath": "/pull/21" },
+                                { "url": "https://github.com/plicease/Test-Script/pull/20", "state": "closed", "relpath": "/pull/20" },
+                                { "url": "https://github.com/plicease/Test-Script/pull/19", "state": "closed", "relpath": "/pull/19" },
+                                { "url": "https://github.com/plicease/Test-Script/pull/18", "state": "closed", "relpath": "/pull/18" },
+                                { "url": "https://github.com/plicease/Test-Script/pull/17", "state": "closed", "relpath": "/pull/17" },
+                                { "url": "https://github.com/plicease/Test-Script/pull/16", "state": "closed", "relpath": "/pull/16" },
+                                { "url": "https://github.com/plicease/Test-Script/pull/15", "state": "closed", "relpath": "/pull/15" },
+                                { "url": "https://github.com/plicease/Test-Script/pull/14", "state": "merged", "relpath": "/pull/14" }
                             ]
     },
     {
