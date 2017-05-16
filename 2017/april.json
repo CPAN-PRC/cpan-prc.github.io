@@ -1,8 +1,8 @@
 {
  "year": "2017",
  "month": "April",
- "generated": { "date": "2017-05-09", "time": "22:58:27" },
- "stats": { "done": "16", "total": "22", "percent": "72.7" },
+ "generated": { "date": "2017-05-16", "time": "13:53:28" },
+ "stats": { "done": "17", "total": "22", "percent": "77.3" },
  "assignments": [
 
     {
@@ -145,7 +145,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "choroba" },
         "distname":         "Params-Validate",
         "released_by":      { "pause_id": "DROLSKY" },

@@ -1,8 +1,8 @@
 {
  "year": "2017",
  "month": "May",
- "generated": { "date": "2017-05-09", "time": "22:58:40" },
- "stats": { "done": "0", "total": "21", "percent": "0.0" },
+ "generated": { "date": "2017-05-16", "time": "13:53:44" },
+ "stats": { "done": "1", "total": "21", "percent": "4.8" },
  "assignments": [
 
     {
@@ -54,7 +54,7 @@
         "done":             false,
         "assignee":         { "github_username": "lharey" },
         "distname":         "Inline-C",
-        "released_by":      { "pause_id": "INGY" },
+        "released_by":      { "pause_id": "TINITA" },
         "repo":             { "url": "https://github.com/ingydotnet/inline-c-pm", "relpath": "ingydotnet/inline-c-pm" },
         "pull_requests":    [
                             ]
@@ -101,12 +101,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "shlomif" },
         "distname":         "TermReadKey",
         "released_by":      { "pause_id": "JSTOWE" },
         "repo":             { "url": "https://github.com/jonathanstowe/TermReadKey", "relpath": "jonathanstowe/TermReadKey" },
         "pull_requests":    [
+                                { "url": "https://github.com/jonathanstowe/TermReadKey/pull/27", "state": "merged", "relpath": "/pull/27" },
                                 { "url": "https://github.com/jonathanstowe/TermReadKey/pull/9", "state": "merged", "relpath": "/pull/9" }
                             ]
     },
