@@ -1,66 +1,52 @@
 {
  "year": "2017",
  "month": "May",
- "generated": { "date": "2017-05-16", "time": "13:53:44" },
- "stats": { "done": "1", "total": "21", "percent": "4.8" },
+ "generated": { "date": "2017-07-14", "time": "09:18:43" },
+ "stats": { "done": "15", "total": "20", "percent": "75.0" },
  "assignments": [
 
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "lancew" },
         "distname":         "Box-Calc",
         "released_by":      { "pause_id": "RIZEN" },
         "repo":             { "url": "https://github.com/rizen/Box-Calc", "relpath": "rizen/Box-Calc" },
         "pull_requests":    [
+                                { "url": "https://github.com/rizen/Box-Calc/pull/14", "state": "open", "relpath": "/pull/14" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "mjg17" },
         "distname":         "POE-Component-MessageQueue",
         "released_by":      { "pause_id": "IRONCAMEL" },
         "repo":             { "url": "https://github.com/ironcamel/POE-Component-MessageQueue", "relpath": "ironcamel/POE-Component-MessageQueue" },
         "pull_requests":    [
+                                { "url": "https://github.com/ironcamel/POE-Component-MessageQueue/pull/10", "state": "merged", "relpath": "/pull/10" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "s-nez" },
         "distname":         "ExtUtils-MakeMaker",
         "released_by":      { "pause_id": "BINGOS" },
         "repo":             { "url": "https://github.com/Perl-Toolchain-Gang/ExtUtils-MakeMaker", "relpath": "Perl-Toolchain-Gang/ExtUtils-MakeMaker" },
         "pull_requests":    [
+                                { "url": "https://github.com/Perl-Toolchain-Gang/ExtUtils-MakeMaker/pull/300", "state": "merged", "relpath": "/pull/300" }
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "jluis" },
-        "distname":         "PPI",
-        "released_by":      { "pause_id": "MITHALDU" },
-        "repo":             { "url": "https://github.com/adamkennedy/PPI", "relpath": "adamkennedy/PPI" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "perlancar" },
         "distname":         "Rex",
         "released_by":      { "pause_id": "JFRIED" },
         "repo":             { "url": "https://github.com/RexOps/Rex", "relpath": "RexOps/Rex" },
         "pull_requests":    [
+                                { "url": "https://github.com/RexOps/Rex/pull/1147", "state": "open", "relpath": "/pull/1147" }
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "lharey" },
-        "distname":         "Inline-C",
-        "released_by":      { "pause_id": "TINITA" },
-        "repo":             { "url": "https://github.com/ingydotnet/inline-c-pm", "relpath": "ingydotnet/inline-c-pm" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "paultcochrane" },
         "distname":         "WebService-Pushover",
         "released_by":      { "pause_id": "SHUFF" },
@@ -74,30 +60,23 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "genio" },
-        "distname":         "POE-Component-Server-Twirc",
-        "released_by":      { "pause_id": "MMIMS" },
-        "repo":             { "url": "https://github.com/semifor/twirc", "relpath": "semifor/twirc" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "kyzn" },
         "distname":         "AnyEvent-WebSocket-Client",
         "released_by":      { "pause_id": "PLICEASE" },
         "repo":             { "url": "https://github.com/plicease/AnyEvent-WebSocket-Client", "relpath": "plicease/AnyEvent-WebSocket-Client" },
         "pull_requests":    [
+                                { "url": "https://github.com/plicease/AnyEvent-WebSocket-Client/pull/29", "state": "merged", "relpath": "/pull/29" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jjatria" },
         "distname":         "Couchbase-Client",
         "released_by":      { "pause_id": "MNUNBERG" },
         "repo":             { "url": "https://github.com/mnunberg/perl-Couchbase-Client", "relpath": "mnunberg/perl-Couchbase-Client" },
         "pull_requests":    [
+                                { "url": "https://github.com/mnunberg/perl-Couchbase-Client/pull/47", "state": "open", "relpath": "/pull/47" }
                             ]
     },
     {
@@ -112,7 +91,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "ZipRecruiter" },
         "distname":         "Devel-TraceUse",
         "released_by":      { "pause_id": "BOOK" },
@@ -121,7 +100,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "yanick" },
         "distname":         "MyCPAN-Indexer",
         "released_by":      { "pause_id": "BDFOY" },
@@ -141,16 +120,17 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "manwar" },
         "distname":         "Net-HTTP",
         "released_by":      { "pause_id": "OALDERS" },
-        "repo":             { "url": "https://github.com/libwww-perl/net-http", "relpath": "libwww-perl/net-http" },
+        "repo":             { "url": "https://github.com/libwww-perl/Net-HTTP", "relpath": "libwww-perl/Net-HTTP" },
         "pull_requests":    [
+                                { "url": "https://github.com/libwww-perl/Net-HTTP/pull/52", "state": "merged", "relpath": "/pull/52" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "cv-library" },
         "distname":         "App-AltSQL",
         "released_by":      { "pause_id": "EWATERS" },
@@ -179,12 +159,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "simbabque" },
         "distname":         "DBIx-Class-Helpers",
         "released_by":      { "pause_id": "FREW" },
         "repo":             { "url": "https://github.com/frioux/DBIx-Class-Helpers", "relpath": "frioux/DBIx-Class-Helpers" },
         "pull_requests":    [
+                                { "url": "https://github.com/frioux/DBIx-Class-Helpers/pull/82", "state": "open", "relpath": "/pull/82" }
                             ]
     },
     {
@@ -203,6 +184,26 @@
         "released_by":      { "pause_id": "TINITA" },
         "repo":             { "url": "https://github.com/perlpunk/App-Spec-p5", "relpath": "perlpunk/App-Spec-p5" },
         "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "jj" },
+        "distname":         "LWP-Protocol-https",
+        "released_by":      { "pause_id": "OALDERS" },
+        "repo":             { "url": "https://github.com/libwww-perl/lwp-protocol-https", "relpath": "libwww-perl/lwp-protocol-https" },
+        "pull_requests":    [
+                                { "url": "https://github.com/libwww-perl/LWP-Protocol-https/pull/51", "state": "merged", "relpath": "/pull/51" }
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "choroba" },
+        "distname":         "PDF-Table",
+        "released_by":      { "pause_id": "OMEGA" },
+        "repo":             { "url": "https://github.com/kamenov/PDF-Table", "relpath": "kamenov/PDF-Table" },
+        "pull_requests":    [
+                                { "url": "https://github.com/kamenov/PDF-Table/pull/32", "state": "merged", "relpath": "/pull/32" }
                             ]
     }
  ]

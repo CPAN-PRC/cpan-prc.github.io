@@ -1,7 +1,7 @@
 {
  "year": "2017",
  "month": "February",
- "generated": { "date": "2017-05-16", "time": "13:52:47" },
+ "generated": { "date": "2017-07-14", "time": "09:18:02" },
  "stats": { "done": "21", "total": "21", "percent": "100.0" },
  "assignments": [
 
@@ -79,8 +79,8 @@
         "done":             true,
         "assignee":         { "github_username": "jjatria" },
         "distname":         "Regexp-Common-time",
-        "released_by":      { "pause_id": "SZABGAB" },
-        "repo":             { "url": "https://github.com/szabgab/Regexp-Common-time", "relpath": "szabgab/Regexp-Common-time" },
+        "released_by":      { "pause_id": "MANWAR" },
+        "repo":             { "url": "https://github.com/manwar/Regexp-Common-time", "relpath": "manwar/Regexp-Common-time" },
         "pull_requests":    [
                                 { "url": "https://github.com/manwar/Regexp-Common-time/pull/3", "state": "open", "relpath": "/pull/3" },
                                 { "url": "https://github.com/manwar/Regexp-Common-time/pull/2", "state": "open", "relpath": "/pull/2" }

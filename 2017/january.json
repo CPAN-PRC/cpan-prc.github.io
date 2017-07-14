@@ -1,7 +1,7 @@
 {
  "year": "2017",
  "month": "January",
- "generated": { "date": "2017-05-16", "time": "13:52:26" },
+ "generated": { "date": "2017-07-14", "time": "09:17:48" },
  "stats": { "done": "35", "total": "35", "percent": "100.0" },
  "assignments": [
 
@@ -199,7 +199,7 @@
         "done":             true,
         "assignee":         { "github_username": "simbabque" },
         "distname":         "Dancer2-Plugin-Auth-Extensible-Provider-DBIC",
-        "released_by":      { "pause_id": "SYSPETE" },
+        "released_by":      { "pause_id": "ABEVERLEY" },
         "repo":             { "url": "https://github.com/ctrlo/Dancer2-Plugin-Auth-Extensible-Provider-DBIC", "relpath": "ctrlo/Dancer2-Plugin-Auth-Extensible-Provider-DBIC" },
         "pull_requests":    [
                                 { "url": "https://github.com/ctrlo/Dancer2-Plugin-Auth-Extensible-Provider-DBIC/pull/16", "state": "merged", "relpath": "/pull/16" }

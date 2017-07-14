@@ -1,8 +1,8 @@
 {
  "year": "2017",
  "month": "April",
- "generated": { "date": "2017-05-16", "time": "13:53:28" },
- "stats": { "done": "17", "total": "22", "percent": "77.3" },
+ "generated": { "date": "2017-07-14", "time": "09:18:30" },
+ "stats": { "done": "19", "total": "22", "percent": "86.4" },
  "assignments": [
 
     {
@@ -39,9 +39,8 @@
         "assignee":         { "github_username": "genio" },
         "distname":         "MooseX-FileAttribute",
         "released_by":      { "pause_id": "ETHER" },
-        "repo":             { "url": "https://github.com/jrockway/moosex-fileattribute", "relpath": "jrockway/moosex-fileattribute" },
+        "repo":             { "url": "https://github.com/moose/MooseX-FileAttribute", "relpath": "moose/MooseX-FileAttribute" },
         "pull_requests":    [
-                                { "url": "https://github.com/jrockway/moosex-fileattribute/pull/5", "state": "closed", "relpath": "/pull/5" }
                             ]
     },
     {
@@ -71,7 +70,7 @@
         "released_by":      { "pause_id": "GENEHACK" },
         "repo":             { "url": "https://github.com/genehack/app-gitgot", "relpath": "genehack/app-gitgot" },
         "pull_requests":    [
-                                { "url": "https://github.com/genehack/app-gitgot/pull/65", "state": "open", "relpath": "/pull/65" }
+                                { "url": "https://github.com/genehack/app-gitgot/pull/65", "state": "closed", "relpath": "/pull/65" }
                             ]
     },
     {
@@ -92,7 +91,7 @@
         "repo":             { "url": "https://github.com/maxmind/Stepford", "relpath": "maxmind/Stepford" },
         "pull_requests":    [
                                 { "url": "https://github.com/maxmind/Stepford/pull/37", "state": "merged", "relpath": "/pull/37" },
-                                { "url": "https://github.com/maxmind/Stepford/pull/35", "state": "open", "relpath": "/pull/35" },
+                                { "url": "https://github.com/maxmind/Stepford/pull/35", "state": "merged", "relpath": "/pull/35" },
                                 { "url": "https://github.com/maxmind/Stepford/pull/34", "state": "merged", "relpath": "/pull/34" }
                             ]
     },
@@ -116,12 +115,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "openstrike" },
         "distname":         "Devel-ebug",
         "released_by":      { "pause_id": "AWWAIID" },
         "repo":             { "url": "https://github.com/awwaiid/devel-ebug", "relpath": "awwaiid/devel-ebug" },
         "pull_requests":    [
+                                { "url": "https://github.com/awwaiid/Devel-ebug/pull/17", "state": "open", "relpath": "/pull/17" }
                             ]
     },
     {
@@ -149,19 +149,19 @@
         "assignee":         { "github_username": "choroba" },
         "distname":         "Params-Validate",
         "released_by":      { "pause_id": "DROLSKY" },
-        "repo":             { "url": "https://github.com/autarch/Params-Validate", "relpath": "autarch/Params-Validate" },
+        "repo":             { "url": "https://github.com/houseabsolute/Params-Validate", "relpath": "houseabsolute/Params-Validate" },
         "pull_requests":    [
                                 { "url": "https://github.com/houseabsolute/Params-Validate/pull/14", "state": "closed", "relpath": "/pull/14" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jj" },
         "distname":         "Alien-Base",
         "released_by":      { "pause_id": "PLICEASE" },
         "repo":             { "url": "https://github.com/Perl5-Alien/Alien-Base", "relpath": "Perl5-Alien/Alien-Base" },
         "pull_requests":    [
-                                { "url": "https://github.com/Perl5-Alien/Alien-Base/pull/187", "state": "open", "relpath": "/pull/187" }
+                                { "url": "https://github.com/Perl5-Alien/Alien-Base/pull/187", "state": "closed", "relpath": "/pull/187" }
                             ]
     },
     {

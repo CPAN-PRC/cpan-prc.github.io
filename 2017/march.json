@@ -1,8 +1,8 @@
 {
  "year": "2017",
  "month": "March",
- "generated": { "date": "2017-05-16", "time": "13:53:03" },
- "stats": { "done": "18", "total": "23", "percent": "78.3" },
+ "generated": { "date": "2017-07-14", "time": "09:18:15" },
+ "stats": { "done": "18", "total": "22", "percent": "81.8" },
  "assignments": [
 
     {
@@ -121,7 +121,7 @@
         "released_by":      { "pause_id": "KLPTWO" },
         "repo":             { "url": "https://github.com/klp2/Make", "relpath": "klp2/Make" },
         "pull_requests":    [
-                                { "url": "https://github.com/klp2/Make/pull/4", "state": "open", "relpath": "/pull/4" }
+                                { "url": "https://github.com/klp2/Make/pull/4", "state": "merged", "relpath": "/pull/4" }
                             ]
     },
     {
@@ -157,10 +157,10 @@
         "done":             true,
         "assignee":         { "github_username": "yanick" },
         "distname":         "Regexp-Common-time",
-        "released_by":      { "pause_id": "SZABGAB" },
-        "repo":             { "url": "https://github.com/szabgab/Regexp-Common-time", "relpath": "szabgab/Regexp-Common-time" },
+        "released_by":      { "pause_id": "MANWAR" },
+        "repo":             { "url": "https://github.com/manwar/Regexp-Common-time", "relpath": "manwar/Regexp-Common-time" },
         "pull_requests":    [
-                                { "url": "https://github.com/manwar/Regexp-Common-time/pull/4", "state": "open", "relpath": "/pull/4" }
+                                { "url": "https://github.com/manwar/Regexp-Common-time/pull/4", "state": "closed", "relpath": "/pull/4" }
                             ]
     },
     {
@@ -224,17 +224,7 @@
         "assignee":         { "github_username": "jj" },
         "distname":         "MooseX-FileAttribute",
         "released_by":      { "pause_id": "ETHER" },
-        "repo":             { "url": "https://github.com/jrockway/moosex-fileattribute", "relpath": "jrockway/moosex-fileattribute" },
-        "pull_requests":    [
-                                { "url": "https://github.com/jrockway/moosex-fileattribute/pull/3", "state": "open", "relpath": "/pull/3" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "monsieurp" },
-        "distname":         "WebService-Raygun",
-        "released_by":      { "pause_id": "HEYTRAV" },
-        "repo":             { "url": "https://github.com/heytrav/raygun4perl", "relpath": "heytrav/raygun4perl" },
+        "repo":             { "url": "https://github.com/moose/MooseX-FileAttribute", "relpath": "moose/MooseX-FileAttribute" },
         "pull_requests":    [
                             ]
     }

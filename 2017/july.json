@@ -1,0 +1,166 @@
+{
+ "year": "2017",
+ "month": "July",
+ "generated": { "date": "2017-07-14", "time": "09:19:03" },
+ "stats": { "done": "3", "total": "16", "percent": "18.8" },
+ "assignments": [
+
+    {
+        "done":             false,
+        "assignee":         { "github_username": "manwar" },
+        "distname":         "Inline-C",
+        "released_by":      { "pause_id": "TINITA" },
+        "repo":             { "url": "https://github.com/ingydotnet/inline-c-pm", "relpath": "ingydotnet/inline-c-pm" },
+        "pull_requests":    [
+                                { "url": "https://github.com/ingydotnet/inline-c-pm/pull/68", "state": "open", "relpath": "/pull/68" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "simbabque" },
+        "distname":         "Catalyst-Controller-HTML-FormFu",
+        "released_by":      { "pause_id": "NIGELM" },
+        "repo":             { "url": "https://github.com/fireartist/Catalyst-Controller-HTML-FormFu", "relpath": "fireartist/Catalyst-Controller-HTML-FormFu" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "yanick" },
+        "distname":         "Clustericious",
+        "released_by":      { "pause_id": "PLICEASE" },
+        "repo":             { "url": "https://github.com/clustericious/Clustericious", "relpath": "clustericious/Clustericious" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "lancew" },
+        "distname":         "Net-SSH-Perl-WithSocks",
+        "released_by":      { "pause_id": "BDFOY" },
+        "repo":             { "url": "https://github.com/briandfoy/Net-SSH-Perl-WithSocks", "relpath": "briandfoy/Net-SSH-Perl-WithSocks" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "paultcochrane" },
+        "distname":         "Plack-Test-AnyEvent",
+        "released_by":      { "pause_id": "RHOELZ" },
+        "repo":             { "url": "https://github.com/hoelzro/plack-test-anyevent", "relpath": "hoelzro/plack-test-anyevent" },
+        "pull_requests":    [
+                                { "url": "https://github.com/hoelzro/plack-test-anyevent/pull/16", "state": "merged", "relpath": "/pull/16" },
+                                { "url": "https://github.com/hoelzro/plack-test-anyevent/pull/15", "state": "merged", "relpath": "/pull/15" },
+                                { "url": "https://github.com/hoelzro/plack-test-anyevent/pull/14", "state": "merged", "relpath": "/pull/14" },
+                                { "url": "https://github.com/hoelzro/plack-test-anyevent/pull/13", "state": "merged", "relpath": "/pull/13" },
+                                { "url": "https://github.com/hoelzro/plack-test-anyevent/pull/12", "state": "merged", "relpath": "/pull/12" },
+                                { "url": "https://github.com/hoelzro/plack-test-anyevent/pull/11", "state": "merged", "relpath": "/pull/11" }
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "shlomif" },
+        "distname":         "RDF-LinkedData",
+        "released_by":      { "pause_id": "KJETILK" },
+        "repo":             { "url": "https://github.com/kjetilk/RDF-LinkedData", "relpath": "kjetilk/RDF-LinkedData" },
+        "pull_requests":    [
+                                { "url": "https://github.com/kjetilk/RDF-LinkedData/pull/20", "state": "merged", "relpath": "/pull/20" }
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "jjatria" },
+        "distname":         "Setup-File",
+        "released_by":      { "pause_id": "PERLANCAR" },
+        "repo":             { "url": "https://github.com/perlancar/perl-Setup-File", "relpath": "perlancar/perl-Setup-File" },
+        "pull_requests":    [
+                                { "url": "https://github.com/perlancar/perl-Setup-File/pull/1", "state": "open", "relpath": "/pull/1" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "perlancar" },
+        "distname":         "POE-Component-Resolver",
+        "released_by":      { "pause_id": "RCAPUTO" },
+        "repo":             { "url": "https://github.com/rcaputo/poe-component-resolver", "relpath": "rcaputo/poe-component-resolver" },
+        "pull_requests":    [
+                                { "url": "https://github.com/rcaputo/poe-component-resolver/pull/3", "state": "open", "relpath": "/pull/3" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "lharey" },
+        "distname":         "Tree-Binary",
+        "released_by":      { "pause_id": "RSAVAGE" },
+        "repo":             { "url": "https://github.com/ronsavage/Tree-Binary", "relpath": "ronsavage/Tree-Binary" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "cv-library" },
+        "distname":         "PPI",
+        "released_by":      { "pause_id": "MITHALDU" },
+        "repo":             { "url": "https://github.com/adamkennedy/PPI", "relpath": "adamkennedy/PPI" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "kyzn" },
+        "distname":         "Class-Inspector",
+        "released_by":      { "pause_id": "PLICEASE" },
+        "repo":             { "url": "https://github.com/plicease/Class-Inspector", "relpath": "plicease/Class-Inspector" },
+        "pull_requests":    [
+                                { "url": "https://github.com/plicease/Class-Inspector/pull/4", "state": "merged", "relpath": "/pull/4" },
+                                { "url": "https://github.com/plicease/Class-Inspector/pull/3", "state": "open", "relpath": "/pull/3" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "s-nez" },
+        "distname":         "Ouch",
+        "released_by":      { "pause_id": "RIZEN" },
+        "repo":             { "url": "https://github.com/rizen/Ouch", "relpath": "rizen/Ouch" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "monsieurp" },
+        "distname":         "Devel-CheckOS",
+        "released_by":      { "pause_id": "DCANTRELL" },
+        "repo":             { "url": "https://github.com/DrHyde/perl-modules-Devel-CheckOS", "relpath": "DrHyde/perl-modules-Devel-CheckOS" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "choroba" },
+        "distname":         "Action-Retry",
+        "released_by":      { "pause_id": "DAMS" },
+        "repo":             { "url": "https://github.com/dams/Action-Retry", "relpath": "dams/Action-Retry" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "genio" },
+        "distname":         "Method-Lexical",
+        "released_by":      { "pause_id": "CHOCOLATE" },
+        "repo":             { "url": "https://github.com/chocolateboy/Method-Lexical", "relpath": "chocolateboy/Method-Lexical" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "ZipRecruiter" },
+        "distname":         "Twitter-API",
+        "released_by":      { "pause_id": "MMIMS" },
+        "repo":             { "url": "https://github.com/semifor/Twitter-API", "relpath": "semifor/Twitter-API" },
+        "pull_requests":    [
+                            ]
+    }
+ ]
+}
+
