@@ -1,8 +1,8 @@
 {
  "year": "2017",
  "month": "July",
- "generated": { "date": "2017-07-14", "time": "09:19:03" },
- "stats": { "done": "3", "total": "16", "percent": "18.8" },
+ "generated": { "date": "2017-07-17", "time": "21:21:49" },
+ "stats": { "done": "3", "total": "17", "percent": "17.6" },
  "assignments": [
 
     {
@@ -74,7 +74,7 @@
         "released_by":      { "pause_id": "PERLANCAR" },
         "repo":             { "url": "https://github.com/perlancar/perl-Setup-File", "relpath": "perlancar/perl-Setup-File" },
         "pull_requests":    [
-                                { "url": "https://github.com/perlancar/perl-Setup-File/pull/1", "state": "open", "relpath": "/pull/1" }
+                                { "url": "https://github.com/perlancar/perl-Setup-File/pull/1", "state": "closed", "relpath": "/pull/1" }
                             ]
     },
     {
@@ -158,6 +158,15 @@
         "distname":         "Twitter-API",
         "released_by":      { "pause_id": "MMIMS" },
         "repo":             { "url": "https://github.com/semifor/Twitter-API", "relpath": "semifor/Twitter-API" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "openstrike" },
+        "distname":         "HTTP-Message",
+        "released_by":      { "pause_id": "OALDERS" },
+        "repo":             { "url": "https://github.com/libwww-perl/HTTP-Message", "relpath": "libwww-perl/HTTP-Message" },
         "pull_requests":    [
                             ]
     }
