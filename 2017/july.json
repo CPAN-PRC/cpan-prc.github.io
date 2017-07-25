@@ -1,8 +1,8 @@
 {
  "year": "2017",
  "month": "July",
- "generated": { "date": "2017-07-17", "time": "21:21:49" },
- "stats": { "done": "3", "total": "17", "percent": "17.6" },
+ "generated": { "date": "2017-07-25", "time": "17:23:14" },
+ "stats": { "done": "4", "total": "17", "percent": "23.5" },
  "assignments": [
 
     {
@@ -22,15 +22,17 @@
         "released_by":      { "pause_id": "NIGELM" },
         "repo":             { "url": "https://github.com/fireartist/Catalyst-Controller-HTML-FormFu", "relpath": "fireartist/Catalyst-Controller-HTML-FormFu" },
         "pull_requests":    [
+                                { "url": "https://github.com/FormFu/Catalyst-Controller-HTML-FormFu/pull/6", "state": "open", "relpath": "/pull/6" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "yanick" },
         "distname":         "Clustericious",
         "released_by":      { "pause_id": "PLICEASE" },
         "repo":             { "url": "https://github.com/clustericious/Clustericious", "relpath": "clustericious/Clustericious" },
         "pull_requests":    [
+                                { "url": "https://github.com/clustericious/Clustericious/pull/43", "state": "open", "relpath": "/pull/43" }
                             ]
     },
     {
@@ -40,6 +42,7 @@
         "released_by":      { "pause_id": "BDFOY" },
         "repo":             { "url": "https://github.com/briandfoy/Net-SSH-Perl-WithSocks", "relpath": "briandfoy/Net-SSH-Perl-WithSocks" },
         "pull_requests":    [
+                                { "url": "https://github.com/briandfoy/Net-SSH-Perl-WithSocks/pull/2", "state": "merged", "relpath": "/pull/2" }
                             ]
     },
     {
@@ -150,6 +153,7 @@
         "released_by":      { "pause_id": "CHOCOLATE" },
         "repo":             { "url": "https://github.com/chocolateboy/Method-Lexical", "relpath": "chocolateboy/Method-Lexical" },
         "pull_requests":    [
+                                { "url": "https://github.com/chocolateboy/Method-Lexical/pull/2", "state": "merged", "relpath": "/pull/2" }
                             ]
     },
     {

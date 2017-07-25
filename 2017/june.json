@@ -1,7 +1,7 @@
 {
  "year": "2017",
  "month": "June",
- "generated": { "date": "2017-07-17", "time": "21:21:37" },
+ "generated": { "date": "2017-07-25", "time": "17:23:03" },
  "stats": { "done": "14", "total": "16", "percent": "87.5" },
  "assignments": [
 
@@ -59,7 +59,7 @@
         "done":             true,
         "assignee":         { "github_username": "ZipRecruiter" },
         "distname":         "IO-All",
-        "released_by":      { "pause_id": "INGY" },
+        "released_by":      { "pause_id": "FREW" },
         "repo":             { "url": "https://github.com/ingydotnet/io-all-pm", "relpath": "ingydotnet/io-all-pm" },
         "pull_requests":    [
                             ]
