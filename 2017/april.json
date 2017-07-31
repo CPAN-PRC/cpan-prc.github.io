@@ -1,7 +1,7 @@
 {
  "year": "2017",
  "month": "April",
- "generated": { "date": "2017-07-25", "time": "17:22:32" },
+ "generated": { "date": "2017-07-31", "time": "20:57:29" },
  "stats": { "done": "19", "total": "22", "percent": "86.4" },
  "assignments": [
 
@@ -31,7 +31,7 @@
         "released_by":      { "pause_id": "MSCHOUT" },
         "repo":             { "url": "https://github.com/mschout/env-c", "relpath": "mschout/env-c" },
         "pull_requests":    [
-                                { "url": "https://github.com/mschout/env-c/pull/7", "state": "open", "relpath": "/pull/7" }
+                                { "url": "https://github.com/mschout/env-c/pull/7", "state": "closed", "relpath": "/pull/7" }
                             ]
     },
     {

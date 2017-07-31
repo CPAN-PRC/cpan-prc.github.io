@@ -1,12 +1,12 @@
 {
  "year": "2017",
  "month": "July",
- "generated": { "date": "2017-07-25", "time": "17:23:14" },
- "stats": { "done": "4", "total": "17", "percent": "23.5" },
+ "generated": { "date": "2017-07-31", "time": "20:58:10" },
+ "stats": { "done": "14", "total": "17", "percent": "82.4" },
  "assignments": [
 
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "manwar" },
         "distname":         "Inline-C",
         "released_by":      { "pause_id": "TINITA" },
@@ -16,12 +16,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "simbabque" },
         "distname":         "Catalyst-Controller-HTML-FormFu",
         "released_by":      { "pause_id": "NIGELM" },
         "repo":             { "url": "https://github.com/fireartist/Catalyst-Controller-HTML-FormFu", "relpath": "fireartist/Catalyst-Controller-HTML-FormFu" },
         "pull_requests":    [
+                                { "url": "https://github.com/FormFu/Catalyst-Controller-HTML-FormFu/pull/7", "state": "open", "relpath": "/pull/7" },
                                 { "url": "https://github.com/FormFu/Catalyst-Controller-HTML-FormFu/pull/6", "state": "open", "relpath": "/pull/6" }
                             ]
     },
@@ -32,11 +33,11 @@
         "released_by":      { "pause_id": "PLICEASE" },
         "repo":             { "url": "https://github.com/clustericious/Clustericious", "relpath": "clustericious/Clustericious" },
         "pull_requests":    [
-                                { "url": "https://github.com/clustericious/Clustericious/pull/43", "state": "open", "relpath": "/pull/43" }
+                                { "url": "https://github.com/clustericious/Clustericious/pull/43", "state": "closed", "relpath": "/pull/43" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "lancew" },
         "distname":         "Net-SSH-Perl-WithSocks",
         "released_by":      { "pause_id": "BDFOY" },
@@ -46,7 +47,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "paultcochrane" },
         "distname":         "Plack-Test-AnyEvent",
         "released_by":      { "pause_id": "RHOELZ" },
@@ -81,7 +82,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "perlancar" },
         "distname":         "POE-Component-Resolver",
         "released_by":      { "pause_id": "RCAPUTO" },
@@ -91,16 +92,17 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "lharey" },
         "distname":         "Tree-Binary",
         "released_by":      { "pause_id": "RSAVAGE" },
         "repo":             { "url": "https://github.com/ronsavage/Tree-Binary", "relpath": "ronsavage/Tree-Binary" },
         "pull_requests":    [
+                                { "url": "https://github.com/ronsavage/Tree-Binary/pull/3", "state": "merged", "relpath": "/pull/3" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "cv-library" },
         "distname":         "PPI",
         "released_by":      { "pause_id": "MITHALDU" },
@@ -144,10 +146,11 @@
         "released_by":      { "pause_id": "DAMS" },
         "repo":             { "url": "https://github.com/dams/Action-Retry", "relpath": "dams/Action-Retry" },
         "pull_requests":    [
+                                { "url": "https://github.com/dams/Action-Retry/pull/5", "state": "merged", "relpath": "/pull/5" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "genio" },
         "distname":         "Method-Lexical",
         "released_by":      { "pause_id": "CHOCOLATE" },
@@ -157,7 +160,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "ZipRecruiter" },
         "distname":         "Twitter-API",
         "released_by":      { "pause_id": "MMIMS" },
@@ -166,12 +169,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "openstrike" },
         "distname":         "HTTP-Message",
         "released_by":      { "pause_id": "OALDERS" },
         "repo":             { "url": "https://github.com/libwww-perl/HTTP-Message", "relpath": "libwww-perl/HTTP-Message" },
         "pull_requests":    [
+                                { "url": "https://github.com/libwww-perl/HTTP-Message/pull/85", "state": "open", "relpath": "/pull/85" }
                             ]
     }
  ]

@@ -1,8 +1,8 @@
 {
  "year": "2017",
  "month": "June",
- "generated": { "date": "2017-07-25", "time": "17:23:03" },
- "stats": { "done": "14", "total": "16", "percent": "87.5" },
+ "generated": { "date": "2017-07-31", "time": "20:57:59" },
+ "stats": { "done": "15", "total": "16", "percent": "93.8" },
  "assignments": [
 
     {
@@ -125,12 +125,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jj" },
         "distname":         "WWW-Wikipedia",
         "released_by":      { "pause_id": "BRICAS" },
         "repo":             { "url": "https://github.com/edsu/www-wikipedia", "relpath": "edsu/www-wikipedia" },
         "pull_requests":    [
+                                { "url": "https://github.com/edsu/www-wikipedia/pull/9", "state": "merged", "relpath": "/pull/9" }
                             ]
     },
     {
@@ -159,7 +160,7 @@
         "released_by":      { "pause_id": "BLHOTSKY" },
         "repo":             { "url": "https://github.com/reyjrar/es-utils", "relpath": "reyjrar/es-utils" },
         "pull_requests":    [
-                                { "url": "https://github.com/reyjrar/es-utils/pull/27", "state": "open", "relpath": "/pull/27" }
+                                { "url": "https://github.com/reyjrar/es-utils/pull/27", "state": "merged", "relpath": "/pull/27" }
                             ]
     },
     {
