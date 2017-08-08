@@ -1,8 +1,8 @@
 {
  "year": "2017",
  "month": "July",
- "generated": { "date": "2017-07-31", "time": "20:58:10" },
- "stats": { "done": "14", "total": "17", "percent": "82.4" },
+ "generated": { "date": "2017-08-08", "time": "18:43:02" },
+ "stats": { "done": "15", "total": "16", "percent": "93.8" },
  "assignments": [
 
     {
@@ -122,25 +122,7 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "s-nez" },
-        "distname":         "Ouch",
-        "released_by":      { "pause_id": "RIZEN" },
-        "repo":             { "url": "https://github.com/rizen/Ouch", "relpath": "rizen/Ouch" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "monsieurp" },
-        "distname":         "Devel-CheckOS",
-        "released_by":      { "pause_id": "DCANTRELL" },
-        "repo":             { "url": "https://github.com/DrHyde/perl-modules-Devel-CheckOS", "relpath": "DrHyde/perl-modules-Devel-CheckOS" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "choroba" },
         "distname":         "Action-Retry",
         "released_by":      { "pause_id": "DAMS" },
@@ -176,6 +158,15 @@
         "repo":             { "url": "https://github.com/libwww-perl/HTTP-Message", "relpath": "libwww-perl/HTTP-Message" },
         "pull_requests":    [
                                 { "url": "https://github.com/libwww-perl/HTTP-Message/pull/85", "state": "open", "relpath": "/pull/85" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "monsieurp" },
+        "distname":         "String-CRC32",
+        "released_by":      { "pause_id": "LEEJO" },
+        "repo":             { "url": "https://github.com/leejo/string-crc32", "relpath": "leejo/string-crc32" },
+        "pull_requests":    [
                             ]
     }
  ]
