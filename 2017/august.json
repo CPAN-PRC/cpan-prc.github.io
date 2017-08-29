@@ -1,8 +1,8 @@
 {
  "year": "2017",
  "month": "August",
- "generated": { "date": "2017-08-08", "time": "18:43:16" },
- "stats": { "done": "0", "total": "17", "percent": "0.0" },
+ "generated": { "date": "2017-08-29", "time": "23:06:53" },
+ "stats": { "done": "10", "total": "16", "percent": "62.5" },
  "assignments": [
 
     {
@@ -15,21 +15,26 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "simbabque" },
         "distname":         "POE-Component-Server-Twirc",
         "released_by":      { "pause_id": "MMIMS" },
         "repo":             { "url": "https://github.com/semifor/twirc", "relpath": "semifor/twirc" },
         "pull_requests":    [
+                                { "url": "https://github.com/semifor/twirc/pull/19", "state": "merged", "relpath": "/pull/19" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "kyzn" },
         "distname":         "App-p",
         "released_by":      { "pause_id": "IRONCAMEL" },
         "repo":             { "url": "https://github.com/ironcamel/App-p", "relpath": "ironcamel/App-p" },
         "pull_requests":    [
+                                { "url": "https://github.com/ironcamel/App-p/pull/19", "state": "open", "relpath": "/pull/19" },
+                                { "url": "https://github.com/ironcamel/App-p/pull/18", "state": "open", "relpath": "/pull/18" },
+                                { "url": "https://github.com/ironcamel/App-p/pull/17", "state": "open", "relpath": "/pull/17" },
+                                { "url": "https://github.com/ironcamel/App-p/pull/16", "state": "open", "relpath": "/pull/16" }
                             ]
     },
     {
@@ -42,12 +47,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "lancew" },
         "distname":         "Outthentic",
         "released_by":      { "pause_id": "MELEZHIK" },
         "repo":             { "url": "https://github.com/melezhik/outthentic", "relpath": "melezhik/outthentic" },
         "pull_requests":    [
+                                { "url": "https://github.com/melezhik/outthentic/pull/6", "state": "merged", "relpath": "/pull/6" }
                             ]
     },
     {
@@ -57,42 +63,42 @@
         "released_by":      { "pause_id": "INGY" },
         "repo":             { "url": "https://github.com/ingydotnet/pegex-pm", "relpath": "ingydotnet/pegex-pm" },
         "pull_requests":    [
+                                { "url": "https://github.com/ingydotnet/pegex-pm/pull/68", "state": "open", "relpath": "/pull/68" },
+                                { "url": "https://github.com/ingydotnet/pegex-pm/pull/67", "state": "open", "relpath": "/pull/67" },
+                                { "url": "https://github.com/ingydotnet/pegex-pm/pull/66", "state": "open", "relpath": "/pull/66" },
+                                { "url": "https://github.com/ingydotnet/pegex-pm/pull/65", "state": "open", "relpath": "/pull/65" },
+                                { "url": "https://github.com/ingydotnet/pegex-pm/pull/64", "state": "open", "relpath": "/pull/64" },
+                                { "url": "https://github.com/ingydotnet/pegex-pm/pull/63", "state": "open", "relpath": "/pull/63" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "shlomif" },
         "distname":         "GD",
         "released_by":      { "pause_id": "RURBAN" },
         "repo":             { "url": "https://github.com/lstein/Perl-GD", "relpath": "lstein/Perl-GD" },
         "pull_requests":    [
+                                { "url": "https://github.com/lstein/Perl-GD/pull/24", "state": "closed", "relpath": "/pull/24" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "yanick" },
         "distname":         "Net-Curl",
         "released_by":      { "pause_id": "SYP" },
         "repo":             { "url": "https://github.com/sparky/perl-Net-Curl", "relpath": "sparky/perl-Net-Curl" },
         "pull_requests":    [
+                                { "url": "https://github.com/sparky/perl-Net-Curl/pull/26", "state": "open", "relpath": "/pull/26" }
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "perlancar" },
-        "distname":         "LWP-UserAgent-POE",
-        "released_by":      { "pause_id": "MSCHILLI" },
-        "repo":             { "url": "https://github.com/mschilli/lwp-useragent-poe-perl", "relpath": "mschilli/lwp-useragent-poe-perl" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jj" },
         "distname":         "UNIVERSAL-Object",
         "released_by":      { "pause_id": "STEVAN" },
         "repo":             { "url": "https://github.com/stevan/p5-UNIVERSAL-Object", "relpath": "stevan/p5-UNIVERSAL-Object" },
         "pull_requests":    [
+                                { "url": "https://github.com/stevan/p5-UNIVERSAL-Object/pull/11", "state": "open", "relpath": "/pull/11" }
                             ]
     },
     {
@@ -105,21 +111,23 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "lharey" },
         "distname":         "DBIx-Custom",
         "released_by":      { "pause_id": "KIMOTO" },
         "repo":             { "url": "https://github.com/yuki-kimoto/DBIx-Custom", "relpath": "yuki-kimoto/DBIx-Custom" },
         "pull_requests":    [
+                                { "url": "https://github.com/yuki-kimoto/DBIx-Custom/pull/12", "state": "open", "relpath": "/pull/12" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "genio" },
         "distname":         "SVG",
         "released_by":      { "pause_id": "MANWAR" },
         "repo":             { "url": "https://github.com/manwar/SVG", "relpath": "manwar/SVG" },
         "pull_requests":    [
+                                { "url": "https://github.com/manwar/SVG/pull/11", "state": "open", "relpath": "/pull/11" }
                             ]
     },
     {
@@ -129,15 +137,20 @@
         "released_by":      { "pause_id": "PTC" },
         "repo":             { "url": "https://github.com/paultcochrane/app-cli", "relpath": "paultcochrane/app-cli" },
         "pull_requests":    [
+                                { "url": "https://github.com/paultcochrane/app-cli/pull/12", "state": "open", "relpath": "/pull/12" },
+                                { "url": "https://github.com/paultcochrane/app-cli/pull/11", "state": "open", "relpath": "/pull/11" },
+                                { "url": "https://github.com/paultcochrane/app-cli/pull/10", "state": "open", "relpath": "/pull/10" },
+                                { "url": "https://github.com/paultcochrane/app-cli/pull/9", "state": "closed", "relpath": "/pull/9" },
+                                { "url": "https://github.com/paultcochrane/app-cli/pull/8", "state": "merged", "relpath": "/pull/8" },
                                 { "url": "https://github.com/paultcochrane/app-cli/pull/5", "state": "closed", "relpath": "/pull/5" },
                                 { "url": "https://github.com/paultcochrane/app-cli/pull/4", "state": "closed", "relpath": "/pull/4" },
-                                { "url": "https://github.com/paultcochrane/app-cli/pull/3", "state": "open", "relpath": "/pull/3" },
+                                { "url": "https://github.com/paultcochrane/app-cli/pull/3", "state": "closed", "relpath": "/pull/3" },
                                 { "url": "https://github.com/paultcochrane/app-cli/pull/2", "state": "closed", "relpath": "/pull/2" },
                                 { "url": "https://github.com/paultcochrane/app-cli/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "manwar" },
         "distname":         "Net-SSH-Perl-ProxiedIPC",
         "released_by":      { "pause_id": "BDFOY" },
@@ -147,7 +160,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "cv-library" },
         "distname":         "HTTP-Cookies",
         "released_by":      { "pause_id": "OALDERS" },

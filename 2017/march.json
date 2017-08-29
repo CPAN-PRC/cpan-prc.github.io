@@ -1,19 +1,10 @@
 {
  "year": "2017",
  "month": "March",
- "generated": { "date": "2017-08-08", "time": "18:41:48" },
- "stats": { "done": "18", "total": "22", "percent": "81.8" },
+ "generated": { "date": "2017-08-29", "time": "23:05:42" },
+ "stats": { "done": "18", "total": "18", "percent": "100.0" },
  "assignments": [
 
-    {
-        "done":             false,
-        "assignee":         { "github_username": "kharec" },
-        "distname":         "MySQL-Diff",
-        "released_by":      { "pause_id": "ESTRABD" },
-        "repo":             { "url": "https://github.com/aspiers/mysqldiff", "relpath": "aspiers/mysqldiff" },
-        "pull_requests":    [
-                            ]
-    },
     {
         "done":             true,
         "assignee":         { "github_username": "simbabque" },
@@ -73,15 +64,6 @@
         "repo":             { "url": "https://github.com/genehack/app-gitgot", "relpath": "genehack/app-gitgot" },
         "pull_requests":    [
                                 { "url": "https://github.com/genehack/app-gitgot/pull/64", "state": "merged", "relpath": "/pull/64" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "nbezzala" },
-        "distname":         "HTML-FormFu-Model-DBIC",
-        "released_by":      { "pause_id": "NIGELM" },
-        "repo":             { "url": "https://github.com/fireartist/HTML-FormFu-Model-DBIC", "relpath": "fireartist/HTML-FormFu-Model-DBIC" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -145,15 +127,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "ericromanenghi" },
-        "distname":         "Method-Signatures-Simple",
-        "released_by":      { "pause_id": "RHESA" },
-        "repo":             { "url": "https://github.com/rhesa/method-signatures-simple", "relpath": "rhesa/method-signatures-simple" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "yanick" },
         "distname":         "Regexp-Common-time",
@@ -186,15 +159,6 @@
                                 { "url": "https://github.com/xsawyerx/sys-hostip/pull/12", "state": "merged", "relpath": "/pull/12" },
                                 { "url": "https://github.com/xsawyerx/sys-hostip/pull/11", "state": "merged", "relpath": "/pull/11" },
                                 { "url": "https://github.com/xsawyerx/sys-hostip/pull/10", "state": "merged", "relpath": "/pull/10" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "pauloscustodio" },
-        "distname":         "Facebook-Graph",
-        "released_by":      { "pause_id": "RIZEN" },
-        "repo":             { "url": "https://github.com/rizen/Facebook-Graph", "relpath": "rizen/Facebook-Graph" },
-        "pull_requests":    [
                             ]
     },
     {

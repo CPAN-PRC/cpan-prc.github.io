@@ -1,19 +1,10 @@
 {
  "year": "2017",
  "month": "April",
- "generated": { "date": "2017-08-08", "time": "18:42:07" },
- "stats": { "done": "19", "total": "22", "percent": "86.4" },
+ "generated": { "date": "2017-08-29", "time": "23:05:58" },
+ "stats": { "done": "19", "total": "20", "percent": "95.0" },
  "assignments": [
 
-    {
-        "done":             false,
-        "assignee":         { "github_username": "JaderDias" },
-        "distname":         "MySQL-Diff",
-        "released_by":      { "pause_id": "ESTRABD" },
-        "repo":             { "url": "https://github.com/aspiers/mysqldiff", "relpath": "aspiers/mysqldiff" },
-        "pull_requests":    [
-                            ]
-    },
     {
         "done":             true,
         "assignee":         { "github_username": "yati-sagade" },
@@ -103,15 +94,6 @@
         "repo":             { "url": "https://github.com/hoytech/Log-Defer-Viz", "relpath": "hoytech/Log-Defer-Viz" },
         "pull_requests":    [
                                 { "url": "https://github.com/hoytech/Log-Defer-Viz/pull/10", "state": "merged", "relpath": "/pull/10" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "itcharlie" },
-        "distname":         "Make",
-        "released_by":      { "pause_id": "KLPTWO" },
-        "repo":             { "url": "https://github.com/klp2/Make", "relpath": "klp2/Make" },
-        "pull_requests":    [
                             ]
     },
     {
