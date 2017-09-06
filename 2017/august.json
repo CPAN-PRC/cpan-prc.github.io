@@ -1,19 +1,10 @@
 {
  "year": "2017",
  "month": "August",
- "generated": { "date": "2017-08-29", "time": "23:06:53" },
- "stats": { "done": "10", "total": "16", "percent": "62.5" },
+ "generated": { "date": "2017-09-06", "time": "15:39:02" },
+ "stats": { "done": "12", "total": "14", "percent": "85.7" },
  "assignments": [
 
-    {
-        "done":             false,
-        "assignee":         { "github_username": "choroba" },
-        "distname":         "Devel-IPerl",
-        "released_by":      { "pause_id": "ZMUGHAL" },
-        "repo":             { "url": "https://github.com/EntropyOrg/p5-Devel-IPerl", "relpath": "EntropyOrg/p5-Devel-IPerl" },
-        "pull_requests":    [
-                            ]
-    },
     {
         "done":             true,
         "assignee":         { "github_username": "simbabque" },
@@ -38,15 +29,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "openstrike" },
-        "distname":         "POE-Component-Github",
-        "released_by":      { "pause_id": "BINGOS" },
-        "repo":             { "url": "https://github.com/bingos/poe-component-github", "relpath": "bingos/poe-component-github" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "lancew" },
         "distname":         "Outthentic",
@@ -57,7 +39,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "paultcochrane" },
         "distname":         "Pegex",
         "released_by":      { "pause_id": "INGY" },
@@ -131,7 +113,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jjatria" },
         "distname":         "App-CLI",
         "released_by":      { "pause_id": "PTC" },
