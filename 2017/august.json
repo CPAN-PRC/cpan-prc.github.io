@@ -1,7 +1,7 @@
 {
  "year": "2017",
  "month": "August",
- "generated": { "date": "2017-09-06", "time": "15:39:02" },
+ "generated": { "date": "2017-09-11", "time": "20:18:11" },
  "stats": { "done": "12", "total": "14", "percent": "85.7" },
  "assignments": [
 
@@ -70,7 +70,7 @@
         "released_by":      { "pause_id": "SYP" },
         "repo":             { "url": "https://github.com/sparky/perl-Net-Curl", "relpath": "sparky/perl-Net-Curl" },
         "pull_requests":    [
-                                { "url": "https://github.com/sparky/perl-Net-Curl/pull/26", "state": "open", "relpath": "/pull/26" }
+                                { "url": "https://github.com/sparky/perl-Net-Curl/pull/26", "state": "merged", "relpath": "/pull/26" }
                             ]
     },
     {
