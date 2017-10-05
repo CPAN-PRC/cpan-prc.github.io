@@ -1,8 +1,8 @@
 {
  "year": "2017",
  "month": "August",
- "generated": { "date": "2017-09-11", "time": "20:18:11" },
- "stats": { "done": "12", "total": "14", "percent": "85.7" },
+ "generated": { "date": "2017-10-05", "time": "08:35:07" },
+ "stats": { "done": "14", "total": "14", "percent": "100.0" },
  "assignments": [
 
     {
@@ -84,7 +84,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "ZipRecruiter" },
         "distname":         "Paws",
         "released_by":      { "pause_id": "JLMARTIN" },
@@ -151,12 +151,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "s-nez" },
         "distname":         "Sub-Current",
         "released_by":      { "pause_id": "RGARCIA" },
         "repo":             { "url": "https://github.com/rgs/p5-Sub-Current", "relpath": "rgs/p5-Sub-Current" },
         "pull_requests":    [
+                                { "url": "https://github.com/rgs/p5-Sub-Current/pull/2", "state": "open", "relpath": "/pull/2" }
                             ]
     }
  ]

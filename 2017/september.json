@@ -1,8 +1,8 @@
 {
  "year": "2017",
  "month": "September",
- "generated": { "date": "2017-09-11", "time": "20:18:22" },
- "stats": { "done": "0", "total": "14", "percent": "0.0" },
+ "generated": { "date": "2017-10-05", "time": "08:35:17" },
+ "stats": { "done": "9", "total": "14", "percent": "64.3" },
  "assignments": [
 
     {
@@ -12,24 +12,27 @@
         "released_by":      { "pause_id": "PLICEASE" },
         "repo":             { "url": "https://github.com/Perl5-Alien/Alien-Build", "relpath": "Perl5-Alien/Alien-Build" },
         "pull_requests":    [
+                                { "url": "https://github.com/Perl5-Alien/Alien-Build/pull/38", "state": "closed", "relpath": "/pull/38" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "lharey" },
         "distname":         "MOP",
         "released_by":      { "pause_id": "STEVAN" },
         "repo":             { "url": "https://github.com/stevan/p5-MOP", "relpath": "stevan/p5-MOP" },
         "pull_requests":    [
+                                { "url": "https://github.com/stevan/p5-MOP/pull/23", "state": "open", "relpath": "/pull/23" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "simbabque" },
         "distname":         "CPAN-Mini-Inject",
         "released_by":      { "pause_id": "MITHALDU" },
         "repo":             { "url": "https://github.com/AndyA/CPAN--Mini--Inject", "relpath": "AndyA/CPAN--Mini--Inject" },
         "pull_requests":    [
+                                { "url": "https://github.com/AndyA/CPAN--Mini--Inject/pull/25", "state": "open", "relpath": "/pull/25" }
                             ]
     },
     {
@@ -50,6 +53,23 @@
         "released_by":      { "pause_id": "DAMI" },
         "repo":             { "url": "https://github.com/damil/Pod-POM-Web", "relpath": "damil/Pod-POM-Web" },
         "pull_requests":    [
+                                { "url": "https://github.com/damil/Pod-POM-Web/pull/20", "state": "open", "relpath": "/pull/20" },
+                                { "url": "https://github.com/damil/Pod-POM-Web/pull/19", "state": "open", "relpath": "/pull/19" },
+                                { "url": "https://github.com/damil/Pod-POM-Web/pull/18", "state": "open", "relpath": "/pull/18" },
+                                { "url": "https://github.com/damil/Pod-POM-Web/pull/17", "state": "open", "relpath": "/pull/17" },
+                                { "url": "https://github.com/damil/Pod-POM-Web/pull/16", "state": "open", "relpath": "/pull/16" },
+                                { "url": "https://github.com/damil/Pod-POM-Web/pull/15", "state": "closed", "relpath": "/pull/15" },
+                                { "url": "https://github.com/damil/Pod-POM-Web/pull/14", "state": "closed", "relpath": "/pull/14" },
+                                { "url": "https://github.com/damil/Pod-POM-Web/pull/13", "state": "merged", "relpath": "/pull/13" },
+                                { "url": "https://github.com/damil/Pod-POM-Web/pull/12", "state": "merged", "relpath": "/pull/12" },
+                                { "url": "https://github.com/damil/Pod-POM-Web/pull/11", "state": "merged", "relpath": "/pull/11" },
+                                { "url": "https://github.com/damil/Pod-POM-Web/pull/10", "state": "merged", "relpath": "/pull/10" },
+                                { "url": "https://github.com/damil/Pod-POM-Web/pull/9", "state": "merged", "relpath": "/pull/9" },
+                                { "url": "https://github.com/damil/Pod-POM-Web/pull/8", "state": "merged", "relpath": "/pull/8" },
+                                { "url": "https://github.com/damil/Pod-POM-Web/pull/7", "state": "closed", "relpath": "/pull/7" },
+                                { "url": "https://github.com/damil/Pod-POM-Web/pull/6", "state": "merged", "relpath": "/pull/6" },
+                                { "url": "https://github.com/damil/Pod-POM-Web/pull/5", "state": "merged", "relpath": "/pull/5" },
+                                { "url": "https://github.com/damil/Pod-POM-Web/pull/4", "state": "merged", "relpath": "/pull/4" }
                             ]
     },
     {
@@ -62,7 +82,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "shlomif" },
         "distname":         "DBIx-Class-DateTime-Epoch",
         "released_by":      { "pause_id": "BRICAS" },
@@ -72,13 +92,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "yanick" },
         "distname":         "Sub-WrapPackages",
         "released_by":      { "pause_id": "DCANTRELL" },
         "repo":             { "url": "https://github.com/DrHyde/perl-modules-Sub-WrapPackages", "relpath": "DrHyde/perl-modules-Sub-WrapPackages" },
         "pull_requests":    [
-                                { "url": "https://github.com/DrHyde/perl-modules-Sub-WrapPackages/pull/2", "state": "open", "relpath": "/pull/2" }
+                                { "url": "https://github.com/DrHyde/perl-modules-Sub-WrapPackages/pull/2", "state": "merged", "relpath": "/pull/2" }
                             ]
     },
     {
@@ -91,7 +111,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "cv-library" },
         "distname":         "Dancer-Plugin-DBIC",
         "released_by":      { "pause_id": "IRONCAMEL" },
@@ -100,39 +120,43 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jj" },
         "distname":         "Net-Twitter",
         "released_by":      { "pause_id": "MMIMS" },
         "repo":             { "url": "https://github.com/semifor/Net-Twitter", "relpath": "semifor/Net-Twitter" },
         "pull_requests":    [
+                                { "url": "https://github.com/semifor/Net-Twitter/pull/79", "state": "merged", "relpath": "/pull/79" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "manwar" },
         "distname":         "Protocol-HTTP2",
         "released_by":      { "pause_id": "CRUX" },
         "repo":             { "url": "https://github.com/vlet/p5-Protocol-HTTP2", "relpath": "vlet/p5-Protocol-HTTP2" },
         "pull_requests":    [
+                                { "url": "https://github.com/vlet/p5-Protocol-HTTP2/pull/6", "state": "merged", "relpath": "/pull/6" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jjatria" },
         "distname":         "Mojolicious-Plugin-Angular-MaterialDesign",
         "released_by":      { "pause_id": "MUDLER" },
         "repo":             { "url": "https://github.com/mudler/Mojolicious-Plugin-Angular-MaterialDesign", "relpath": "mudler/Mojolicious-Plugin-Angular-MaterialDesign" },
         "pull_requests":    [
+                                { "url": "https://github.com/mudler/Mojolicious-Plugin-Angular-MaterialDesign/pull/3", "state": "merged", "relpath": "/pull/3" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "choroba" },
         "distname":         "Test-Manifest",
         "released_by":      { "pause_id": "BDFOY" },
         "repo":             { "url": "https://github.com/briandfoy/test-manifest", "relpath": "briandfoy/test-manifest" },
         "pull_requests":    [
+                                { "url": "https://github.com/briandfoy/test-manifest/pull/4", "state": "open", "relpath": "/pull/4" }
                             ]
     }
  ]

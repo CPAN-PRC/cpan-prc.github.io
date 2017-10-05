@@ -1,0 +1,121 @@
+{
+ "year": "2017",
+ "month": "October",
+ "generated": { "date": "2017-10-05", "time": "08:35:27" },
+ "stats": { "done": "1", "total": "12", "percent": "8.3" },
+ "assignments": [
+
+    {
+        "done":             false,
+        "assignee":         { "github_username": "manwar" },
+        "distname":         "POE-Component-Github",
+        "released_by":      { "pause_id": "BINGOS" },
+        "repo":             { "url": "https://github.com/bingos/poe-component-github", "relpath": "bingos/poe-component-github" },
+        "pull_requests":    [
+                                { "url": "https://github.com/bingos/poe-component-github/pull/3", "state": "merged", "relpath": "/pull/3" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "cv-library" },
+        "distname":         "Test2-Suite",
+        "released_by":      { "pause_id": "EXODIST" },
+        "repo":             { "url": "https://github.com/Test-More/Test2-Suite", "relpath": "Test-More/Test2-Suite" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "choroba" },
+        "distname":         "LWP-UserAgent-POE",
+        "released_by":      { "pause_id": "MSCHILLI" },
+        "repo":             { "url": "https://github.com/mschilli/lwp-useragent-poe-perl", "relpath": "mschilli/lwp-useragent-poe-perl" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "jjatria" },
+        "distname":         "XML-SemanticDiff",
+        "released_by":      { "pause_id": "SHLOMIF" },
+        "repo":             { "url": "https://github.com/shlomif/perl-XML-SemanticDiff", "relpath": "shlomif/perl-XML-SemanticDiff" },
+        "pull_requests":    [
+                                { "url": "https://github.com/shlomif/perl-XML-SemanticDiff/pull/5", "state": "merged", "relpath": "/pull/5" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "lharey" },
+        "distname":         "PkgConfig",
+        "released_by":      { "pause_id": "PLICEASE" },
+        "repo":             { "url": "https://github.com/PerlPkgConfig/perl-PkgConfig", "relpath": "PerlPkgConfig/perl-PkgConfig" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "kyzn" },
+        "distname":         "AnyEvent-Filesys-Notify",
+        "released_by":      { "pause_id": "MGRIMES" },
+        "repo":             { "url": "https://github.com/mvgrimes/AnyEvent-Filesys-Notify", "relpath": "mvgrimes/AnyEvent-Filesys-Notify" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "shlomif" },
+        "distname":         "MojoX-Redis",
+        "released_by":      { "pause_id": "UNDEF" },
+        "repo":             { "url": "https://github.com/und3f/mojox-redis", "relpath": "und3f/mojox-redis" },
+        "pull_requests":    [
+                                { "url": "https://github.com/und3f/mojox-redis/pull/7", "state": "open", "relpath": "/pull/7" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "yanick" },
+        "distname":         "PPIx-EditorTools",
+        "released_by":      { "pause_id": "SZABGAB" },
+        "repo":             { "url": "https://github.com/szabgab/PPIx-EditorTools", "relpath": "szabgab/PPIx-EditorTools" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "jj" },
+        "distname":         "HTML-Formatter",
+        "released_by":      { "pause_id": "NIGELM" },
+        "repo":             { "url": "https://github.com/nigelm/html-formatter", "relpath": "nigelm/html-formatter" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "s-nez" },
+        "distname":         "XML-Tiny",
+        "released_by":      { "pause_id": "DCANTRELL" },
+        "repo":             { "url": "https://github.com/DrHyde/perl-modules-XML-Tiny", "relpath": "DrHyde/perl-modules-XML-Tiny" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "simbabque" },
+        "distname":         "Dist-Zilla-Plugin-Test-Version",
+        "released_by":      { "pause_id": "PLICEASE" },
+        "repo":             { "url": "https://github.com/plicease/dist-zilla-plugin-test-version", "relpath": "plicease/dist-zilla-plugin-test-version" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "ZipRecruiter" },
+        "distname":         "Software-License",
+        "released_by":      { "pause_id": "RJBS" },
+        "repo":             { "url": "https://github.com/rjbs/Software-License", "relpath": "rjbs/Software-License" },
+        "pull_requests":    [
+                            ]
+    }
+ ]
+}
+

@@ -1,7 +1,7 @@
 {
  "year": "2017",
  "month": "July",
- "generated": { "date": "2017-09-11", "time": "20:17:59" },
+ "generated": { "date": "2017-10-05", "time": "08:34:56" },
  "stats": { "done": "15", "total": "16", "percent": "93.8" },
  "assignments": [
 
@@ -118,7 +118,7 @@
         "repo":             { "url": "https://github.com/plicease/Class-Inspector", "relpath": "plicease/Class-Inspector" },
         "pull_requests":    [
                                 { "url": "https://github.com/plicease/Class-Inspector/pull/4", "state": "merged", "relpath": "/pull/4" },
-                                { "url": "https://github.com/plicease/Class-Inspector/pull/3", "state": "open", "relpath": "/pull/3" }
+                                { "url": "https://github.com/plicease/Class-Inspector/pull/3", "state": "closed", "relpath": "/pull/3" }
                             ]
     },
     {
