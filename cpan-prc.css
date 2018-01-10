@@ -5,7 +5,7 @@ html {
     font-size: 12pt;
 }
 body {
-    background-color: #ccc;
+    background-color: #fff;
     padding: 40px;
 }
 h1 {
@@ -33,6 +33,7 @@ div.topic {
     width: 300px;
     border-radius: 5px;
     padding-bottom: 25px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 }
 a {
     text-decoration: none;
