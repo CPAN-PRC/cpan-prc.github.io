@@ -1,7 +1,7 @@
 {
  "year": "2017",
  "month": "July",
- "generated": { "date": "2017-10-05", "time": "08:34:56" },
+ "generated": { "date": "2018-01-10", "time": "11:19:49" },
  "stats": { "done": "15", "total": "16", "percent": "93.8" },
  "assignments": [
 
@@ -157,7 +157,7 @@
         "released_by":      { "pause_id": "OALDERS" },
         "repo":             { "url": "https://github.com/libwww-perl/HTTP-Message", "relpath": "libwww-perl/HTTP-Message" },
         "pull_requests":    [
-                                { "url": "https://github.com/libwww-perl/HTTP-Message/pull/85", "state": "open", "relpath": "/pull/85" }
+                                { "url": "https://github.com/libwww-perl/HTTP-Message/pull/85", "state": "closed", "relpath": "/pull/85" }
                             ]
     },
     {

@@ -1,8 +1,8 @@
 {
  "year": "2017",
  "month": "May",
- "generated": { "date": "2017-10-05", "time": "08:34:32" },
- "stats": { "done": "15", "total": "20", "percent": "75.0" },
+ "generated": { "date": "2018-01-10", "time": "11:19:25" },
+ "stats": { "done": "15", "total": "15", "percent": "100.0" },
  "assignments": [
 
     {
@@ -111,15 +111,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "Varadinsky" },
-        "distname":         "File-Comments",
-        "released_by":      { "pause_id": "MSCHILLI" },
-        "repo":             { "url": "https://github.com/mschilli/file-comments-perl", "relpath": "mschilli/file-comments-perl" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "manwar" },
         "distname":         "Net-HTTP",
@@ -139,26 +130,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "vti" },
-        "distname":         "HTML-FormFu",
-        "released_by":      { "pause_id": "NIGELM" },
-        "repo":             { "url": "https://github.com/fireartist/HTML-FormFu", "relpath": "fireartist/HTML-FormFu" },
-        "pull_requests":    [
-                                { "url": "https://github.com/FormFu/HTML-FormFu/pull/27", "state": "merged", "relpath": "/pull/27" },
-                                { "url": "https://github.com/FormFu/HTML-FormFu/pull/26", "state": "merged", "relpath": "/pull/26" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "yati-sagade" },
-        "distname":         "Inline-Python",
-        "released_by":      { "pause_id": "NINE" },
-        "repo":             { "url": "https://github.com/niner/inline-python-pm", "relpath": "niner/inline-python-pm" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "simbabque" },
         "distname":         "DBIx-Class-Helpers",
@@ -166,24 +137,6 @@
         "repo":             { "url": "https://github.com/frioux/DBIx-Class-Helpers", "relpath": "frioux/DBIx-Class-Helpers" },
         "pull_requests":    [
                                 { "url": "https://github.com/frioux/DBIx-Class-Helpers/pull/82", "state": "open", "relpath": "/pull/82" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "abzaloid" },
-        "distname":         "Vim-Debug",
-        "released_by":      { "pause_id": "KABLAMO" },
-        "repo":             { "url": "https://github.com/kablamo/VimDebug", "relpath": "kablamo/VimDebug" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "dionys" },
-        "distname":         "App-Spec",
-        "released_by":      { "pause_id": "TINITA" },
-        "repo":             { "url": "https://github.com/perlpunk/App-Spec-p5", "relpath": "perlpunk/App-Spec-p5" },
-        "pull_requests":    [
                             ]
     },
     {

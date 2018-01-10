@@ -1,7 +1,7 @@
 {
  "year": "2017",
  "month": "January",
- "generated": { "date": "2017-10-05", "time": "08:33:31" },
+ "generated": { "date": "2018-01-10", "time": "11:18:25" },
  "stats": { "done": "35", "total": "35", "percent": "100.0" },
  "assignments": [
 
@@ -50,7 +50,7 @@
         "done":             true,
         "assignee":         { "github_username": "manwar" },
         "distname":         "Syntax-Highlight-Engine-Kate",
-        "released_by":      { "pause_id": "SZABGAB" },
+        "released_by":      { "pause_id": "MANWAR" },
         "repo":             { "url": "https://github.com/szabgab/Syntax-Highlight-Engine-Kate", "relpath": "szabgab/Syntax-Highlight-Engine-Kate" },
         "pull_requests":    [
                                 { "url": "https://github.com/manwar/Syntax-Highlight-Engine-Kate/pull/14", "state": "merged", "relpath": "/pull/14" }

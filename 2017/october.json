@@ -1,12 +1,12 @@
 {
  "year": "2017",
  "month": "October",
- "generated": { "date": "2017-10-05", "time": "08:35:27" },
- "stats": { "done": "1", "total": "12", "percent": "8.3" },
+ "generated": { "date": "2018-01-10", "time": "11:20:22" },
+ "stats": { "done": "13", "total": "13", "percent": "100.0" },
  "assignments": [
 
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "manwar" },
         "distname":         "POE-Component-Github",
         "released_by":      { "pause_id": "BINGOS" },
@@ -16,7 +16,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "cv-library" },
         "distname":         "Test2-Suite",
         "released_by":      { "pause_id": "EXODIST" },
@@ -25,7 +25,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "choroba" },
         "distname":         "LWP-UserAgent-POE",
         "released_by":      { "pause_id": "MSCHILLI" },
@@ -34,31 +34,24 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jjatria" },
         "distname":         "XML-SemanticDiff",
         "released_by":      { "pause_id": "SHLOMIF" },
         "repo":             { "url": "https://github.com/shlomif/perl-XML-SemanticDiff", "relpath": "shlomif/perl-XML-SemanticDiff" },
         "pull_requests":    [
+                                { "url": "https://github.com/shlomif/perl-XML-SemanticDiff/pull/7", "state": "merged", "relpath": "/pull/7" },
                                 { "url": "https://github.com/shlomif/perl-XML-SemanticDiff/pull/5", "state": "merged", "relpath": "/pull/5" }
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "lharey" },
-        "distname":         "PkgConfig",
-        "released_by":      { "pause_id": "PLICEASE" },
-        "repo":             { "url": "https://github.com/PerlPkgConfig/perl-PkgConfig", "relpath": "PerlPkgConfig/perl-PkgConfig" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "kyzn" },
         "distname":         "AnyEvent-Filesys-Notify",
         "released_by":      { "pause_id": "MGRIMES" },
         "repo":             { "url": "https://github.com/mvgrimes/AnyEvent-Filesys-Notify", "relpath": "mvgrimes/AnyEvent-Filesys-Notify" },
         "pull_requests":    [
+                                { "url": "https://github.com/mvgrimes/AnyEvent-Filesys-Notify/pull/10", "state": "merged", "relpath": "/pull/10" }
                             ]
     },
     {
@@ -68,52 +61,96 @@
         "released_by":      { "pause_id": "UNDEF" },
         "repo":             { "url": "https://github.com/und3f/mojox-redis", "relpath": "und3f/mojox-redis" },
         "pull_requests":    [
-                                { "url": "https://github.com/und3f/mojox-redis/pull/7", "state": "open", "relpath": "/pull/7" }
+                                { "url": "https://github.com/und3f/mojox-redis/pull/7", "state": "merged", "relpath": "/pull/7" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "yanick" },
         "distname":         "PPIx-EditorTools",
-        "released_by":      { "pause_id": "SZABGAB" },
-        "repo":             { "url": "https://github.com/szabgab/PPIx-EditorTools", "relpath": "szabgab/PPIx-EditorTools" },
+        "released_by":      { "pause_id": "YANICK" },
+        "repo":             { "url": "https://github.com/yanick/PPIx-EditorTools", "relpath": "yanick/PPIx-EditorTools" },
         "pull_requests":    [
+                                { "url": "https://github.com/yanick/PPIx-EditorTools/pull/7", "state": "merged", "relpath": "/pull/7" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jj" },
         "distname":         "HTML-Formatter",
         "released_by":      { "pause_id": "NIGELM" },
         "repo":             { "url": "https://github.com/nigelm/html-formatter", "relpath": "nigelm/html-formatter" },
         "pull_requests":    [
+                                { "url": "https://github.com/nigelm/html-formatter/pull/12", "state": "open", "relpath": "/pull/12" }
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "s-nez" },
-        "distname":         "XML-Tiny",
-        "released_by":      { "pause_id": "DCANTRELL" },
-        "repo":             { "url": "https://github.com/DrHyde/perl-modules-XML-Tiny", "relpath": "DrHyde/perl-modules-XML-Tiny" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "simbabque" },
         "distname":         "Dist-Zilla-Plugin-Test-Version",
         "released_by":      { "pause_id": "PLICEASE" },
         "repo":             { "url": "https://github.com/plicease/dist-zilla-plugin-test-version", "relpath": "plicease/dist-zilla-plugin-test-version" },
         "pull_requests":    [
+                                { "url": "https://github.com/plicease/Dist-Zilla-Plugin-Test-Version/pull/11", "state": "merged", "relpath": "/pull/11" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "ZipRecruiter" },
         "distname":         "Software-License",
-        "released_by":      { "pause_id": "RJBS" },
+        "released_by":      { "pause_id": "LEONT" },
         "repo":             { "url": "https://github.com/rjbs/Software-License", "relpath": "rjbs/Software-License" },
         "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "openstrike" },
+        "distname":         "Test-LeakTrace",
+        "released_by":      { "pause_id": "LEEJO" },
+        "repo":             { "url": "https://github.com/gfx/p5-Test-LeakTrace", "relpath": "gfx/p5-Test-LeakTrace" },
+        "pull_requests":    [
+                                { "url": "https://github.com/gfx/p5-Test-LeakTrace/pull/4", "state": "merged", "relpath": "/pull/4" }
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "paultcochrane" },
+        "distname":         "Module-Release",
+        "released_by":      { "pause_id": "BDFOY" },
+        "repo":             { "url": "https://github.com/briandfoy/module-release", "relpath": "briandfoy/module-release" },
+        "pull_requests":    [
+                                { "url": "https://github.com/briandfoy/module-release/pull/32", "state": "merged", "relpath": "/pull/32" },
+                                { "url": "https://github.com/briandfoy/module-release/pull/31", "state": "merged", "relpath": "/pull/31" },
+                                { "url": "https://github.com/briandfoy/module-release/pull/30", "state": "merged", "relpath": "/pull/30" },
+                                { "url": "https://github.com/briandfoy/module-release/pull/29", "state": "merged", "relpath": "/pull/29" },
+                                { "url": "https://github.com/briandfoy/module-release/pull/28", "state": "merged", "relpath": "/pull/28" },
+                                { "url": "https://github.com/briandfoy/module-release/pull/27", "state": "merged", "relpath": "/pull/27" },
+                                { "url": "https://github.com/briandfoy/module-release/pull/26", "state": "merged", "relpath": "/pull/26" },
+                                { "url": "https://github.com/briandfoy/module-release/pull/25", "state": "merged", "relpath": "/pull/25" },
+                                { "url": "https://github.com/briandfoy/module-release/pull/24", "state": "merged", "relpath": "/pull/24" },
+                                { "url": "https://github.com/briandfoy/module-release/pull/23", "state": "merged", "relpath": "/pull/23" },
+                                { "url": "https://github.com/briandfoy/module-release/pull/22", "state": "merged", "relpath": "/pull/22" },
+                                { "url": "https://github.com/briandfoy/module-release/pull/21", "state": "merged", "relpath": "/pull/21" },
+                                { "url": "https://github.com/briandfoy/module-release/pull/20", "state": "merged", "relpath": "/pull/20" },
+                                { "url": "https://github.com/briandfoy/module-release/pull/19", "state": "merged", "relpath": "/pull/19" },
+                                { "url": "https://github.com/briandfoy/module-release/pull/18", "state": "closed", "relpath": "/pull/18" },
+                                { "url": "https://github.com/briandfoy/module-release/pull/17", "state": "merged", "relpath": "/pull/17" },
+                                { "url": "https://github.com/briandfoy/module-release/pull/16", "state": "merged", "relpath": "/pull/16" },
+                                { "url": "https://github.com/briandfoy/module-release/pull/15", "state": "merged", "relpath": "/pull/15" },
+                                { "url": "https://github.com/briandfoy/module-release/pull/14", "state": "merged", "relpath": "/pull/14" },
+                                { "url": "https://github.com/briandfoy/module-release/pull/13", "state": "merged", "relpath": "/pull/13" }
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "lancew" },
+        "distname":         "Locale-Codes",
+        "released_by":      { "pause_id": "SBECK" },
+        "repo":             { "url": "https://github.com/SBECK-github/Locale-Codes", "relpath": "SBECK-github/Locale-Codes" },
+        "pull_requests":    [
+                                { "url": "https://github.com/SBECK-github/Locale-Codes/pull/7", "state": "closed", "relpath": "/pull/7" },
+                                { "url": "https://github.com/SBECK-github/Locale-Codes/pull/6", "state": "closed", "relpath": "/pull/6" }
                             ]
     }
  ]
