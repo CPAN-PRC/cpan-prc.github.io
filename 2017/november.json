@@ -1,0 +1,141 @@
+{
+ "year": "2017",
+ "month": "November",
+ "generated": { "date": "2018-01-10", "time": "11:20:31" },
+ "stats": { "done": "10", "total": "12", "percent": "83.3" },
+ "assignments": [
+
+    {
+        "done":             true,
+        "assignee":         { "github_username": "paultcochrane" },
+        "distname":         "Minion-Backend-mysql",
+        "released_by":      { "pause_id": "PREACTION" },
+        "repo":             { "url": "https://github.com/preaction/Minion-Backend-mysql", "relpath": "preaction/Minion-Backend-mysql" },
+        "pull_requests":    [
+                                { "url": "https://github.com/preaction/Minion-Backend-mysql/pull/14", "state": "open", "relpath": "/pull/14" },
+                                { "url": "https://github.com/preaction/Minion-Backend-mysql/pull/13", "state": "merged", "relpath": "/pull/13" },
+                                { "url": "https://github.com/preaction/Minion-Backend-mysql/pull/12", "state": "merged", "relpath": "/pull/12" },
+                                { "url": "https://github.com/preaction/Minion-Backend-mysql/pull/11", "state": "merged", "relpath": "/pull/11" },
+                                { "url": "https://github.com/preaction/Minion-Backend-mysql/pull/10", "state": "merged", "relpath": "/pull/10" },
+                                { "url": "https://github.com/preaction/Minion-Backend-mysql/pull/9", "state": "closed", "relpath": "/pull/9" },
+                                { "url": "https://github.com/preaction/Minion-Backend-mysql/pull/8", "state": "closed", "relpath": "/pull/8" },
+                                { "url": "https://github.com/preaction/Minion-Backend-mysql/pull/7", "state": "merged", "relpath": "/pull/7" },
+                                { "url": "https://github.com/preaction/Minion-Backend-mysql/pull/6", "state": "merged", "relpath": "/pull/6" },
+                                { "url": "https://github.com/preaction/Minion-Backend-mysql/pull/5", "state": "merged", "relpath": "/pull/5" },
+                                { "url": "https://github.com/preaction/Minion-Backend-mysql/pull/4", "state": "merged", "relpath": "/pull/4" },
+                                { "url": "https://github.com/preaction/Minion-Backend-mysql/pull/3", "state": "merged", "relpath": "/pull/3" },
+                                { "url": "https://github.com/preaction/Minion-Backend-mysql/pull/2", "state": "merged", "relpath": "/pull/2" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "robdixon" },
+        "distname":         "PkgConfig",
+        "released_by":      { "pause_id": "PLICEASE" },
+        "repo":             { "url": "https://github.com/PerlPkgConfig/perl-PkgConfig", "relpath": "PerlPkgConfig/perl-PkgConfig" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "jj" },
+        "distname":         "Debug-Client",
+        "released_by":      { "pause_id": "MANWAR" },
+        "repo":             { "url": "https://github.com/PadreIDE/Debug-Client", "relpath": "PadreIDE/Debug-Client" },
+        "pull_requests":    [
+                                { "url": "https://github.com/PadreIDE/Debug-Client/pull/10", "state": "merged", "relpath": "/pull/10" },
+                                { "url": "https://github.com/PadreIDE/Debug-Client/pull/9", "state": "merged", "relpath": "/pull/9" }
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "shlomif" },
+        "distname":         "Alien-LMDB",
+        "released_by":      { "pause_id": "FRACTAL" },
+        "repo":             { "url": "https://github.com/hoytech/Alien-LMDB", "relpath": "hoytech/Alien-LMDB" },
+        "pull_requests":    [
+                                { "url": "https://github.com/hoytech/Alien-LMDB/pull/5", "state": "merged", "relpath": "/pull/5" }
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "simbabque" },
+        "distname":         "LaTeX-Driver",
+        "released_by":      { "pause_id": "EINHVERFR" },
+        "repo":             { "url": "https://github.com/Template-Toolkit-Latex/LaTeX-Driver", "relpath": "Template-Toolkit-Latex/LaTeX-Driver" },
+        "pull_requests":    [
+                                { "url": "https://github.com/Template-Toolkit-Latex/LaTeX-Driver/pull/11", "state": "merged", "relpath": "/pull/11" }
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "yanick" },
+        "distname":         "Data-Object",
+        "released_by":      { "pause_id": "AWNCORP" },
+        "repo":             { "url": "https://github.com/alnewkirk/Data-Object", "relpath": "alnewkirk/Data-Object" },
+        "pull_requests":    [
+                                { "url": "https://github.com/alnewkirk/Data-Object/pull/12", "state": "open", "relpath": "/pull/12" }
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "lharey" },
+        "distname":         "Module-Starter-Smart",
+        "released_by":      { "pause_id": "RUEYCHENG" },
+        "repo":             { "url": "https://github.com/rueycheng/Module-Starter-Smart", "relpath": "rueycheng/Module-Starter-Smart" },
+        "pull_requests":    [
+                                { "url": "https://github.com/rueycheng/Module-Starter-Smart/pull/5", "state": "merged", "relpath": "/pull/5" }
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "lancew" },
+        "distname":         "Crypt-PBKDF2",
+        "released_by":      { "pause_id": "ARODLAND" },
+        "repo":             { "url": "https://github.com/arodland/Crypt-PBKDF2", "relpath": "arodland/Crypt-PBKDF2" },
+        "pull_requests":    [
+                                { "url": "https://github.com/arodland/Crypt-PBKDF2/pull/5", "state": "open", "relpath": "/pull/5" }
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "openstrike" },
+        "distname":         "Net-Amazon-Route53",
+        "released_by":      { "pause_id": "MFONTANI" },
+        "repo":             { "url": "https://github.com/mfontani/Net-Amazon-Route53", "relpath": "mfontani/Net-Amazon-Route53" },
+        "pull_requests":    [
+                                { "url": "https://github.com/mfontani/Net-Amazon-Route53/pull/14", "state": "merged", "relpath": "/pull/14" }
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "cv-library" },
+        "distname":         "Moose",
+        "released_by":      { "pause_id": "ETHER" },
+        "repo":             { "url": "https://github.com/moose/Moose", "relpath": "moose/Moose" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "manwar" },
+        "distname":         "URI-Template",
+        "released_by":      { "pause_id": "BRICAS" },
+        "repo":             { "url": "https://github.com/bricas/uri-template", "relpath": "bricas/uri-template" },
+        "pull_requests":    [
+                                { "url": "https://github.com/bricas/uri-template/pull/5", "state": "merged", "relpath": "/pull/5" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "choroba" },
+        "distname":         "Validator-Custom",
+        "released_by":      { "pause_id": "KIMOTO" },
+        "repo":             { "url": "https://github.com/yuki-kimoto/Validator-Custom", "relpath": "yuki-kimoto/Validator-Custom" },
+        "pull_requests":    [
+                                { "url": "https://github.com/yuki-kimoto/Validator-Custom/pull/6", "state": "open", "relpath": "/pull/6" }
+                            ]
+    }
+ ]
+}
+

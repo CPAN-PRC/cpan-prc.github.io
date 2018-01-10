@@ -1,0 +1,136 @@
+{
+ "year": "2017",
+ "month": "December",
+ "generated": { "date": "2018-01-10", "time": "11:20:39" },
+ "stats": { "done": "8", "total": "12", "percent": "66.7" },
+ "assignments": [
+
+    {
+        "done":             true,
+        "assignee":         { "github_username": "lancew" },
+        "distname":         "Device-Cdio",
+        "released_by":      { "pause_id": "ROCKY" },
+        "repo":             { "url": "https://github.com/rocky/Perl-Device-Cdio", "relpath": "rocky/Perl-Device-Cdio" },
+        "pull_requests":    [
+                                { "url": "https://github.com/rocky/Perl-Device-Cdio/pull/6", "state": "open", "relpath": "/pull/6" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "jj" },
+        "distname":         "JSON-SL",
+        "released_by":      { "pause_id": "MNUNBERG" },
+        "repo":             { "url": "https://github.com/mnunberg/perl-JSON-SL", "relpath": "mnunberg/perl-JSON-SL" },
+        "pull_requests":    [
+                                { "url": "https://github.com/mnunberg/perl-JSON-SL/pull/8", "state": "open", "relpath": "/pull/8" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "openstrike" },
+        "distname":         "Mojolicious-Plugin-OpenAPI",
+        "released_by":      { "pause_id": "JHTHORSEN" },
+        "repo":             { "url": "https://github.com/jhthorsen/mojolicious-plugin-openapi", "relpath": "jhthorsen/mojolicious-plugin-openapi" },
+        "pull_requests":    [
+                                { "url": "https://github.com/jhthorsen/mojolicious-plugin-openapi/pull/54", "state": "merged", "relpath": "/pull/54" }
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "manwar" },
+        "distname":         "Type-Tiny-Signatures",
+        "released_by":      { "pause_id": "AWNCORP" },
+        "repo":             { "url": "https://github.com/alnewkirk/Type-Tiny-Signatures", "relpath": "alnewkirk/Type-Tiny-Signatures" },
+        "pull_requests":    [
+                                { "url": "https://github.com/alnewkirk/Type-Tiny-Signatures/pull/3", "state": "open", "relpath": "/pull/3" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "jjatria" },
+        "distname":         "Plack-App-MCCS",
+        "released_by":      { "pause_id": "IDOPEREL" },
+        "repo":             { "url": "https://github.com/ido50/Plack-App-MCCS", "relpath": "ido50/Plack-App-MCCS" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "cv-library" },
+        "distname":         "Scalar-List-Utils",
+        "released_by":      { "pause_id": "RURBAN" },
+        "repo":             { "url": "https://github.com/Scalar-List-Utils/Scalar-List-Utils", "relpath": "Scalar-List-Utils/Scalar-List-Utils" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "yanick" },
+        "distname":         "File-HomeDir",
+        "released_by":      { "pause_id": "REHSACK" },
+        "repo":             { "url": "https://github.com/rehsack/File-HomeDir", "relpath": "rehsack/File-HomeDir" },
+        "pull_requests":    [
+                                { "url": "https://github.com/rehsack/File-HomeDir/pull/4", "state": "open", "relpath": "/pull/4" }
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "simbabque" },
+        "distname":         "Shell-Guess",
+        "released_by":      { "pause_id": "PLICEASE" },
+        "repo":             { "url": "https://github.com/plicease/Shell-Guess", "relpath": "plicease/Shell-Guess" },
+        "pull_requests":    [
+                                { "url": "https://github.com/plicease/Shell-Guess/pull/7", "state": "merged", "relpath": "/pull/7" }
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "ZipRecruiter" },
+        "distname":         "Text-Template",
+        "released_by":      { "pause_id": "MSCHOUT" },
+        "repo":             { "url": "https://github.com/mschout/perl-text-template", "relpath": "mschout/perl-text-template" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "shlomif" },
+        "distname":         "Log-Any",
+        "released_by":      { "pause_id": "PREACTION" },
+        "repo":             { "url": "https://github.com/preaction/Log-Any", "relpath": "preaction/Log-Any" },
+        "pull_requests":    [
+                                { "url": "https://github.com/preaction/Log-Any/pull/68", "state": "merged", "relpath": "/pull/68" },
+                                { "url": "https://github.com/preaction/Log-Any/pull/67", "state": "merged", "relpath": "/pull/67" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "s-nez" },
+        "distname":         "HTML-Element-Replacer",
+        "released_by":      { "pause_id": "ACCARDO" },
+        "repo":             { "url": "https://github.com/mixedconnections/html-element-replacer", "relpath": "mixedconnections/html-element-replacer" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "paultcochrane" },
+        "distname":         "String-Compare-ConstantTime",
+        "released_by":      { "pause_id": "FRACTAL" },
+        "repo":             { "url": "https://github.com/hoytech/String-Compare-ConstantTime", "relpath": "hoytech/String-Compare-ConstantTime" },
+        "pull_requests":    [
+                                { "url": "https://github.com/hoytech/String-Compare-ConstantTime/pull/15", "state": "merged", "relpath": "/pull/15" },
+                                { "url": "https://github.com/hoytech/String-Compare-ConstantTime/pull/14", "state": "merged", "relpath": "/pull/14" },
+                                { "url": "https://github.com/hoytech/String-Compare-ConstantTime/pull/13", "state": "merged", "relpath": "/pull/13" },
+                                { "url": "https://github.com/hoytech/String-Compare-ConstantTime/pull/12", "state": "merged", "relpath": "/pull/12" },
+                                { "url": "https://github.com/hoytech/String-Compare-ConstantTime/pull/11", "state": "merged", "relpath": "/pull/11" },
+                                { "url": "https://github.com/hoytech/String-Compare-ConstantTime/pull/10", "state": "merged", "relpath": "/pull/10" },
+                                { "url": "https://github.com/hoytech/String-Compare-ConstantTime/pull/9", "state": "merged", "relpath": "/pull/9" },
+                                { "url": "https://github.com/hoytech/String-Compare-ConstantTime/pull/8", "state": "merged", "relpath": "/pull/8" },
+                                { "url": "https://github.com/hoytech/String-Compare-ConstantTime/pull/7", "state": "merged", "relpath": "/pull/7" },
+                                { "url": "https://github.com/hoytech/String-Compare-ConstantTime/pull/6", "state": "merged", "relpath": "/pull/6" }
+                            ]
+    }
+ ]
+}
+
