@@ -1,8 +1,8 @@
 {
  "year": "2018",
  "month": "January",
- "generated": { "date": "2018-01-10", "time": "10:21:05" },
- "stats": { "done": "2", "total": "33", "percent": "6.1" },
+ "generated": { "date": "2018-01-17", "time": "11:53:56" },
+ "stats": { "done": "5", "total": "44", "percent": "11.4" },
  "assignments": [
 
     {
@@ -41,6 +41,7 @@
         "released_by":      { "pause_id": "OALDERS" },
         "repo":             { "url": "https://github.com/CPAN-API/p5-elasticsearch-model", "relpath": "CPAN-API/p5-elasticsearch-model" },
         "pull_requests":    [
+                                { "url": "https://github.com/metacpan/p5-elasticsearch-model/pull/3", "state": "open", "relpath": "/pull/3" }
                             ]
     },
     {
@@ -126,23 +127,27 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "paultcochrane" },
         "distname":         "Valence",
         "released_by":      { "pause_id": "FRACTAL" },
         "repo":             { "url": "https://github.com/hoytech/Valence-p5", "relpath": "hoytech/Valence-p5" },
         "pull_requests":    [
+                                { "url": "https://github.com/hoytech/Valence-p5/pull/7", "state": "merged", "relpath": "/pull/7" },
+                                { "url": "https://github.com/hoytech/Valence-p5/pull/6", "state": "merged", "relpath": "/pull/6" },
+                                { "url": "https://github.com/hoytech/Valence-p5/pull/5", "state": "merged", "relpath": "/pull/5" },
                                 { "url": "https://github.com/hoytech/Valence-p5/pull/4", "state": "merged", "relpath": "/pull/4" },
                                 { "url": "https://github.com/hoytech/Valence-p5/pull/3", "state": "merged", "relpath": "/pull/3" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jjatria" },
         "distname":         "Data-Random",
         "released_by":      { "pause_id": "BAREFOOT" },
         "repo":             { "url": "https://github.com/barefootcoder/Data-Random", "relpath": "barefootcoder/Data-Random" },
         "pull_requests":    [
+                                { "url": "https://github.com/barefootcoder/Data-Random/pull/6", "state": "open", "relpath": "/pull/6" }
                             ]
     },
     {
@@ -255,12 +260,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "preaction" },
         "distname":         "Dist-Zilla-Plugin-ChangelogFromGit",
         "released_by":      { "pause_id": "RCAPUTO" },
         "repo":             { "url": "https://github.com/rcaputo/dzp-changelogfromgit", "relpath": "rcaputo/dzp-changelogfromgit" },
         "pull_requests":    [
+                                { "url": "https://github.com/rcaputo/dzp-changelogfromgit/pull/14", "state": "open", "relpath": "/pull/14" }
                             ]
     },
     {
@@ -305,6 +311,105 @@
         "distname":         "AI-MXNet",
         "released_by":      { "pause_id": "SKOLYCHEV" },
         "repo":             { "url": "https://github.com/apache/incubator-mxnet", "relpath": "apache/incubator-mxnet" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "georgyvlad" },
+        "distname":         "CGI-Application-Plugin-Session",
+        "released_by":      { "pause_id": "FREW" },
+        "repo":             { "url": "https://github.com/frioux/CGI-Application-Plugin-Session", "relpath": "frioux/CGI-Application-Plugin-Session" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "simongreen-net" },
+        "distname":         "OpenAPI-Client",
+        "released_by":      { "pause_id": "JHTHORSEN" },
+        "repo":             { "url": "https://github.com/jhthorsen/openapi-client", "relpath": "jhthorsen/openapi-client" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "wilyarti" },
+        "distname":         "Term-Screen",
+        "released_by":      { "pause_id": "JSTOWE" },
+        "repo":             { "url": "https://github.com/jonathanstowe/Term-Screen", "relpath": "jonathanstowe/Term-Screen" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "gimpit" },
+        "distname":         "Text-MediawikiFormat",
+        "released_by":      { "pause_id": "SZABGAB" },
+        "repo":             { "url": "https://github.com/szabgab/Text-MediawikiFormat", "relpath": "szabgab/Text-MediawikiFormat" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "wheinze" },
+        "distname":         "Config-Tiny",
+        "released_by":      { "pause_id": "RSAVAGE" },
+        "repo":             { "url": "https://github.com/ronsavage/Config-Tiny", "relpath": "ronsavage/Config-Tiny" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "NachosDevs" },
+        "distname":         "Devel-LeakGuard-Object",
+        "released_by":      { "pause_id": "PTC" },
+        "repo":             { "url": "https://github.com/AndyA/Devel--LeakGuard--Object", "relpath": "AndyA/Devel--LeakGuard--Object" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "nathandyck" },
+        "distname":         "CGI-Lite",
+        "released_by":      { "pause_id": "HOUSTON" },
+        "repo":             { "url": "https://github.com/openstrike/perl-CGI-Lite", "relpath": "openstrike/perl-CGI-Lite" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "rramesh83" },
+        "distname":         "Text-Hyphen",
+        "released_by":      { "pause_id": "KAPPA" },
+        "repo":             { "url": "https://github.com/kappa/Text-Hyphen", "relpath": "kappa/Text-Hyphen" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "jacoby" },
+        "distname":         "Log-Log4perl-Tiny",
+        "released_by":      { "pause_id": "POLETTIX" },
+        "repo":             { "url": "https://github.com/polettix/Log-Log4perl-Tiny", "relpath": "polettix/Log-Log4perl-Tiny" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "alexstuart" },
+        "distname":         "Test-MockModule",
+        "released_by":      { "pause_id": "GFRANKS" },
+        "repo":             { "url": "https://github.com/geofffranks/test-mockmodule", "relpath": "geofffranks/test-mockmodule" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "zakame" },
+        "distname":         "Lingua-EN-Inflect-Phrase",
+        "released_by":      { "pause_id": "RKITOVER" },
+        "repo":             { "url": "https://github.com/rkitover/lingua-en-inflect-phrase", "relpath": "rkitover/lingua-en-inflect-phrase" },
         "pull_requests":    [
                             ]
     }
