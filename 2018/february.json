@@ -1,8 +1,8 @@
 {
  "year": "2018",
  "month": "February",
- "generated": { "date": "2018-02-06", "time": "11:07:45" },
- "stats": { "done": "0", "total": "36", "percent": "0.0" },
+ "generated": { "date": "2018-02-13", "time": "22:11:56" },
+ "stats": { "done": "2", "total": "39", "percent": "5.1" },
  "assignments": [
 
     {
@@ -115,12 +115,14 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "yanick" },
         "distname":         "OpenERP-XMLRPC-Simple",
         "released_by":      { "pause_id": "NEWELLC" },
         "repo":             { "url": "https://github.com/OpusVL/OpenERP-XMLRPC-Simple", "relpath": "OpusVL/OpenERP-XMLRPC-Simple" },
         "pull_requests":    [
+                                { "url": "https://github.com/OpusVL/OpenERP-XMLRPC-Simple/pull/4", "state": "open", "relpath": "/pull/4" },
+                                { "url": "https://github.com/OpusVL/OpenERP-XMLRPC-Simple/pull/3", "state": "open", "relpath": "/pull/3" }
                             ]
     },
     {
@@ -148,6 +150,7 @@
         "released_by":      { "pause_id": "FAYLAND" },
         "repo":             { "url": "https://github.com/fayland/perl-net-github", "relpath": "fayland/perl-net-github" },
         "pull_requests":    [
+                                { "url": "https://github.com/fayland/perl-net-github/pull/86", "state": "open", "relpath": "/pull/86" }
                             ]
     },
     {
@@ -175,6 +178,8 @@
         "released_by":      { "pause_id": "YANICK" },
         "repo":             { "url": "https://github.com/perldancer/Dancer-Session-Cookie", "relpath": "perldancer/Dancer-Session-Cookie" },
         "pull_requests":    [
+                                { "url": "https://github.com/PerlDancer/Dancer-Session-Cookie/pull/9", "state": "closed", "relpath": "/pull/9" },
+                                { "url": "https://github.com/PerlDancer/Dancer-Session-Cookie/pull/7", "state": "closed", "relpath": "/pull/7" }
                             ]
     },
     {
@@ -193,6 +198,8 @@
         "released_by":      { "pause_id": "OALDERS" },
         "repo":             { "url": "https://github.com/plu/Pithub", "relpath": "plu/Pithub" },
         "pull_requests":    [
+                                { "url": "https://github.com/plu/Pithub/pull/201", "state": "open", "relpath": "/pull/201" },
+                                { "url": "https://github.com/plu/Pithub/pull/200", "state": "open", "relpath": "/pull/200" }
                             ]
     },
     {
@@ -212,15 +219,6 @@
         "repo":             { "url": "https://github.com/crenz/Module-Find", "relpath": "crenz/Module-Find" },
         "pull_requests":    [
                                 { "url": "https://github.com/crenz/Module-Find/pull/8", "state": "open", "relpath": "/pull/8" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "ThornyS" },
-        "distname":         "Math-Prime-Util",
-        "released_by":      { "pause_id": "DANAJ" },
-        "repo":             { "url": "https://github.com/danaj/Math-Prime-Util", "relpath": "danaj/Math-Prime-Util" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -305,13 +303,16 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "zakame" },
         "distname":         "Log-Dispatch-FileRotate",
         "released_by":      { "pause_id": "MSCHOUT" },
         "repo":             { "url": "https://github.com/mschout/perl-log-dispatch-filerotate", "relpath": "mschout/perl-log-dispatch-filerotate" },
         "pull_requests":    [
-                                { "url": "https://github.com/mschout/perl-log-dispatch-filerotate/pull/13", "state": "open", "relpath": "/pull/13" }
+                                { "url": "https://github.com/mschout/perl-log-dispatch-filerotate/pull/18", "state": "merged", "relpath": "/pull/18" },
+                                { "url": "https://github.com/mschout/perl-log-dispatch-filerotate/pull/15", "state": "merged", "relpath": "/pull/15" },
+                                { "url": "https://github.com/mschout/perl-log-dispatch-filerotate/pull/14", "state": "merged", "relpath": "/pull/14" },
+                                { "url": "https://github.com/mschout/perl-log-dispatch-filerotate/pull/13", "state": "closed", "relpath": "/pull/13" }
                             ]
     },
     {
@@ -329,6 +330,42 @@
         "distname":         "WWW-Mechanize-Firefox",
         "released_by":      { "pause_id": "CORION" },
         "repo":             { "url": "https://github.com/Corion/www-mechanize-firefox", "relpath": "Corion/www-mechanize-firefox" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "rramesh83" },
+        "distname":         "Geo-JSON",
+        "released_by":      { "pause_id": "MJEMMESON" },
+        "repo":             { "url": "https://github.com/mjemmeson/Geo-JSON", "relpath": "mjemmeson/Geo-JSON" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "cv-library" },
+        "distname":         "HTTP-Date",
+        "released_by":      { "pause_id": "GAAS" },
+        "repo":             { "url": "https://github.com/gisle/http-date", "relpath": "gisle/http-date" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "DadaIsCrazy" },
+        "distname":         "Text-Hogan",
+        "released_by":      { "pause_id": "KAORU" },
+        "repo":             { "url": "https://github.com/kaoru/Text-Hogan", "relpath": "kaoru/Text-Hogan" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "ThornyS" },
+        "distname":         "GraphViz2",
+        "released_by":      { "pause_id": "RSAVAGE" },
+        "repo":             { "url": "https://github.com/ronsavage/GraphViz2", "relpath": "ronsavage/GraphViz2" },
         "pull_requests":    [
                             ]
     }

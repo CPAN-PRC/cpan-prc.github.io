@@ -1,8 +1,8 @@
 {
  "year": "2018",
  "month": "January",
- "generated": { "date": "2018-02-06", "time": "11:07:19" },
- "stats": { "done": "20", "total": "42", "percent": "47.6" },
+ "generated": { "date": "2018-02-13", "time": "22:11:26" },
+ "stats": { "done": "22", "total": "41", "percent": "53.7" },
  "assignments": [
 
     {
@@ -73,7 +73,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "cv-library" },
         "distname":         "Test-Perl-Critic",
         "released_by":      { "pause_id": "THALJEF" },
@@ -236,6 +236,7 @@
         "released_by":      { "pause_id": "RUBYKAT" },
         "repo":             { "url": "https://github.com/rubykat/SQLite-Work", "relpath": "rubykat/SQLite-Work" },
         "pull_requests":    [
+                                { "url": "https://github.com/rubykat/SQLite-Work/pull/2", "state": "open", "relpath": "/pull/2" }
                             ]
     },
     {
@@ -246,15 +247,6 @@
         "repo":             { "url": "https://github.com/rcaputo/dzp-changelogfromgit", "relpath": "rcaputo/dzp-changelogfromgit" },
         "pull_requests":    [
                                 { "url": "https://github.com/rcaputo/dzp-changelogfromgit/pull/14", "state": "merged", "relpath": "/pull/14" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "DadaIsCrazy" },
-        "distname":         "Net-Ident",
-        "released_by":      { "pause_id": "TODDR" },
-        "repo":             { "url": "https://github.com/toddr/Net-Ident", "relpath": "toddr/Net-Ident" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -332,7 +324,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "rramesh83" },
         "distname":         "Text-Hyphen",
         "released_by":      { "pause_id": "KAPPA" },
