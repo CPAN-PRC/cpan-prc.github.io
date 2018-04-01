@@ -1,8 +1,8 @@
 {
  "year": "2018",
  "month": "January",
- "generated": { "date": "2018-02-13", "time": "22:11:26" },
- "stats": { "done": "22", "total": "41", "percent": "53.7" },
+ "generated": { "date": "2018-04-01", "time": "21:17:02" },
+ "stats": { "done": "26", "total": "41", "percent": "63.4" },
  "assignments": [
 
     {
@@ -64,19 +64,20 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "s-nez" },
         "distname":         "WWW-Contact",
         "released_by":      { "pause_id": "FAYLAND" },
         "repo":             { "url": "https://github.com/fayland/perl-www-contact/tree/master", "relpath": "fayland/perl-www-contact/tree/master" },
         "pull_requests":    [
+                                { "url": "https://github.com/fayland/perl-www-contact/pull/12", "state": "merged", "relpath": "/pull/12" }
                             ]
     },
     {
         "done":             true,
         "assignee":         { "github_username": "cv-library" },
         "distname":         "Test-Perl-Critic",
-        "released_by":      { "pause_id": "THALJEF" },
+        "released_by":      { "pause_id": "PETDANCE" },
         "repo":             { "url": "https://github.com/Perl-Critic/Test-Perl-Critic", "relpath": "Perl-Critic/Test-Perl-Critic" },
         "pull_requests":    [
                             ]
@@ -88,7 +89,7 @@
         "released_by":      { "pause_id": "HARTZELL" },
         "repo":             { "url": "https://github.com/hartzell/moox-strictconstructor", "relpath": "hartzell/moox-strictconstructor" },
         "pull_requests":    [
-                                { "url": "https://github.com/hartzell/moox-strictconstructor/pull/18", "state": "open", "relpath": "/pull/18" }
+                                { "url": "https://github.com/hartzell/moox-strictconstructor/pull/18", "state": "merged", "relpath": "/pull/18" }
                             ]
     },
     {
@@ -98,7 +99,7 @@
         "released_by":      { "pause_id": "DJZORT" },
         "repo":             { "url": "https://github.com/djzort/Net-DHCP", "relpath": "djzort/Net-DHCP" },
         "pull_requests":    [
-                                { "url": "https://github.com/djzort/Net-DHCP/pull/8", "state": "open", "relpath": "/pull/8" }
+                                { "url": "https://github.com/djzort/Net-DHCP/pull/8", "state": "merged", "relpath": "/pull/8" }
                             ]
     },
     {
@@ -149,13 +150,15 @@
         "released_by":      { "pause_id": "BAREFOOT" },
         "repo":             { "url": "https://github.com/barefootcoder/Data-Random", "relpath": "barefootcoder/Data-Random" },
         "pull_requests":    [
+                                { "url": "https://github.com/barefootcoder/Data-Random/pull/12", "state": "open", "relpath": "/pull/12" },
+                                { "url": "https://github.com/barefootcoder/Data-Random/pull/10", "state": "open", "relpath": "/pull/10" },
                                 { "url": "https://github.com/barefootcoder/Data-Random/pull/8", "state": "merged", "relpath": "/pull/8" },
                                 { "url": "https://github.com/barefootcoder/Data-Random/pull/7", "state": "merged", "relpath": "/pull/7" },
                                 { "url": "https://github.com/barefootcoder/Data-Random/pull/6", "state": "merged", "relpath": "/pull/6" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "Adestra" },
         "distname":         "utf8-all",
         "released_by":      { "pause_id": "HAYOBAAN" },
@@ -230,7 +233,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "simbabque" },
         "distname":         "SQLite-Work",
         "released_by":      { "pause_id": "RUBYKAT" },
@@ -352,7 +355,7 @@
         "repo":             { "url": "https://github.com/rkitover/lingua-en-inflect-phrase", "relpath": "rkitover/lingua-en-inflect-phrase" },
         "pull_requests":    [
                                 { "url": "https://github.com/rkitover/lingua-en-inflect-phrase/pull/2", "state": "merged", "relpath": "/pull/2" },
-                                { "url": "https://github.com/rkitover/lingua-en-inflect-phrase/pull/1", "state": "open", "relpath": "/pull/1" }
+                                { "url": "https://github.com/rkitover/lingua-en-inflect-phrase/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]
     },
     {
@@ -386,12 +389,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "MorayJ" },
         "distname":         "Dist-Zilla-Plugin-Test-Legal",
         "released_by":      { "pause_id": "AYOUNG" },
         "repo":             { "url": "https://github.com/harleypig/Dist-Zilla-Plugin-Test-Legal", "relpath": "harleypig/Dist-Zilla-Plugin-Test-Legal" },
         "pull_requests":    [
+                                { "url": "https://github.com/harleypig/Dist-Zilla-Plugin-Test-Legal/pull/5", "state": "merged", "relpath": "/pull/5" }
                             ]
     },
     {
