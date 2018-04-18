@@ -1,16 +1,16 @@
 {
  "year": "2018",
  "month": "March",
- "generated": { "date": "2018-04-01", "time": "21:18:02" },
- "stats": { "done": "13", "total": "27", "percent": "48.1" },
+ "generated": { "date": "2018-04-18", "time": "22:40:38" },
+ "stats": { "done": "14", "total": "27", "percent": "51.9" },
  "assignments": [
 
     {
         "done":             true,
         "assignee":         { "github_username": "ZipRecruiter" },
         "distname":         "HTML-FormFu",
-        "released_by":      { "pause_id": "NIGELM" },
-        "repo":             { "url": "https://github.com/fireartist/HTML-FormFu", "relpath": "fireartist/HTML-FormFu" },
+        "released_by":      { "pause_id": "CFRANKS" },
+        "repo":             { "url": "https://github.com/FormFu/HTML-FormFu", "relpath": "FormFu/HTML-FormFu" },
         "pull_requests":    [
                             ]
     },
@@ -255,7 +255,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "choroba" },
         "distname":         "Exception-Base",
         "released_by":      { "pause_id": "DEXTER" },

@@ -1,7 +1,7 @@
 {
  "year": "2018",
  "month": "January",
- "generated": { "date": "2018-04-01", "time": "21:17:02" },
+ "generated": { "date": "2018-04-18", "time": "22:39:36" },
  "stats": { "done": "26", "total": "41", "percent": "63.4" },
  "assignments": [
 
@@ -41,7 +41,7 @@
         "released_by":      { "pause_id": "OALDERS" },
         "repo":             { "url": "https://github.com/CPAN-API/p5-elasticsearch-model", "relpath": "CPAN-API/p5-elasticsearch-model" },
         "pull_requests":    [
-                                { "url": "https://github.com/metacpan/p5-elasticsearch-model/pull/3", "state": "open", "relpath": "/pull/3" }
+                                { "url": "https://github.com/metacpan/p5-elasticsearch-model/pull/3", "state": "closed", "relpath": "/pull/3" }
                             ]
     },
     {
@@ -51,7 +51,7 @@
         "released_by":      { "pause_id": "JBERGER" },
         "repo":             { "url": "https://github.com/Klortho/Physics-Unit", "relpath": "Klortho/Physics-Unit" },
         "pull_requests":    [
-                                { "url": "https://github.com/Klortho/Physics-Unit/pull/33", "state": "open", "relpath": "/pull/33" }
+                                { "url": "https://github.com/Klortho/Physics-Unit/pull/33", "state": "merged", "relpath": "/pull/33" }
                             ]
     },
     {
@@ -150,8 +150,8 @@
         "released_by":      { "pause_id": "BAREFOOT" },
         "repo":             { "url": "https://github.com/barefootcoder/Data-Random", "relpath": "barefootcoder/Data-Random" },
         "pull_requests":    [
-                                { "url": "https://github.com/barefootcoder/Data-Random/pull/12", "state": "open", "relpath": "/pull/12" },
-                                { "url": "https://github.com/barefootcoder/Data-Random/pull/10", "state": "open", "relpath": "/pull/10" },
+                                { "url": "https://github.com/barefootcoder/Data-Random/pull/12", "state": "merged", "relpath": "/pull/12" },
+                                { "url": "https://github.com/barefootcoder/Data-Random/pull/10", "state": "merged", "relpath": "/pull/10" },
                                 { "url": "https://github.com/barefootcoder/Data-Random/pull/8", "state": "merged", "relpath": "/pull/8" },
                                 { "url": "https://github.com/barefootcoder/Data-Random/pull/7", "state": "merged", "relpath": "/pull/7" },
                                 { "url": "https://github.com/barefootcoder/Data-Random/pull/6", "state": "merged", "relpath": "/pull/6" }

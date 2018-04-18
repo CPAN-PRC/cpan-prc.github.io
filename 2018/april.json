@@ -1,0 +1,164 @@
+{
+ "year": "2018",
+ "month": "April",
+ "generated": { "date": "2018-04-18", "time": "22:40:55" },
+ "stats": { "done": "0", "total": "15", "percent": "0.0" },
+ "assignments": [
+
+    {
+        "done":             false,
+        "assignee":         { "github_username": "cv-library" },
+        "distname":         "Test-Deep",
+        "released_by":      { "pause_id": "RJBS" },
+        "repo":             { "url": "https://github.com/rjbs/Test-Deep", "relpath": "rjbs/Test-Deep" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "jj" },
+        "distname":         "Term-ReadLine-Perl5",
+        "released_by":      { "pause_id": "ROCKY" },
+        "repo":             { "url": "https://github.com/rocky/p5-Term-ReadLine-Perl5", "relpath": "rocky/p5-Term-ReadLine-Perl5" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "jjatria" },
+        "distname":         "CGI-Simple",
+        "released_by":      { "pause_id": "MANWAR" },
+        "repo":             { "url": "https://github.com/manwar/CGI--Simple", "relpath": "manwar/CGI--Simple" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "lharey" },
+        "distname":         "Archive-Tar",
+        "released_by":      { "pause_id": "BINGOS" },
+        "repo":             { "url": "https://github.com/jib/archive-tar-new", "relpath": "jib/archive-tar-new" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "yanick" },
+        "distname":         "Slay-Makefile",
+        "released_by":      { "pause_id": "SREZIC" },
+        "repo":             { "url": "https://github.com/eserte/Slay-Makefile", "relpath": "eserte/Slay-Makefile" },
+        "pull_requests":    [
+                                { "url": "https://github.com/eserte/Slay-Makefile/pull/3", "state": "open", "relpath": "/pull/3" },
+                                { "url": "https://github.com/eserte/Slay-Makefile/pull/2", "state": "open", "relpath": "/pull/2" },
+                                { "url": "https://github.com/eserte/Slay-Makefile/pull/1", "state": "open", "relpath": "/pull/1" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "NachosDevs" },
+        "distname":         "WWW-FreeProxyListsCom",
+        "released_by":      { "pause_id": "STEVEB" },
+        "repo":             { "url": "https://github.com/stevieb9/p5-www-freeproxylistscom", "relpath": "stevieb9/p5-www-freeproxylistscom" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "openstrike" },
+        "distname":         "HTML-Element-Replacer",
+        "released_by":      { "pause_id": "ACCARDO" },
+        "repo":             { "url": "https://github.com/mixedconnections/html-element-replacer", "relpath": "mixedconnections/html-element-replacer" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "zakame" },
+        "distname":         "Math-Base36",
+        "released_by":      { "pause_id": "BRICAS" },
+        "repo":             { "url": "https://github.com/bricas/math-base36", "relpath": "bricas/math-base36" },
+        "pull_requests":    [
+                                { "url": "https://github.com/bricas/math-base36/pull/5", "state": "open", "relpath": "/pull/5" },
+                                { "url": "https://github.com/bricas/math-base36/pull/4", "state": "merged", "relpath": "/pull/4" },
+                                { "url": "https://github.com/bricas/math-base36/pull/3", "state": "closed", "relpath": "/pull/3" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "shlomif" },
+        "distname":         "WWW-Lipsum",
+        "released_by":      { "pause_id": "ZOFFIX" },
+        "repo":             { "url": "https://github.com/zoffixznet/www-lipsum", "relpath": "zoffixznet/www-lipsum" },
+        "pull_requests":    [
+                                { "url": "https://github.com/zoffixznet/WWW-Lipsum/pull/8", "state": "merged", "relpath": "/pull/8" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "paultcochrane" },
+        "distname":         "Mojolicious-Plugin-FormFieldsFromJSON-Date",
+        "released_by":      { "pause_id": "RENEEB" },
+        "repo":             { "url": "https://github.com/reneeb/Mojolicious-Plugin-FormFieldsFromJSON-Date", "relpath": "reneeb/Mojolicious-Plugin-FormFieldsFromJSON-Date" },
+        "pull_requests":    [
+                                { "url": "https://github.com/reneeb/Mojolicious-Plugin-FormFieldsFromJSON-Date/pull/13", "state": "merged", "relpath": "/pull/13" },
+                                { "url": "https://github.com/reneeb/Mojolicious-Plugin-FormFieldsFromJSON-Date/pull/12", "state": "closed", "relpath": "/pull/12" },
+                                { "url": "https://github.com/reneeb/Mojolicious-Plugin-FormFieldsFromJSON-Date/pull/11", "state": "closed", "relpath": "/pull/11" },
+                                { "url": "https://github.com/reneeb/Mojolicious-Plugin-FormFieldsFromJSON-Date/pull/10", "state": "closed", "relpath": "/pull/10" },
+                                { "url": "https://github.com/reneeb/Mojolicious-Plugin-FormFieldsFromJSON-Date/pull/9", "state": "merged", "relpath": "/pull/9" },
+                                { "url": "https://github.com/reneeb/Mojolicious-Plugin-FormFieldsFromJSON-Date/pull/8", "state": "merged", "relpath": "/pull/8" },
+                                { "url": "https://github.com/reneeb/Mojolicious-Plugin-FormFieldsFromJSON-Date/pull/7", "state": "merged", "relpath": "/pull/7" },
+                                { "url": "https://github.com/reneeb/Mojolicious-Plugin-FormFieldsFromJSON-Date/pull/6", "state": "merged", "relpath": "/pull/6" },
+                                { "url": "https://github.com/reneeb/Mojolicious-Plugin-FormFieldsFromJSON-Date/pull/5", "state": "merged", "relpath": "/pull/5" },
+                                { "url": "https://github.com/reneeb/Mojolicious-Plugin-FormFieldsFromJSON-Date/pull/4", "state": "merged", "relpath": "/pull/4" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "ZipRecruiter" },
+        "distname":         "Test-Warn",
+        "released_by":      { "pause_id": "BIGJ" },
+        "repo":             { "url": "https://github.com/hanfried/test-warn", "relpath": "hanfried/test-warn" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "manwar" },
+        "distname":         "WebService-BaseClientRole",
+        "released_by":      { "pause_id": "IRONCAMEL" },
+        "repo":             { "url": "https://github.com/ironcamel/WebService-BaseClientRole", "relpath": "ironcamel/WebService-BaseClientRole" },
+        "pull_requests":    [
+                                { "url": "https://github.com/ironcamel/WebService-BaseClientRole/pull/1", "state": "open", "relpath": "/pull/1" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "soren" },
+        "distname":         "Template-Flute-Style-CSS",
+        "released_by":      { "pause_id": "HORNBURG" },
+        "repo":             { "url": "https://github.com/racke/Template-Flute", "relpath": "racke/Template-Flute" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "happy-barney" },
+        "distname":         "IPC-System-Simple",
+        "released_by":      { "pause_id": "PJF" },
+        "repo":             { "url": "https://github.com/pjf/ipc-system-simple", "relpath": "pjf/ipc-system-simple" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "choroba" },
+        "distname":         "XML-RSS",
+        "released_by":      { "pause_id": "SHLOMIF" },
+        "repo":             { "url": "https://github.com/shlomif/perl-XML-RSS", "relpath": "shlomif/perl-XML-RSS" },
+        "pull_requests":    [
+                                { "url": "https://github.com/shlomif/perl-XML-RSS/pull/5", "state": "merged", "relpath": "/pull/5" }
+                            ]
+    }
+ ]
+}
+
