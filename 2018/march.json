@@ -1,8 +1,8 @@
 {
  "year": "2018",
  "month": "March",
- "generated": { "date": "2018-04-18", "time": "22:40:38" },
- "stats": { "done": "14", "total": "27", "percent": "51.9" },
+ "generated": { "date": "2018-05-09", "time": "07:03:29" },
+ "stats": { "done": "14", "total": "24", "percent": "58.3" },
  "assignments": [
 
     {
@@ -11,15 +11,6 @@
         "distname":         "HTML-FormFu",
         "released_by":      { "pause_id": "CFRANKS" },
         "repo":             { "url": "https://github.com/FormFu/HTML-FormFu", "relpath": "FormFu/HTML-FormFu" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "HaraldJoerg" },
-        "distname":         "Test-Nginx",
-        "released_by":      { "pause_id": "AGENT" },
-        "repo":             { "url": "https://github.com/openresty/test-nginx", "relpath": "openresty/test-nginx" },
         "pull_requests":    [
                             ]
     },
@@ -151,9 +142,8 @@
         "assignee":         { "github_username": "jjatria" },
         "distname":         "Config-IniFiles",
         "released_by":      { "pause_id": "SHLOMIF" },
-        "repo":             { "url": "https://github.com/shlomif/perl-Config-IniFiles", "relpath": "shlomif/perl-Config-IniFiles" },
+        "repo":             { "url": "https://github.com/shlomif/Config-IniFiles", "relpath": "shlomif/Config-IniFiles" },
         "pull_requests":    [
-                                { "url": "https://github.com/shlomif/perl-Config-IniFiles/pull/2", "state": "merged", "relpath": "/pull/2" }
                             ]
     },
     {
@@ -182,15 +172,6 @@
         "distname":         "Math-Prime-Util",
         "released_by":      { "pause_id": "DANAJ" },
         "repo":             { "url": "https://github.com/danaj/Math-Prime-Util", "relpath": "danaj/Math-Prime-Util" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "s-nez" },
-        "distname":         "XML-Parser-Lite",
-        "released_by":      { "pause_id": "PHRED" },
-        "repo":             { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite", "relpath": "redhotpenguin/perl-XML-Parser-Lite" },
         "pull_requests":    [
                             ]
     },
@@ -262,15 +243,6 @@
         "repo":             { "url": "https://github.com/dex4er/perl-Exception-Base", "relpath": "dex4er/perl-Exception-Base" },
         "pull_requests":    [
                                 { "url": "https://github.com/dex4er/perl-Exception-Base/pull/4", "state": "open", "relpath": "/pull/4" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "dionys" },
-        "distname":         "List-Compare",
-        "released_by":      { "pause_id": "JKEENAN" },
-        "repo":             { "url": "https://github.com/jkeenan/list-compare", "relpath": "jkeenan/list-compare" },
-        "pull_requests":    [
                             ]
     },
     {

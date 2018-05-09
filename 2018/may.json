@@ -1,0 +1,191 @@
+{
+ "year": "2018",
+ "month": "May",
+ "generated": { "date": "2018-05-09", "time": "07:03:59" },
+ "stats": { "done": "0", "total": "19", "percent": "0.0" },
+ "assignments": [
+
+    {
+        "done":             false,
+        "assignee":         { "github_username": "shlomif" },
+        "distname":         "WebService-HabitRPG",
+        "released_by":      { "pause_id": "RHOELZ" },
+        "repo":             { "url": "https://github.com/pjf/WebService-HabitRPG", "relpath": "pjf/WebService-HabitRPG" },
+        "pull_requests":    [
+                                { "url": "https://github.com/pjf/WebService-HabitRPG/pull/40", "state": "merged", "relpath": "/pull/40" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "openstrike" },
+        "distname":         "Mail-Sendmail",
+        "released_by":      { "pause_id": "NEILB" },
+        "repo":             { "url": "https://github.com/neilb/Mail-Sendmail", "relpath": "neilb/Mail-Sendmail" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "s-nez" },
+        "distname":         "App-Spec",
+        "released_by":      { "pause_id": "TINITA" },
+        "repo":             { "url": "https://github.com/perlpunk/App-Spec-p5", "relpath": "perlpunk/App-Spec-p5" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "tvroom" },
+        "distname":         "Vroom",
+        "released_by":      { "pause_id": "INGY" },
+        "repo":             { "url": "https://github.com/ingydotnet/vroom-pm", "relpath": "ingydotnet/vroom-pm" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "jj" },
+        "distname":         "PkgConfig",
+        "released_by":      { "pause_id": "PLICEASE" },
+        "repo":             { "url": "https://github.com/PerlPkgConfig/perl-PkgConfig", "relpath": "PerlPkgConfig/perl-PkgConfig" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "cv-library" },
+        "distname":         "RT-Client-REST",
+        "released_by":      { "pause_id": "DJZORT" },
+        "repo":             { "url": "https://github.com/RT-Client-REST/RT-Client-REST", "relpath": "RT-Client-REST/RT-Client-REST" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "jjatria" },
+        "distname":         "Business-PayPal",
+        "released_by":      { "pause_id": "SZABGAB" },
+        "repo":             { "url": "https://github.com/szabgab/Business-PayPal", "relpath": "szabgab/Business-PayPal" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "zakame" },
+        "distname":         "Data-Throttler",
+        "released_by":      { "pause_id": "MSCHILLI" },
+        "repo":             { "url": "https://github.com/mschilli/data-throttler-perl", "relpath": "mschilli/data-throttler-perl" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "manwar" },
+        "distname":         "Perl-Critic-Git",
+        "released_by":      { "pause_id": "AUBERTG" },
+        "repo":             { "url": "https://github.com/guillaumeaubert/Perl-Critic-Git", "relpath": "guillaumeaubert/Perl-Critic-Git" },
+        "pull_requests":    [
+                                { "url": "https://github.com/guillaumeaubert/Perl-Critic-Git/pull/9", "state": "merged", "relpath": "/pull/9" },
+                                { "url": "https://github.com/guillaumeaubert/Perl-Critic-Git/pull/8", "state": "merged", "relpath": "/pull/8" },
+                                { "url": "https://github.com/guillaumeaubert/Perl-Critic-Git/pull/7", "state": "merged", "relpath": "/pull/7" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "yanick" },
+        "distname":         "Transmission-Client",
+        "released_by":      { "pause_id": "OLOF" },
+        "repo":             { "url": "https://github.com/olof/Transmission-Client", "relpath": "olof/Transmission-Client" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "soren" },
+        "distname":         "Genealogy-Gedcom-Date",
+        "released_by":      { "pause_id": "RSAVAGE" },
+        "repo":             { "url": "https://github.com/ronsavage/Genealogy-Gedcom-Date", "relpath": "ronsavage/Genealogy-Gedcom-Date" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "NachosDevs" },
+        "distname":         "Class-Throwable",
+        "released_by":      { "pause_id": "KMX" },
+        "repo":             { "url": "https://github.com/kmx/perl-Class-Throwable", "relpath": "kmx/perl-Class-Throwable" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "lharey" },
+        "distname":         "Alien-Thrust",
+        "released_by":      { "pause_id": "FRACTAL" },
+        "repo":             { "url": "https://github.com/hoytech/Alien-Thrust", "relpath": "hoytech/Alien-Thrust" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "choroba" },
+        "distname":         "Continuity",
+        "released_by":      { "pause_id": "AWWAIID" },
+        "repo":             { "url": "https://github.com/awwaiid/continuity", "relpath": "awwaiid/continuity" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "dionys" },
+        "distname":         "Perl-Critic-OTRS",
+        "released_by":      { "pause_id": "RENEEB" },
+        "repo":             { "url": "https://github.com/reneeb/Perl-Critic-OTRS", "relpath": "reneeb/Perl-Critic-OTRS" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "paultcochrane" },
+        "distname":         "Hook-AfterRuntime",
+        "released_by":      { "pause_id": "EXODIST" },
+        "repo":             { "url": "https://github.com/exodist/Hook-AfterRuntime", "relpath": "exodist/Hook-AfterRuntime" },
+        "pull_requests":    [
+                                { "url": "https://github.com/exodist/Hook-AfterRuntime/pull/7", "state": "merged", "relpath": "/pull/7" },
+                                { "url": "https://github.com/exodist/Hook-AfterRuntime/pull/6", "state": "merged", "relpath": "/pull/6" },
+                                { "url": "https://github.com/exodist/Hook-AfterRuntime/pull/5", "state": "open", "relpath": "/pull/5" },
+                                { "url": "https://github.com/exodist/Hook-AfterRuntime/pull/4", "state": "open", "relpath": "/pull/4" },
+                                { "url": "https://github.com/exodist/Hook-AfterRuntime/pull/3", "state": "merged", "relpath": "/pull/3" },
+                                { "url": "https://github.com/exodist/Hook-AfterRuntime/pull/2", "state": "merged", "relpath": "/pull/2" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "HaraldJoerg" },
+        "distname":         "RDF-Trine-Node-Literal-XML",
+        "released_by":      { "pause_id": "KJETILK" },
+        "repo":             { "url": "https://github.com/kjetilk/RDF-Trine-Node-Literal-XML", "relpath": "kjetilk/RDF-Trine-Node-Literal-XML" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "happy-barney" },
+        "distname":         "Email-MIME",
+        "released_by":      { "pause_id": "RJBS" },
+        "repo":             { "url": "https://github.com/rjbs/Email-MIME", "relpath": "rjbs/Email-MIME" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "yakunink" },
+        "distname":         "WWW-Mechanize-Shell",
+        "released_by":      { "pause_id": "CORION" },
+        "repo":             { "url": "https://github.com/Corion/WWW-Mechanize-Shell", "relpath": "Corion/WWW-Mechanize-Shell" },
+        "pull_requests":    [
+                            ]
+    }
+ ]
+}
+

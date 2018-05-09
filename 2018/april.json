@@ -1,12 +1,12 @@
 {
  "year": "2018",
  "month": "April",
- "generated": { "date": "2018-04-18", "time": "22:40:55" },
- "stats": { "done": "0", "total": "15", "percent": "0.0" },
+ "generated": { "date": "2018-05-09", "time": "07:03:46" },
+ "stats": { "done": "12", "total": "13", "percent": "92.3" },
  "assignments": [
 
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "cv-library" },
         "distname":         "Test-Deep",
         "released_by":      { "pause_id": "RJBS" },
@@ -15,34 +15,29 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jj" },
         "distname":         "Term-ReadLine-Perl5",
         "released_by":      { "pause_id": "ROCKY" },
         "repo":             { "url": "https://github.com/rocky/p5-Term-ReadLine-Perl5", "relpath": "rocky/p5-Term-ReadLine-Perl5" },
         "pull_requests":    [
+                                { "url": "https://github.com/rocky/p5-Term-ReadLine-Perl5/pull/17", "state": "merged", "relpath": "/pull/17" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jjatria" },
         "distname":         "CGI-Simple",
         "released_by":      { "pause_id": "MANWAR" },
         "repo":             { "url": "https://github.com/manwar/CGI--Simple", "relpath": "manwar/CGI--Simple" },
         "pull_requests":    [
+                                { "url": "https://github.com/manwar/CGI--Simple/pull/4", "state": "open", "relpath": "/pull/4" },
+                                { "url": "https://github.com/manwar/CGI--Simple/pull/3", "state": "open", "relpath": "/pull/3" },
+                                { "url": "https://github.com/manwar/CGI--Simple/pull/2", "state": "open", "relpath": "/pull/2" }
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "lharey" },
-        "distname":         "Archive-Tar",
-        "released_by":      { "pause_id": "BINGOS" },
-        "repo":             { "url": "https://github.com/jib/archive-tar-new", "relpath": "jib/archive-tar-new" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "yanick" },
         "distname":         "Slay-Makefile",
         "released_by":      { "pause_id": "SREZIC" },
@@ -54,25 +49,17 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "NachosDevs" },
-        "distname":         "WWW-FreeProxyListsCom",
-        "released_by":      { "pause_id": "STEVEB" },
-        "repo":             { "url": "https://github.com/stevieb9/p5-www-freeproxylistscom", "relpath": "stevieb9/p5-www-freeproxylistscom" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "openstrike" },
         "distname":         "HTML-Element-Replacer",
         "released_by":      { "pause_id": "ACCARDO" },
         "repo":             { "url": "https://github.com/mixedconnections/html-element-replacer", "relpath": "mixedconnections/html-element-replacer" },
         "pull_requests":    [
+                                { "url": "https://github.com/mixedconnections/html-element-replacer/pull/3", "state": "open", "relpath": "/pull/3" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "zakame" },
         "distname":         "Math-Base36",
         "released_by":      { "pause_id": "BRICAS" },
@@ -84,7 +71,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "shlomif" },
         "distname":         "WWW-Lipsum",
         "released_by":      { "pause_id": "ZOFFIX" },
@@ -94,7 +81,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "paultcochrane" },
         "distname":         "Mojolicious-Plugin-FormFieldsFromJSON-Date",
         "released_by":      { "pause_id": "RENEEB" },
@@ -122,7 +109,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "manwar" },
         "distname":         "WebService-BaseClientRole",
         "released_by":      { "pause_id": "IRONCAMEL" },
@@ -132,7 +119,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "soren" },
         "distname":         "Template-Flute-Style-CSS",
         "released_by":      { "pause_id": "HORNBURG" },
@@ -141,16 +128,17 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "happy-barney" },
         "distname":         "IPC-System-Simple",
         "released_by":      { "pause_id": "PJF" },
         "repo":             { "url": "https://github.com/pjf/ipc-system-simple", "relpath": "pjf/ipc-system-simple" },
         "pull_requests":    [
+                                { "url": "https://github.com/pjf/ipc-system-simple/pull/26", "state": "open", "relpath": "/pull/26" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "choroba" },
         "distname":         "XML-RSS",
         "released_by":      { "pause_id": "SHLOMIF" },
