@@ -1,8 +1,8 @@
 {
  "year": "2018",
  "month": "May",
- "generated": { "date": "2018-05-09", "time": "07:03:59" },
- "stats": { "done": "0", "total": "19", "percent": "0.0" },
+ "generated": { "date": "2018-05-22", "time": "13:07:59" },
+ "stats": { "done": "0", "total": "20", "percent": "0.0" },
  "assignments": [
 
     {
@@ -22,6 +22,11 @@
         "released_by":      { "pause_id": "NEILB" },
         "repo":             { "url": "https://github.com/neilb/Mail-Sendmail", "relpath": "neilb/Mail-Sendmail" },
         "pull_requests":    [
+                                { "url": "https://github.com/neilb/Mail-Sendmail/pull/5", "state": "open", "relpath": "/pull/5" },
+                                { "url": "https://github.com/neilb/Mail-Sendmail/pull/4", "state": "open", "relpath": "/pull/4" },
+                                { "url": "https://github.com/neilb/Mail-Sendmail/pull/3", "state": "open", "relpath": "/pull/3" },
+                                { "url": "https://github.com/neilb/Mail-Sendmail/pull/2", "state": "open", "relpath": "/pull/2" },
+                                { "url": "https://github.com/neilb/Mail-Sendmail/pull/1", "state": "open", "relpath": "/pull/1" }
                             ]
     },
     {
@@ -76,6 +81,7 @@
         "released_by":      { "pause_id": "MSCHILLI" },
         "repo":             { "url": "https://github.com/mschilli/data-throttler-perl", "relpath": "mschilli/data-throttler-perl" },
         "pull_requests":    [
+                                { "url": "https://github.com/mschilli/data-throttler-perl/pull/6", "state": "open", "relpath": "/pull/6" }
                             ]
     },
     {
@@ -97,6 +103,8 @@
         "released_by":      { "pause_id": "OLOF" },
         "repo":             { "url": "https://github.com/olof/Transmission-Client", "relpath": "olof/Transmission-Client" },
         "pull_requests":    [
+                                { "url": "https://github.com/olof/transmission-client/pull/8", "state": "open", "relpath": "/pull/8" },
+                                { "url": "https://github.com/olof/transmission-client/pull/7", "state": "open", "relpath": "/pull/7" }
                             ]
     },
     {
@@ -106,6 +114,7 @@
         "released_by":      { "pause_id": "RSAVAGE" },
         "repo":             { "url": "https://github.com/ronsavage/Genealogy-Gedcom-Date", "relpath": "ronsavage/Genealogy-Gedcom-Date" },
         "pull_requests":    [
+                                { "url": "https://github.com/ronsavage/Genealogy-Gedcom-Date/pull/2", "state": "merged", "relpath": "/pull/2" }
                             ]
     },
     {
@@ -114,15 +123,6 @@
         "distname":         "Class-Throwable",
         "released_by":      { "pause_id": "KMX" },
         "repo":             { "url": "https://github.com/kmx/perl-Class-Throwable", "relpath": "kmx/perl-Class-Throwable" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "lharey" },
-        "distname":         "Alien-Thrust",
-        "released_by":      { "pause_id": "FRACTAL" },
-        "repo":             { "url": "https://github.com/hoytech/Alien-Thrust", "relpath": "hoytech/Alien-Thrust" },
         "pull_requests":    [
                             ]
     },
@@ -148,13 +148,13 @@
         "done":             false,
         "assignee":         { "github_username": "paultcochrane" },
         "distname":         "Hook-AfterRuntime",
-        "released_by":      { "pause_id": "EXODIST" },
+        "released_by":      { "pause_id": "PTC" },
         "repo":             { "url": "https://github.com/exodist/Hook-AfterRuntime", "relpath": "exodist/Hook-AfterRuntime" },
         "pull_requests":    [
                                 { "url": "https://github.com/exodist/Hook-AfterRuntime/pull/7", "state": "merged", "relpath": "/pull/7" },
                                 { "url": "https://github.com/exodist/Hook-AfterRuntime/pull/6", "state": "merged", "relpath": "/pull/6" },
-                                { "url": "https://github.com/exodist/Hook-AfterRuntime/pull/5", "state": "open", "relpath": "/pull/5" },
-                                { "url": "https://github.com/exodist/Hook-AfterRuntime/pull/4", "state": "open", "relpath": "/pull/4" },
+                                { "url": "https://github.com/exodist/Hook-AfterRuntime/pull/5", "state": "merged", "relpath": "/pull/5" },
+                                { "url": "https://github.com/exodist/Hook-AfterRuntime/pull/4", "state": "merged", "relpath": "/pull/4" },
                                 { "url": "https://github.com/exodist/Hook-AfterRuntime/pull/3", "state": "merged", "relpath": "/pull/3" },
                                 { "url": "https://github.com/exodist/Hook-AfterRuntime/pull/2", "state": "merged", "relpath": "/pull/2" }
                             ]
@@ -183,6 +183,25 @@
         "distname":         "WWW-Mechanize-Shell",
         "released_by":      { "pause_id": "CORION" },
         "repo":             { "url": "https://github.com/Corion/WWW-Mechanize-Shell", "relpath": "Corion/WWW-Mechanize-Shell" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "lharey" },
+        "distname":         "Term-ProgressBar",
+        "released_by":      { "pause_id": "MANWAR" },
+        "repo":             { "url": "https://github.com/manwar/Term-ProgressBar", "relpath": "manwar/Term-ProgressBar" },
+        "pull_requests":    [
+                                { "url": "https://github.com/manwar/Term-ProgressBar/pull/10", "state": "merged", "relpath": "/pull/10" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "ZipRecruiter" },
+        "distname":         "Git-Wrapper",
+        "released_by":      { "pause_id": "GENEHACK" },
+        "repo":             { "url": "https://github.com/genehack/Git-Wrapper", "relpath": "genehack/Git-Wrapper" },
         "pull_requests":    [
                             ]
     }

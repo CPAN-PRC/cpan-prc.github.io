@@ -1,8 +1,8 @@
 {
  "year": "2018",
  "month": "April",
- "generated": { "date": "2018-05-09", "time": "07:03:46" },
- "stats": { "done": "12", "total": "13", "percent": "92.3" },
+ "generated": { "date": "2018-05-22", "time": "13:07:45" },
+ "stats": { "done": "13", "total": "13", "percent": "100.0" },
  "assignments": [
 
     {
@@ -74,7 +74,7 @@
         "done":             true,
         "assignee":         { "github_username": "shlomif" },
         "distname":         "WWW-Lipsum",
-        "released_by":      { "pause_id": "ZOFFIX" },
+        "released_by":      { "pause_id": "SHLOMIF" },
         "repo":             { "url": "https://github.com/zoffixznet/www-lipsum", "relpath": "zoffixznet/www-lipsum" },
         "pull_requests":    [
                                 { "url": "https://github.com/zoffixznet/WWW-Lipsum/pull/8", "state": "merged", "relpath": "/pull/8" }
@@ -100,7 +100,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "ZipRecruiter" },
         "distname":         "Test-Warn",
         "released_by":      { "pause_id": "BIGJ" },
