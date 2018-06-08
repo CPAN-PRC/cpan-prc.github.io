@@ -1,12 +1,12 @@
 {
  "year": "2018",
  "month": "May",
- "generated": { "date": "2018-05-22", "time": "13:07:59" },
- "stats": { "done": "0", "total": "20", "percent": "0.0" },
+ "generated": { "date": "2018-06-08", "time": "09:27:15" },
+ "stats": { "done": "13", "total": "18", "percent": "72.2" },
  "assignments": [
 
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "shlomif" },
         "distname":         "WebService-HabitRPG",
         "released_by":      { "pause_id": "RHOELZ" },
@@ -16,14 +16,14 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "openstrike" },
         "distname":         "Mail-Sendmail",
         "released_by":      { "pause_id": "NEILB" },
         "repo":             { "url": "https://github.com/neilb/Mail-Sendmail", "relpath": "neilb/Mail-Sendmail" },
         "pull_requests":    [
                                 { "url": "https://github.com/neilb/Mail-Sendmail/pull/5", "state": "open", "relpath": "/pull/5" },
-                                { "url": "https://github.com/neilb/Mail-Sendmail/pull/4", "state": "open", "relpath": "/pull/4" },
+                                { "url": "https://github.com/neilb/Mail-Sendmail/pull/4", "state": "merged", "relpath": "/pull/4" },
                                 { "url": "https://github.com/neilb/Mail-Sendmail/pull/3", "state": "open", "relpath": "/pull/3" },
                                 { "url": "https://github.com/neilb/Mail-Sendmail/pull/2", "state": "open", "relpath": "/pull/2" },
                                 { "url": "https://github.com/neilb/Mail-Sendmail/pull/1", "state": "open", "relpath": "/pull/1" }
@@ -48,12 +48,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jj" },
         "distname":         "PkgConfig",
         "released_by":      { "pause_id": "PLICEASE" },
         "repo":             { "url": "https://github.com/PerlPkgConfig/perl-PkgConfig", "relpath": "PerlPkgConfig/perl-PkgConfig" },
         "pull_requests":    [
+                                { "url": "https://github.com/PerlPkgConfig/perl-PkgConfig/pull/41", "state": "open", "relpath": "/pull/41" }
                             ]
     },
     {
@@ -75,7 +76,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "zakame" },
         "distname":         "Data-Throttler",
         "released_by":      { "pause_id": "MSCHILLI" },
@@ -85,7 +86,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "manwar" },
         "distname":         "Perl-Critic-Git",
         "released_by":      { "pause_id": "AUBERTG" },
@@ -97,7 +98,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "yanick" },
         "distname":         "Transmission-Client",
         "released_by":      { "pause_id": "OLOF" },
@@ -108,7 +109,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "soren" },
         "distname":         "Genealogy-Gedcom-Date",
         "released_by":      { "pause_id": "RSAVAGE" },
@@ -127,25 +128,7 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "choroba" },
-        "distname":         "Continuity",
-        "released_by":      { "pause_id": "AWWAIID" },
-        "repo":             { "url": "https://github.com/awwaiid/continuity", "relpath": "awwaiid/continuity" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "dionys" },
-        "distname":         "Perl-Critic-OTRS",
-        "released_by":      { "pause_id": "RENEEB" },
-        "repo":             { "url": "https://github.com/reneeb/Perl-Critic-OTRS", "relpath": "reneeb/Perl-Critic-OTRS" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "paultcochrane" },
         "distname":         "Hook-AfterRuntime",
         "released_by":      { "pause_id": "PTC" },
@@ -160,7 +143,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "HaraldJoerg" },
         "distname":         "RDF-Trine-Node-Literal-XML",
         "released_by":      { "pause_id": "KJETILK" },
@@ -169,25 +152,27 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "happy-barney" },
         "distname":         "Email-MIME",
         "released_by":      { "pause_id": "RJBS" },
         "repo":             { "url": "https://github.com/rjbs/Email-MIME", "relpath": "rjbs/Email-MIME" },
         "pull_requests":    [
+                                { "url": "https://github.com/rjbs/Email-MIME/pull/57", "state": "open", "relpath": "/pull/57" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "yakunink" },
         "distname":         "WWW-Mechanize-Shell",
         "released_by":      { "pause_id": "CORION" },
         "repo":             { "url": "https://github.com/Corion/WWW-Mechanize-Shell", "relpath": "Corion/WWW-Mechanize-Shell" },
         "pull_requests":    [
+                                { "url": "https://github.com/Corion/WWW-Mechanize-Shell/pull/5", "state": "merged", "relpath": "/pull/5" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "lharey" },
         "distname":         "Term-ProgressBar",
         "released_by":      { "pause_id": "MANWAR" },
@@ -197,7 +182,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "ZipRecruiter" },
         "distname":         "Git-Wrapper",
         "released_by":      { "pause_id": "GENEHACK" },
