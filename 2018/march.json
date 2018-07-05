@@ -1,7 +1,7 @@
 {
  "year": "2018",
  "month": "March",
- "generated": { "date": "2018-06-08", "time": "09:26:47" },
+ "generated": { "date": "2018-07-05", "time": "09:46:51" },
  "stats": { "done": "14", "total": "24", "percent": "58.3" },
  "assignments": [
 
@@ -21,7 +21,7 @@
         "released_by":      { "pause_id": "INGY" },
         "repo":             { "url": "https://github.com/ingydotnet/inline-pm", "relpath": "ingydotnet/inline-pm" },
         "pull_requests":    [
-                                { "url": "https://github.com/ingydotnet/inline-pm/pull/66", "state": "open", "relpath": "/pull/66" }
+                                { "url": "https://github.com/ingydotnet/inline-pm/pull/66", "state": "closed", "relpath": "/pull/66" }
                             ]
     },
     {
@@ -56,7 +56,7 @@
         "assignee":         { "github_username": "simbabque" },
         "distname":         "Alien-GMP",
         "released_by":      { "pause_id": "PLICEASE" },
-        "repo":             { "url": "https://github.com/rsimoes/alien-gmp", "relpath": "rsimoes/alien-gmp" },
+        "repo":             { "url": "https://github.com/Perl5-Alien/Alien-GMP", "relpath": "Perl5-Alien/Alien-GMP" },
         "pull_requests":    [
                             ]
     },

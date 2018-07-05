@@ -1,7 +1,7 @@
 {
  "year": "2018",
  "month": "February",
- "generated": { "date": "2018-06-08", "time": "09:26:23" },
+ "generated": { "date": "2018-07-05", "time": "09:46:22" },
  "stats": { "done": "20", "total": "34", "percent": "58.8" },
  "assignments": [
 
@@ -295,7 +295,7 @@
         "done":             true,
         "assignee":         { "github_username": "ZipRecruiter" },
         "distname":         "libwww-perl",
-        "released_by":      { "pause_id": "OALDERS" },
+        "released_by":      { "pause_id": "ETHER" },
         "repo":             { "url": "https://github.com/libwww-perl/libwww-perl", "relpath": "libwww-perl/libwww-perl" },
         "pull_requests":    [
                             ]

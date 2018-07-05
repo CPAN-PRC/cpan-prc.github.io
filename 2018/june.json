@@ -1,8 +1,8 @@
 {
  "year": "2018",
  "month": "June",
- "generated": { "date": "2018-06-08", "time": "09:28:30" },
- "stats": { "done": "0", "total": "15", "percent": "0.0" },
+ "generated": { "date": "2018-07-05", "time": "09:47:40" },
+ "stats": { "done": "10", "total": "14", "percent": "71.4" },
  "assignments": [
 
     {
@@ -15,7 +15,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "manwar" },
         "distname":         "Module-Package",
         "released_by":      { "pause_id": "INGY" },
@@ -25,40 +25,37 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "soren" },
         "distname":         "WWW-Google-Time",
         "released_by":      { "pause_id": "ZOFFIX" },
         "repo":             { "url": "https://github.com/zoffixznet/www-google-time", "relpath": "zoffixznet/www-google-time" },
         "pull_requests":    [
+                                { "url": "https://github.com/zoffixznet/WWW-Google-Time/pull/4", "state": "open", "relpath": "/pull/4" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "yanick" },
         "distname":         "Alien-Thrust",
         "released_by":      { "pause_id": "FRACTAL" },
         "repo":             { "url": "https://github.com/hoytech/Alien-Thrust", "relpath": "hoytech/Alien-Thrust" },
         "pull_requests":    [
+                                { "url": "https://github.com/hoytech/Alien-Thrust/pull/4", "state": "merged", "relpath": "/pull/4" }
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "dionys" },
-        "distname":         "App-lcpan",
-        "released_by":      { "pause_id": "PERLANCAR" },
-        "repo":             { "url": "https://github.com/perlancar/perl-App-lcpan", "relpath": "perlancar/perl-App-lcpan" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "openstrike" },
         "distname":         "Perl-Critic-OTRS",
         "released_by":      { "pause_id": "RENEEB" },
         "repo":             { "url": "https://github.com/reneeb/Perl-Critic-OTRS", "relpath": "reneeb/Perl-Critic-OTRS" },
         "pull_requests":    [
-                                { "url": "https://github.com/reneeb/Perl-Critic-OTRS/pull/5", "state": "open", "relpath": "/pull/5" }
+                                { "url": "https://github.com/reneeb/Perl-Critic-OTRS/pull/9", "state": "merged", "relpath": "/pull/9" },
+                                { "url": "https://github.com/reneeb/Perl-Critic-OTRS/pull/8", "state": "merged", "relpath": "/pull/8" },
+                                { "url": "https://github.com/reneeb/Perl-Critic-OTRS/pull/7", "state": "closed", "relpath": "/pull/7" },
+                                { "url": "https://github.com/reneeb/Perl-Critic-OTRS/pull/6", "state": "merged", "relpath": "/pull/6" },
+                                { "url": "https://github.com/reneeb/Perl-Critic-OTRS/pull/5", "state": "closed", "relpath": "/pull/5" }
                             ]
     },
     {
@@ -71,16 +68,17 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "zakame" },
         "distname":         "SVN-Notify",
         "released_by":      { "pause_id": "DWHEELER" },
         "repo":             { "url": "https://github.com/theory/svn-notify", "relpath": "theory/svn-notify" },
         "pull_requests":    [
+                                { "url": "https://github.com/theory/svn-notify/pull/21", "state": "open", "relpath": "/pull/21" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "paultcochrane" },
         "distname":         "CPAN-Mini-Webserver",
         "released_by":      { "pause_id": "MITHALDU" },
@@ -93,21 +91,14 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "HaraldJoerg" },
         "distname":         "Fennec",
         "released_by":      { "pause_id": "EXODIST" },
         "repo":             { "url": "https://github.com/exodist/Fennec", "relpath": "exodist/Fennec" },
         "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "ZipRecruiter" },
-        "distname":         "podlators",
-        "released_by":      { "pause_id": "RRA" },
-        "repo":             { "url": "https://github.com/rra/podlators", "relpath": "rra/podlators" },
-        "pull_requests":    [
+                                { "url": "https://github.com/exodist/Fennec/pull/108", "state": "open", "relpath": "/pull/108" },
+                                { "url": "https://github.com/exodist/Fennec/pull/107", "state": "merged", "relpath": "/pull/107" }
                             ]
     },
     {
@@ -117,15 +108,17 @@
         "released_by":      { "pause_id": "LEEJO" },
         "repo":             { "url": "https://github.com/leejo/string-crc32", "relpath": "leejo/string-crc32" },
         "pull_requests":    [
+                                { "url": "https://github.com/leejo/string-crc32/pull/2", "state": "merged", "relpath": "/pull/2" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jj" },
         "distname":         "Continuity",
         "released_by":      { "pause_id": "AWWAIID" },
         "repo":             { "url": "https://github.com/awwaiid/continuity", "relpath": "awwaiid/continuity" },
         "pull_requests":    [
+                                { "url": "https://github.com/awwaiid/continuity/pull/6", "state": "open", "relpath": "/pull/6" }
                             ]
     },
     {
@@ -138,13 +131,25 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "shlomif" },
         "distname":         "Dist-Zilla-Plugin-ReadmeFromPod",
         "released_by":      { "pause_id": "FAYLAND" },
         "repo":             { "url": "https://github.com/fayland/dist-zilla-plugin-readmefrompod", "relpath": "fayland/dist-zilla-plugin-readmefrompod" },
         "pull_requests":    [
                                 { "url": "https://github.com/fayland/dist-zilla-plugin-readmefrompod/pull/8", "state": "merged", "relpath": "/pull/8" }
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "jjatria" },
+        "distname":         "Params-Validate-Dependencies",
+        "released_by":      { "pause_id": "DCANTRELL" },
+        "repo":             { "url": "https://github.com/DrHyde/perl-modules-Params-Validate-Dependencies", "relpath": "DrHyde/perl-modules-Params-Validate-Dependencies" },
+        "pull_requests":    [
+                                { "url": "https://github.com/DrHyde/perl-modules-Params-Validate-Dependencies/pull/10", "state": "open", "relpath": "/pull/10" },
+                                { "url": "https://github.com/DrHyde/perl-modules-Params-Validate-Dependencies/pull/9", "state": "open", "relpath": "/pull/9" },
+                                { "url": "https://github.com/DrHyde/perl-modules-Params-Validate-Dependencies/pull/8", "state": "open", "relpath": "/pull/8" }
                             ]
     }
  ]
