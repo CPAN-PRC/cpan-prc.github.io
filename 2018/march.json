@@ -1,8 +1,8 @@
 {
  "year": "2018",
  "month": "March",
- "generated": { "date": "2018-07-05", "time": "09:46:51" },
- "stats": { "done": "14", "total": "24", "percent": "58.3" },
+ "generated": { "date": "2018-07-31", "time": "10:28:30" },
+ "stats": { "done": "14", "total": "23", "percent": "60.9" },
  "assignments": [
 
     {
@@ -30,15 +30,6 @@
         "distname":         "RRDTool-OO",
         "released_by":      { "pause_id": "MSCHILLI" },
         "repo":             { "url": "https://github.com/mschilli/rrdtool-oo-perl", "relpath": "mschilli/rrdtool-oo-perl" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "MorayJ" },
-        "distname":         "Config-AutoConf",
-        "released_by":      { "pause_id": "REHSACK" },
-        "repo":             { "url": "https://github.com/ambs/Config-AutoConf", "relpath": "ambs/Config-AutoConf" },
         "pull_requests":    [
                             ]
     },

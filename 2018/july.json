@@ -1,17 +1,19 @@
 {
  "year": "2018",
  "month": "July",
- "generated": { "date": "2018-07-05", "time": "09:47:56" },
- "stats": { "done": "3", "total": "17", "percent": "17.6" },
+ "generated": { "date": "2018-07-31", "time": "10:29:28" },
+ "stats": { "done": "9", "total": "18", "percent": "50.0" },
  "assignments": [
 
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "HaraldJoerg" },
         "distname":         "Test-Class-Moose",
         "released_by":      { "pause_id": "DROLSKY" },
         "repo":             { "url": "https://github.com/houseabsolute/test-class-moose", "relpath": "houseabsolute/test-class-moose" },
         "pull_requests":    [
+                                { "url": "https://github.com/houseabsolute/test-class-moose/pull/93", "state": "open", "relpath": "/pull/93" },
+                                { "url": "https://github.com/houseabsolute/test-class-moose/pull/92", "state": "closed", "relpath": "/pull/92" }
                             ]
     },
     {
@@ -33,16 +35,17 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jj" },
         "distname":         "Business-PayPal",
         "released_by":      { "pause_id": "SZABGAB" },
         "repo":             { "url": "https://github.com/szabgab/Business-PayPal", "relpath": "szabgab/Business-PayPal" },
         "pull_requests":    [
+                                { "url": "https://github.com/szabgab/Business-PayPal/pull/3", "state": "open", "relpath": "/pull/3" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "zakame" },
         "distname":         "POE-Component-IRC-PluginBundle-Toys",
         "released_by":      { "pause_id": "ZOFFIX" },
@@ -52,7 +55,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "openstrike" },
         "distname":         "Swim-Plugin-badge",
         "released_by":      { "pause_id": "INGY" },
@@ -68,6 +71,7 @@
         "released_by":      { "pause_id": "MSCHILLI" },
         "repo":             { "url": "https://github.com/mschilli/oauth-cmdline", "relpath": "mschilli/oauth-cmdline" },
         "pull_requests":    [
+                                { "url": "https://github.com/mschilli/oauth-cmdline/pull/5", "state": "open", "relpath": "/pull/5" }
                             ]
     },
     {
@@ -101,12 +105,23 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "paultcochrane" },
         "distname":         "XML-Parser-Lite",
         "released_by":      { "pause_id": "PHRED" },
         "repo":             { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite", "relpath": "redhotpenguin/perl-XML-Parser-Lite" },
         "pull_requests":    [
+                                { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite/pull/16", "state": "open", "relpath": "/pull/16" },
+                                { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite/pull/15", "state": "open", "relpath": "/pull/15" },
+                                { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite/pull/14", "state": "open", "relpath": "/pull/14" },
+                                { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite/pull/13", "state": "open", "relpath": "/pull/13" },
+                                { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite/pull/12", "state": "open", "relpath": "/pull/12" },
+                                { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite/pull/11", "state": "open", "relpath": "/pull/11" },
+                                { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite/pull/10", "state": "open", "relpath": "/pull/10" },
+                                { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite/pull/9", "state": "merged", "relpath": "/pull/9" },
+                                { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite/pull/8", "state": "merged", "relpath": "/pull/8" },
+                                { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite/pull/7", "state": "merged", "relpath": "/pull/7" },
+                                { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite/pull/6", "state": "merged", "relpath": "/pull/6" }
                             ]
     },
     {
@@ -157,12 +172,23 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "cv-library" },
         "distname":         "CPAN",
         "released_by":      { "pause_id": "ANDK" },
         "repo":             { "url": "https://github.com/andk/cpanpm", "relpath": "andk/cpanpm" },
         "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "choroba" },
+        "distname":         "MojoX-JSON-RPC",
+        "released_by":      { "pause_id": "KARASIK" },
+        "repo":             { "url": "https://github.com/dk/MojoX-JSON-RPC", "relpath": "dk/MojoX-JSON-RPC" },
+        "pull_requests":    [
+                                { "url": "https://github.com/dk/MojoX-JSON-RPC/pull/2", "state": "merged", "relpath": "/pull/2" },
+                                { "url": "https://github.com/dk/MojoX-JSON-RPC/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]
     }
  ]

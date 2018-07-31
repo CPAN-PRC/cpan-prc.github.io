@@ -1,8 +1,8 @@
 {
  "year": "2018",
  "month": "June",
- "generated": { "date": "2018-07-05", "time": "09:47:40" },
- "stats": { "done": "10", "total": "14", "percent": "71.4" },
+ "generated": { "date": "2018-07-31", "time": "10:29:14" },
+ "stats": { "done": "11", "total": "14", "percent": "78.6" },
  "assignments": [
 
     {
@@ -71,7 +71,7 @@
         "done":             true,
         "assignee":         { "github_username": "zakame" },
         "distname":         "SVN-Notify",
-        "released_by":      { "pause_id": "DWHEELER" },
+        "released_by":      { "pause_id": "MPGHF" },
         "repo":             { "url": "https://github.com/theory/svn-notify", "relpath": "theory/svn-notify" },
         "pull_requests":    [
                                 { "url": "https://github.com/theory/svn-notify/pull/21", "state": "open", "relpath": "/pull/21" }
@@ -102,7 +102,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "choroba" },
         "distname":         "String-CRC32",
         "released_by":      { "pause_id": "LEEJO" },
@@ -147,9 +147,9 @@
         "released_by":      { "pause_id": "DCANTRELL" },
         "repo":             { "url": "https://github.com/DrHyde/perl-modules-Params-Validate-Dependencies", "relpath": "DrHyde/perl-modules-Params-Validate-Dependencies" },
         "pull_requests":    [
-                                { "url": "https://github.com/DrHyde/perl-modules-Params-Validate-Dependencies/pull/10", "state": "open", "relpath": "/pull/10" },
-                                { "url": "https://github.com/DrHyde/perl-modules-Params-Validate-Dependencies/pull/9", "state": "open", "relpath": "/pull/9" },
-                                { "url": "https://github.com/DrHyde/perl-modules-Params-Validate-Dependencies/pull/8", "state": "open", "relpath": "/pull/8" }
+                                { "url": "https://github.com/DrHyde/perl-modules-Params-Validate-Dependencies/pull/10", "state": "merged", "relpath": "/pull/10" },
+                                { "url": "https://github.com/DrHyde/perl-modules-Params-Validate-Dependencies/pull/9", "state": "merged", "relpath": "/pull/9" },
+                                { "url": "https://github.com/DrHyde/perl-modules-Params-Validate-Dependencies/pull/8", "state": "merged", "relpath": "/pull/8" }
                             ]
     }
  ]
