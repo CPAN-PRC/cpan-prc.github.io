@@ -1,8 +1,8 @@
 {
  "year": "2018",
  "month": "February",
- "generated": { "date": "2018-07-31", "time": "10:28:02" },
- "stats": { "done": "20", "total": "34", "percent": "58.8" },
+ "generated": { "date": "2018-09-13", "time": "22:56:24" },
+ "stats": { "done": "20", "total": "22", "percent": "90.9" },
  "assignments": [
 
     {
@@ -26,24 +26,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "zzzzzzzzz" },
-        "distname":         "Vim-Debug",
-        "released_by":      { "pause_id": "KABLAMO" },
-        "repo":             { "url": "https://github.com/kablamo/VimDebug", "relpath": "kablamo/VimDebug" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "tupinek" },
-        "distname":         "Test-Simple",
-        "released_by":      { "pause_id": "EXODIST" },
-        "repo":             { "url": "https://github.com/Test-More/test-more", "relpath": "Test-More/test-more" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "manwar" },
         "distname":         "Alien-Electron",
@@ -54,33 +36,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "huguei" },
-        "distname":         "Defaults-Modern",
-        "released_by":      { "pause_id": "AVENJ" },
-        "repo":             { "url": "https://github.com/avenj/defaults-modern", "relpath": "avenj/defaults-modern" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "preaction" },
-        "distname":         "WebService-Raygun",
-        "released_by":      { "pause_id": "HEYTRAV" },
-        "repo":             { "url": "https://github.com/heytrav/raygun4perl", "relpath": "heytrav/raygun4perl" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "alexstuart" },
-        "distname":         "Mojolicious-Command-generate-qx_mojo_app",
-        "released_by":      { "pause_id": "OETIKER" },
-        "repo":             { "url": "https://github.com/oetiker/qx-mojo-app", "relpath": "oetiker/qx-mojo-app" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "Anufant" },
         "distname":         "Mojolicious-Plugin-FormFieldsFromJSON",
@@ -88,15 +43,6 @@
         "repo":             { "url": "https://github.com/reneeb/Mojolicious-Plugin-FormFieldsFromJSON", "relpath": "reneeb/Mojolicious-Plugin-FormFieldsFromJSON" },
         "pull_requests":    [
                                 { "url": "https://github.com/reneeb/Mojolicious-Plugin-FormFieldsFromJSON/pull/6", "state": "merged", "relpath": "/pull/6" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "scottchiefbaker" },
-        "distname":         "Outthentic-DSL",
-        "released_by":      { "pause_id": "MELEZHIK" },
-        "repo":             { "url": "https://github.com/melezhik/outthentic-dsl", "relpath": "melezhik/outthentic-dsl" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -160,15 +106,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "kiwiroy" },
-        "distname":         "Text-CSV",
-        "released_by":      { "pause_id": "HMBRAND" },
-        "repo":             { "url": "https://github.com/makamaka/Text-CSV", "relpath": "makamaka/Text-CSV" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "jjatria" },
         "distname":         "Pithub",
@@ -181,15 +118,6 @@
                                 { "url": "https://github.com/plu/Pithub/pull/204", "state": "merged", "relpath": "/pull/204" },
                                 { "url": "https://github.com/plu/Pithub/pull/201", "state": "merged", "relpath": "/pull/201" },
                                 { "url": "https://github.com/plu/Pithub/pull/200", "state": "closed", "relpath": "/pull/200" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "narenthiranr" },
-        "distname":         "File-Path",
-        "released_by":      { "pause_id": "JKEENAN" },
-        "repo":             { "url": "https://github.com/jkeenan/File-Path", "relpath": "jkeenan/File-Path" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -223,15 +151,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "jdigory" },
-        "distname":         "Alien-Gnuplot",
-        "released_by":      { "pause_id": "ZOWIE" },
-        "repo":             { "url": "https://github.com/drzowie/Alien-Gnuplot", "relpath": "drzowie/Alien-Gnuplot" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "wilyarti" },
         "distname":         "Mango",
@@ -239,15 +158,6 @@
         "repo":             { "url": "https://github.com/oliwer/mango", "relpath": "oliwer/mango" },
         "pull_requests":    [
                                 { "url": "https://github.com/oliwer/mango/pull/29", "state": "merged", "relpath": "/pull/29" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "mrenvoize" },
-        "distname":         "Alien-Box2D",
-        "released_by":      { "pause_id": "FROGGS" },
-        "repo":             { "url": "https://github.com/PerlGameDev/Alien-Box2D", "relpath": "PerlGameDev/Alien-Box2D" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -267,15 +177,6 @@
         "repo":             { "url": "https://github.com/jberger/Mojo-IOLoop-ForkCall", "relpath": "jberger/Mojo-IOLoop-ForkCall" },
         "pull_requests":    [
                                 { "url": "https://github.com/jberger/Mojo-IOLoop-ForkCall/pull/14", "state": "open", "relpath": "/pull/14" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "georgyvlad" },
-        "distname":         "RPi-WiringPi",
-        "released_by":      { "pause_id": "STEVEB" },
-        "repo":             { "url": "https://github.com/stevieb9/rpi-wiringpi", "relpath": "stevieb9/rpi-wiringpi" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -325,15 +226,6 @@
         "distname":         "HTTP-Date",
         "released_by":      { "pause_id": "GAAS" },
         "repo":             { "url": "https://github.com/gisle/http-date", "relpath": "gisle/http-date" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "DadaIsCrazy" },
-        "distname":         "Text-Hogan",
-        "released_by":      { "pause_id": "KAORU" },
-        "repo":             { "url": "https://github.com/kaoru/Text-Hogan", "relpath": "kaoru/Text-Hogan" },
         "pull_requests":    [
                             ]
     },

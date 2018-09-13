@@ -1,7 +1,7 @@
 {
  "year": "2018",
  "month": "January",
- "generated": { "date": "2018-07-31", "time": "10:27:35" },
+ "generated": { "date": "2018-09-13", "time": "22:56:00" },
  "stats": { "done": "26", "total": "26", "percent": "100.0" },
  "assignments": [
 
@@ -167,7 +167,7 @@
         "released_by":      { "pause_id": "RUBYKAT" },
         "repo":             { "url": "https://github.com/rubykat/SQLite-Work", "relpath": "rubykat/SQLite-Work" },
         "pull_requests":    [
-                                { "url": "https://github.com/rubykat/SQLite-Work/pull/2", "state": "open", "relpath": "/pull/2" }
+                                { "url": "https://github.com/rubykat/SQLite-Work/pull/2", "state": "closed", "relpath": "/pull/2" }
                             ]
     },
     {

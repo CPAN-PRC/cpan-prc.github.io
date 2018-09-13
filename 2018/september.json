@@ -1,0 +1,145 @@
+{
+ "year": "2018",
+ "month": "September",
+ "generated": { "date": "2018-09-13", "time": "22:57:55" },
+ "stats": { "done": "1", "total": "14", "percent": "7.1" },
+ "assignments": [
+
+    {
+        "done":             false,
+        "assignee":         { "github_username": "kyzn" },
+        "distname":         "Vim-Debug",
+        "released_by":      { "pause_id": "KABLAMO" },
+        "repo":             { "url": "https://github.com/kablamo/VimDebug", "relpath": "kablamo/VimDebug" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "openstrike" },
+        "distname":         "Alien-Gnuplot",
+        "released_by":      { "pause_id": "ZOWIE" },
+        "repo":             { "url": "https://github.com/drzowie/Alien-Gnuplot", "relpath": "drzowie/Alien-Gnuplot" },
+        "pull_requests":    [
+                                { "url": "https://github.com/drzowie/Alien-Gnuplot/pull/3", "state": "open", "relpath": "/pull/3" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "shlomif" },
+        "distname":         "Alien-CMake",
+        "released_by":      { "pause_id": "PLICEASE" },
+        "repo":             { "url": "https://github.com/PerlGameDev/Alien-CMake", "relpath": "PerlGameDev/Alien-CMake" },
+        "pull_requests":    [
+                                { "url": "https://github.com/PerlGameDev/Alien-CMake/pull/6", "state": "merged", "relpath": "/pull/6" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "Anufant" },
+        "distname":         "Defaults-Modern",
+        "released_by":      { "pause_id": "AVENJ" },
+        "repo":             { "url": "https://github.com/avenj/defaults-modern", "relpath": "avenj/defaults-modern" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "HaraldJoerg" },
+        "distname":         "WebService-Raygun",
+        "released_by":      { "pause_id": "HEYTRAV" },
+        "repo":             { "url": "https://github.com/heytrav/raygun4perl", "relpath": "heytrav/raygun4perl" },
+        "pull_requests":    [
+                                { "url": "https://github.com/heytrav/raygun4perl/pull/6", "state": "open", "relpath": "/pull/6" },
+                                { "url": "https://github.com/heytrav/raygun4perl/pull/5", "state": "merged", "relpath": "/pull/5" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "paultcochrane" },
+        "distname":         "Perinci-CmdLine-Lite",
+        "released_by":      { "pause_id": "PERLANCAR" },
+        "repo":             { "url": "https://github.com/perlancar/perl-Perinci-CmdLine-Lite", "relpath": "perlancar/perl-Perinci-CmdLine-Lite" },
+        "pull_requests":    [
+                                { "url": "https://github.com/perlancar/perl-Perinci-CmdLine-Lite/pull/5", "state": "open", "relpath": "/pull/5" },
+                                { "url": "https://github.com/perlancar/perl-Perinci-CmdLine-Lite/pull/4", "state": "open", "relpath": "/pull/4" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "ZipRecruiter" },
+        "distname":         "Outthentic-DSL",
+        "released_by":      { "pause_id": "MELEZHIK" },
+        "repo":             { "url": "https://github.com/melezhik/outthentic-dsl", "relpath": "melezhik/outthentic-dsl" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "s-nez" },
+        "distname":         "Test-Simple",
+        "released_by":      { "pause_id": "EXODIST" },
+        "repo":             { "url": "https://github.com/Test-More/test-more", "relpath": "Test-More/test-more" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "yanick" },
+        "distname":         "Email-Valid",
+        "released_by":      { "pause_id": "RJBS" },
+        "repo":             { "url": "https://github.com/Perl-Email-Project/Email-Valid", "relpath": "Perl-Email-Project/Email-Valid" },
+        "pull_requests":    [
+                                { "url": "https://github.com/Perl-Email-Project/Email-Valid/pull/44", "state": "open", "relpath": "/pull/44" },
+                                { "url": "https://github.com/Perl-Email-Project/Email-Valid/pull/43", "state": "open", "relpath": "/pull/43" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "zakame" },
+        "distname":         "Hijk",
+        "released_by":      { "pause_id": "GUGOD" },
+        "repo":             { "url": "https://github.com/gugod/Hijk", "relpath": "gugod/Hijk" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "jj" },
+        "distname":         "Math-Prime-Util",
+        "released_by":      { "pause_id": "DANAJ" },
+        "repo":             { "url": "https://github.com/danaj/Math-Prime-Util", "relpath": "danaj/Math-Prime-Util" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "manwar" },
+        "distname":         "Sys-Filesystem",
+        "released_by":      { "pause_id": "REHSACK" },
+        "repo":             { "url": "https://github.com/rehsack/Sys-Filesystem", "relpath": "rehsack/Sys-Filesystem" },
+        "pull_requests":    [
+                                { "url": "https://github.com/rehsack/Sys-Filesystem/pull/2", "state": "open", "relpath": "/pull/2" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "cv-library" },
+        "distname":         "CPAN-Mini",
+        "released_by":      { "pause_id": "RJBS" },
+        "repo":             { "url": "https://github.com/rjbs/CPAN-Mini", "relpath": "rjbs/CPAN-Mini" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "choroba" },
+        "distname":         "MooseX-Blessed-Reconstruct",
+        "released_by":      { "pause_id": "YANICK" },
+        "repo":             { "url": "https://github.com/yanick/moosex-blessed-reconstruct", "relpath": "yanick/moosex-blessed-reconstruct" },
+        "pull_requests":    [
+                            ]
+    }
+ ]
+}
+

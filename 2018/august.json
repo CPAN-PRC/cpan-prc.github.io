@@ -1,0 +1,168 @@
+{
+ "year": "2018",
+ "month": "August",
+ "generated": { "date": "2018-09-13", "time": "22:57:43" },
+ "stats": { "done": "11", "total": "15", "percent": "73.3" },
+ "assignments": [
+
+    {
+        "done":             false,
+        "assignee":         { "github_username": "dionys" },
+        "distname":         "POE-Component-Server-SimpleHTTP-PreFork",
+        "released_by":      { "pause_id": "BINGOS" },
+        "repo":             { "url": "https://github.com/bingos/poe-component-server-simplehttp-prefork", "relpath": "bingos/poe-component-server-simplehttp-prefork" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "yanick" },
+        "distname":         "Net-Amazon-S3",
+        "released_by":      { "pause_id": "LLAP" },
+        "repo":             { "url": "https://github.com/rustyconover/net-amazon-s3", "relpath": "rustyconover/net-amazon-s3" },
+        "pull_requests":    [
+                                { "url": "https://github.com/rustyconover/net-amazon-s3/pull/36", "state": "merged", "relpath": "/pull/36" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "jjatria" },
+        "distname":         "FFI-TinyCC",
+        "released_by":      { "pause_id": "PLICEASE" },
+        "repo":             { "url": "https://github.com/Perl5-FFI/FFI-TinyCC", "relpath": "Perl5-FFI/FFI-TinyCC" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "paultcochrane" },
+        "distname":         "Tcl-Tk",
+        "released_by":      { "pause_id": "VKON" },
+        "repo":             { "url": "https://github.com/vadrer/perl-tcl-tk", "relpath": "vadrer/perl-tcl-tk" },
+        "pull_requests":    [
+                                { "url": "https://github.com/vadrer/perl-tcl-tk/pull/30", "state": "merged", "relpath": "/pull/30" },
+                                { "url": "https://github.com/vadrer/perl-tcl-tk/pull/26", "state": "merged", "relpath": "/pull/26" },
+                                { "url": "https://github.com/vadrer/perl-tcl-tk/pull/25", "state": "merged", "relpath": "/pull/25" },
+                                { "url": "https://github.com/vadrer/perl-tcl-tk/pull/24", "state": "merged", "relpath": "/pull/24" },
+                                { "url": "https://github.com/vadrer/perl-tcl-tk/pull/23", "state": "closed", "relpath": "/pull/23" },
+                                { "url": "https://github.com/vadrer/perl-tcl-tk/pull/21", "state": "merged", "relpath": "/pull/21" },
+                                { "url": "https://github.com/vadrer/perl-tcl-tk/pull/20", "state": "merged", "relpath": "/pull/20" },
+                                { "url": "https://github.com/vadrer/perl-tcl-tk/pull/19", "state": "merged", "relpath": "/pull/19" },
+                                { "url": "https://github.com/vadrer/perl-tcl-tk/pull/18", "state": "merged", "relpath": "/pull/18" },
+                                { "url": "https://github.com/vadrer/perl-tcl-tk/pull/17", "state": "merged", "relpath": "/pull/17" },
+                                { "url": "https://github.com/vadrer/perl-tcl-tk/pull/16", "state": "merged", "relpath": "/pull/16" },
+                                { "url": "https://github.com/vadrer/perl-tcl-tk/pull/15", "state": "merged", "relpath": "/pull/15" },
+                                { "url": "https://github.com/vadrer/perl-tcl-tk/pull/14", "state": "merged", "relpath": "/pull/14" },
+                                { "url": "https://github.com/vadrer/perl-tcl-tk/pull/13", "state": "merged", "relpath": "/pull/13" }
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "jj" },
+        "distname":         "Config-AutoConf",
+        "released_by":      { "pause_id": "REHSACK" },
+        "repo":             { "url": "https://github.com/ambs/Config-AutoConf", "relpath": "ambs/Config-AutoConf" },
+        "pull_requests":    [
+                                { "url": "https://github.com/ambs/Config-AutoConf/pull/16", "state": "open", "relpath": "/pull/16" }
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "s-nez" },
+        "distname":         "Data-Sah",
+        "released_by":      { "pause_id": "PERLANCAR" },
+        "repo":             { "url": "https://github.com/perlancar/perl-Data-Sah", "relpath": "perlancar/perl-Data-Sah" },
+        "pull_requests":    [
+                                { "url": "https://github.com/perlancar/perl-Data-Sah/pull/5", "state": "open", "relpath": "/pull/5" }
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "HaraldJoerg" },
+        "distname":         "Test-VCR-LWP",
+        "released_by":      { "pause_id": "CREIN" },
+        "repo":             { "url": "https://github.com/creinhardt/perl-Test-VCR-LWP", "relpath": "creinhardt/perl-Test-VCR-LWP" },
+        "pull_requests":    [
+                                { "url": "https://github.com/ctriv/perl-Test-VCR-LWP/pull/1", "state": "open", "relpath": "/pull/1" }
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "zakame" },
+        "distname":         "Date-Easy",
+        "released_by":      { "pause_id": "BAREFOOT" },
+        "repo":             { "url": "https://github.com/barefootcoder/date-easy", "relpath": "barefootcoder/date-easy" },
+        "pull_requests":    [
+                                { "url": "https://github.com/barefootcoder/date-easy/pull/11", "state": "merged", "relpath": "/pull/11" }
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "shlomif" },
+        "distname":         "Dist-Zilla-Plugin-Pod-Spiffy",
+        "released_by":      { "pause_id": "ZOFFIX" },
+        "repo":             { "url": "https://github.com/zoffixznet/dist-zilla-plugin-pod-spiffy", "relpath": "zoffixznet/dist-zilla-plugin-pod-spiffy" },
+        "pull_requests":    [
+                                { "url": "https://github.com/zoffixznet/Dist-Zilla-Plugin-Pod-Spiffy/pull/11", "state": "closed", "relpath": "/pull/11" }
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "manwar" },
+        "distname":         "Beam-Wire",
+        "released_by":      { "pause_id": "PREACTION" },
+        "repo":             { "url": "https://github.com/preaction/Beam-Wire", "relpath": "preaction/Beam-Wire" },
+        "pull_requests":    [
+                                { "url": "https://github.com/preaction/Beam-Wire/pull/67", "state": "merged", "relpath": "/pull/67" }
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "cv-library" },
+        "distname":         "Net-Works",
+        "released_by":      { "pause_id": "MAXMIND" },
+        "repo":             { "url": "https://github.com/maxmind/Net-Works", "relpath": "maxmind/Net-Works" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "soren" },
+        "distname":         "Test-Version",
+        "released_by":      { "pause_id": "PLICEASE" },
+        "repo":             { "url": "https://github.com/plicease/test-version", "relpath": "plicease/test-version" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "kyzn" },
+        "distname":         "Text-CSV",
+        "released_by":      { "pause_id": "ISHIGAKI" },
+        "repo":             { "url": "https://github.com/makamaka/Text-CSV", "relpath": "makamaka/Text-CSV" },
+        "pull_requests":    [
+                                { "url": "https://github.com/makamaka/Text-CSV/pull/38", "state": "merged", "relpath": "/pull/38" }
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "choroba" },
+        "distname":         "RRDTool-OO",
+        "released_by":      { "pause_id": "MSCHILLI" },
+        "repo":             { "url": "https://github.com/mschilli/rrdtool-oo-perl", "relpath": "mschilli/rrdtool-oo-perl" },
+        "pull_requests":    [
+                                { "url": "https://github.com/mschilli/rrdtool-oo-perl/pull/4", "state": "open", "relpath": "/pull/4" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "scottchiefbaker" },
+        "distname":         "File-Path",
+        "released_by":      { "pause_id": "JKEENAN" },
+        "repo":             { "url": "https://github.com/jkeenan/File-Path", "relpath": "jkeenan/File-Path" },
+        "pull_requests":    [
+                            ]
+    }
+ ]
+}
+

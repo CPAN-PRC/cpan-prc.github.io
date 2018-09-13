@@ -1,8 +1,8 @@
 {
  "year": "2018",
  "month": "July",
- "generated": { "date": "2018-07-31", "time": "10:29:28" },
- "stats": { "done": "9", "total": "18", "percent": "50.0" },
+ "generated": { "date": "2018-09-13", "time": "22:57:29" },
+ "stats": { "done": "14", "total": "17", "percent": "82.4" },
  "assignments": [
 
     {
@@ -12,26 +12,28 @@
         "released_by":      { "pause_id": "DROLSKY" },
         "repo":             { "url": "https://github.com/houseabsolute/test-class-moose", "relpath": "houseabsolute/test-class-moose" },
         "pull_requests":    [
-                                { "url": "https://github.com/houseabsolute/test-class-moose/pull/93", "state": "open", "relpath": "/pull/93" },
+                                { "url": "https://github.com/houseabsolute/test-class-moose/pull/93", "state": "closed", "relpath": "/pull/93" },
                                 { "url": "https://github.com/houseabsolute/test-class-moose/pull/92", "state": "closed", "relpath": "/pull/92" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jjatria" },
         "distname":         "MaxMind-DB-Writer",
         "released_by":      { "pause_id": "MAXMIND" },
         "repo":             { "url": "https://github.com/maxmind/MaxMind-DB-Writer-perl", "relpath": "maxmind/MaxMind-DB-Writer-perl" },
         "pull_requests":    [
+                                { "url": "https://github.com/maxmind/MaxMind-DB-Writer-perl/pull/97", "state": "merged", "relpath": "/pull/97" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "soren" },
         "distname":         "RT-Client-REST",
         "released_by":      { "pause_id": "DJZORT" },
         "repo":             { "url": "https://github.com/RT-Client-REST/RT-Client-REST", "relpath": "RT-Client-REST/RT-Client-REST" },
         "pull_requests":    [
+                                { "url": "https://github.com/RT-Client-REST/RT-Client-REST/pull/17", "state": "merged", "relpath": "/pull/17" }
                             ]
     },
     {
@@ -65,7 +67,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "s-nez" },
         "distname":         "OAuth-Cmdline",
         "released_by":      { "pause_id": "MSCHILLI" },
@@ -82,15 +84,6 @@
         "repo":             { "url": "https://github.com/reneeb/perl-Nexmo-SMS", "relpath": "reneeb/perl-Nexmo-SMS" },
         "pull_requests":    [
                                 { "url": "https://github.com/reneeb/perl-Nexmo-SMS/pull/3", "state": "merged", "relpath": "/pull/3" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "dionys" },
-        "distname":         "Beam-Wire",
-        "released_by":      { "pause_id": "PREACTION" },
-        "repo":             { "url": "https://github.com/preaction/Beam-Wire", "relpath": "preaction/Beam-Wire" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -111,13 +104,17 @@
         "released_by":      { "pause_id": "PHRED" },
         "repo":             { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite", "relpath": "redhotpenguin/perl-XML-Parser-Lite" },
         "pull_requests":    [
-                                { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite/pull/16", "state": "open", "relpath": "/pull/16" },
-                                { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite/pull/15", "state": "open", "relpath": "/pull/15" },
-                                { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite/pull/14", "state": "open", "relpath": "/pull/14" },
-                                { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite/pull/13", "state": "open", "relpath": "/pull/13" },
-                                { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite/pull/12", "state": "open", "relpath": "/pull/12" },
-                                { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite/pull/11", "state": "open", "relpath": "/pull/11" },
-                                { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite/pull/10", "state": "open", "relpath": "/pull/10" },
+                                { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite/pull/20", "state": "merged", "relpath": "/pull/20" },
+                                { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite/pull/19", "state": "merged", "relpath": "/pull/19" },
+                                { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite/pull/18", "state": "merged", "relpath": "/pull/18" },
+                                { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite/pull/17", "state": "merged", "relpath": "/pull/17" },
+                                { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite/pull/16", "state": "merged", "relpath": "/pull/16" },
+                                { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite/pull/15", "state": "merged", "relpath": "/pull/15" },
+                                { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite/pull/14", "state": "merged", "relpath": "/pull/14" },
+                                { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite/pull/13", "state": "merged", "relpath": "/pull/13" },
+                                { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite/pull/12", "state": "merged", "relpath": "/pull/12" },
+                                { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite/pull/11", "state": "merged", "relpath": "/pull/11" },
+                                { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite/pull/10", "state": "merged", "relpath": "/pull/10" },
                                 { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite/pull/9", "state": "merged", "relpath": "/pull/9" },
                                 { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite/pull/8", "state": "merged", "relpath": "/pull/8" },
                                 { "url": "https://github.com/redhotpenguin/perl-XML-Parser-Lite/pull/7", "state": "merged", "relpath": "/pull/7" },
@@ -135,7 +132,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "ZipRecruiter" },
         "distname":         "WebService-Client",
         "released_by":      { "pause_id": "IRONCAMEL" },
@@ -181,7 +178,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "choroba" },
         "distname":         "MojoX-JSON-RPC",
         "released_by":      { "pause_id": "KARASIK" },
