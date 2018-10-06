@@ -1,7 +1,7 @@
 {
  "year": "2018",
  "month": "April",
- "generated": { "date": "2018-09-24", "time": "21:23:06" },
+ "generated": { "date": "2018-10-06", "time": "14:50:14" },
  "stats": { "done": "13", "total": "13", "percent": "100.0" },
  "assignments": [
 
@@ -31,9 +31,9 @@
         "released_by":      { "pause_id": "MANWAR" },
         "repo":             { "url": "https://github.com/manwar/CGI--Simple", "relpath": "manwar/CGI--Simple" },
         "pull_requests":    [
-                                { "url": "https://github.com/manwar/CGI--Simple/pull/4", "state": "open", "relpath": "/pull/4" },
-                                { "url": "https://github.com/manwar/CGI--Simple/pull/3", "state": "open", "relpath": "/pull/3" },
-                                { "url": "https://github.com/manwar/CGI--Simple/pull/2", "state": "open", "relpath": "/pull/2" }
+                                { "url": "https://github.com/manwar/CGI--Simple/pull/4", "state": "merged", "relpath": "/pull/4" },
+                                { "url": "https://github.com/manwar/CGI--Simple/pull/3", "state": "merged", "relpath": "/pull/3" },
+                                { "url": "https://github.com/manwar/CGI--Simple/pull/2", "state": "merged", "relpath": "/pull/2" }
                             ]
     },
     {

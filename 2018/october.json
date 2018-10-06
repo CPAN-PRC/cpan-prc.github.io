@@ -1,0 +1,160 @@
+{
+ "year": "2018",
+ "month": "October",
+ "generated": { "date": "2018-10-06", "time": "14:51:22" },
+ "stats": { "done": "2", "total": "15", "percent": "13.3" },
+ "assignments": [
+
+    {
+        "done":             false,
+        "assignee":         { "github_username": "openstrike" },
+        "distname":         "SPVM",
+        "released_by":      { "pause_id": "KIMOTO" },
+        "repo":             { "url": "https://github.com/yuki-kimoto/SPVM", "relpath": "yuki-kimoto/SPVM" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "yanick" },
+        "distname":         "Module-Version",
+        "released_by":      { "pause_id": "XSAWYERX" },
+        "repo":             { "url": "https://github.com/xsawyerx/module-version", "relpath": "xsawyerx/module-version" },
+        "pull_requests":    [
+                                { "url": "https://github.com/xsawyerx/module-version/pull/8", "state": "open", "relpath": "/pull/8" },
+                                { "url": "https://github.com/xsawyerx/module-version/pull/7", "state": "open", "relpath": "/pull/7" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "zakame" },
+        "distname":         "Net-SMTP-TLS-ButMaintained",
+        "released_by":      { "pause_id": "FAYLAND" },
+        "repo":             { "url": "https://github.com/fayland/Net-SMTP-TLS", "relpath": "fayland/Net-SMTP-TLS" },
+        "pull_requests":    [
+                                { "url": "https://github.com/fayland/Net-SMTP-TLS/pull/4", "state": "merged", "relpath": "/pull/4" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "manwar" },
+        "distname":         "Term-Clui",
+        "released_by":      { "pause_id": "PLICEASE" },
+        "repo":             { "url": "https://github.com/plicease/Term-Clui", "relpath": "plicease/Term-Clui" },
+        "pull_requests":    [
+                                { "url": "https://github.com/plicease/Term-Clui/pull/5", "state": "merged", "relpath": "/pull/5" },
+                                { "url": "https://github.com/plicease/Term-Clui/pull/4", "state": "merged", "relpath": "/pull/4" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "ZipRecruiter" },
+        "distname":         "Pod-Weaver",
+        "released_by":      { "pause_id": "RJBS" },
+        "repo":             { "url": "https://github.com/rjbs/Pod-Weaver", "relpath": "rjbs/Pod-Weaver" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "jj" },
+        "distname":         "Error",
+        "released_by":      { "pause_id": "SHLOMIF" },
+        "repo":             { "url": "https://github.com/shlomif/error", "relpath": "shlomif/error" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "cv-library" },
+        "distname":         "LWP-Authen-OAuth2",
+        "released_by":      { "pause_id": "DOMM" },
+        "repo":             { "url": "https://github.com/domm/perl-oauth2", "relpath": "domm/perl-oauth2" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "HaraldJoerg" },
+        "distname":         "Org-To-HTML",
+        "released_by":      { "pause_id": "PERLANCAR" },
+        "repo":             { "url": "https://github.com/perlancar/perl-Org-To-HTML", "relpath": "perlancar/perl-Org-To-HTML" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "kyzn" },
+        "distname":         "Data-DPath",
+        "released_by":      { "pause_id": "SCHWIGON" },
+        "repo":             { "url": "https://github.com/renormalist/data-dpath", "relpath": "renormalist/data-dpath" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "shlomif" },
+        "distname":         "URI-Title",
+        "released_by":      { "pause_id": "BOOK" },
+        "repo":             { "url": "https://github.com/book/URI-Title", "relpath": "book/URI-Title" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "paultcochrane" },
+        "distname":         "Facebook-Graph",
+        "released_by":      { "pause_id": "RIZEN" },
+        "repo":             { "url": "https://github.com/rizen/Facebook-Graph", "relpath": "rizen/Facebook-Graph" },
+        "pull_requests":    [
+                                { "url": "https://github.com/rizen/Facebook-Graph/pull/75", "state": "open", "relpath": "/pull/75" },
+                                { "url": "https://github.com/rizen/Facebook-Graph/pull/74", "state": "merged", "relpath": "/pull/74" },
+                                { "url": "https://github.com/rizen/Facebook-Graph/pull/73", "state": "merged", "relpath": "/pull/73" },
+                                { "url": "https://github.com/rizen/Facebook-Graph/pull/72", "state": "merged", "relpath": "/pull/72" },
+                                { "url": "https://github.com/rizen/Facebook-Graph/pull/71", "state": "merged", "relpath": "/pull/71" },
+                                { "url": "https://github.com/rizen/Facebook-Graph/pull/70", "state": "merged", "relpath": "/pull/70" },
+                                { "url": "https://github.com/rizen/Facebook-Graph/pull/69", "state": "merged", "relpath": "/pull/69" },
+                                { "url": "https://github.com/rizen/Facebook-Graph/pull/68", "state": "merged", "relpath": "/pull/68" },
+                                { "url": "https://github.com/rizen/Facebook-Graph/pull/67", "state": "merged", "relpath": "/pull/67" },
+                                { "url": "https://github.com/rizen/Facebook-Graph/pull/66", "state": "merged", "relpath": "/pull/66" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "choroba" },
+        "distname":         "Time-Warp",
+        "released_by":      { "pause_id": "MANWAR" },
+        "repo":             { "url": "https://github.com/manwar/Time-Warp", "relpath": "manwar/Time-Warp" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "jjatria" },
+        "distname":         "Template-AutoFilter",
+        "released_by":      { "pause_id": "MITHALDU" },
+        "repo":             { "url": "https://github.com/wchristian/Template-AutoFilter", "relpath": "wchristian/Template-AutoFilter" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "jluis" },
+        "distname":         "Web-Query",
+        "released_by":      { "pause_id": "YANICK" },
+        "repo":             { "url": "https://github.com/tokuhirom/Web-Query", "relpath": "tokuhirom/Web-Query" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "mcmillhj" },
+        "distname":         "Sub-Attribute",
+        "released_by":      { "pause_id": "DCANTRELL" },
+        "repo":             { "url": "https://github.com/DrHyde/perl-modules-Sub-Attribute", "relpath": "DrHyde/perl-modules-Sub-Attribute" },
+        "pull_requests":    [
+                            ]
+    }
+ ]
+}
+

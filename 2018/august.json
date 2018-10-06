@@ -1,8 +1,8 @@
 {
  "year": "2018",
  "month": "August",
- "generated": { "date": "2018-09-24", "time": "21:23:59" },
- "stats": { "done": "11", "total": "15", "percent": "73.3" },
+ "generated": { "date": "2018-10-06", "time": "14:51:01" },
+ "stats": { "done": "11", "total": "14", "percent": "78.6" },
  "assignments": [
 
     {
@@ -22,15 +22,6 @@
         "repo":             { "url": "https://github.com/rustyconover/net-amazon-s3", "relpath": "rustyconover/net-amazon-s3" },
         "pull_requests":    [
                                 { "url": "https://github.com/rustyconover/net-amazon-s3/pull/36", "state": "merged", "relpath": "/pull/36" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "jjatria" },
-        "distname":         "FFI-TinyCC",
-        "released_by":      { "pause_id": "PLICEASE" },
-        "repo":             { "url": "https://github.com/Perl5-FFI/FFI-TinyCC", "relpath": "Perl5-FFI/FFI-TinyCC" },
-        "pull_requests":    [
                             ]
     },
     {
