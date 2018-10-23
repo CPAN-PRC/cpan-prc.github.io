@@ -1,7 +1,7 @@
 {
  "year": "2018",
  "month": "October",
- "generated": { "date": "2018-10-06", "time": "14:51:22" },
+ "generated": { "date": "2018-10-23", "time": "13:08:02" },
  "stats": { "done": "2", "total": "15", "percent": "13.3" },
  "assignments": [
 
@@ -80,6 +80,8 @@
         "released_by":      { "pause_id": "PERLANCAR" },
         "repo":             { "url": "https://github.com/perlancar/perl-Org-To-HTML", "relpath": "perlancar/perl-Org-To-HTML" },
         "pull_requests":    [
+                                { "url": "https://github.com/perlancar/perl-Org-To-HTML/pull/2", "state": "open", "relpath": "/pull/2" },
+                                { "url": "https://github.com/perlancar/perl-Org-To-HTML/pull/1", "state": "open", "relpath": "/pull/1" }
                             ]
     },
     {
@@ -89,6 +91,8 @@
         "released_by":      { "pause_id": "SCHWIGON" },
         "repo":             { "url": "https://github.com/renormalist/data-dpath", "relpath": "renormalist/data-dpath" },
         "pull_requests":    [
+                                { "url": "https://github.com/renormalist/data-dpath/pull/20", "state": "merged", "relpath": "/pull/20" },
+                                { "url": "https://github.com/renormalist/data-dpath/pull/19", "state": "closed", "relpath": "/pull/19" }
                             ]
     },
     {
@@ -98,6 +102,7 @@
         "released_by":      { "pause_id": "BOOK" },
         "repo":             { "url": "https://github.com/book/URI-Title", "relpath": "book/URI-Title" },
         "pull_requests":    [
+                                { "url": "https://github.com/book/URI-Title/pull/3", "state": "open", "relpath": "/pull/3" }
                             ]
     },
     {
@@ -107,7 +112,7 @@
         "released_by":      { "pause_id": "RIZEN" },
         "repo":             { "url": "https://github.com/rizen/Facebook-Graph", "relpath": "rizen/Facebook-Graph" },
         "pull_requests":    [
-                                { "url": "https://github.com/rizen/Facebook-Graph/pull/75", "state": "open", "relpath": "/pull/75" },
+                                { "url": "https://github.com/rizen/Facebook-Graph/pull/75", "state": "merged", "relpath": "/pull/75" },
                                 { "url": "https://github.com/rizen/Facebook-Graph/pull/74", "state": "merged", "relpath": "/pull/74" },
                                 { "url": "https://github.com/rizen/Facebook-Graph/pull/73", "state": "merged", "relpath": "/pull/73" },
                                 { "url": "https://github.com/rizen/Facebook-Graph/pull/72", "state": "merged", "relpath": "/pull/72" },
@@ -126,6 +131,7 @@
         "released_by":      { "pause_id": "MANWAR" },
         "repo":             { "url": "https://github.com/manwar/Time-Warp", "relpath": "manwar/Time-Warp" },
         "pull_requests":    [
+                                { "url": "https://github.com/manwar/Time-Warp/pull/5", "state": "open", "relpath": "/pull/5" }
                             ]
     },
     {
