@@ -1,19 +1,10 @@
 {
  "year": "2018",
  "month": "October",
- "generated": { "date": "2018-10-23", "time": "13:08:02" },
- "stats": { "done": "2", "total": "15", "percent": "13.3" },
+ "generated": { "date": "2018-11-08", "time": "10:14:42" },
+ "stats": { "done": "14", "total": "19", "percent": "73.7" },
  "assignments": [
 
-    {
-        "done":             false,
-        "assignee":         { "github_username": "openstrike" },
-        "distname":         "SPVM",
-        "released_by":      { "pause_id": "KIMOTO" },
-        "repo":             { "url": "https://github.com/yuki-kimoto/SPVM", "relpath": "yuki-kimoto/SPVM" },
-        "pull_requests":    [
-                            ]
-    },
     {
         "done":             true,
         "assignee":         { "github_username": "yanick" },
@@ -26,7 +17,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "zakame" },
         "distname":         "Net-SMTP-TLS-ButMaintained",
         "released_by":      { "pause_id": "FAYLAND" },
@@ -36,7 +27,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "manwar" },
         "distname":         "Term-Clui",
         "released_by":      { "pause_id": "PLICEASE" },
@@ -47,7 +38,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "ZipRecruiter" },
         "distname":         "Pod-Weaver",
         "released_by":      { "pause_id": "RJBS" },
@@ -56,7 +47,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jj" },
         "distname":         "Error",
         "released_by":      { "pause_id": "SHLOMIF" },
@@ -65,7 +56,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "cv-library" },
         "distname":         "LWP-Authen-OAuth2",
         "released_by":      { "pause_id": "DOMM" },
@@ -74,18 +65,19 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "HaraldJoerg" },
         "distname":         "Org-To-HTML",
         "released_by":      { "pause_id": "PERLANCAR" },
         "repo":             { "url": "https://github.com/perlancar/perl-Org-To-HTML", "relpath": "perlancar/perl-Org-To-HTML" },
         "pull_requests":    [
-                                { "url": "https://github.com/perlancar/perl-Org-To-HTML/pull/2", "state": "open", "relpath": "/pull/2" },
-                                { "url": "https://github.com/perlancar/perl-Org-To-HTML/pull/1", "state": "open", "relpath": "/pull/1" }
+                                { "url": "https://github.com/perlancar/perl-Org-To-HTML/pull/3", "state": "merged", "relpath": "/pull/3" },
+                                { "url": "https://github.com/perlancar/perl-Org-To-HTML/pull/2", "state": "merged", "relpath": "/pull/2" },
+                                { "url": "https://github.com/perlancar/perl-Org-To-HTML/pull/1", "state": "merged", "relpath": "/pull/1" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "kyzn" },
         "distname":         "Data-DPath",
         "released_by":      { "pause_id": "SCHWIGON" },
@@ -96,7 +88,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "shlomif" },
         "distname":         "URI-Title",
         "released_by":      { "pause_id": "BOOK" },
@@ -125,7 +117,7 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "choroba" },
         "distname":         "Time-Warp",
         "released_by":      { "pause_id": "MANWAR" },
@@ -135,21 +127,23 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jjatria" },
         "distname":         "Template-AutoFilter",
         "released_by":      { "pause_id": "MITHALDU" },
         "repo":             { "url": "https://github.com/wchristian/Template-AutoFilter", "relpath": "wchristian/Template-AutoFilter" },
         "pull_requests":    [
+                                { "url": "https://github.com/wchristian/Template-AutoFilter/pull/7", "state": "open", "relpath": "/pull/7" }
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jluis" },
         "distname":         "Web-Query",
         "released_by":      { "pause_id": "YANICK" },
         "repo":             { "url": "https://github.com/tokuhirom/Web-Query", "relpath": "tokuhirom/Web-Query" },
         "pull_requests":    [
+                                { "url": "https://github.com/tokuhirom/Web-Query/pull/53", "state": "open", "relpath": "/pull/53" }
                             ]
     },
     {
@@ -158,6 +152,52 @@
         "distname":         "Sub-Attribute",
         "released_by":      { "pause_id": "DCANTRELL" },
         "repo":             { "url": "https://github.com/DrHyde/perl-modules-Sub-Attribute", "relpath": "DrHyde/perl-modules-Sub-Attribute" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "wlharvey4" },
+        "distname":         "File-Slurp",
+        "released_by":      { "pause_id": "CAPOEIRAB" },
+        "repo":             { "url": "https://github.com/perhunter/slurp", "relpath": "perhunter/slurp" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "yulivee" },
+        "distname":         "HTML-Valid",
+        "released_by":      { "pause_id": "BKB" },
+        "repo":             { "url": "https://github.com/benkasminbullock/html-valid", "relpath": "benkasminbullock/html-valid" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "s-nez" },
+        "distname":         "Number-Fraction",
+        "released_by":      { "pause_id": "DAVECROSS" },
+        "repo":             { "url": "https://github.com/p5-number-fraction/number-fraction", "relpath": "p5-number-fraction/number-fraction" },
+        "pull_requests":    [
+                                { "url": "https://github.com/p5-number-fraction/number-fraction/pull/3", "state": "open", "relpath": "/pull/3" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "danishprakash" },
+        "distname":         "Net-Whois-IANA",
+        "released_by":      { "pause_id": "ATOOMIC" },
+        "repo":             { "url": "https://github.com/atoomic/Net-Whois-IANA", "relpath": "atoomic/Net-Whois-IANA" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "foursixnine" },
+        "distname":         "Plugin-Simple",
+        "released_by":      { "pause_id": "STEVEB" },
+        "repo":             { "url": "https://github.com/stevieb9/p5-plugin-simple", "relpath": "stevieb9/p5-plugin-simple" },
         "pull_requests":    [
                             ]
     }

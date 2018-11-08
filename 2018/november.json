@@ -1,0 +1,169 @@
+{
+ "year": "2018",
+ "month": "November",
+ "generated": { "date": "2018-11-08", "time": "10:14:57" },
+ "stats": { "done": "1", "total": "16", "percent": "6.2" },
+ "assignments": [
+
+    {
+        "done":             false,
+        "assignee":         { "github_username": "choroba" },
+        "distname":         "Test-Nginx",
+        "released_by":      { "pause_id": "AGENT" },
+        "repo":             { "url": "https://github.com/openresty/test-nginx", "relpath": "openresty/test-nginx" },
+        "pull_requests":    [
+                                { "url": "https://github.com/openresty/test-nginx/pull/84", "state": "open", "relpath": "/pull/84" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "openstrike" },
+        "distname":         "Mojolicious-Plugin-Toto",
+        "released_by":      { "pause_id": "BDUGGAN" },
+        "repo":             { "url": "https://github.com/bduggan/Mojolicious-Plugin-Toto", "relpath": "bduggan/Mojolicious-Plugin-Toto" },
+        "pull_requests":    [
+                                { "url": "https://github.com/bduggan/Mojolicious-Plugin-Toto/pull/2", "state": "merged", "relpath": "/pull/2" },
+                                { "url": "https://github.com/bduggan/Mojolicious-Plugin-Toto/pull/1", "state": "merged", "relpath": "/pull/1" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "cv-library" },
+        "distname":         "Template-Toolkit",
+        "released_by":      { "pause_id": "ATOOMIC" },
+        "repo":             { "url": "https://github.com/abw/Template2", "relpath": "abw/Template2" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "paultcochrane" },
+        "distname":         "Meta-Builder",
+        "released_by":      { "pause_id": "EXODIST" },
+        "repo":             { "url": "https://github.com/exodist/Meta-Builder", "relpath": "exodist/Meta-Builder" },
+        "pull_requests":    [
+                                { "url": "https://github.com/exodist/Meta-Builder/pull/13", "state": "merged", "relpath": "/pull/13" },
+                                { "url": "https://github.com/exodist/Meta-Builder/pull/12", "state": "merged", "relpath": "/pull/12" },
+                                { "url": "https://github.com/exodist/Meta-Builder/pull/11", "state": "merged", "relpath": "/pull/11" },
+                                { "url": "https://github.com/exodist/Meta-Builder/pull/10", "state": "merged", "relpath": "/pull/10" },
+                                { "url": "https://github.com/exodist/Meta-Builder/pull/9", "state": "merged", "relpath": "/pull/9" },
+                                { "url": "https://github.com/exodist/Meta-Builder/pull/8", "state": "merged", "relpath": "/pull/8" },
+                                { "url": "https://github.com/exodist/Meta-Builder/pull/7", "state": "merged", "relpath": "/pull/7" },
+                                { "url": "https://github.com/exodist/Meta-Builder/pull/6", "state": "merged", "relpath": "/pull/6" },
+                                { "url": "https://github.com/exodist/Meta-Builder/pull/5", "state": "merged", "relpath": "/pull/5" },
+                                { "url": "https://github.com/exodist/Meta-Builder/pull/4", "state": "merged", "relpath": "/pull/4" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "zakame" },
+        "distname":         "Module-Extract-Namespaces",
+        "released_by":      { "pause_id": "BDFOY" },
+        "repo":             { "url": "https://github.com/briandfoy/module-extract-namespaces", "relpath": "briandfoy/module-extract-namespaces" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "manwar" },
+        "distname":         "Array-Iterator",
+        "released_by":      { "pause_id": "PERLANCAR" },
+        "repo":             { "url": "https://github.com/sharyanto/perl-Array-Iterator", "relpath": "sharyanto/perl-Array-Iterator" },
+        "pull_requests":    [
+                                { "url": "https://github.com/perlancar/perl-Array-Iterator/pull/7", "state": "merged", "relpath": "/pull/7" }
+                            ]
+    },
+    {
+        "done":             true,
+        "assignee":         { "github_username": "shlomif" },
+        "distname":         "Mojolicious-Quick",
+        "released_by":      { "pause_id": "POPEFELIX" },
+        "repo":             { "url": "https://github.com/popefelix/Mojolicious-Quick", "relpath": "popefelix/Mojolicious-Quick" },
+        "pull_requests":    [
+                                { "url": "https://github.com/PopeFelix/Mojolicious-Quick/pull/2", "state": "merged", "relpath": "/pull/2" }
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "HaraldJoerg" },
+        "distname":         "WWW-Mechanize-Chrome",
+        "released_by":      { "pause_id": "CORION" },
+        "repo":             { "url": "https://github.com/Corion/WWW-Mechanize-Chrome", "relpath": "Corion/WWW-Mechanize-Chrome" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "jluis" },
+        "distname":         "Term-Shell",
+        "released_by":      { "pause_id": "SHLOMIF" },
+        "repo":             { "url": "https://github.com/shlomif/Term-Shell", "relpath": "shlomif/Term-Shell" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "ZipRecruiter" },
+        "distname":         "Sub-Exporter",
+        "released_by":      { "pause_id": "RJBS" },
+        "repo":             { "url": "https://github.com/rjbs/Sub-Exporter", "relpath": "rjbs/Sub-Exporter" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "jj" },
+        "distname":         "Term-EditLine",
+        "released_by":      { "pause_id": "PLICEASE" },
+        "repo":             { "url": "https://github.com/plicease/Term-EditLine", "relpath": "plicease/Term-EditLine" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "frunkad" },
+        "distname":         "Taskwarrior-Kusarigama",
+        "released_by":      { "pause_id": "YANICK" },
+        "repo":             { "url": "https://github.com/yanick/Taskwarrior-Kusarigama", "relpath": "yanick/Taskwarrior-Kusarigama" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "yanick" },
+        "distname":         "Text-Hogan",
+        "released_by":      { "pause_id": "KAORU" },
+        "repo":             { "url": "https://github.com/kaoru/Text-Hogan", "relpath": "kaoru/Text-Hogan" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "jjatria" },
+        "distname":         "Mojo-Feed",
+        "released_by":      { "pause_id": "DOTAN" },
+        "repo":             { "url": "https://github.com/dotandimet/Mojo-Feed", "relpath": "dotandimet/Mojo-Feed" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "kyzn" },
+        "distname":         "Text-MediawikiFormat",
+        "released_by":      { "pause_id": "SZABGAB" },
+        "repo":             { "url": "https://github.com/szabgab/Text-MediawikiFormat", "relpath": "szabgab/Text-MediawikiFormat" },
+        "pull_requests":    [
+                            ]
+    },
+    {
+        "done":             false,
+        "assignee":         { "github_username": "s-nez" },
+        "distname":         "Email-Stuffer",
+        "released_by":      { "pause_id": "RJBS" },
+        "repo":             { "url": "https://github.com/rjbs/Email-Stuffer", "relpath": "rjbs/Email-Stuffer" },
+        "pull_requests":    [
+                            ]
+    }
+ ]
+}
+

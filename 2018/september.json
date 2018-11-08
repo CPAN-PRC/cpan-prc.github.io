@@ -1,8 +1,8 @@
 {
  "year": "2018",
  "month": "September",
- "generated": { "date": "2018-10-23", "time": "13:07:48" },
- "stats": { "done": "11", "total": "13", "percent": "84.6" },
+ "generated": { "date": "2018-11-08", "time": "10:14:29" },
+ "stats": { "done": "11", "total": "12", "percent": "91.7" },
  "assignments": [
 
     {
@@ -70,15 +70,6 @@
         "distname":         "Outthentic-DSL",
         "released_by":      { "pause_id": "MELEZHIK" },
         "repo":             { "url": "https://github.com/melezhik/outthentic-dsl", "relpath": "melezhik/outthentic-dsl" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "s-nez" },
-        "distname":         "Test-Simple",
-        "released_by":      { "pause_id": "EXODIST" },
-        "repo":             { "url": "https://github.com/Test-More/test-more", "relpath": "Test-More/test-more" },
         "pull_requests":    [
                             ]
     },

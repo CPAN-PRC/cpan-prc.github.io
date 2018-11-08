@@ -1,7 +1,7 @@
 {
  "year": "2018",
  "month": "June",
- "generated": { "date": "2018-10-23", "time": "13:06:59" },
+ "generated": { "date": "2018-11-08", "time": "10:13:50" },
  "stats": { "done": "11", "total": "14", "percent": "78.6" },
  "assignments": [
 
@@ -134,7 +134,7 @@
         "done":             true,
         "assignee":         { "github_username": "shlomif" },
         "distname":         "Dist-Zilla-Plugin-ReadmeFromPod",
-        "released_by":      { "pause_id": "FAYLAND" },
+        "released_by":      { "pause_id": "RRWO" },
         "repo":             { "url": "https://github.com/fayland/dist-zilla-plugin-readmefrompod", "relpath": "fayland/dist-zilla-plugin-readmefrompod" },
         "pull_requests":    [
                                 { "url": "https://github.com/fayland/dist-zilla-plugin-readmefrompod/pull/8", "state": "merged", "relpath": "/pull/8" }
