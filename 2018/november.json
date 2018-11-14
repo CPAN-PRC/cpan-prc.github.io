@@ -1,7 +1,7 @@
 {
  "year": "2018",
  "month": "November",
- "generated": { "date": "2018-11-08", "time": "10:14:57" },
+ "generated": { "date": "2018-11-13", "time": "13:52:19" },
  "stats": { "done": "1", "total": "16", "percent": "6.2" },
  "assignments": [
 
@@ -135,6 +135,8 @@
         "released_by":      { "pause_id": "KAORU" },
         "repo":             { "url": "https://github.com/kaoru/Text-Hogan", "relpath": "kaoru/Text-Hogan" },
         "pull_requests":    [
+                                { "url": "https://github.com/kaoru/Text-Hogan/pull/9", "state": "open", "relpath": "/pull/9" },
+                                { "url": "https://github.com/kaoru/Text-Hogan/pull/8", "state": "open", "relpath": "/pull/8" }
                             ]
     },
     {
@@ -153,6 +155,7 @@
         "released_by":      { "pause_id": "SZABGAB" },
         "repo":             { "url": "https://github.com/szabgab/Text-MediawikiFormat", "relpath": "szabgab/Text-MediawikiFormat" },
         "pull_requests":    [
+                                { "url": "https://github.com/manwar/Text-MediawikiFormat/pull/4", "state": "merged", "relpath": "/pull/4" }
                             ]
     },
     {
