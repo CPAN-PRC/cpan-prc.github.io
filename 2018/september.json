@@ -1,8 +1,8 @@
 {
  "year": "2018",
  "month": "September",
- "generated": { "date": "2018-11-13", "time": "13:51:41" },
- "stats": { "done": "11", "total": "12", "percent": "91.7" },
+ "generated": { "date": "2018-12-12", "time": "09:55:00" },
+ "stats": { "done": "11", "total": "11", "percent": "100.0" },
  "assignments": [
 
     {
@@ -25,15 +25,6 @@
         "repo":             { "url": "https://github.com/PerlGameDev/Alien-CMake", "relpath": "PerlGameDev/Alien-CMake" },
         "pull_requests":    [
                                 { "url": "https://github.com/PerlGameDev/Alien-CMake/pull/6", "state": "merged", "relpath": "/pull/6" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "Anufant" },
-        "distname":         "Defaults-Modern",
-        "released_by":      { "pause_id": "AVENJ" },
-        "repo":             { "url": "https://github.com/avenj/defaults-modern", "relpath": "avenj/defaults-modern" },
-        "pull_requests":    [
                             ]
     },
     {

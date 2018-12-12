@@ -1,8 +1,8 @@
 {
  "year": "2018",
  "month": "May",
- "generated": { "date": "2018-11-13", "time": "13:50:38" },
- "stats": { "done": "14", "total": "16", "percent": "87.5" },
+ "generated": { "date": "2018-12-12", "time": "09:54:11" },
+ "stats": { "done": "14", "total": "14", "percent": "100.0" },
  "assignments": [
 
     {
@@ -37,15 +37,6 @@
         "repo":             { "url": "https://github.com/perlpunk/App-Spec-p5", "relpath": "perlpunk/App-Spec-p5" },
         "pull_requests":    [
                                 { "url": "https://github.com/perlpunk/App-Spec-p5/pull/18", "state": "open", "relpath": "/pull/18" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "tvroom" },
-        "distname":         "Vroom",
-        "released_by":      { "pause_id": "INGY" },
-        "repo":             { "url": "https://github.com/ingydotnet/vroom-pm", "relpath": "ingydotnet/vroom-pm" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -99,15 +90,6 @@
         "repo":             { "url": "https://github.com/ronsavage/Genealogy-Gedcom-Date", "relpath": "ronsavage/Genealogy-Gedcom-Date" },
         "pull_requests":    [
                                 { "url": "https://github.com/ronsavage/Genealogy-Gedcom-Date/pull/2", "state": "merged", "relpath": "/pull/2" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "NachosDevs" },
-        "distname":         "Class-Throwable",
-        "released_by":      { "pause_id": "KMX" },
-        "repo":             { "url": "https://github.com/kmx/perl-Class-Throwable", "relpath": "kmx/perl-Class-Throwable" },
-        "pull_requests":    [
                             ]
     },
     {

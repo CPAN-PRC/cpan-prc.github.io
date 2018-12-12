@@ -1,19 +1,10 @@
 {
  "year": "2018",
  "month": "August",
- "generated": { "date": "2018-11-13", "time": "13:51:28" },
- "stats": { "done": "11", "total": "14", "percent": "78.6" },
+ "generated": { "date": "2018-12-12", "time": "09:54:49" },
+ "stats": { "done": "11", "total": "11", "percent": "100.0" },
  "assignments": [
 
-    {
-        "done":             false,
-        "assignee":         { "github_username": "dionys" },
-        "distname":         "POE-Component-Server-SimpleHTTP-PreFork",
-        "released_by":      { "pause_id": "BINGOS" },
-        "repo":             { "url": "https://github.com/bingos/poe-component-server-simplehttp-prefork", "relpath": "bingos/poe-component-server-simplehttp-prefork" },
-        "pull_requests":    [
-                            ]
-    },
     {
         "done":             true,
         "assignee":         { "github_username": "yanick" },
@@ -117,15 +108,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "soren" },
-        "distname":         "Test-Version",
-        "released_by":      { "pause_id": "PLICEASE" },
-        "repo":             { "url": "https://github.com/plicease/test-version", "relpath": "plicease/test-version" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "kyzn" },
         "distname":         "Text-CSV",
@@ -143,15 +125,6 @@
         "repo":             { "url": "https://github.com/mschilli/rrdtool-oo-perl", "relpath": "mschilli/rrdtool-oo-perl" },
         "pull_requests":    [
                                 { "url": "https://github.com/mschilli/rrdtool-oo-perl/pull/4", "state": "open", "relpath": "/pull/4" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "scottchiefbaker" },
-        "distname":         "File-Path",
-        "released_by":      { "pause_id": "JKEENAN" },
-        "repo":             { "url": "https://github.com/jkeenan/File-Path", "relpath": "jkeenan/File-Path" },
-        "pull_requests":    [
                             ]
     }
  ]

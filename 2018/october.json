@@ -1,8 +1,8 @@
 {
  "year": "2018",
  "month": "October",
- "generated": { "date": "2018-11-13", "time": "13:51:55" },
- "stats": { "done": "14", "total": "19", "percent": "73.7" },
+ "generated": { "date": "2018-12-12", "time": "09:55:15" },
+ "stats": { "done": "14", "total": "14", "percent": "100.0" },
  "assignments": [
 
     {
@@ -147,33 +147,6 @@
                             ]
     },
     {
-        "done":             false,
-        "assignee":         { "github_username": "mcmillhj" },
-        "distname":         "Sub-Attribute",
-        "released_by":      { "pause_id": "DCANTRELL" },
-        "repo":             { "url": "https://github.com/DrHyde/perl-modules-Sub-Attribute", "relpath": "DrHyde/perl-modules-Sub-Attribute" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "wlharvey4" },
-        "distname":         "File-Slurp",
-        "released_by":      { "pause_id": "CAPOEIRAB" },
-        "repo":             { "url": "https://github.com/perhunter/slurp", "relpath": "perhunter/slurp" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "yulivee" },
-        "distname":         "HTML-Valid",
-        "released_by":      { "pause_id": "BKB" },
-        "repo":             { "url": "https://github.com/benkasminbullock/html-valid", "relpath": "benkasminbullock/html-valid" },
-        "pull_requests":    [
-                            ]
-    },
-    {
         "done":             true,
         "assignee":         { "github_username": "s-nez" },
         "distname":         "Number-Fraction",
@@ -181,24 +154,6 @@
         "repo":             { "url": "https://github.com/p5-number-fraction/number-fraction", "relpath": "p5-number-fraction/number-fraction" },
         "pull_requests":    [
                                 { "url": "https://github.com/p5-number-fraction/number-fraction/pull/3", "state": "open", "relpath": "/pull/3" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "danishprakash" },
-        "distname":         "Net-Whois-IANA",
-        "released_by":      { "pause_id": "ATOOMIC" },
-        "repo":             { "url": "https://github.com/atoomic/Net-Whois-IANA", "relpath": "atoomic/Net-Whois-IANA" },
-        "pull_requests":    [
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "foursixnine" },
-        "distname":         "Plugin-Simple",
-        "released_by":      { "pause_id": "STEVEB" },
-        "repo":             { "url": "https://github.com/stevieb9/p5-plugin-simple", "relpath": "stevieb9/p5-plugin-simple" },
-        "pull_requests":    [
                             ]
     }
  ]

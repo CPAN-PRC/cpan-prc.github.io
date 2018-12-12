@@ -1,19 +1,10 @@
 {
  "year": "2018",
  "month": "June",
- "generated": { "date": "2018-11-13", "time": "13:50:54" },
- "stats": { "done": "11", "total": "14", "percent": "78.6" },
+ "generated": { "date": "2018-12-12", "time": "09:54:24" },
+ "stats": { "done": "11", "total": "11", "percent": "100.0" },
  "assignments": [
 
-    {
-        "done":             false,
-        "assignee":         { "github_username": "happy-barney" },
-        "distname":         "ExtUtils-Install",
-        "released_by":      { "pause_id": "BINGOS" },
-        "repo":             { "url": "https://github.com/Perl-Toolchain-Gang/ExtUtils-Install", "relpath": "Perl-Toolchain-Gang/ExtUtils-Install" },
-        "pull_requests":    [
-                            ]
-    },
     {
         "done":             true,
         "assignee":         { "github_username": "manwar" },
@@ -56,15 +47,6 @@
                                 { "url": "https://github.com/reneeb/Perl-Critic-OTRS/pull/7", "state": "closed", "relpath": "/pull/7" },
                                 { "url": "https://github.com/reneeb/Perl-Critic-OTRS/pull/6", "state": "merged", "relpath": "/pull/6" },
                                 { "url": "https://github.com/reneeb/Perl-Critic-OTRS/pull/5", "state": "closed", "relpath": "/pull/5" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "lharey" },
-        "distname":         "Email-Sender",
-        "released_by":      { "pause_id": "RJBS" },
-        "repo":             { "url": "https://github.com/rjbs/Email-Sender", "relpath": "rjbs/Email-Sender" },
-        "pull_requests":    [
                             ]
     },
     {
@@ -119,15 +101,6 @@
         "repo":             { "url": "https://github.com/awwaiid/continuity", "relpath": "awwaiid/continuity" },
         "pull_requests":    [
                                 { "url": "https://github.com/awwaiid/continuity/pull/6", "state": "open", "relpath": "/pull/6" }
-                            ]
-    },
-    {
-        "done":             false,
-        "assignee":         { "github_username": "yakunink" },
-        "distname":         "cpan-outdated",
-        "released_by":      { "pause_id": "DOLMEN" },
-        "repo":             { "url": "https://github.com/tokuhirom/cpan-outdated", "relpath": "tokuhirom/cpan-outdated" },
-        "pull_requests":    [
                             ]
     },
     {
