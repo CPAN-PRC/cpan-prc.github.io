@@ -1,17 +1,18 @@
 {
  "year": "2018",
  "month": "December",
- "generated": { "date": "2018-12-12", "time": "09:55:49" },
- "stats": { "done": "3", "total": "20", "percent": "15.0" },
+ "generated": { "date": "2018-12-13", "time": "14:39:26" },
+ "stats": { "done": "7", "total": "20", "percent": "35.0" },
  "assignments": [
 
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "HaraldJoerg" },
         "distname":         "File-Slurp",
         "released_by":      { "pause_id": "CAPOEIRAB" },
         "repo":             { "url": "https://github.com/perhunter/slurp", "relpath": "perhunter/slurp" },
         "pull_requests":    [
+                                { "url": "https://github.com/perhunter/slurp/pull/20", "state": "open", "relpath": "/pull/20" }
                             ]
     },
     {
@@ -90,12 +91,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "paultcochrane" },
         "distname":         "Syntax-Keyword-Junction",
         "released_by":      { "pause_id": "FREW" },
         "repo":             { "url": "https://github.com/frioux/Syntax-Keyword-Junction", "relpath": "frioux/Syntax-Keyword-Junction" },
         "pull_requests":    [
+                                { "url": "https://github.com/frioux/Syntax-Keyword-Junction/pull/18", "state": "open", "relpath": "/pull/18" },
                                 { "url": "https://github.com/frioux/Syntax-Keyword-Junction/pull/17", "state": "open", "relpath": "/pull/17" },
                                 { "url": "https://github.com/frioux/Syntax-Keyword-Junction/pull/16", "state": "merged", "relpath": "/pull/16" },
                                 { "url": "https://github.com/frioux/Syntax-Keyword-Junction/pull/15", "state": "merged", "relpath": "/pull/15" },
@@ -135,13 +137,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "oalders" },
         "distname":         "MooseX-Workers",
         "released_by":      { "pause_id": "RKITOVER" },
         "repo":             { "url": "https://github.com/jhannah/moosex-workers", "relpath": "jhannah/moosex-workers" },
         "pull_requests":    [
-                                { "url": "https://github.com/jhannah/moosex-workers/pull/2", "state": "open", "relpath": "/pull/2" }
+                                { "url": "https://github.com/jhannah/moosex-workers/pull/2", "state": "merged", "relpath": "/pull/2" }
                             ]
     },
     {
@@ -181,12 +183,13 @@
                             ]
     },
     {
-        "done":             false,
+        "done":             true,
         "assignee":         { "github_username": "jj" },
         "distname":         "Array-Compare",
         "released_by":      { "pause_id": "DAVECROSS" },
         "repo":             { "url": "https://github.com/davorg/array-compare", "relpath": "davorg/array-compare" },
         "pull_requests":    [
+                                { "url": "https://github.com/davorg/array-compare/pull/4", "state": "merged", "relpath": "/pull/4" }
                             ]
     },
     {
